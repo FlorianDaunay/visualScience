@@ -1,3 +1,4 @@
+import { DecimalPipe } from "@angular/common";
 import { Component, computed, inject } from "@angular/core";
 import { ChartConfiguration } from "chart.js";
 import { BaseChartDirective } from "ng2-charts";
@@ -17,7 +18,7 @@ import { countryName, formatCompactNumber, formatDate } from "../../shared/utils
 @Component({
   selector: "app-stats",
   standalone: true,
-  imports: [BaseChartDirective, StatTileComponent, LoadingStateComponent, EmptyStateComponent],
+  imports: [BaseChartDirective, StatTileComponent, LoadingStateComponent, EmptyStateComponent, DecimalPipe],
   templateUrl: "./stats.component.html",
 })
 export class StatsComponent {
@@ -66,6 +67,8 @@ export class StatsComponent {
   protected readonly conceptsData = this.horizontalBar(() => this.resource().value?.topConcepts ?? []);
   protected readonly institutionsData = this.horizontalBar(() => this.resource().value?.topInstitutions ?? []);
   protected readonly countriesData = this.horizontalBar(() => this.resource().value?.topCountries ?? [], true);
+  protected readonly researchersData = this.horizontalBar(() => this.resource().value?.topResearchers ?? []);
+  protected readonly institutionTypesData = this.horizontalBar(() => this.resource().value?.institutionTypes ?? []);
 
   protected readonly barOptions = computed<ChartConfiguration<"bar">["options"]>(() => {
     const { grid, ticks } = this.scaleColors();

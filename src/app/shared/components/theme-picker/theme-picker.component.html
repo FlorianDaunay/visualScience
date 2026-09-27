@@ -45,13 +45,13 @@
         <span class="text-text-muted">— choose a fixed theme instead</span>
       </label>
 
-      <div class="flex items-center gap-2">
+      <div class="flex flex-col gap-2 sm:flex-row sm:items-center">
         <div class="flex rounded-control border p-0.5 text-sm">
           @for (option of [{ id: 'all', label: 'All' }, { id: 'light', label: 'Light' }, { id: 'dark', label: 'Dark' }]; track option.id) {
             <button
               type="button"
               (click)="filter.set($any(option.id))"
-              class="rounded-[calc(var(--radius-control)-2px)] px-3 py-1 transition-colors"
+              class="flex-1 rounded-[calc(var(--radius-control)-2px)] px-3 py-1 transition-colors sm:flex-initial"
               [class.bg-accent]="filter() === option.id"
               [class.text-accent-foreground]="filter() === option.id"
               [class.text-text-secondary]="filter() !== option.id"
@@ -63,7 +63,7 @@
         <input
           type="search"
           placeholder="Search a theme…"
-          class="w-44 rounded-control border bg-canvas px-3 py-1.5 text-sm text-text-primary placeholder:text-text-muted focus-visible:outline-none"
+          class="w-full min-w-0 rounded-control border bg-canvas px-3 py-1.5 text-sm text-text-primary placeholder:text-text-muted focus-visible:outline-none sm:w-44"
           [ngModel]="query()"
           (ngModelChange)="query.set($event)"
         />

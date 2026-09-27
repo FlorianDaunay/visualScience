@@ -11,11 +11,13 @@
   } @else {
     @let stats = resource().value!;
 
-    <div class="mb-8 grid grid-cols-2 gap-3 sm:grid-cols-4">
+    <div class="mb-8 grid grid-cols-2 gap-3 sm:grid-cols-3 lg:grid-cols-6">
       <app-stat-tile label="Discoveries tracked" [value]="stats.totalDiscoveries" />
       <app-stat-tile label="Researchers" [value]="formatCompactNumber(stats.totalResearchers)" />
       <app-stat-tile label="Institutions" [value]="stats.totalInstitutions" />
       <app-stat-tile label="Total citations" [value]="formatCompactNumber(stats.totalCitations)" />
+      <app-stat-tile label="Avg. citations" [value]="stats.averageCitations" hint="per discovery" />
+      <app-stat-tile label="Open access" [value]="(stats.openAccessRatio * 100 | number: '1.0-0') + '%'" />
     </div>
 
     <section class="mb-8 rounded-card border bg-surface p-5 shadow-card">
@@ -44,6 +46,20 @@
         <h2 class="mb-4 text-sm font-semibold text-text-primary">Top countries</h2>
         <div class="h-72">
           <canvas baseChart [data]="countriesData()" [options]="barOptions()" type="bar"></canvas>
+        </div>
+      </section>
+
+      <section class="rounded-card border bg-surface p-5 shadow-card">
+        <h2 class="mb-4 text-sm font-semibold text-text-primary">Most-cited researchers</h2>
+        <div class="h-72">
+          <canvas baseChart [data]="researchersData()" [options]="barOptions()" type="bar"></canvas>
+        </div>
+      </section>
+
+      <section class="rounded-card border bg-surface p-5 shadow-card">
+        <h2 class="mb-4 text-sm font-semibold text-text-primary">Institution types</h2>
+        <div class="h-72">
+          <canvas baseChart [data]="institutionTypesData()" [options]="barOptions()" type="bar"></canvas>
         </div>
       </section>
     </div>

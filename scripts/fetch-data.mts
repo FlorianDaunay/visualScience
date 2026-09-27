@@ -11,6 +11,7 @@ import { mkdir, writeFile } from "node:fs/promises";
 import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
 import { fetchAuthors, fetchWorks, OpenAlexAuthorship, OpenAlexWork } from "./openalex.mts";
+import { institutionTypeLabel } from "../src/app/shared/utils/format.ts";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const DATA_DIR = join(__dirname, "..", "data");
@@ -39,6 +40,7 @@ const TOP_AUTHORS_TO_ENRICH = 40;
 const TOP_INSTITUTIONS_IN_STATS = 10;
 const TOP_CONCEPTS_IN_STATS = 10;
 const TOP_COUNTRIES_IN_STATS = 10;
+const TOP_RESEARCHERS_IN_STATS = 10;
 
 function isoDate(date: Date): string {
   return date.toISOString().slice(0, 10);
@@ -265,6 +267,13 @@ async function main() {
   for (const d of discoveries) for (const c of d.concepts.slice(0, 1)) conceptCounts.set(c.name, (conceptCounts.get(c.name) ?? 0) + 1);
   const countryCounts = new Map<string, number>();
   for (const inst of institutions) if (inst.countryCode) countryCounts.set(inst.countryCode, (countryCounts.get(inst.countryCode) ?? 0) + inst.discoveryIds.length);
+  const institutionTypeCounts = new Map<string, number>();
+  for (const inst of institutions) {
+    const label = institutionTypeLabel(inst.type);
+    institutionTypeCounts.set(label, (institutionTypeCounts.get(label) ?? 0) + inst.discoveryIds.length);
+  }
+  const researcherCitations = new Map<string, number>();
+  for (const r of researchers) researcherCitations.set(r.name, r.citedByCount);
 
   const weekStart = (dateStr: string) => {
     const date = new Date(dateStr + "T00:00:00Z");
@@ -288,12 +297,17 @@ async function main() {
     totalResearchers: researchers.length,
     totalInstitutions: institutions.length,
     totalCitations: discoveries.reduce((sum, d) => sum + d.citedByCount, 0),
+    averageCitations:
+      discoveries.length === 0 ? 0 : Math.round((discoveries.reduce((sum, d) => sum + d.citedByCount, 0) / discoveries.length) * 10) / 10,
+    openAccessRatio: discoveries.length === 0 ? 0 : discoveries.filter((d) => d.isOpenAccess).length / discoveries.length,
     weeklySeries: [...weekCounts.entries()]
       .sort((a, b) => a[0].localeCompare(b[0]))
       .map(([weekStart, count]) => ({ weekStart, count })),
     topConcepts: topN(conceptCounts, TOP_CONCEPTS_IN_STATS),
     topInstitutions: institutions.slice(0, TOP_INSTITUTIONS_IN_STATS).map((i) => ({ label: i.name, count: i.discoveryIds.length })),
     topCountries: topN(countryCounts, TOP_COUNTRIES_IN_STATS),
+    topResearchers: topN(researcherCitations, TOP_RESEARCHERS_IN_STATS),
+    institutionTypes: topN(institutionTypeCounts, institutionTypeCounts.size),
   };
 
   const meta = {

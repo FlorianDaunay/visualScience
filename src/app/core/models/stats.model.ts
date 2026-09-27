@@ -16,10 +16,15 @@ export interface StatsOverview {
   totalResearchers: number;
   totalInstitutions: number;
   totalCitations: number;
+  averageCitations: number;
+  /** Share (0..1) of tracked discoveries with a free, open-access source. */
+  openAccessRatio: number;
   weeklySeries: WeeklyPoint[];
   topConcepts: CountPoint[];
   topInstitutions: CountPoint[];
   topCountries: CountPoint[];
+  topResearchers: CountPoint[];
+  institutionTypes: CountPoint[];
 }
 
 /** Small manifest written alongside the data files, mostly for the About page and debugging. */

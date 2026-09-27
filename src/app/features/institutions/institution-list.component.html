@@ -4,13 +4,57 @@
     <p class="mt-1 text-sm text-text-secondary">Universities, labs, companies and other organizations behind the tracked discoveries.</p>
   </header>
 
-  <input
-    type="search"
-    placeholder="Search an institution…"
-    class="mb-6 w-full max-w-sm rounded-control border bg-surface px-3 py-2 text-sm text-text-primary placeholder:text-text-muted focus-visible:outline-none"
-    [ngModel]="query()"
-    (ngModelChange)="query.set($event)"
-  />
+  <div class="mb-6 flex flex-col gap-2 sm:flex-row sm:items-center">
+    <input
+      type="search"
+      placeholder="Search an institution…"
+      class="w-full min-w-0 rounded-control border bg-surface px-3 py-2 text-sm text-text-primary placeholder:text-text-muted focus-visible:outline-none sm:max-w-sm"
+      [ngModel]="query()"
+      (ngModelChange)="query.set($event)"
+    />
+
+    <div class="flex flex-wrap items-center gap-2 sm:ml-auto">
+      @if (types().length > 1) {
+        <select
+          class="min-w-0 rounded-control border bg-surface px-2.5 py-2 text-sm text-text-primary"
+          [ngModel]="type()"
+          (ngModelChange)="type.set($event)"
+        >
+          <option [ngValue]="null">All types</option>
+          @for (t of types(); track t) {
+            <option [ngValue]="t">{{ institutionTypeLabel(t) }}</option>
+          }
+        </select>
+      }
+
+      @if (countries().length > 1) {
+        <select
+          class="min-w-0 rounded-control border bg-surface px-2.5 py-2 text-sm text-text-primary"
+          [ngModel]="country()"
+          (ngModelChange)="country.set($event)"
+        >
+          <option [ngValue]="null">All countries</option>
+          @for (c of countries(); track c.code) {
+            <option [ngValue]="c.code">{{ c.name }}</option>
+          }
+        </select>
+      }
+
+      <select
+        class="min-w-0 rounded-control border bg-surface px-2.5 py-2 text-sm text-text-primary"
+        [ngModel]="sort()"
+        (ngModelChange)="sort.set($event)"
+      >
+        <option value="discoveries">Most discoveries</option>
+        <option value="researchers">Most researchers</option>
+        <option value="name">Name (A–Z)</option>
+      </select>
+
+      @if (hasActiveFilters()) {
+        <button type="button" (click)="clearFilters()" class="text-sm font-medium text-accent hover:underline">Clear</button>
+      }
+    </div>
+  </div>
 
   @if (resource().loading) {
     <app-loading-state />
@@ -18,10 +62,15 @@
     <app-empty-state title="Couldn't load institutions" [message]="resource().error!" />
   } @else if (filtered().length === 0) {
     <app-empty-state
-      title="No institutions match your search"
+      title="No institutions match your filters"
       message="Very fresh papers sometimes haven't been matched to an institution yet — check back tomorrow."
-    />
+    >
+      @if (hasActiveFilters()) {
+        <button type="button" (click)="clearFilters()" class="mt-2 text-sm font-medium text-accent hover:underline">Clear filters</button>
+      }
+    </app-empty-state>
   } @else {
+    <p class="mb-3 text-sm text-text-muted">{{ filtered().length }} institutions</p>
     <div class="grid grid-cols-1 gap-4 sm:grid-cols-2 xl:grid-cols-3">
       @for (institution of filtered(); track institution.id) {
         <app-institution-card [institution]="institution" />
