@@ -1,0 +1,24 @@
+<a
+  [routerLink]="['/researchers', researcher().id]"
+  class="flex flex-col gap-2 rounded-card border bg-surface p-4 shadow-card transition-transform hover:-translate-y-0.5 hover:bg-surface-hover"
+>
+  <div class="flex items-center gap-3">
+    <span class="flex size-10 shrink-0 items-center justify-center rounded-full bg-accent/15 text-sm font-semibold text-accent">
+      {{ researcher().name.charAt(0) }}
+    </span>
+    <div class="min-w-0">
+      <p class="truncate font-semibold text-text-primary">{{ researcher().name }}</p>
+      @if (researcher().institutionName; as inst) {
+        <p class="truncate text-sm text-text-secondary">{{ inst }}</p>
+      }
+    </div>
+  </div>
+
+  <div class="mt-1 flex items-center gap-4 border-t pt-3 text-xs text-text-secondary">
+    <span><strong class="text-text-primary">{{ researcher().discoveryIds.length }}</strong> tracked</span>
+    <span><strong class="text-text-primary">{{ formatCompactNumber(researcher().citedByCount) }}</strong> citations</span>
+    @if (researcher().hIndex !== null) {
+      <span>h-index <strong class="text-text-primary">{{ researcher().hIndex }}</strong></span>
+    }
+  </div>
+</a>

@@ -1,0 +1,135 @@
+<div
+  class="fixed inset-0 z-50 flex items-start justify-center overflow-y-auto bg-black/40 p-4 pt-[6vh] backdrop-blur-sm sm:p-6"
+  (click)="close()"
+  (keydown.escape)="close()"
+>
+  <div
+    class="w-full max-w-3xl rounded-card border bg-surface shadow-overlay"
+    role="dialog"
+    aria-modal="true"
+    aria-label="Appearance"
+    (click)="$event.stopPropagation()"
+  >
+    <!-- Header -->
+    <div class="flex items-start justify-between gap-4 border-b p-5">
+      <div>
+        <h2 class="text-lg font-semibold text-text-primary">Appearance</h2>
+        <p class="mt-0.5 text-sm text-text-secondary">
+          {{ allThemes.length }} themes · your choice is remembered on this device
+        </p>
+      </div>
+      <button
+        type="button"
+        (click)="close()"
+        class="rounded-control p-1.5 text-text-secondary hover:bg-surface-hover hover:text-text-primary"
+        aria-label="Close"
+      >
+        <svg viewBox="0 0 20 20" fill="currentColor" class="size-5">
+          <path
+            d="M6.28 5.22a.75.75 0 0 0-1.06 1.06L8.94 10l-3.72 3.72a.75.75 0 1 0 1.06 1.06L10 11.06l3.72 3.72a.75.75 0 1 0 1.06-1.06L11.06 10l3.72-3.72a.75.75 0 0 0-1.06-1.06L10 8.94 6.28 5.22Z"
+          />
+        </svg>
+      </button>
+    </div>
+
+    <!-- Controls -->
+    <div class="flex flex-col gap-3 border-b p-5 sm:flex-row sm:items-center sm:justify-between">
+      <label class="flex items-center gap-2 text-sm text-text-primary">
+        <input
+          type="checkbox"
+          class="size-4 accent-accent"
+          [checked]="themeService.followSystem()"
+          (change)="toggleFollowSystem($any($event.target).checked)"
+        />
+        Follow system
+        <span class="text-text-muted">— choose a fixed theme instead</span>
+      </label>
+
+      <div class="flex items-center gap-2">
+        <div class="flex rounded-control border p-0.5 text-sm">
+          @for (option of [{ id: 'all', label: 'All' }, { id: 'light', label: 'Light' }, { id: 'dark', label: 'Dark' }]; track option.id) {
+            <button
+              type="button"
+              (click)="filter.set($any(option.id))"
+              class="rounded-[calc(var(--radius-control)-2px)] px-3 py-1 transition-colors"
+              [class.bg-accent]="filter() === option.id"
+              [class.text-accent-foreground]="filter() === option.id"
+              [class.text-text-secondary]="filter() !== option.id"
+            >
+              {{ option.label }}
+            </button>
+          }
+        </div>
+        <input
+          type="search"
+          placeholder="Search a theme…"
+          class="w-44 rounded-control border bg-canvas px-3 py-1.5 text-sm text-text-primary placeholder:text-text-muted focus-visible:outline-none"
+          [ngModel]="query()"
+          (ngModelChange)="query.set($event)"
+        />
+      </div>
+    </div>
+
+    <!-- Grid -->
+    <div class="grid max-h-[60vh] grid-cols-1 gap-3 overflow-y-auto p-5 sm:grid-cols-2">
+      @for (theme of filtered(); track theme.id) {
+        <button
+          type="button"
+          (click)="select(theme)"
+          [ngStyle]="themeToStyle(theme)"
+          class="group relative flex flex-col overflow-hidden rounded-card border-2 text-left transition-transform hover:-translate-y-0.5"
+          [style.background-color]="'rgb(var(--color-canvas))'"
+          [style.border-color]="isActive(theme) ? 'rgb(var(--color-accent))' : 'rgb(var(--color-border))'"
+        >
+          <!-- mini preview -->
+          <div class="p-3" style="background-color: rgb(var(--color-canvas))">
+            <div class="rounded-tile border p-2.5" style="background-color: rgb(var(--color-surface)); border-color: rgb(var(--color-border))">
+              <div class="h-2 w-2/3 rounded-full" style="background-color: rgb(var(--color-text-primary) / 0.7)"></div>
+              <div class="mt-1.5 h-1.5 w-full rounded-full" style="background-color: rgb(var(--color-text-secondary) / 0.4)"></div>
+              <div class="mt-1 h-1.5 w-5/6 rounded-full" style="background-color: rgb(var(--color-text-secondary) / 0.4)"></div>
+              <div class="mt-2 flex items-center justify-between">
+                <div class="flex gap-1">
+                  <span class="size-2.5 rounded-full" style="background-color: rgb(var(--color-accent))"></span>
+                  <span class="size-2.5 rounded-full" style="background-color: rgb(var(--color-success))"></span>
+                  <span class="size-2.5 rounded-full" style="background-color: rgb(var(--color-warning))"></span>
+                  <span class="size-2.5 rounded-full" style="background-color: rgb(var(--color-danger))"></span>
+                </div>
+                <span
+                  class="rounded-pill px-1.5 py-0.5 text-[10px] font-semibold"
+                  style="background-color: rgb(var(--color-accent)); color: rgb(var(--color-accent-foreground))"
+                  >Aa</span
+                >
+              </div>
+            </div>
+          </div>
+
+          <!-- label -->
+          <div class="flex items-start justify-between gap-2 border-t p-3" style="border-color: rgb(var(--color-border))">
+            <div class="min-w-0">
+              <p class="truncate text-sm font-semibold" style="color: rgb(var(--color-text-primary))">{{ theme.name }}</p>
+              <p class="mt-0.5 line-clamp-1 text-xs" style="color: rgb(var(--color-text-secondary))">{{ theme.description }}</p>
+            </div>
+            <span style="color: rgb(var(--color-text-muted))" class="shrink-0">
+              @if (theme.scheme === "dark") {
+                <svg viewBox="0 0 20 20" fill="currentColor" class="size-4"><path d="M17.5 12.5a7.5 7.5 0 0 1-9.83-9.83 8 8 0 1 0 9.83 9.83Z" /></svg>
+              } @else {
+                <svg viewBox="0 0 20 20" fill="currentColor" class="size-4"><path d="M10 4a1 1 0 0 1 1 1v1a1 1 0 1 1-2 0V5a1 1 0 0 1 1-1Zm5.66 2.34a1 1 0 0 1 0 1.42l-.71.7a1 1 0 1 1-1.42-1.41l.71-.71a1 1 0 0 1 1.42 0ZM16 10a1 1 0 0 1 1-1h1a1 1 0 1 1 0 2h-1a1 1 0 0 1-1-1Zm-1.34 5.66a1 1 0 0 1-1.41 0l-.71-.71a1 1 0 0 1 1.41-1.41l.71.7a1 1 0 0 1 0 1.42ZM10 16a1 1 0 0 1 1 1v1a1 1 0 1 1-2 0v-1a1 1 0 0 1 1-1Zm-4.24-1.76a1 1 0 0 1 0 1.41l-.71.71a1 1 0 0 1-1.41-1.41l.7-.71a1 1 0 0 1 1.42 0ZM4 10a1 1 0 0 1-1 1H2a1 1 0 1 1 0-2h1a1 1 0 0 1 1 1Zm1.05-4.95A1 1 0 0 1 6.46 6.46l-.7.71A1 1 0 1 1 4.34 5.76l.71-.71ZM10 6a4 4 0 1 0 0 8 4 4 0 0 0 0-8Z" /></svg>
+              }
+            </span>
+          </div>
+
+          @if (isActive(theme)) {
+            <span
+              class="absolute right-2 top-2 flex size-6 items-center justify-center rounded-full shadow-control"
+              style="background-color: rgb(var(--color-accent)); color: rgb(var(--color-accent-foreground))"
+            >
+              <svg viewBox="0 0 20 20" fill="currentColor" class="size-3.5"><path fill-rule="evenodd" d="M16.7 5.3a1 1 0 0 1 0 1.4l-7.5 7.5a1 1 0 0 1-1.4 0l-3.5-3.5a1 1 0 1 1 1.4-1.4l2.8 2.8 6.8-6.8a1 1 0 0 1 1.4 0Z" clip-rule="evenodd" /></svg>
+            </span>
+          }
+        </button>
+      } @empty {
+        <p class="col-span-full py-10 text-center text-sm text-text-secondary">No theme matches "{{ query() }}".</p>
+      }
+    </div>
+  </div>
+</div>

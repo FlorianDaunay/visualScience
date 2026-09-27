@@ -1,0 +1,61 @@
+name: Deploy
+
+# Builds and deploys the Angular app to GitHub Pages. Deliberately independent of fetch-data.yml:
+# a data-only commit is ignored here (the site fetches /data at runtime, see
+# src/environments/environment.prod.ts), so it never triggers a rebuild.
+on:
+  push:
+    branches: [main]
+    paths-ignore:
+      - "data/**"
+      - "**.md"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - run: npm ci
+
+      - name: Type-check
+        run: npm run lint
+
+      - name: Unit tests
+        run: npm run test:ci
+
+      - name: Build (production)
+        run: npm run build:prod
+
+      # Client-side routing needs a 404 fallback on GitHub Pages.
+      - name: SPA fallback for deep links
+        run: cp dist/visualscience/browser/index.html dist/visualscience/browser/404.html
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist/visualscience/browser
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

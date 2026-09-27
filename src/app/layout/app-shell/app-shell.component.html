@@ -1,0 +1,63 @@
+<div class="flex min-h-screen bg-canvas">
+  <!-- Sidebar (desktop) / drawer (mobile) -->
+  <aside
+    class="fixed inset-y-0 left-0 z-40 w-64 -translate-x-full border-r bg-sidebar transition-transform duration-200 sm:static sm:translate-x-0"
+    [class.translate-x-0]="sidebarOpen()"
+  >
+    <div class="flex h-14 items-center gap-2 border-b px-4" style="border-color: rgb(var(--color-sidebar-border))">
+      <span class="flex size-7 items-center justify-center rounded-tile bg-accent text-accent-foreground">
+        <app-icon name="sparkles" size="size-4" />
+      </span>
+      <span class="font-semibold text-sidebar-text-strong">visualScience</span>
+    </div>
+
+    <nav class="flex flex-col gap-1 p-3">
+      @for (item of navItems; track item.path) {
+        <a
+          [routerLink]="item.path"
+          routerLinkActive="bg-sidebar-active text-sidebar-text-active"
+          [routerLinkActiveOptions]="{ exact: false }"
+          class="flex items-center gap-2.5 rounded-control px-3 py-2 text-sm font-medium text-sidebar-text transition-colors hover:bg-sidebar-hover hover:text-sidebar-text-strong"
+          (click)="sidebarOpen.set(false)"
+        >
+          <app-icon [name]="item.icon" size="size-4.5" />
+          {{ item.label }}
+        </a>
+      }
+    </nav>
+
+    <div class="absolute inset-x-0 bottom-0 border-t p-3" style="border-color: rgb(var(--color-sidebar-border))">
+      <button
+        type="button"
+        (click)="pickerOpen.set(true)"
+        class="flex w-full items-center gap-2.5 rounded-control px-3 py-2 text-sm font-medium text-sidebar-text transition-colors hover:bg-sidebar-hover hover:text-sidebar-text-strong"
+      >
+        <app-icon name="palette" size="size-4.5" />
+        Appearance
+        <span class="ml-auto text-xs text-text-muted">{{ themeService.active().name }}</span>
+      </button>
+    </div>
+  </aside>
+
+  @if (sidebarOpen()) {
+    <div class="fixed inset-0 z-30 bg-black/30 sm:hidden" (click)="sidebarOpen.set(false)"></div>
+  }
+
+  <!-- Main column -->
+  <div class="flex min-w-0 flex-1 flex-col">
+    <header class="sticky top-0 z-20 flex h-14 items-center gap-3 border-b bg-surface px-4 sm:hidden">
+      <button type="button" (click)="sidebarOpen.set(true)" class="rounded-control p-1.5 hover:bg-surface-hover" aria-label="Open menu">
+        <app-icon name="menu" />
+      </button>
+      <span class="font-semibold text-text-primary">visualScience</span>
+    </header>
+
+    <main class="min-w-0 flex-1">
+      <router-outlet />
+    </main>
+  </div>
+
+  @if (pickerOpen()) {
+    <app-theme-picker (closed)="pickerOpen.set(false)" />
+  }
+</div>
