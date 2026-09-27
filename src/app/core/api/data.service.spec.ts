@@ -35,13 +35,26 @@ describe("DataService", () => {
 
   afterEach(() => httpMock.verify());
 
+  /**
+   * `DataService` eagerly requests every resource on construction (meta, researchers,
+   * institutions, stats), even in tests that only care about `discoveries`. Flushes the ones a
+   * test isn't exercising so `httpMock.verify()` doesn't see them as unhandled.
+   */
+  function flushUnusedResources(): void {
+    for (const file of ["meta.json", "researchers.json", "institutions.json", "stats.json"]) {
+      httpMock.expectOne(`${environment.dataBaseUrl}/${file}`).flush({});
+    }
+  }
+
   it("starts in a loading state before the response arrives", () => {
     expect(service.discoveries().loading).toBeTrue();
     httpMock.expectOne(`${environment.dataBaseUrl}/discoveries.json`).flush(sample);
+    flushUnusedResources();
   });
 
   it("exposes the fetched discoveries once loaded", () => {
     httpMock.expectOne(`${environment.dataBaseUrl}/discoveries.json`).flush(sample);
+    flushUnusedResources();
     const state = service.discoveries();
     expect(state.loading).toBeFalse();
     expect(state.value).toEqual(sample);
@@ -49,6 +62,7 @@ describe("DataService", () => {
 
   it("looks a single discovery up by id from the same cached list", () => {
     httpMock.expectOne(`${environment.dataBaseUrl}/discoveries.json`).flush(sample);
+    flushUnusedResources();
     expect(service.discovery("W1")().value?.title).toBe("Sample discovery");
     expect(service.discovery("missing")().error).toBeTruthy();
   });
@@ -56,6 +70,9 @@ describe("DataService", () => {
   it("shares one request across repeated resource access", () => {
     service.discoveries();
     service.discoveries();
+    // A second, distinct call site reading the same resource must not trigger another request.
     httpMock.expectOne(`${environment.dataBaseUrl}/discoveries.json`).flush(sample);
+    flushUnusedResources();
+    expect(service.discoveries().value).toEqual(sample);
   });
 });
