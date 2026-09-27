@@ -1,0 +1,51 @@
+<div class="mx-auto max-w-6xl px-4 py-6 sm:px-6 lg:px-8">
+  <header class="mb-6">
+    <h1 class="text-2xl font-bold tracking-tight text-text-primary">Stats & trends</h1>
+    <p class="mt-1 text-sm text-text-secondary">Aggregated across every discovery in the current data window.</p>
+  </header>
+
+  @if (resource().loading) {
+    <app-loading-state />
+  } @else if (resource().error || !resource().value) {
+    <app-empty-state title="Couldn't load stats" [message]="resource().error ?? undefined" />
+  } @else {
+    @let stats = resource().value!;
+
+    <div class="mb-8 grid grid-cols-2 gap-3 sm:grid-cols-4">
+      <app-stat-tile label="Discoveries tracked" [value]="stats.totalDiscoveries" />
+      <app-stat-tile label="Researchers" [value]="formatCompactNumber(stats.totalResearchers)" />
+      <app-stat-tile label="Institutions" [value]="stats.totalInstitutions" />
+      <app-stat-tile label="Total citations" [value]="formatCompactNumber(stats.totalCitations)" />
+    </div>
+
+    <section class="mb-8 rounded-card border bg-surface p-5 shadow-card">
+      <h2 class="mb-4 text-sm font-semibold text-text-primary">Discoveries per week</h2>
+      <div class="h-64">
+        <canvas baseChart [data]="trendData()" [options]="trendOptions()" type="line"></canvas>
+      </div>
+    </section>
+
+    <div class="grid grid-cols-1 gap-6 lg:grid-cols-3">
+      <section class="rounded-card border bg-surface p-5 shadow-card">
+        <h2 class="mb-4 text-sm font-semibold text-text-primary">Top fields</h2>
+        <div class="h-72">
+          <canvas baseChart [data]="conceptsData()" [options]="barOptions()" type="bar"></canvas>
+        </div>
+      </section>
+
+      <section class="rounded-card border bg-surface p-5 shadow-card">
+        <h2 class="mb-4 text-sm font-semibold text-text-primary">Top institutions</h2>
+        <div class="h-72">
+          <canvas baseChart [data]="institutionsData()" [options]="barOptions()" type="bar"></canvas>
+        </div>
+      </section>
+
+      <section class="rounded-card border bg-surface p-5 shadow-card">
+        <h2 class="mb-4 text-sm font-semibold text-text-primary">Top countries</h2>
+        <div class="h-72">
+          <canvas baseChart [data]="countriesData()" [options]="barOptions()" type="bar"></canvas>
+        </div>
+      </section>
+    </div>
+  }
+</div>

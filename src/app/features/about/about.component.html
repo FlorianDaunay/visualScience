@@ -1,0 +1,50 @@
+<div class="mx-auto max-w-2xl px-4 py-6 sm:px-6 lg:px-8">
+  <h1 class="text-2xl font-bold tracking-tight text-text-primary">About visualScience</h1>
+
+  <div class="prose-none mt-4 space-y-4 text-text-secondary">
+    <p>
+      visualScience surfaces recent, peer-reviewed scientific work — the discoveries themselves, the people
+      who made them, and the universities, labs and companies behind them — with a direct link back to the
+      original source for every entry.
+    </p>
+
+    <section class="rounded-card border bg-surface p-4">
+      <h2 class="font-semibold text-text-primary">Where the data comes from</h2>
+      <p class="mt-2">
+        Every discovery, researcher and institution profile is built from
+        <app-external-link href="https://openalex.org">OpenAlex</app-external-link>, a free, open catalog of
+        scholarly works maintained by OurResearch. Data is refreshed daily by an automated job (see
+        <app-external-link href="https://github.com/FlorianDaunay/visualScience">the source on GitHub</app-external-link
+        >) that queries OpenAlex for the newest journal articles across physics, biology, medicine, chemistry,
+        computer science, mathematics, psychology, geology, environmental science, materials science and
+        engineering, and republishes a curated snapshot to this site.
+      </p>
+      @if (meta().value; as meta) {
+        <p class="mt-2 text-sm">
+          Current snapshot: <strong class="text-text-primary">{{ formatDate(meta.generatedAt) }}</strong> ·
+          {{ meta.counts.discoveries }} discoveries · {{ meta.counts.researchers }} researchers ·
+          {{ meta.counts.institutions }} institutions · covering the last {{ meta.windowDays }} days.
+        </p>
+      }
+    </section>
+
+    <section class="rounded-card border bg-surface p-4">
+      <h2 class="font-semibold text-text-primary">Why some things are missing</h2>
+      <p class="mt-2">
+        Very recently published papers sometimes haven't been matched to an author's institution yet by
+        OpenAlex's automated pipeline — that researcher will still show up, just without an affiliation until
+        a later refresh catches up. Abstracts are occasionally withheld by the publisher and aren't shown when
+        that's the case; the "Read the source" link always goes to the original record regardless.
+      </p>
+    </section>
+
+    <section class="rounded-card border bg-surface p-4">
+      <h2 class="font-semibold text-text-primary">How this site is built</h2>
+      <p class="mt-2">
+        A static Angular application, with no backend: the daily data refresh commits JSON straight to this
+        repository's <code>/data</code> folder, and the site reads it at runtime — so new discoveries appear
+        without a redeploy. Hosted for free on GitHub Pages.
+      </p>
+    </section>
+  </div>
+</div>

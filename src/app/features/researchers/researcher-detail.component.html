@@ -1,0 +1,50 @@
+<div class="mx-auto max-w-5xl px-4 py-6 sm:px-6 lg:px-8">
+  <a routerLink="/researchers" class="mb-4 inline-flex items-center gap-1 text-sm text-text-secondary hover:text-text-primary">
+    ← Back to researchers
+  </a>
+
+  @if (state().loading) {
+    <app-loading-state />
+  } @else if (state().error || !state().value) {
+    <app-empty-state title="Researcher not found" message="They may have dropped out of the latest data refresh." />
+  } @else {
+    @let researcher = state().value!;
+
+    <header class="mb-6 flex flex-wrap items-start justify-between gap-4">
+      <div>
+        <h1 class="text-2xl font-bold text-text-primary">{{ researcher.name }}</h1>
+        @if (researcher.institutionName; as inst) {
+          @if (researcher.institutionId) {
+            <a [routerLink]="['/institutions', researcher.institutionId]" class="text-text-secondary hover:text-accent">{{ inst }}</a>
+          } @else {
+            <span class="text-text-secondary">{{ inst }}</span>
+          }
+        }
+      </div>
+      <div class="flex gap-3 text-sm">
+        <app-external-link [href]="researcher.openAlexUrl">OpenAlex profile</app-external-link>
+        @if (researcher.orcid) {
+          <app-external-link [href]="researcher.orcid">ORCID</app-external-link>
+        }
+      </div>
+    </header>
+
+    <div class="mb-8 grid grid-cols-2 gap-3 sm:grid-cols-4">
+      <app-stat-tile label="Tracked discoveries" [value]="researcher.discoveryIds.length" />
+      <app-stat-tile label="Total citations" [value]="formatCompactNumber(researcher.citedByCount)" />
+      <app-stat-tile label="Total works" [value]="formatCompactNumber(researcher.worksCount)" />
+      <app-stat-tile label="h-index" [value]="researcher.hIndex ?? '—'" />
+    </div>
+
+    <h2 class="mb-3 text-lg font-semibold text-text-primary">Their tracked discoveries</h2>
+    @if (theirDiscoveries().length === 0) {
+      <app-empty-state title="No discoveries in the current window" />
+    } @else {
+      <div class="grid grid-cols-1 gap-4 sm:grid-cols-2">
+        @for (discovery of theirDiscoveries(); track discovery.id) {
+          <app-discovery-card [discovery]="discovery" />
+        }
+      </div>
+    }
+  }
+</div>

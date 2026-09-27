@@ -1,0 +1,40 @@
+name: Fetch data
+
+# Refreshes /data from OpenAlex and commits the result — independent of the site build/deploy
+# (see deploy.yml, which ignores pushes that only touch data/**). Because the app fetches
+# /data at runtime via jsDelivr (see src/environments/environment.prod.ts), this commit alone
+# is enough to update the live site; no rebuild needed.
+on:
+  schedule:
+    - cron: "17 6 * * *" # ~06:17 UTC daily, off the hour to avoid GitHub Actions' peak load
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: fetch-data
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - run: npm ci
+
+      - run: npm run fetch-data
+
+      - name: Commit and push if data changed
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore(data): refresh discoveries from OpenAlex"
+          file_pattern: "data/*.json"
+          commit_user_name: "visualScience-bot"
+          commit_user_email: "actions@users.noreply.github.com"

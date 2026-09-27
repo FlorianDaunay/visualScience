@@ -1,0 +1,209 @@
+[
+  {
+    "id": "I52605992",
+    "name": "National Open University of Nigeria",
+    "type": "education",
+    "countryCode": "NG",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I52605992",
+    "researcherIds": [
+      "A5152957121"
+    ],
+    "discoveryIds": [
+      "W7214431634",
+      "W7214450775"
+    ]
+  },
+  {
+    "id": "I4210164282",
+    "name": "Entrepreneurial Ecosystems",
+    "type": "other",
+    "countryCode": "US",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I4210164282",
+    "researcherIds": [
+      "A5060558312"
+    ],
+    "discoveryIds": [
+      "W7214431634",
+      "W7214450775"
+    ]
+  },
+  {
+    "id": "I3129280579",
+    "name": "Pancasila University",
+    "type": "education",
+    "countryCode": "ID",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I3129280579",
+    "researcherIds": [
+      "A5152978119",
+      "A5009327082",
+      "A5044022661",
+      "A5053273531",
+      "A5116631623"
+    ],
+    "discoveryIds": [
+      "W7214437794",
+      "W7214467848"
+    ]
+  },
+  {
+    "id": "I123200800",
+    "name": "La Sierra University",
+    "type": "education",
+    "countryCode": "US",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I123200800",
+    "researcherIds": [
+      "A5091759343"
+    ],
+    "discoveryIds": [
+      "W4327533074"
+    ]
+  },
+  {
+    "id": "I158688498",
+    "name": "Yenepoya University",
+    "type": "education",
+    "countryCode": "IN",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I158688498",
+    "researcherIds": [
+      "A5015331092"
+    ],
+    "discoveryIds": [
+      "W4327533074"
+    ]
+  },
+  {
+    "id": "I4210165767",
+    "name": "University of Gharyan",
+    "type": "education",
+    "countryCode": "LY",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I4210165767",
+    "researcherIds": [
+      "A5152993509",
+      "A5148041877"
+    ],
+    "discoveryIds": [
+      "W7214439416"
+    ]
+  },
+  {
+    "id": "I4405276147",
+    "name": "Politeknik Negeri Bengkalis",
+    "type": "education",
+    "countryCode": "ID",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I4405276147",
+    "researcherIds": [
+      "A5120192245",
+      "A5023073032"
+    ],
+    "discoveryIds": [
+      "W7214452963"
+    ]
+  },
+  {
+    "id": "I4210111884",
+    "name": "Universitas PGRI Semarang",
+    "type": "education",
+    "countryCode": "ID",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I4210111884",
+    "researcherIds": [
+      "A5152996927",
+      "A5047574655",
+      "A5093831314"
+    ],
+    "discoveryIds": [
+      "W7214474940"
+    ]
+  },
+  {
+    "id": "I166928557",
+    "name": "University of Monastir",
+    "type": "education",
+    "countryCode": "TN",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I166928557",
+    "researcherIds": [
+      "A5056120976",
+      "A5078598969"
+    ],
+    "discoveryIds": [
+      "W4403345401"
+    ]
+  },
+  {
+    "id": "I195731000",
+    "name": "Université de Versailles Saint-Quentin-en-Yvelines",
+    "type": "education",
+    "countryCode": "FR",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I195731000",
+    "researcherIds": [
+      "A5056011345"
+    ],
+    "discoveryIds": [
+      "W4403345401"
+    ]
+  },
+  {
+    "id": "I146165071",
+    "name": "Universidade Federal de Viçosa",
+    "type": "education",
+    "countryCode": "BR",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I146165071",
+    "researcherIds": [
+      "A5045049031"
+    ],
+    "discoveryIds": [
+      "W4403747141"
+    ]
+  },
+  {
+    "id": "I110200422",
+    "name": "Universidade Federal de Minas Gerais",
+    "type": "education",
+    "countryCode": "BR",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I110200422",
+    "researcherIds": [
+      "A5057890519"
+    ],
+    "discoveryIds": [
+      "W4403747141"
+    ]
+  },
+  {
+    "id": "I8165072",
+    "name": "Universidade Federal de Itajubá",
+    "type": "education",
+    "countryCode": "BR",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I8165072",
+    "researcherIds": [
+      "A5094261891"
+    ],
+    "discoveryIds": [
+      "W4403747141"
+    ]
+  }
+]

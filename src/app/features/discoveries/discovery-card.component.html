@@ -1,0 +1,40 @@
+<a
+  [routerLink]="['/discoveries', discovery().id]"
+  class="flex h-full flex-col gap-3 rounded-card border bg-surface p-4 shadow-card transition-transform hover:-translate-y-0.5 hover:bg-surface-hover"
+>
+  <div class="flex items-center justify-between gap-2 text-xs text-text-muted">
+    <span>{{ formatRelativeDate(discovery().publishedDate) }}</span>
+    @if (discovery().isOpenAccess) {
+      <span class="rounded-pill bg-success/15 px-2 py-0.5 font-medium text-success">Open access</span>
+    }
+  </div>
+
+  <h3 class="line-clamp-3 text-base font-semibold leading-snug text-text-primary">{{ discovery().title }}</h3>
+
+  @if (discovery().venueName; as venue) {
+    <p class="text-sm italic text-text-secondary">{{ venue }}</p>
+  }
+
+  <div class="mt-auto flex flex-wrap gap-1.5">
+    @for (concept of discovery().concepts.slice(0, 3); track concept.id) {
+      <app-tag [text]="concept.name" />
+    }
+  </div>
+
+  <div class="flex items-center justify-between border-t pt-3 text-xs text-text-secondary">
+    <span class="truncate pr-2">
+      @if (discovery().authors.length > 0) {
+        {{ discovery().authors[0].name }}
+        @if (discovery().authors.length > 1) {
+          <span class="text-text-muted"> +{{ discovery().authors.length - 1 }}</span>
+        }
+      } @else {
+        <span class="text-text-muted">Author info unavailable</span>
+      }
+    </span>
+    <span class="flex shrink-0 items-center gap-1" title="Times cited">
+      <svg viewBox="0 0 20 20" fill="currentColor" class="size-3.5"><path d="M4 3.5A1.5 1.5 0 0 1 5.5 2h5.379a1.5 1.5 0 0 1 1.06.44l3.122 3.12A1.5 1.5 0 0 1 15.5 6.62V16.5a1.5 1.5 0 0 1-1.5 1.5h-8A1.5 1.5 0 0 1 4.5 16.5v-13Z" /></svg>
+      {{ formatCompactNumber(discovery().citedByCount) }}
+    </span>
+  </div>
+</a>

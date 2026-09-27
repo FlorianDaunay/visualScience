@@ -1,0 +1,31 @@
+<div class="mx-auto max-w-6xl px-4 py-6 sm:px-6 lg:px-8">
+  <header class="mb-6">
+    <h1 class="text-2xl font-bold tracking-tight text-text-primary">Institutions</h1>
+    <p class="mt-1 text-sm text-text-secondary">Universities, labs, companies and other organizations behind the tracked discoveries.</p>
+  </header>
+
+  <input
+    type="search"
+    placeholder="Search an institution…"
+    class="mb-6 w-full max-w-sm rounded-control border bg-surface px-3 py-2 text-sm text-text-primary placeholder:text-text-muted focus-visible:outline-none"
+    [ngModel]="query()"
+    (ngModelChange)="query.set($event)"
+  />
+
+  @if (resource().loading) {
+    <app-loading-state />
+  } @else if (resource().error) {
+    <app-empty-state title="Couldn't load institutions" [message]="resource().error!" />
+  } @else if (filtered().length === 0) {
+    <app-empty-state
+      title="No institutions match your search"
+      message="Very fresh papers sometimes haven't been matched to an institution yet — check back tomorrow."
+    />
+  } @else {
+    <div class="grid grid-cols-1 gap-4 sm:grid-cols-2 xl:grid-cols-3">
+      @for (institution of filtered(); track institution.id) {
+        <app-institution-card [institution]="institution" />
+      }
+    </div>
+  }
+</div>

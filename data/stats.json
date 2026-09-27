@@ -1,0 +1,131 @@
+{
+  "generatedAt": "2026-09-27T20:18:08.610Z",
+  "totalDiscoveries": 160,
+  "totalResearchers": 881,
+  "totalInstitutions": 13,
+  "totalCitations": 4,
+  "weeklySeries": [
+    {
+      "weekStart": "2026-09-21",
+      "count": 160
+    }
+  ],
+  "topConcepts": [
+    {
+      "label": "Medicine",
+      "count": 25
+    },
+    {
+      "label": "Chemistry",
+      "count": 11
+    },
+    {
+      "label": "Materials science",
+      "count": 7
+    },
+    {
+      "label": "Environmental science",
+      "count": 5
+    },
+    {
+      "label": "Computer science",
+      "count": 4
+    },
+    {
+      "label": "Biology",
+      "count": 4
+    },
+    {
+      "label": "Mathematics",
+      "count": 3
+    },
+    {
+      "label": "Artificial intelligence",
+      "count": 3
+    },
+    {
+      "label": "Selection (genetic algorithm)",
+      "count": 2
+    },
+    {
+      "label": "Pedagogy",
+      "count": 2
+    }
+  ],
+  "topInstitutions": [
+    {
+      "label": "National Open University of Nigeria",
+      "count": 2
+    },
+    {
+      "label": "Entrepreneurial Ecosystems",
+      "count": 2
+    },
+    {
+      "label": "Pancasila University",
+      "count": 2
+    },
+    {
+      "label": "La Sierra University",
+      "count": 1
+    },
+    {
+      "label": "Yenepoya University",
+      "count": 1
+    },
+    {
+      "label": "University of Gharyan",
+      "count": 1
+    },
+    {
+      "label": "Politeknik Negeri Bengkalis",
+      "count": 1
+    },
+    {
+      "label": "Universitas PGRI Semarang",
+      "count": 1
+    },
+    {
+      "label": "University of Monastir",
+      "count": 1
+    },
+    {
+      "label": "Université de Versailles Saint-Quentin-en-Yvelines",
+      "count": 1
+    }
+  ],
+  "topCountries": [
+    {
+      "label": "ID",
+      "count": 4
+    },
+    {
+      "label": "US",
+      "count": 3
+    },
+    {
+      "label": "BR",
+      "count": 3
+    },
+    {
+      "label": "NG",
+      "count": 2
+    },
+    {
+      "label": "IN",
+      "count": 1
+    },
+    {
+      "label": "LY",
+      "count": 1
+    },
+    {
+      "label": "TN",
+      "count": 1
+    },
+    {
+      "label": "FR",
+      "count": 1
+    }
+  ]
+}

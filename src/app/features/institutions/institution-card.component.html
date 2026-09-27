@@ -1,0 +1,17 @@
+<a
+  [routerLink]="['/institutions', institution().id]"
+  class="flex flex-col gap-2 rounded-card border bg-surface p-4 shadow-card transition-transform hover:-translate-y-0.5 hover:bg-surface-hover"
+>
+  <p class="truncate font-semibold text-text-primary">{{ institution().name }}</p>
+  <p class="text-sm text-text-secondary">
+    {{ institutionTypeLabel(institution().type) }}
+    @if (countryName(institution().countryCode); as country) {
+      · {{ country }}
+    }
+  </p>
+
+  <div class="mt-1 flex items-center gap-4 border-t pt-3 text-xs text-text-secondary">
+    <span><strong class="text-text-primary">{{ institution().discoveryIds.length }}</strong> discoveries</span>
+    <span><strong class="text-text-primary">{{ institution().researcherIds.length }}</strong> researchers</span>
+  </div>
+</a>

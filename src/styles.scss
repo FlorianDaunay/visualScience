@@ -1,0 +1,48 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+// The active theme sets `--color-*`, `--radius-*`, etc. on `<html>` at runtime
+// (see `ThemeService`/`applyTheme` in `core/theme`). These base rules just wire
+// the document to those tokens; Tailwind utilities everywhere else read the same vars.
+html,
+body {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  background-color: rgb(var(--color-canvas));
+  color: rgb(var(--color-text-primary));
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+}
+
+* {
+  border-color: rgb(var(--color-border));
+}
+
+::selection {
+  background-color: rgb(var(--color-accent) / 0.25);
+}
+
+// Keyboard-focus ring, sized from the active theme's focus tokens.
+:focus-visible {
+  outline: var(--focus-width) solid rgb(var(--color-accent));
+  outline-offset: var(--focus-offset);
+}
+
+// Thin, theme-colored scrollbar so it doesn't clash with dark themes.
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: rgb(var(--color-border));
+  border-radius: var(--radius-pill);
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
