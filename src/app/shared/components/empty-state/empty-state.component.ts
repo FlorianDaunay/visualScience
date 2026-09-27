@@ -10,6 +10,7 @@ import { Component, input } from "@angular/core";
       @if (message(); as message) {
         <p class="max-w-sm text-sm text-text-secondary">{{ message }}</p>
       }
+      <ng-content />
     </div>
   `,
 })

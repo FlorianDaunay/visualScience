@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-09-27T20:18:08.610Z",
+  "generatedAt": "2026-09-27T21:31:52.313Z",
   "totalDiscoveries": 160,
   "totalResearchers": 881,
   "totalInstitutions": 13,
   "totalCitations": 4,
+  "averageCitations": 0,
+  "openAccessRatio": 0.58125,
   "weeklySeries": [
     {
       "weekStart": "2026-09-21",
@@ -126,6 +128,58 @@
     {
       "label": "FR",
       "count": 1
+    }
+  ],
+  "topResearchers": [
+    {
+      "label": "Liu Y",
+      "count": 19139
+    },
+    {
+      "label": "Manoel Damião Sousa‐Neto",
+      "count": 14166
+    },
+    {
+      "label": "Mathieu Vinken",
+      "count": 13965
+    },
+    {
+      "label": "L. Lee Grismer",
+      "count": 7684
+    },
+    {
+      "label": "Feng Gu",
+      "count": 5844
+    },
+    {
+      "label": "Dana Zakalik",
+      "count": 2410
+    },
+    {
+      "label": "Dantong Zhang",
+      "count": 2150
+    },
+    {
+      "label": "Nadja A. Farshad‐Amacker",
+      "count": 1808
+    },
+    {
+      "label": "Jardel Francisco Mazzi‐Chaves",
+      "count": 1681
+    },
+    {
+      "label": "N. A. Aravind",
+      "count": 1416
+    }
+  ],
+  "institutionTypes": [
+    {
+      "label": "University / school",
+      "count": 14
+    },
+    {
+      "label": "Organization",
+      "count": 2
     }
   ]
 }

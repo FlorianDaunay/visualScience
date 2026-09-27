@@ -7,53 +7,68 @@
     </p>
   </header>
 
-  <div class="mb-6 flex flex-col gap-3 sm:flex-row sm:items-center sm:justify-between">
-    <input
-      type="search"
-      placeholder="Search title, author, journal…"
-      class="w-full max-w-sm rounded-control border bg-surface px-3 py-2 text-sm text-text-primary placeholder:text-text-muted focus-visible:outline-none"
-      [ngModel]="query()"
-      (ngModelChange)="query.set($event)"
-    />
+  <div class="mb-4 flex flex-col gap-3">
+    <div class="flex flex-col gap-2 sm:flex-row sm:items-center">
+      <input
+        type="search"
+        placeholder="Search title, author, journal…"
+        class="w-full min-w-0 rounded-control border bg-surface px-3 py-2 text-sm text-text-primary placeholder:text-text-muted focus-visible:outline-none sm:max-w-sm"
+        [ngModel]="query()"
+        (ngModelChange)="query.set($event)"
+      />
 
-    <div class="flex flex-wrap items-center gap-2">
-      <select
-        class="rounded-control border bg-surface px-2.5 py-2 text-sm text-text-primary"
-        [ngModel]="concept()"
-        (ngModelChange)="concept.set($event)"
-      >
-        <option [ngValue]="null">All fields</option>
-        @for (name of concepts(); track name) {
-          <option [ngValue]="name">{{ name }}</option>
-        }
-      </select>
-
-      <label class="flex items-center gap-1.5 text-sm text-text-secondary">
-        <input type="checkbox" class="size-4 accent-accent" [ngModel]="openAccessOnly()" (ngModelChange)="openAccessOnly.set($event)" />
-        Open access only
-      </label>
-
-      <div class="flex rounded-control border p-0.5 text-sm">
-        <button
-          type="button"
-          (click)="sort.set('newest')"
-          class="rounded-[calc(var(--radius-control)-2px)] px-3 py-1"
-          [class.bg-accent]="sort() === 'newest'"
-          [class.text-accent-foreground]="sort() === 'newest'"
+      <div class="flex flex-wrap items-center gap-2 sm:ml-auto">
+        <select
+          class="min-w-0 rounded-control border bg-surface px-2.5 py-2 text-sm text-text-primary"
+          [ngModel]="period()"
+          (ngModelChange)="period.set($event)"
         >
-          Newest
-        </button>
-        <button
-          type="button"
-          (click)="sort.set('most-cited')"
-          class="rounded-[calc(var(--radius-control)-2px)] px-3 py-1"
-          [class.bg-accent]="sort() === 'most-cited'"
-          [class.text-accent-foreground]="sort() === 'most-cited'"
+          <option value="all">Any time</option>
+          <option value="7">Last 7 days</option>
+          <option value="30">Last 30 days</option>
+        </select>
+
+        <select
+          class="min-w-0 rounded-control border bg-surface px-2.5 py-2 text-sm text-text-primary"
+          [ngModel]="sort()"
+          (ngModelChange)="sort.set($event)"
         >
-          Most cited
-        </button>
+          <option value="newest">Newest first</option>
+          <option value="oldest">Oldest first</option>
+          <option value="most-cited">Most cited</option>
+          <option value="title">Title (A–Z)</option>
+        </select>
+
+        <label class="flex items-center gap-1.5 whitespace-nowrap text-sm text-text-secondary">
+          <input type="checkbox" class="size-4 accent-accent" [ngModel]="openAccessOnly()" (ngModelChange)="openAccessOnly.set($event)" />
+          Open access
+        </label>
       </div>
     </div>
+
+    @if (fields().length > 0) {
+      <div class="flex flex-wrap items-center gap-1.5">
+        <span class="text-xs font-medium uppercase tracking-wide text-text-muted">Fields</span>
+        @for (field of fields(); track field.name) {
+          <button
+            type="button"
+            (click)="toggleField(field.name)"
+            class="rounded-pill border px-2.5 py-1 text-xs font-medium transition-colors"
+            [class.bg-accent]="selectedFields().has(field.name)"
+            [class.text-accent-foreground]="selectedFields().has(field.name)"
+            [class.text-text-secondary]="!selectedFields().has(field.name)"
+            [class.hover:bg-surface-hover]="!selectedFields().has(field.name)"
+          >
+            {{ field.name }} <span class="opacity-70">({{ field.count }})</span>
+          </button>
+        }
+        @if (hasActiveFilters()) {
+          <button type="button" (click)="clearFilters()" class="ml-1 text-xs font-medium text-accent hover:underline">
+            Clear all
+          </button>
+        }
+      </div>
+    }
   </div>
 
   @if (resource().loading) {
@@ -61,8 +76,13 @@
   } @else if (resource().error) {
     <app-empty-state title="Couldn't load discoveries" [message]="resource().error!" />
   } @else if (filtered().length === 0) {
-    <app-empty-state title="No discoveries match your filters" message="Try clearing the search or field filter." />
+    <app-empty-state title="No discoveries match your filters" message="Try clearing the search or field filters.">
+      @if (hasActiveFilters()) {
+        <button type="button" (click)="clearFilters()" class="mt-2 text-sm font-medium text-accent hover:underline">Clear filters</button>
+      }
+    </app-empty-state>
   } @else {
+    <p class="mb-3 text-sm text-text-muted">{{ filtered().length }} discoveries</p>
     <div class="grid grid-cols-1 gap-4 sm:grid-cols-2 xl:grid-cols-3">
       @for (discovery of filtered(); track discovery.id) {
         <app-discovery-card [discovery]="discovery" />
