@@ -1,209 +1,1986 @@
 [
   {
-    "id": "I52605992",
-    "name": "National Open University of Nigeria",
-    "type": "education",
-    "countryCode": "NG",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I52605992",
-    "researcherIds": [
-      "A5152957121"
-    ],
-    "discoveryIds": [
-      "W7214431634",
-      "W7214450775"
-    ]
-  },
-  {
-    "id": "I4210164282",
-    "name": "Entrepreneurial Ecosystems",
-    "type": "other",
-    "countryCode": "US",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I4210164282",
-    "researcherIds": [
-      "A5060558312"
-    ],
-    "discoveryIds": [
-      "W7214431634",
-      "W7214450775"
-    ]
-  },
-  {
-    "id": "I3129280579",
-    "name": "Pancasila University",
-    "type": "education",
-    "countryCode": "ID",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I3129280579",
-    "researcherIds": [
-      "A5152978119",
-      "A5009327082",
-      "A5044022661",
-      "A5053273531",
-      "A5116631623"
-    ],
-    "discoveryIds": [
-      "W7214437794",
-      "W7214467848"
-    ]
-  },
-  {
-    "id": "I123200800",
-    "name": "La Sierra University",
+    "id": "I145311948",
+    "name": "Johns Hopkins University",
     "type": "education",
     "countryCode": "US",
     "homepage": null,
     "ror": null,
-    "openAlexUrl": "https://openalex.org/I123200800",
+    "openAlexUrl": "https://openalex.org/I145311948",
     "researcherIds": [
-      "A5091759343"
+      "A5153106481",
+      "A5153063104",
+      "A5146679005",
+      "A5146465481",
+      "A5080259024"
     ],
     "discoveryIds": [
-      "W4327533074"
+      "W7214518208",
+      "W7214521124"
     ]
   },
   {
-    "id": "I158688498",
-    "name": "Yenepoya University",
+    "id": "I163753206",
+    "name": "Chungbuk National University",
+    "type": "education",
+    "countryCode": "KR",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I163753206",
+    "researcherIds": [
+      "A5079788844",
+      "A5075314365",
+      "A5085190184",
+      "A5103257783",
+      "A5100398200",
+      "A5017398875",
+      "A5114235672",
+      "A5091275549",
+      "A5058541911"
+    ],
+    "discoveryIds": [
+      "W7214516809",
+      "W7214520692"
+    ]
+  },
+  {
+    "id": "I183519381",
+    "name": "Capital Medical University",
+    "type": "education",
+    "countryCode": "CN",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I183519381",
+    "researcherIds": [
+      "A5126380461",
+      "A5138694927",
+      "A5044629451",
+      "A5100590640",
+      "A5140993079"
+    ],
+    "discoveryIds": [
+      "W7214518692",
+      "W7214522199"
+    ]
+  },
+  {
+    "id": "I189158943",
+    "name": "University of Milan",
+    "type": "education",
+    "countryCode": "IT",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I189158943",
+    "researcherIds": [
+      "A5153174123",
+      "A5153160152",
+      "A5125229222"
+    ],
+    "discoveryIds": [
+      "W7214521841",
+      "W7214524686"
+    ]
+  },
+  {
+    "id": "I24185976",
+    "name": "Sichuan University",
+    "type": "education",
+    "countryCode": "CN",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I24185976",
+    "researcherIds": [
+      "A5100525431",
+      "A5110404528",
+      "A5138453193"
+    ],
+    "discoveryIds": [
+      "W7214523577",
+      "W7214524274"
+    ]
+  },
+  {
+    "id": "I170201317",
+    "name": "University of Pittsburgh",
+    "type": "education",
+    "countryCode": "US",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I170201317",
+    "researcherIds": [
+      "A5068651485"
+    ],
+    "discoveryIds": [
+      "W7214518208"
+    ]
+  },
+  {
+    "id": "I1288882113",
+    "name": "Boston Children's Hospital",
+    "type": "healthcare",
+    "countryCode": "US",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I1288882113",
+    "researcherIds": [
+      "A5061969216"
+    ],
+    "discoveryIds": [
+      "W7214518208"
+    ]
+  },
+  {
+    "id": "I1328594524",
+    "name": "Children's Mercy Hospital",
+    "type": "healthcare",
+    "countryCode": "US",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I1328594524",
+    "researcherIds": [
+      "A5153054954"
+    ],
+    "discoveryIds": [
+      "W7214518208"
+    ]
+  },
+  {
+    "id": "I55769427",
+    "name": "Indiana University – Purdue University Indianapolis",
+    "type": "education",
+    "countryCode": "US",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I55769427",
+    "researcherIds": [
+      "A5030759310"
+    ],
+    "discoveryIds": [
+      "W7214518208"
+    ]
+  },
+  {
+    "id": "I4210128618",
+    "name": "University of Kansas Medical Center",
+    "type": "funder",
+    "countryCode": "US",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I4210128618",
+    "researcherIds": [
+      "A5032019303"
+    ],
+    "discoveryIds": [
+      "W7214518208"
+    ]
+  },
+  {
+    "id": "I2799849604",
+    "name": "Cleveland Foundation",
+    "type": "nonprofit",
+    "countryCode": "US",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I2799849604",
+    "researcherIds": [
+      "A5001485771",
+      "A5067205817",
+      "A5153055152"
+    ],
+    "discoveryIds": [
+      "W7214518208"
+    ]
+  },
+  {
+    "id": "I35046152",
+    "name": "Universidade Federal do Rio Grande do Norte",
+    "type": "education",
+    "countryCode": "BR",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I35046152",
+    "researcherIds": [
+      "A5103225182",
+      "A5079441904"
+    ],
+    "discoveryIds": [
+      "W4415332496"
+    ]
+  },
+  {
+    "id": "I4387153024",
+    "name": "Millennium Institute for Subatomic Physics at High-Energy Frontier, Saphir",
+    "type": "education",
+    "countryCode": null,
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I4387153024",
+    "researcherIds": [
+      "A5059795849",
+      "A5072756410"
+    ],
+    "discoveryIds": [
+      "W4415332496"
+    ]
+  },
+  {
+    "id": "I130474213",
+    "name": "Pontificia Universidad Católica de Valparaíso",
+    "type": "education",
+    "countryCode": "CL",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I130474213",
+    "researcherIds": [
+      "A5107950087"
+    ],
+    "discoveryIds": [
+      "W4415332496"
+    ]
+  },
+  {
+    "id": "I900890020",
+    "name": "University of Palermo",
+    "type": "education",
+    "countryCode": "IT",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I900890020",
+    "researcherIds": [
+      "A5107628419",
+      "A5019252997",
+      "A5036298493",
+      "A5048485245"
+    ],
+    "discoveryIds": [
+      "W4416833383"
+    ]
+  },
+  {
+    "id": "I5124864",
+    "name": "École Polytechnique Fédérale de Lausanne",
+    "type": "education",
+    "countryCode": "CH",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I5124864",
+    "researcherIds": [
+      "A5084463133",
+      "A5033855602",
+      "A5009880801"
+    ],
+    "discoveryIds": [
+      "W4416833383"
+    ]
+  },
+  {
+    "id": "I4210109533",
+    "name": "Istituto Nazionale di Fisica Nucleare, Sezione di Pavia",
+    "type": "facility",
+    "countryCode": "IT",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I4210109533",
+    "researcherIds": [
+      "A5123853290",
+      "A5061846391",
+      "A5127816879",
+      "A5023017103",
+      "A5002669273"
+    ],
+    "discoveryIds": [
+      "W7125731755"
+    ]
+  },
+  {
+    "id": "I2800738734",
+    "name": "Istituto Nazionale di Fisica Nucleare, Laboratori Nazionali del Gran Sasso",
+    "type": "facility",
+    "countryCode": "IT",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I2800738734",
+    "researcherIds": [
+      "A5019043634",
+      "A5058849493",
+      "A5038884294",
+      "A5126811062",
+      "A5009907604",
+      "A5105719341",
+      "A5105789184"
+    ],
+    "discoveryIds": [
+      "W7125731755"
+    ]
+  },
+  {
+    "id": "I4210140564",
+    "name": "Istituto Nazionale di Fisica Nucleare, Sezione di Milano Bicocca",
+    "type": "facility",
+    "countryCode": "IT",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I4210140564",
+    "researcherIds": [
+      "A5128898357",
+      "A5123849488",
+      "A5047807194",
+      "A5123826068",
+      "A5133357899",
+      "A5123851090",
+      "A5123860066",
+      "A5123840919",
+      "A5138037996",
+      "A5061644272",
+      "A5112882545",
+      "A5151733302",
+      "A5127798079",
+      "A5081138069",
+      "A5145268975",
+      "A5043013641",
+      "A5005727732",
+      "A5125085761",
+      "A5125080093",
+      "A5127829390"
+    ],
+    "discoveryIds": [
+      "W7125731755"
+    ]
+  },
+  {
+    "id": "I19820366",
+    "name": "Chinese Academy of Sciences",
+    "type": "government",
+    "countryCode": "CN",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I19820366",
+    "researcherIds": [
+      "A5123840608",
+      "A5036566449"
+    ],
+    "discoveryIds": [
+      "W7125731755"
+    ]
+  },
+  {
+    "id": "I4210157426",
+    "name": "Istituto Nazionale di Fisica Nucleare, Sezione di Roma I",
+    "type": "facility",
+    "countryCode": "IT",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I4210157426",
+    "researcherIds": [
+      "A5107344466",
+      "A5069986727"
+    ],
+    "discoveryIds": [
+      "W7125731755"
+    ]
+  },
+  {
+    "id": "I4210147706",
+    "name": "Institute for Nuclear Research",
+    "type": "facility",
+    "countryCode": "UA",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I4210147706",
+    "researcherIds": [
+      "A5086503520",
+      "A5127790234",
+      "A5125510472"
+    ],
+    "discoveryIds": [
+      "W7125731755"
+    ]
+  },
+  {
+    "id": "I4210150763",
+    "name": "Gran Sasso Science Institute",
+    "type": "education",
+    "countryCode": "IT",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I4210150763",
+    "researcherIds": [
+      "A5113669673"
+    ],
+    "discoveryIds": [
+      "W7125731755"
+    ]
+  },
+  {
+    "id": "I63966007",
+    "name": "Massachusetts Institute of Technology",
+    "type": "education",
+    "countryCode": "US",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I63966007",
+    "researcherIds": [
+      "A5007953737"
+    ],
+    "discoveryIds": [
+      "W7125731755"
+    ]
+  },
+  {
+    "id": "I26415053",
+    "name": "University of L'Aquila",
+    "type": "education",
+    "countryCode": "IT",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I26415053",
+    "researcherIds": [
+      "A5094246382"
+    ],
+    "discoveryIds": [
+      "W7125731755"
+    ]
+  },
+  {
+    "id": "I25217355",
+    "name": "University of Pavia",
+    "type": "education",
+    "countryCode": "IT",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I25217355",
+    "researcherIds": [
+      "A5000754269",
+      "A5038713951",
+      "A5127831355",
+      "A5000406643"
+    ],
+    "discoveryIds": [
+      "W7125731755"
+    ]
+  },
+  {
+    "id": "I4210104335",
+    "name": "Institute for Basic Science",
+    "type": "facility",
+    "countryCode": "KR",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I4210104335",
+    "researcherIds": [
+      "A5125090744"
+    ],
+    "discoveryIds": [
+      "W7125731755"
+    ]
+  },
+  {
+    "id": "I4210136497",
+    "name": "Jilin Medical University",
+    "type": "education",
+    "countryCode": "CN",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I4210136497",
+    "researcherIds": [
+      "A5129700015",
+      "A5050748797",
+      "A5153127178",
+      "A5153069739",
+      "A5143782012",
+      "A5153126171"
+    ],
+    "discoveryIds": [
+      "W7148327031"
+    ]
+  },
+  {
+    "id": "I194450716",
+    "name": "Jilin University",
+    "type": "education",
+    "countryCode": "CN",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I194450716",
+    "researcherIds": [
+      "A5153119154",
+      "A5132791025",
+      "A5101494139"
+    ],
+    "discoveryIds": [
+      "W7148327031"
+    ]
+  },
+  {
+    "id": "I153151563",
+    "name": "Harrisburg University of Science and Technology",
+    "type": "education",
+    "countryCode": "US",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I153151563",
+    "researcherIds": [
+      "A5136227480"
+    ],
+    "discoveryIds": [
+      "W7161326509"
+    ]
+  },
+  {
+    "id": "I141595442",
+    "name": "University of Bucharest",
+    "type": "education",
+    "countryCode": "RO",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I141595442",
+    "researcherIds": [
+      "A5139792071"
+    ],
+    "discoveryIds": [
+      "W7166804665"
+    ]
+  },
+  {
+    "id": "I4210092312",
+    "name": "Horia Hulubei National Institute for R and D in Physics and Nuclear Engineering",
+    "type": "facility",
+    "countryCode": "RO",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I4210092312",
+    "researcherIds": [
+      "A5136747420"
+    ],
+    "discoveryIds": [
+      "W7166804665"
+    ]
+  },
+  {
+    "id": "I4405253773",
+    "name": "International Center for Advanced Training and Research in Physics",
+    "type": "government",
+    "countryCode": "MD",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I4405253773",
+    "researcherIds": [
+      "A5070937779"
+    ],
+    "discoveryIds": [
+      "W7166804665"
+    ]
+  },
+  {
+    "id": "I2611379103",
+    "name": "Cooch Behar Panchanan Barma University",
     "type": "education",
     "countryCode": "IN",
     "homepage": null,
     "ror": null,
-    "openAlexUrl": "https://openalex.org/I158688498",
+    "openAlexUrl": "https://openalex.org/I2611379103",
     "researcherIds": [
-      "A5015331092"
+      "A5113419950",
+      "A5101260673",
+      "A5071540932"
     ],
     "discoveryIds": [
-      "W4327533074"
+      "W7171567130"
     ]
   },
   {
-    "id": "I4210165767",
-    "name": "University of Gharyan",
+    "id": "I200207707",
+    "name": "Homi Bhabha National Institute",
     "type": "education",
-    "countryCode": "LY",
+    "countryCode": "IN",
     "homepage": null,
     "ror": null,
-    "openAlexUrl": "https://openalex.org/I4210165767",
+    "openAlexUrl": "https://openalex.org/I200207707",
     "researcherIds": [
-      "A5152993509",
-      "A5148041877"
+      "A5129442635"
     ],
     "discoveryIds": [
-      "W7214439416"
+      "W7171567130"
     ]
   },
   {
-    "id": "I4405276147",
-    "name": "Politeknik Negeri Bengkalis",
+    "id": "I76214153",
+    "name": "Lanzhou University",
+    "type": "education",
+    "countryCode": "CN",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I76214153",
+    "researcherIds": [
+      "A5138905996",
+      "A5144091944",
+      "A5121669508"
+    ],
+    "discoveryIds": [
+      "W7171945919"
+    ]
+  },
+  {
+    "id": "I42999171",
+    "name": "Sophia University",
+    "type": "education",
+    "countryCode": "JP",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I42999171",
+    "researcherIds": [
+      "A5006121646"
+    ],
+    "discoveryIds": [
+      "W7203865779"
+    ]
+  },
+  {
+    "id": "I71052956",
+    "name": "University of Reading",
+    "type": "education",
+    "countryCode": "GB",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I71052956",
+    "researcherIds": [
+      "A5152082379"
+    ],
+    "discoveryIds": [
+      "W7213576135"
+    ]
+  },
+  {
+    "id": "I185163786",
+    "name": "King Abdulaziz University",
+    "type": "education",
+    "countryCode": "SA",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I185163786",
+    "researcherIds": [
+      "A5057811487",
+      "A5122269459",
+      "A5046079618",
+      "A5153113444"
+    ],
+    "discoveryIds": [
+      "W7214516799"
+    ]
+  },
+  {
+    "id": "I170238339",
+    "name": "Duy Tan University",
+    "type": "education",
+    "countryCode": "VN",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I170238339",
+    "researcherIds": [
+      "A5153032301"
+    ],
+    "discoveryIds": [
+      "W7214516799"
+    ]
+  },
+  {
+    "id": "I4210116933",
+    "name": "Shaoxing No.6 People's Hospital",
+    "type": "healthcare",
+    "countryCode": "CN",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I4210116933",
+    "researcherIds": [
+      "A5153078163",
+      "A5153122794",
+      "A5153133068",
+      "A5153116951"
+    ],
+    "discoveryIds": [
+      "W7214516923"
+    ]
+  },
+  {
+    "id": "I129708740",
+    "name": "Fujian Medical University",
+    "type": "education",
+    "countryCode": "CN",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I129708740",
+    "researcherIds": [
+      "A5143594078",
+      "A5153156587",
+      "A5103973898",
+      "A5075653083"
+    ],
+    "discoveryIds": [
+      "W7214517007"
+    ]
+  },
+  {
+    "id": "I89015989",
+    "name": "Dankook University",
+    "type": "education",
+    "countryCode": "KR",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I89015989",
+    "researcherIds": [
+      "A5083378028"
+    ],
+    "discoveryIds": [
+      "W7214517416"
+    ]
+  },
+  {
+    "id": "I4210166688",
+    "name": "Dankook University Hospital",
+    "type": "healthcare",
+    "countryCode": "KR",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I4210166688",
+    "researcherIds": [
+      "A5023024570"
+    ],
+    "discoveryIds": [
+      "W7214517416"
+    ]
+  },
+  {
+    "id": "I4210139443",
+    "name": "John Hunter Children's Hospital",
+    "type": "healthcare",
+    "countryCode": "AU",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I4210139443",
+    "researcherIds": [
+      "A5101448859"
+    ],
+    "discoveryIds": [
+      "W7214518359"
+    ]
+  },
+  {
+    "id": "I4210087646",
+    "name": "Hunter Medical Research Institute",
+    "type": "facility",
+    "countryCode": "AU",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I4210087646",
+    "researcherIds": [
+      "A5025984821",
+      "A5153128401",
+      "A5066004897",
+      "A5134487094"
+    ],
+    "discoveryIds": [
+      "W7214518359"
+    ]
+  },
+  {
+    "id": "I4210101306",
+    "name": "Integrated Chinese Medicine (China)",
+    "type": "company",
+    "countryCode": "HK",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I4210101306",
+    "researcherIds": [
+      "A5100387675"
+    ],
+    "discoveryIds": [
+      "W7214518692"
+    ]
+  },
+  {
+    "id": "I193775966",
+    "name": "Yonsei University",
+    "type": "education",
+    "countryCode": "KR",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I193775966",
+    "researcherIds": [
+      "A5153034411",
+      "A5133472617",
+      "A5133459311",
+      "A5153092234",
+      "A5111214364",
+      "A5153156307",
+      "A5056387838",
+      "A5143697880",
+      "A5069913861",
+      "A5001856557",
+      "A5153152314",
+      "A5153113180",
+      "A5153164884",
+      "A5069380042",
+      "A5153098969",
+      "A5106745853",
+      "A5016229617"
+    ],
+    "discoveryIds": [
+      "W7214519064"
+    ]
+  },
+  {
+    "id": "I4210103122",
+    "name": "Wonju Severance Christian Hospital",
+    "type": "healthcare",
+    "countryCode": "KR",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I4210103122",
+    "researcherIds": [
+      "A5014264806"
+    ],
+    "discoveryIds": [
+      "W7214519064"
+    ]
+  },
+  {
+    "id": "I4210150693",
+    "name": "The Medical Device (United Kingdom)",
+    "type": "company",
+    "countryCode": "GB",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I4210150693",
+    "researcherIds": [
+      "A5153052932",
+      "A5153035592"
+    ],
+    "discoveryIds": [
+      "W7214519064"
+    ]
+  },
+  {
+    "id": "I4210124900",
+    "name": "Inner Mongolia People's Hospital",
+    "type": "healthcare",
+    "countryCode": "CN",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I4210124900",
+    "researcherIds": [
+      "A5102930621",
+      "A5101178054",
+      "A5153147336"
+    ],
+    "discoveryIds": [
+      "W7214519289"
+    ]
+  },
+  {
+    "id": "I4537092",
+    "name": "Addis Ababa University",
+    "type": "education",
+    "countryCode": "ET",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I4537092",
+    "researcherIds": [
+      "A5110961706",
+      "A5153097344",
+      "A5108825211"
+    ],
+    "discoveryIds": [
+      "W7214519338"
+    ]
+  },
+  {
+    "id": "I185261750",
+    "name": "University of Toronto",
+    "type": "education",
+    "countryCode": "CA",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I185261750",
+    "researcherIds": [
+      "A5023952794",
+      "A5080192164",
+      "A5153036574"
+    ],
+    "discoveryIds": [
+      "W7214519338"
+    ]
+  },
+  {
+    "id": "I1325899441",
+    "name": "University Health Network",
+    "type": "healthcare",
+    "countryCode": "CA",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I1325899441",
+    "researcherIds": [
+      "A5057260668"
+    ],
+    "discoveryIds": [
+      "W7214519338"
+    ]
+  },
+  {
+    "id": "I1293723699",
+    "name": "European Observatory on Health Systems and Policies",
+    "type": "government",
+    "countryCode": "BE",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I1293723699",
+    "researcherIds": [
+      "A5019517034",
+      "A5013712604"
+    ],
+    "discoveryIds": [
+      "W7214519338"
+    ]
+  },
+  {
+    "id": "I4210122350",
+    "name": "Hospital General De Zona",
+    "type": "healthcare",
+    "countryCode": "MX",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I4210122350",
+    "researcherIds": [
+      "A5153168428"
+    ],
+    "discoveryIds": [
+      "W7214519507"
+    ]
+  },
+  {
+    "id": "I16097986",
+    "name": "Universitat de València",
+    "type": "education",
+    "countryCode": "ES",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I16097986",
+    "researcherIds": [
+      "A5153093021",
+      "A5086505180",
+      "A5153165347",
+      "A5153108079"
+    ],
+    "discoveryIds": [
+      "W7214520157"
+    ]
+  },
+  {
+    "id": "I183935753",
+    "name": "King's College London",
+    "type": "education",
+    "countryCode": "GB",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I183935753",
+    "researcherIds": [
+      "A5012142900",
+      "A5129337646"
+    ],
+    "discoveryIds": [
+      "W7214520157"
+    ]
+  },
+  {
+    "id": "I848706",
+    "name": "Sungkyunkwan University",
+    "type": "education",
+    "countryCode": "KR",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I848706",
+    "researcherIds": [
+      "A5113406384",
+      "A5100459358"
+    ],
+    "discoveryIds": [
+      "W7214520370"
+    ]
+  },
+  {
+    "id": "I12832649",
+    "name": "Gachon University",
+    "type": "education",
+    "countryCode": "KR",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I12832649",
+    "researcherIds": [
+      "A5110287730",
+      "A5034078083"
+    ],
+    "discoveryIds": [
+      "W7214520370"
+    ]
+  },
+  {
+    "id": "I80611190",
+    "name": "Jeonbuk National University",
+    "type": "education",
+    "countryCode": "KR",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I80611190",
+    "researcherIds": [
+      "A5153058684",
+      "A5044199341",
+      "A5058509341"
+    ],
+    "discoveryIds": [
+      "W7214520370"
+    ]
+  },
+  {
+    "id": "I39705031",
+    "name": "Daegu Catholic University",
+    "type": "education",
+    "countryCode": "KR",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I39705031",
+    "researcherIds": [
+      "A5153136039",
+      "A5153063736",
+      "A5024188885"
+    ],
+    "discoveryIds": [
+      "W7214520500"
+    ]
+  },
+  {
+    "id": "I2799865230",
+    "name": "Green Cross (South Korea)",
+    "type": "company",
+    "countryCode": "KR",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I2799865230",
+    "researcherIds": [
+      "A5121198530"
+    ],
+    "discoveryIds": [
+      "W7214520500"
+    ]
+  },
+  {
+    "id": "I186771145",
+    "name": "Covenant University",
+    "type": "education",
+    "countryCode": "NG",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I186771145",
+    "researcherIds": [
+      "A5058097057",
+      "A5147130967"
+    ],
+    "discoveryIds": [
+      "W7214521142"
+    ]
+  },
+  {
+    "id": "I154425047",
+    "name": "University of Alberta",
+    "type": "education",
+    "countryCode": "CA",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I154425047",
+    "researcherIds": [
+      "A5076213316",
+      "A5043818228",
+      "A5055999792"
+    ],
+    "discoveryIds": [
+      "W7214521204"
+    ]
+  },
+  {
+    "id": "I4210092870",
+    "name": "Jiaxing University",
+    "type": "education",
+    "countryCode": "CN",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I4210092870",
+    "researcherIds": [
+      "A5153035529",
+      "A5153033496"
+    ],
+    "discoveryIds": [
+      "W7214521328"
+    ]
+  },
+  {
+    "id": "I133868755",
+    "name": "Shanghai Medical College of Fudan University",
+    "type": "education",
+    "countryCode": "CN",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I133868755",
+    "researcherIds": [
+      "A5051067725",
+      "A5153140595",
+      "A5116811988",
+      "A5025733137",
+      "A5135053697",
+      "A5041442853",
+      "A5104298060",
+      "A5153177969",
+      "A5153179951",
+      "A5153176943",
+      "A5153143363",
+      "A5127625227",
+      "A5049261296",
+      "A5135013139",
+      "A5153185728"
+    ],
+    "discoveryIds": [
+      "W7214521339"
+    ]
+  },
+  {
+    "id": "I111381250",
+    "name": "Hebei Medical University",
+    "type": "education",
+    "countryCode": "CN",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I111381250",
+    "researcherIds": [
+      "A5153080803",
+      "A5113376244"
+    ],
+    "discoveryIds": [
+      "W7214521386"
+    ]
+  },
+  {
+    "id": "I4210098384",
+    "name": "Fifth Hospital of Shijiazhuang",
+    "type": "healthcare",
+    "countryCode": "CN",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I4210098384",
+    "researcherIds": [
+      "A5130144380",
+      "A5051299771",
+      "A5153016259",
+      "A5153178427",
+      "A5153116817",
+      "A5153062887",
+      "A5000778989",
+      "A5153188091",
+      "A5146876949"
+    ],
+    "discoveryIds": [
+      "W7214521386"
+    ]
+  },
+  {
+    "id": "I4405256198",
+    "name": "Soonchunhyang University Hospital Bucheon",
+    "type": "healthcare",
+    "countryCode": "KR",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I4405256198",
+    "researcherIds": [
+      "A5075688264",
+      "A5111102545",
+      "A5101611706",
+      "A5101750470"
+    ],
+    "discoveryIds": [
+      "W7214521511"
+    ]
+  },
+  {
+    "id": "I117532281",
+    "name": "Guangzhou University of Chinese Medicine",
+    "type": "education",
+    "countryCode": "CN",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I117532281",
+    "researcherIds": [
+      "A5008364048",
+      "A5108302967",
+      "A5136966297",
+      "A5124178101",
+      "A5100446315",
+      "A5153160387",
+      "A5136939987"
+    ],
+    "discoveryIds": [
+      "W7214521696"
+    ]
+  },
+  {
+    "id": "I195460627",
+    "name": "University of Aberdeen",
+    "type": "education",
+    "countryCode": "GB",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I195460627",
+    "researcherIds": [
+      "A5093925450",
+      "A5126087369",
+      "A5098993656",
+      "A5126115566"
+    ],
+    "discoveryIds": [
+      "W7214521841"
+    ]
+  },
+  {
+    "id": "I142263535",
+    "name": "University of Nottingham",
+    "type": "education",
+    "countryCode": "GB",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I142263535",
+    "researcherIds": [
+      "A5032111132"
+    ],
+    "discoveryIds": [
+      "W7214521841"
+    ]
+  },
+  {
+    "id": "I52010207",
+    "name": "Keimyung University",
+    "type": "education",
+    "countryCode": "KR",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I52010207",
+    "researcherIds": [
+      "A5102894403",
+      "A5021429083",
+      "A5037963604"
+    ],
+    "discoveryIds": [
+      "W7214522014"
+    ]
+  },
+  {
+    "id": "I168180000",
+    "name": "University of Mataram",
     "type": "education",
     "countryCode": "ID",
     "homepage": null,
     "ror": null,
-    "openAlexUrl": "https://openalex.org/I4405276147",
+    "openAlexUrl": "https://openalex.org/I168180000",
     "researcherIds": [
-      "A5120192245",
-      "A5023073032"
+      "A5137388374"
     ],
     "discoveryIds": [
-      "W7214452963"
+      "W7214522143"
     ]
   },
   {
-    "id": "I4210111884",
-    "name": "Universitas PGRI Semarang",
+    "id": "I119896790",
+    "name": "Sebelas Maret University",
     "type": "education",
     "countryCode": "ID",
     "homepage": null,
     "ror": null,
-    "openAlexUrl": "https://openalex.org/I4210111884",
+    "openAlexUrl": "https://openalex.org/I119896790",
     "researcherIds": [
-      "A5152996927",
-      "A5047574655",
-      "A5093831314"
+      "A5153061992",
+      "A5027533853",
+      "A5102711083",
+      "A5005421456",
+      "A5153139232",
+      "A5116311467",
+      "A5119495136",
+      "A5056066820"
     ],
     "discoveryIds": [
-      "W7214474940"
+      "W7214522143"
     ]
   },
   {
-    "id": "I166928557",
-    "name": "University of Monastir",
-    "type": "education",
-    "countryCode": "TN",
+    "id": "I2800232565",
+    "name": "Beijing Chao-Yang Hospital, Capital Medical University",
+    "type": "healthcare",
+    "countryCode": "CN",
     "homepage": null,
     "ror": null,
-    "openAlexUrl": "https://openalex.org/I166928557",
+    "openAlexUrl": "https://openalex.org/I2800232565",
     "researcherIds": [
-      "A5056120976",
-      "A5078598969"
+      "A5133291949",
+      "A5153021803"
     ],
     "discoveryIds": [
-      "W4403345401"
+      "W7214522199"
     ]
   },
   {
-    "id": "I195731000",
-    "name": "Université de Versailles Saint-Quentin-en-Yvelines",
-    "type": "education",
-    "countryCode": "FR",
+    "id": "I4210119028",
+    "name": "Beijing Anzhen Hospital",
+    "type": "healthcare",
+    "countryCode": "CN",
     "homepage": null,
     "ror": null,
-    "openAlexUrl": "https://openalex.org/I195731000",
+    "openAlexUrl": "https://openalex.org/I4210119028",
     "researcherIds": [
-      "A5056011345"
+      "A5129457209",
+      "A5153187699"
     ],
     "discoveryIds": [
-      "W4403345401"
+      "W7214522199"
     ]
   },
   {
-    "id": "I146165071",
-    "name": "Universidade Federal de Viçosa",
-    "type": "education",
-    "countryCode": "BR",
+    "id": "I1313323035",
+    "name": "Russian Academy of Sciences",
+    "type": "government",
+    "countryCode": "RU",
     "homepage": null,
     "ror": null,
-    "openAlexUrl": "https://openalex.org/I146165071",
+    "openAlexUrl": "https://openalex.org/I1313323035",
     "researcherIds": [
-      "A5045049031"
+      "A5153142522",
+      "A5153116028",
+      "A5153178249"
     ],
     "discoveryIds": [
-      "W4403747141"
+      "W7214522459"
     ]
   },
   {
-    "id": "I110200422",
-    "name": "Universidade Federal de Minas Gerais",
-    "type": "education",
-    "countryCode": "BR",
+    "id": "I4210105571",
+    "name": "Institute of Bioorganic Chemistry",
+    "type": "facility",
+    "countryCode": "RU",
     "homepage": null,
     "ror": null,
-    "openAlexUrl": "https://openalex.org/I110200422",
+    "openAlexUrl": "https://openalex.org/I4210105571",
     "researcherIds": [
-      "A5057890519"
+      "A5153077155",
+      "A5153120481",
+      "A5153073031",
+      "A5153187646",
+      "A5153028945"
     ],
     "discoveryIds": [
-      "W4403747141"
+      "W7214522459"
     ]
   },
   {
-    "id": "I8165072",
-    "name": "Universidade Federal de Itajubá",
-    "type": "education",
-    "countryCode": "BR",
+    "id": "I4210111682",
+    "name": "The People's Hospital Tongling",
+    "type": "healthcare",
+    "countryCode": "CN",
     "homepage": null,
     "ror": null,
-    "openAlexUrl": "https://openalex.org/I8165072",
+    "openAlexUrl": "https://openalex.org/I4210111682",
     "researcherIds": [
-      "A5094261891"
+      "A5135040144",
+      "A5006945361",
+      "A5135038054",
+      "A5140003961",
+      "A5135126460",
+      "A5112491716"
     ],
     "discoveryIds": [
-      "W4403747141"
+      "W7214522673"
+    ]
+  },
+  {
+    "id": "I198959115",
+    "name": "Changzhi Medical College",
+    "type": "education",
+    "countryCode": "CN",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I198959115",
+    "researcherIds": [
+      "A5108906259"
+    ],
+    "discoveryIds": [
+      "W7214522673"
+    ]
+  },
+  {
+    "id": "I4388891760",
+    "name": "Institut Teknologi Dan Bisnis STIKOM Bali",
+    "type": "education",
+    "countryCode": null,
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I4388891760",
+    "researcherIds": [
+      "A5153037274"
+    ],
+    "discoveryIds": [
+      "W7214522979"
+    ]
+  },
+  {
+    "id": "I4404532884",
+    "name": "Nusa Putra University",
+    "type": "education",
+    "countryCode": "ID",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I4404532884",
+    "researcherIds": [
+      "A5148599761",
+      "A5153093518"
+    ],
+    "discoveryIds": [
+      "W7214522979"
+    ]
+  },
+  {
+    "id": "I145872427",
+    "name": "Radboud University Nijmegen",
+    "type": "education",
+    "countryCode": "NL",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I145872427",
+    "researcherIds": [
+      "A5153142166",
+      "A5153075328",
+      "A5137872294",
+      "A5121612649",
+      "A5135465837"
+    ],
+    "discoveryIds": [
+      "W7214523036"
+    ]
+  },
+  {
+    "id": "I887064364",
+    "name": "University of Amsterdam",
+    "type": "education",
+    "countryCode": "NL",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I887064364",
+    "researcherIds": [
+      "A5051309276"
+    ],
+    "discoveryIds": [
+      "W7214523036"
+    ]
+  },
+  {
+    "id": "I4210099034",
+    "name": "Complejo Hospitalario de Salamanca",
+    "type": "healthcare",
+    "countryCode": "ES",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I4210099034",
+    "researcherIds": [
+      "A5153037823",
+      "A5153049472",
+      "A5090595356",
+      "A5130929811",
+      "A5153046252"
+    ],
+    "discoveryIds": [
+      "W7214523073"
+    ]
+  },
+  {
+    "id": "I184999862",
+    "name": "Universidad de Salamanca",
+    "type": "education",
+    "countryCode": "ES",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I184999862",
+    "researcherIds": [
+      "A5153095102",
+      "A5059820543",
+      "A5153113197"
+    ],
+    "discoveryIds": [
+      "W7214523073"
+    ]
+  },
+  {
+    "id": "I4210094790",
+    "name": "Instituto de Estudios de Ciencias de la Salud de Castilla y León",
+    "type": "nonprofit",
+    "countryCode": "ES",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I4210094790",
+    "researcherIds": [
+      "A5058095586",
+      "A5007178687"
+    ],
+    "discoveryIds": [
+      "W7214523073"
+    ]
+  },
+  {
+    "id": "I16277215",
+    "name": "University of Houston - Downtown",
+    "type": "education",
+    "countryCode": "US",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I16277215",
+    "researcherIds": [
+      "A5153065883",
+      "A5153084657"
+    ],
+    "discoveryIds": [
+      "W7214523094"
+    ]
+  },
+  {
+    "id": "I44461941",
+    "name": "University of Houston",
+    "type": "education",
+    "countryCode": "US",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I44461941",
+    "researcherIds": [
+      "A5141071948"
+    ],
+    "discoveryIds": [
+      "W7214523094"
+    ]
+  },
+  {
+    "id": "I4210124205",
+    "name": "First Hospital of Shijiazhuang",
+    "type": "healthcare",
+    "countryCode": "CN",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I4210124205",
+    "researcherIds": [
+      "A5100356694",
+      "A5153090411"
+    ],
+    "discoveryIds": [
+      "W7214523132"
+    ]
+  },
+  {
+    "id": "I130750295",
+    "name": "Xinyang Normal University",
+    "type": "education",
+    "countryCode": "CN",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I130750295",
+    "researcherIds": [
+      "A5153090784",
+      "A5035131147"
+    ],
+    "discoveryIds": [
+      "W7214523282"
+    ]
+  },
+  {
+    "id": "I255234318",
+    "name": "Universidad de Zaragoza",
+    "type": "education",
+    "countryCode": "ES",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I255234318",
+    "researcherIds": [
+      "A5021325107"
+    ],
+    "discoveryIds": [
+      "W7214523307"
+    ]
+  },
+  {
+    "id": "I4210087103",
+    "name": "Instituto de Investigaciones Agropecuarias",
+    "type": "facility",
+    "countryCode": "CL",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I4210087103",
+    "researcherIds": [
+      "A5005236813"
+    ],
+    "discoveryIds": [
+      "W7214523307"
+    ]
+  },
+  {
+    "id": "I4210120052",
+    "name": "National Cancer Center",
+    "type": "healthcare",
+    "countryCode": "KR",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I4210120052",
+    "researcherIds": [
+      "A5101517331",
+      "A5127547671",
+      "A5111327797",
+      "A5153106120",
+      "A5068271025",
+      "A5057603237",
+      "A5153154177",
+      "A5153040404",
+      "A5153049611",
+      "A5090141367"
+    ],
+    "discoveryIds": [
+      "W7214523481"
+    ]
+  },
+  {
+    "id": "I4405259562",
+    "name": "Geely University of China",
+    "type": "education",
+    "countryCode": "CN",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I4405259562",
+    "researcherIds": [
+      "A5138493433",
+      "A5150718263"
+    ],
+    "discoveryIds": [
+      "W7214523577"
+    ]
+  },
+  {
+    "id": "I39422238",
+    "name": "University of Illinois Chicago",
+    "type": "education",
+    "countryCode": "US",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I39422238",
+    "researcherIds": [
+      "A5060818830",
+      "A5040221017",
+      "A5040796589"
+    ],
+    "discoveryIds": [
+      "W7214523754"
+    ]
+  },
+  {
+    "id": "I1316535847",
+    "name": "Beth Israel Deaconess Medical Center",
+    "type": "healthcare",
+    "countryCode": "US",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I1316535847",
+    "researcherIds": [
+      "A5137232785"
+    ],
+    "discoveryIds": [
+      "W7214523754"
+    ]
+  },
+  {
+    "id": "I4210124809",
+    "name": "Peking University People's Hospital",
+    "type": "healthcare",
+    "countryCode": "CN",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I4210124809",
+    "researcherIds": [
+      "A5059923462",
+      "A5034506460",
+      "A5138678823",
+      "A5074647962",
+      "A5153172375"
+    ],
+    "discoveryIds": [
+      "W7214524274"
+    ]
+  },
+  {
+    "id": "I4210166576",
+    "name": "First Affiliated Hospital Zhejiang University",
+    "type": "healthcare",
+    "countryCode": "CN",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I4210166576",
+    "researcherIds": [
+      "A5153153343"
+    ],
+    "discoveryIds": [
+      "W7214524274"
+    ]
+  },
+  {
+    "id": "I4210137217",
+    "name": "Women's Hospital, School of Medicine, Zhejiang University",
+    "type": "healthcare",
+    "countryCode": "CN",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I4210137217",
+    "researcherIds": [
+      "A5137830074"
+    ],
+    "discoveryIds": [
+      "W7214524274"
+    ]
+  },
+  {
+    "id": "I4210154593",
+    "name": "Beijing Shijitan Hospital",
+    "type": "healthcare",
+    "countryCode": "CN",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I4210154593",
+    "researcherIds": [
+      "A5100445116"
+    ],
+    "discoveryIds": [
+      "W7214524274"
+    ]
+  },
+  {
+    "id": "I4210105608",
+    "name": "ShenZhen People’s Hospital",
+    "type": "healthcare",
+    "countryCode": "CN",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I4210105608",
+    "researcherIds": [
+      "A5102621862"
+    ],
+    "discoveryIds": [
+      "W7214524274"
+    ]
+  },
+  {
+    "id": "I7446070",
+    "name": "Woosuk University",
+    "type": "education",
+    "countryCode": "KR",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I7446070",
+    "researcherIds": [
+      "A5100647364"
+    ],
+    "discoveryIds": [
+      "W7214524463"
+    ]
+  },
+  {
+    "id": "I82952536",
+    "name": "King Khalid University",
+    "type": "education",
+    "countryCode": "SA",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I82952536",
+    "researcherIds": [
+      "A5136934535",
+      "A5138778655",
+      "A5140567045",
+      "A5153069725",
+      "A5077031299",
+      "A5153133472"
+    ],
+    "discoveryIds": [
+      "W7214524603"
+    ]
+  },
+  {
+    "id": "I2801066305",
+    "name": "King Saud Medical City",
+    "type": "healthcare",
+    "countryCode": "SA",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I2801066305",
+    "researcherIds": [
+      "A5135568961"
+    ],
+    "discoveryIds": [
+      "W7214524603"
+    ]
+  },
+  {
+    "id": "I28022161",
+    "name": "King Saud University",
+    "type": "education",
+    "countryCode": "SA",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I28022161",
+    "researcherIds": [
+      "A5153079926"
+    ],
+    "discoveryIds": [
+      "W7214524603"
+    ]
+  },
+  {
+    "id": "I4210161535",
+    "name": "Asir Central Hospital",
+    "type": "healthcare",
+    "countryCode": "SA",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I4210161535",
+    "researcherIds": [
+      "A5109596251",
+      "A5138796041",
+      "A5118839616"
+    ],
+    "discoveryIds": [
+      "W7214524603"
+    ]
+  },
+  {
+    "id": "I185203018",
+    "name": "King Saud bin Abdulaziz University for Health Sciences",
+    "type": "education",
+    "countryCode": "SA",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I185203018",
+    "researcherIds": [
+      "A5153068532"
+    ],
+    "discoveryIds": [
+      "W7214524603"
+    ]
+  },
+  {
+    "id": "I96916377",
+    "name": "Walailak University",
+    "type": "education",
+    "countryCode": "TH",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I96916377",
+    "researcherIds": [
+      "A5023497229",
+      "A5079513301"
+    ],
+    "discoveryIds": [
+      "W7214524667"
+    ]
+  },
+  {
+    "id": "I4405258958",
+    "name": "Politeknik Perkeretaapian Indonesia",
+    "type": "education",
+    "countryCode": "ID",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I4405258958",
+    "researcherIds": [
+      "A5084961152"
+    ],
+    "discoveryIds": [
+      "W7214524667"
+    ]
+  },
+  {
+    "id": "I1318643470",
+    "name": "Union Hospital",
+    "type": "healthcare",
+    "countryCode": "HK",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I1318643470",
+    "researcherIds": [
+      "A5003381371",
+      "A5130919517",
+      "A5144745975",
+      "A5153162910",
+      "A5153149235",
+      "A5133615961",
+      "A5130914317",
+      "A5100345079",
+      "A5103671529"
+    ],
+    "discoveryIds": [
+      "W7214524686"
+    ]
+  },
+  {
+    "id": "I4210116517",
+    "name": "Shandong Provincial Hospital",
+    "type": "healthcare",
+    "countryCode": "CN",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I4210116517",
+    "researcherIds": [
+      "A5078292053"
+    ],
+    "discoveryIds": [
+      "W7214524686"
+    ]
+  },
+  {
+    "id": "I4210159744",
+    "name": "Weifang Chinese Medicine Hospital",
+    "type": "healthcare",
+    "countryCode": "CN",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I4210159744",
+    "researcherIds": [
+      "A5153089849"
+    ],
+    "discoveryIds": [
+      "W7214524686"
+    ]
+  },
+  {
+    "id": "I4210154480",
+    "name": "Chongqing Cancer Hospital",
+    "type": "healthcare",
+    "countryCode": "CN",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I4210154480",
+    "researcherIds": [
+      "A5100441993",
+      "A5101598090",
+      "A5050689804",
+      "A5112963288",
+      "A5124187582",
+      "A5110916077",
+      "A5028538878",
+      "A5153173577",
+      "A5124179976",
+      "A5153033845"
+    ],
+    "discoveryIds": [
+      "W7214524900"
     ]
   }
 ]

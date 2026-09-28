@@ -1,41 +1,41 @@
 {
-  "generatedAt": "2026-09-27T21:31:52.313Z",
+  "generatedAt": "2026-09-28T14:00:08.129Z",
   "totalDiscoveries": 160,
-  "totalResearchers": 881,
-  "totalInstitutions": 13,
-  "totalCitations": 4,
+  "totalResearchers": 850,
+  "totalInstitutions": 116,
+  "totalCitations": 1,
   "averageCitations": 0,
-  "openAccessRatio": 0.58125,
+  "openAccessRatio": 0.69375,
   "weeklySeries": [
     {
-      "weekStart": "2026-09-21",
+      "weekStart": "2026-09-28",
       "count": 160
     }
   ],
   "topConcepts": [
     {
       "label": "Medicine",
-      "count": 25
-    },
-    {
-      "label": "Chemistry",
-      "count": 11
-    },
-    {
-      "label": "Materials science",
-      "count": 7
-    },
-    {
-      "label": "Environmental science",
-      "count": 5
+      "count": 34
     },
     {
       "label": "Computer science",
-      "count": 4
+      "count": 8
+    },
+    {
+      "label": "Physics",
+      "count": 6
+    },
+    {
+      "label": "Psychology",
+      "count": 6
     },
     {
       "label": "Biology",
-      "count": 4
+      "count": 6
+    },
+    {
+      "label": "Chemistry",
+      "count": 5
     },
     {
       "label": "Mathematics",
@@ -46,140 +46,168 @@
       "count": 3
     },
     {
-      "label": "Selection (genetic algorithm)",
-      "count": 2
+      "label": "Materials science",
+      "count": 3
     },
     {
-      "label": "Pedagogy",
+      "label": "Microbiology",
       "count": 2
     }
   ],
   "topInstitutions": [
     {
-      "label": "National Open University of Nigeria",
+      "label": "Johns Hopkins University",
       "count": 2
     },
     {
-      "label": "Entrepreneurial Ecosystems",
+      "label": "Chungbuk National University",
       "count": 2
     },
     {
-      "label": "Pancasila University",
+      "label": "Capital Medical University",
       "count": 2
     },
     {
-      "label": "La Sierra University",
+      "label": "University of Milan",
+      "count": 2
+    },
+    {
+      "label": "Sichuan University",
+      "count": 2
+    },
+    {
+      "label": "University of Pittsburgh",
       "count": 1
     },
     {
-      "label": "Yenepoya University",
+      "label": "Boston Children's Hospital",
       "count": 1
     },
     {
-      "label": "University of Gharyan",
+      "label": "Children's Mercy Hospital",
       "count": 1
     },
     {
-      "label": "Politeknik Negeri Bengkalis",
+      "label": "Indiana University – Purdue University Indianapolis",
       "count": 1
     },
     {
-      "label": "Universitas PGRI Semarang",
-      "count": 1
-    },
-    {
-      "label": "University of Monastir",
-      "count": 1
-    },
-    {
-      "label": "Université de Versailles Saint-Quentin-en-Yvelines",
+      "label": "University of Kansas Medical Center",
       "count": 1
     }
   ],
   "topCountries": [
     {
+      "label": "CN",
+      "count": 31
+    },
+    {
+      "label": "KR",
+      "count": 16
+    },
+    {
+      "label": "US",
+      "count": 14
+    },
+    {
+      "label": "IT",
+      "count": 10
+    },
+    {
+      "label": "SA",
+      "count": 6
+    },
+    {
+      "label": "GB",
+      "count": 5
+    },
+    {
+      "label": "ES",
+      "count": 5
+    },
+    {
       "label": "ID",
       "count": 4
     },
     {
-      "label": "US",
+      "label": "CA",
       "count": 3
     },
     {
-      "label": "BR",
-      "count": 3
-    },
-    {
-      "label": "NG",
+      "label": "CL",
       "count": 2
-    },
-    {
-      "label": "IN",
-      "count": 1
-    },
-    {
-      "label": "LY",
-      "count": 1
-    },
-    {
-      "label": "TN",
-      "count": 1
-    },
-    {
-      "label": "FR",
-      "count": 1
     }
   ],
   "topResearchers": [
     {
-      "label": "Liu Y",
-      "count": 19139
+      "label": "Reem A. Mustafa",
+      "count": 40432
     },
     {
-      "label": "Manoel Damião Sousa‐Neto",
-      "count": 14166
+      "label": "M. Clemenza",
+      "count": 6780
     },
     {
-      "label": "Mathieu Vinken",
-      "count": 13965
+      "label": "Farinaldo S. Queiroz",
+      "count": 6401
     },
     {
-      "label": "L. Lee Grismer",
-      "count": 7684
+      "label": "Toshihiko Ota",
+      "count": 3630
     },
     {
-      "label": "Feng Gu",
-      "count": 5844
+      "label": "Juan Carlos Helo",
+      "count": 3605
     },
     {
-      "label": "Dana Zakalik",
-      "count": 2410
+      "label": "Pasquale Scarlino",
+      "count": 3329
     },
     {
-      "label": "Dantong Zhang",
-      "count": 2150
+      "label": "Francesco Ciccarello",
+      "count": 3106
     },
     {
-      "label": "Nadja A. Farshad‐Amacker",
-      "count": 1808
+      "label": "David S. Hains",
+      "count": 2991
     },
     {
-      "label": "Jardel Francisco Mazzi‐Chaves",
-      "count": 1681
+      "label": "Daniel Pizarro",
+      "count": 2773
     },
     {
-      "label": "N. A. Aravind",
-      "count": 1416
+      "label": "Catherine S. Forster",
+      "count": 2514
     }
   ],
   "institutionTypes": [
     {
       "label": "University / school",
-      "count": 14
+      "count": 72
+    },
+    {
+      "label": "Hospital / healthcare",
+      "count": 29
+    },
+    {
+      "label": "Research facility",
+      "count": 10
+    },
+    {
+      "label": "Government",
+      "count": 4
+    },
+    {
+      "label": "Company",
+      "count": 3
+    },
+    {
+      "label": "Nonprofit / institute",
+      "count": 2
     },
     {
       "label": "Organization",
-      "count": 2
+      "count": 1
     }
   ]
 }
