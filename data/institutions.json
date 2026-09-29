@@ -1,5 +1,24 @@
 [
   {
+    "id": "I2800437794",
+    "name": "Federal University Lafia",
+    "type": "education",
+    "countryCode": "NG",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I2800437794",
+    "researcherIds": [
+      "A5152979086",
+      "A5152963915"
+    ],
+    "discoveryIds": [
+      "W7214450452",
+      "W7214478710",
+      "W7214482552",
+      "W7214485933"
+    ]
+  },
+  {
     "id": "I145311948",
     "name": "Johns Hopkins University",
     "type": "education",
@@ -17,6 +36,23 @@
     "discoveryIds": [
       "W7214518208",
       "W7214521124"
+    ]
+  },
+  {
+    "id": "I187152970",
+    "name": "Benue State University",
+    "type": "education",
+    "countryCode": "NG",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I187152970",
+    "researcherIds": [
+      "A5152959277",
+      "A5153000564"
+    ],
+    "discoveryIds": [
+      "W7214450452",
+      "W7214485933"
     ]
   },
   {
@@ -1957,30 +1993,6 @@
     ],
     "discoveryIds": [
       "W7214524686"
-    ]
-  },
-  {
-    "id": "I4210154480",
-    "name": "Chongqing Cancer Hospital",
-    "type": "healthcare",
-    "countryCode": "CN",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I4210154480",
-    "researcherIds": [
-      "A5100441993",
-      "A5101598090",
-      "A5050689804",
-      "A5112963288",
-      "A5124187582",
-      "A5110916077",
-      "A5028538878",
-      "A5153173577",
-      "A5124179976",
-      "A5153033845"
-    ],
-    "discoveryIds": [
-      "W7214524900"
     ]
   }
 ]

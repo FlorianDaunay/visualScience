@@ -1,5 +1,395 @@
 [
   {
+    "id": "W7214450452",
+    "title": "Stakeholder Perspectives on Respectful Maternity Care in North-Central Nigeria: A Mixed-Methods Evaluation",
+    "abstractText": "ABSTRACTAchieving Respectful Maternity Care (RMC) requires health systems research that triangulates community women's lived experiences with the operational and structural realities faced by frontline primary healthcare providers. This study evaluated the dimensions of RMC, identified the systemic drivers of Disrespect and Abuse (D&A), and assessed the effect of a Leadership Development Program (LDP) across Primary Health Centres (PHCs) in Benue State, North- Central Nigeria. A convergent parallel mixed-methods quasi-experimental evaluation was conducted across 16 rural PHCs in Benue State over 12 months. Quantitative data were obtained from Women of Reproductive Age Group attending antenatal care, at baseline and 6 months post-LDP workshop. Quantitative data were analyzed with IBM SPSS version 20 (p<0.05); qualitative transcripts were analyzed using thematic content analysis. At baseline, 26.1% of women (study group PHCs) and 25.7% (control PHCs) reported experiencing negative provider behaviours. Disrespect was most frequently reported as provider harshness/condescension (31.1%). Qualitative FGDs corroborated widespread fear of being shouted at during labour. Baseline KIIs revealed that non-payment of salaries was the leading structural stressor undermining provider attitudes. Following the LDP intervention, reported negative provider behaviours in intervention PHCs fell from 26.1% to 2.3% (p<0.001). Post-LDP qualitative themes highlighted enhanced interpersonal warmth. Disrespect during maternal care in rural North-Central Nigeria arises from an interaction between frontline provider burnout and structural health system deficits, rather than individual provider fault. Participatory leadership training substantially improves RMC compliance in the short term, sustaining these gains requires concurrent investment in structural drivers, particularly regular salary disbursement and facility infrastructure upgrades.",
+    "publishedDate": "2026-09-29",
+    "doi": "https://doi.org/10.5281/zenodo.22974025",
+    "sourceUrl": "https://doi.org/10.5281/zenodo.22974025",
+    "isOpenAccess": true,
+    "venueName": "Western Journal of Medical and Biomedical Sciences",
+    "citedByCount": 0,
+    "concepts": [
+      {
+        "id": "C56995899",
+        "name": "Focus group",
+        "score": 0.6887999773025513
+      },
+      {
+        "id": "C190248442",
+        "name": "Qualitative research",
+        "score": 0.5993000268936157
+      },
+      {
+        "id": "C159110408",
+        "name": "Nursing",
+        "score": 0.5845999717712402
+      },
+      {
+        "id": "C87156501",
+        "name": "Qualitative property",
+        "score": 0.5174000263214111
+      },
+      {
+        "id": "C20555606",
+        "name": "Empowerment",
+        "score": 0.4643000066280365
+      },
+      {
+        "id": "C160735492",
+        "name": "Health care",
+        "score": 0.439300000667572
+      }
+    ],
+    "authors": [
+      {
+        "id": "A5152996568",
+        "name": "TT Bitto"
+      },
+      {
+        "id": "A5152996157",
+        "name": "VN Shaahu"
+      },
+      {
+        "id": "A5152987830",
+        "name": "GN Rimamnunra"
+      },
+      {
+        "id": "A5152979086",
+        "name": "IA Bako",
+        "institutionId": "I2800437794",
+        "institutionName": "Federal University Lafia"
+      },
+      {
+        "id": "A5153008854",
+        "name": "PM Utoo"
+      },
+      {
+        "id": "A5152977619",
+        "name": "TP Adajime"
+      },
+      {
+        "id": "A5152959277",
+        "name": "JO Ben-Ameh",
+        "institutionId": "I187152970",
+        "institutionName": "Benue State University"
+      },
+      {
+        "id": "A5153000564",
+        "name": "RI Izeji",
+        "institutionId": "I187152970",
+        "institutionName": "Benue State University"
+      },
+      {
+        "id": "A5152963915",
+        "name": "NA Emeribe",
+        "institutionId": "I2800437794",
+        "institutionName": "Federal University Lafia"
+      }
+    ],
+    "institutions": [
+      {
+        "id": "I2800437794",
+        "name": "Federal University Lafia",
+        "countryCode": "NG"
+      },
+      {
+        "id": "I187152970",
+        "name": "Benue State University",
+        "countryCode": "NG"
+      }
+    ],
+    "openAlexUrl": "https://openalex.org/W7214450452"
+  },
+  {
+    "id": "W7214478710",
+    "title": "Provider Attitude as a Modifier of Skilled Birth Attendance (SBA) Utilisation: Evidence from a Quasi-Experimental Study in Benue State, Nigeria",
+    "abstractText": "ABSTRACTAcross sub-Saharan Africa, high antenatal care (ANC) coverage frequently fails to translate into facility-based, skilled- attended deliveries. While economic and geographic barriers to skilled birth attendance (SBA) are well documented, provider interpersonal attitude is increasingly recognised as a modifiable, supply-side determinant of delivery-site choice. This study evaluated whether a Leadership Development Program (LDP) directed at frontline health workers improved provider attitude and, in turn, increased SBA utilisation and facility delivery volume in rural Benue State, Nigeria. A quasi-experimental study with a six-month post-intervention follow-up was conducted across 16 rural Primary Health Centres (PHCs) in Benue. Health workers at intervention PHCs received an LDP workshop. A cohort of 436 Women of Reproductive Age Group attending ANC was followed up. Data were analysed with IBM SPSS version 20 with significance set at p<0.05. Individual SBA attendance in the intervention group rose from 83.5% at baseline to 95.0% post-intervention (χ²=5.172, df=1, p=0.023). The proportion of total live births attended to by an SBA in the intervention group increased from 84.3% to 95.0% (χ²=4.666, df=1, p=0.031). Good provider attitude scores rose from 81.2% to 100.0% in intervention PHCs (χ²=45.256, df=1, p<0.001). Improving provider interpersonal attitude through structured leadership training significantly increased individual SBA utilisation among women already engaged in ANC. Provider attitude is therefore a powerful, rapidly modifiable determinant of care-seeking among existing clients; expanding population-level facility delivery coverage will additionally require structural health-system strengthening and community-based demand-generation strategies.",
+    "publishedDate": "2026-09-29",
+    "doi": "https://doi.org/10.5281/zenodo.22974235",
+    "sourceUrl": "https://doi.org/10.5281/zenodo.22974235",
+    "isOpenAccess": true,
+    "venueName": "Western Journal of Medical and Biomedical Sciences",
+    "citedByCount": 0,
+    "concepts": [
+      {
+        "id": "C2778173179",
+        "name": "Attendance",
+        "score": 0.7620999813079834
+      },
+      {
+        "id": "C71924100",
+        "name": "Medicine",
+        "score": 0.6116999983787537
+      },
+      {
+        "id": "C2780665704",
+        "name": "Intervention (counseling)",
+        "score": 0.5551999807357788
+      },
+      {
+        "id": "C512399662",
+        "name": "Family medicine",
+        "score": 0.5253999829292297
+      },
+      {
+        "id": "C164850336",
+        "name": "Interpersonal communication",
+        "score": 0.5087000131607056
+      },
+      {
+        "id": "C159110408",
+        "name": "Nursing",
+        "score": 0.48030000925064087
+      }
+    ],
+    "authors": [
+      {
+        "id": "A5152996568",
+        "name": "TT Bitto"
+      },
+      {
+        "id": "A5152987830",
+        "name": "GN Rimamnunra"
+      },
+      {
+        "id": "A5152979086",
+        "name": "IA Bako",
+        "institutionId": "I2800437794",
+        "institutionName": "Federal University Lafia"
+      },
+      {
+        "id": "A5152996157",
+        "name": "VN Shaahu"
+      },
+      {
+        "id": "A5152977619",
+        "name": "TP Adajime"
+      },
+      {
+        "id": "A5153008854",
+        "name": "PM Utoo"
+      },
+      {
+        "id": "A5152994457",
+        "name": "AD Belabo"
+      },
+      {
+        "id": "A5153000895",
+        "name": "TJ Adia"
+      },
+      {
+        "id": "A5152963915",
+        "name": "NA Emeribe",
+        "institutionId": "I2800437794",
+        "institutionName": "Federal University Lafia"
+      }
+    ],
+    "institutions": [
+      {
+        "id": "I2800437794",
+        "name": "Federal University Lafia",
+        "countryCode": "NG"
+      }
+    ],
+    "openAlexUrl": "https://openalex.org/W7214478710"
+  },
+  {
+    "id": "W7214482552",
+    "title": "Provider Attitude as a Modifier of Skilled Birth Attendance (SBA) Utilisation: Evidence from a Quasi-Experimental Study in Benue State, Nigeria",
+    "abstractText": "ABSTRACTAcross sub-Saharan Africa, high antenatal care (ANC) coverage frequently fails to translate into facility-based, skilled- attended deliveries. While economic and geographic barriers to skilled birth attendance (SBA) are well documented, provider interpersonal attitude is increasingly recognised as a modifiable, supply-side determinant of delivery-site choice. This study evaluated whether a Leadership Development Program (LDP) directed at frontline health workers improved provider attitude and, in turn, increased SBA utilisation and facility delivery volume in rural Benue State, Nigeria. A quasi-experimental study with a six-month post-intervention follow-up was conducted across 16 rural Primary Health Centres (PHCs) in Benue. Health workers at intervention PHCs received an LDP workshop. A cohort of 436 Women of Reproductive Age Group attending ANC was followed up. Data were analysed with IBM SPSS version 20 with significance set at p<0.05. Individual SBA attendance in the intervention group rose from 83.5% at baseline to 95.0% post-intervention (χ²=5.172, df=1, p=0.023). The proportion of total live births attended to by an SBA in the intervention group increased from 84.3% to 95.0% (χ²=4.666, df=1, p=0.031). Good provider attitude scores rose from 81.2% to 100.0% in intervention PHCs (χ²=45.256, df=1, p<0.001). Improving provider interpersonal attitude through structured leadership training significantly increased individual SBA utilisation among women already engaged in ANC. Provider attitude is therefore a powerful, rapidly modifiable determinant of care-seeking among existing clients; expanding population-level facility delivery coverage will additionally require structural health-system strengthening and community-based demand-generation strategies.",
+    "publishedDate": "2026-09-29",
+    "doi": "https://doi.org/10.5281/zenodo.22974234",
+    "sourceUrl": "https://doi.org/10.5281/zenodo.22974234",
+    "isOpenAccess": true,
+    "venueName": "Western Journal of Medical and Biomedical Sciences",
+    "citedByCount": 0,
+    "concepts": [
+      {
+        "id": "C2778173179",
+        "name": "Attendance",
+        "score": 0.7620999813079834
+      },
+      {
+        "id": "C71924100",
+        "name": "Medicine",
+        "score": 0.6116999983787537
+      },
+      {
+        "id": "C2780665704",
+        "name": "Intervention (counseling)",
+        "score": 0.5551999807357788
+      },
+      {
+        "id": "C512399662",
+        "name": "Family medicine",
+        "score": 0.5253999829292297
+      },
+      {
+        "id": "C164850336",
+        "name": "Interpersonal communication",
+        "score": 0.5087000131607056
+      },
+      {
+        "id": "C159110408",
+        "name": "Nursing",
+        "score": 0.48030000925064087
+      }
+    ],
+    "authors": [
+      {
+        "id": "A5152996568",
+        "name": "TT Bitto"
+      },
+      {
+        "id": "A5152987830",
+        "name": "GN Rimamnunra"
+      },
+      {
+        "id": "A5152979086",
+        "name": "IA Bako",
+        "institutionId": "I2800437794",
+        "institutionName": "Federal University Lafia"
+      },
+      {
+        "id": "A5152996157",
+        "name": "VN Shaahu"
+      },
+      {
+        "id": "A5152977619",
+        "name": "TP Adajime"
+      },
+      {
+        "id": "A5153008854",
+        "name": "PM Utoo"
+      },
+      {
+        "id": "A5152994457",
+        "name": "AD Belabo"
+      },
+      {
+        "id": "A5153000895",
+        "name": "TJ Adia"
+      },
+      {
+        "id": "A5152963915",
+        "name": "NA Emeribe",
+        "institutionId": "I2800437794",
+        "institutionName": "Federal University Lafia"
+      }
+    ],
+    "institutions": [
+      {
+        "id": "I2800437794",
+        "name": "Federal University Lafia",
+        "countryCode": "NG"
+      }
+    ],
+    "openAlexUrl": "https://openalex.org/W7214482552"
+  },
+  {
+    "id": "W7214485933",
+    "title": "Stakeholder Perspectives on Respectful Maternity Care in North-Central Nigeria: A Mixed-Methods Evaluation",
+    "abstractText": "ABSTRACTAchieving Respectful Maternity Care (RMC) requires health systems research that triangulates community women's lived experiences with the operational and structural realities faced by frontline primary healthcare providers. This study evaluated the dimensions of RMC, identified the systemic drivers of Disrespect and Abuse (D&A), and assessed the effect of a Leadership Development Program (LDP) across Primary Health Centres (PHCs) in Benue State, North- Central Nigeria. A convergent parallel mixed-methods quasi-experimental evaluation was conducted across 16 rural PHCs in Benue State over 12 months. Quantitative data were obtained from Women of Reproductive Age Group attending antenatal care, at baseline and 6 months post-LDP workshop. Quantitative data were analyzed with IBM SPSS version 20 (p<0.05); qualitative transcripts were analyzed using thematic content analysis. At baseline, 26.1% of women (study group PHCs) and 25.7% (control PHCs) reported experiencing negative provider behaviours. Disrespect was most frequently reported as provider harshness/condescension (31.1%). Qualitative FGDs corroborated widespread fear of being shouted at during labour. Baseline KIIs revealed that non-payment of salaries was the leading structural stressor undermining provider attitudes. Following the LDP intervention, reported negative provider behaviours in intervention PHCs fell from 26.1% to 2.3% (p<0.001). Post-LDP qualitative themes highlighted enhanced interpersonal warmth. Disrespect during maternal care in rural North-Central Nigeria arises from an interaction between frontline provider burnout and structural health system deficits, rather than individual provider fault. Participatory leadership training substantially improves RMC compliance in the short term, sustaining these gains requires concurrent investment in structural drivers, particularly regular salary disbursement and facility infrastructure upgrades.",
+    "publishedDate": "2026-09-29",
+    "doi": "https://doi.org/10.5281/zenodo.22974026",
+    "sourceUrl": "https://doi.org/10.5281/zenodo.22974026",
+    "isOpenAccess": true,
+    "venueName": "Western Journal of Medical and Biomedical Sciences",
+    "citedByCount": 0,
+    "concepts": [
+      {
+        "id": "C56995899",
+        "name": "Focus group",
+        "score": 0.6887999773025513
+      },
+      {
+        "id": "C190248442",
+        "name": "Qualitative research",
+        "score": 0.5993000268936157
+      },
+      {
+        "id": "C159110408",
+        "name": "Nursing",
+        "score": 0.5845999717712402
+      },
+      {
+        "id": "C87156501",
+        "name": "Qualitative property",
+        "score": 0.5174000263214111
+      },
+      {
+        "id": "C20555606",
+        "name": "Empowerment",
+        "score": 0.4643000066280365
+      },
+      {
+        "id": "C160735492",
+        "name": "Health care",
+        "score": 0.439300000667572
+      }
+    ],
+    "authors": [
+      {
+        "id": "A5152996568",
+        "name": "TT Bitto"
+      },
+      {
+        "id": "A5152996157",
+        "name": "VN Shaahu"
+      },
+      {
+        "id": "A5152987830",
+        "name": "GN Rimamnunra"
+      },
+      {
+        "id": "A5152979086",
+        "name": "IA Bako",
+        "institutionId": "I2800437794",
+        "institutionName": "Federal University Lafia"
+      },
+      {
+        "id": "A5153008854",
+        "name": "PM Utoo"
+      },
+      {
+        "id": "A5152977619",
+        "name": "TP Adajime"
+      },
+      {
+        "id": "A5152959277",
+        "name": "JO Ben-Ameh",
+        "institutionId": "I187152970",
+        "institutionName": "Benue State University"
+      },
+      {
+        "id": "A5153000564",
+        "name": "RI Izeji",
+        "institutionId": "I187152970",
+        "institutionName": "Benue State University"
+      },
+      {
+        "id": "A5152963915",
+        "name": "NA Emeribe",
+        "institutionId": "I2800437794",
+        "institutionName": "Federal University Lafia"
+      }
+    ],
+    "institutions": [
+      {
+        "id": "I2800437794",
+        "name": "Federal University Lafia",
+        "countryCode": "NG"
+      },
+      {
+        "id": "I187152970",
+        "name": "Benue State University",
+        "countryCode": "NG"
+      }
+    ],
+    "openAlexUrl": "https://openalex.org/W7214485933"
+  },
+  {
     "id": "W2752343135",
     "title": "On composite conformal mapping of an annulus to a plane with two holes",
     "abstractText": "Abstract A semi-inverse composite conformal mapping is considered for an infinite plane containing two holes. The construction combines a bilinear map from an annulus with a prescribed exterior map for one hole. This produces one boundary controlled by the chosen exterior map and a second boundary that is circular or nearly circular in the physical plane. When the exterior map is available in Laurent series form, the same representation can be used in truncated series solutions of selected harmonic potential problems, such as steady heat conduction and ideal potential flow. The method is illustrated by bilinear–hypotrochoid and bilinear–Schwarz–Christoffel examples.",
@@ -12208,303 +12598,5 @@
       }
     ],
     "openAlexUrl": "https://openalex.org/W7214524686"
-  },
-  {
-    "id": "W7214524725",
-    "title": "The insulin resistance mosaic: defect, defence or both? A perspective on what insulin resistance means and whether it should be treated",
-    "abstractText": null,
-    "publishedDate": "2026-09-28",
-    "doi": "https://doi.org/10.1007/s00125-026-06874-4",
-    "sourceUrl": "https://doi.org/10.1007/s00125-026-06874-4",
-    "isOpenAccess": true,
-    "venueName": "Diabetologia",
-    "citedByCount": 0,
-    "concepts": [
-      {
-        "id": "C126322002",
-        "name": "Internal medicine",
-        "score": 0.6614000201225281
-      },
-      {
-        "id": "C71924100",
-        "name": "Medicine",
-        "score": 0.6541000008583069
-      },
-      {
-        "id": "C12713177",
-        "name": "Perspective (graphical)",
-        "score": 0.6334999799728394
-      },
-      {
-        "id": "C134018914",
-        "name": "Endocrinology",
-        "score": 0.6215999722480774
-      },
-      {
-        "id": "C2986265897",
-        "name": "Human physiology",
-        "score": 0.510200023651123
-      },
-      {
-        "id": "C555293320",
-        "name": "Diabetes mellitus",
-        "score": 0.43959999084472656
-      }
-    ],
-    "authors": [
-      {
-        "id": "A5014643889",
-        "name": "David Ernest James"
-      }
-    ],
-    "institutions": [],
-    "openAlexUrl": "https://openalex.org/W7214524725"
-  },
-  {
-    "id": "W7214524788",
-    "title": "Reentrant Phenomenon and Tunable Magnetic Transitions in Monolayer Graphyne-like Nanostructures: A Monte Carlo Study",
-    "abstractText": "The magnetic properties of the monolayer graphyne-like nanostructures (MGLN) with mixed spins (S=1 and σ=7/2) are investigated by Monte Carlo simulation within the Blume-Capel model. The performed Monte Carlo simulations have produced some interesting features displaying the reentrant phenomenon. A detailed analysis of the system reveals the complex nature of its phase transitions with significant tunability in magnetism. Notably, a first-order to second-order magnetic transition crossover governed by T or H has been found in the system. These findings will be useful for understanding controllable magnetic responses in MGLN and for further spintronic and technological applications.",
-    "publishedDate": "2026-09-28",
-    "doi": "https://doi.org/10.1142/s0217979226502905",
-    "sourceUrl": "https://doi.org/10.1142/s0217979226502905",
-    "isOpenAccess": false,
-    "venueName": "International Journal of Modern Physics B",
-    "citedByCount": 0,
-    "concepts": [
-      {
-        "id": "C161406801",
-        "name": "Reentrancy",
-        "score": 0.8752999901771545
-      },
-      {
-        "id": "C19499675",
-        "name": "Monte Carlo method",
-        "score": 0.8086000084877014
-      },
-      {
-        "id": "C26873012",
-        "name": "Condensed matter physics",
-        "score": 0.7558000087738037
-      },
-      {
-        "id": "C2778870898",
-        "name": "Spins",
-        "score": 0.7163000106811523
-      },
-      {
-        "id": "C7070889",
-        "name": "Monolayer",
-        "score": 0.6348000168800354
-      },
-      {
-        "id": "C192562407",
-        "name": "Materials science",
-        "score": 0.6190000176429749
-      }
-    ],
-    "authors": [
-      {
-        "id": "A5153035477",
-        "name": "M. Naziruddin Khan"
-      },
-      {
-        "id": "A5153105763",
-        "name": "H. Kerrai"
-      },
-      {
-        "id": "A5153082763",
-        "name": "A. Jabar"
-      },
-      {
-        "id": "A5153159836",
-        "name": "Z. Fadil"
-      },
-      {
-        "id": "A5080729786",
-        "name": "Abdulrahman A. Alsayyari"
-      },
-      {
-        "id": "A5135151208",
-        "name": "Abdullah Almohammedi"
-      },
-      {
-        "id": "A5153155769",
-        "name": "Chaitany Jayprakash Raorane"
-      },
-      {
-        "id": "A5153151943",
-        "name": "Seong-Cheol Kim"
-      }
-    ],
-    "institutions": [],
-    "openAlexUrl": "https://openalex.org/W7214524788"
-  },
-  {
-    "id": "W7214524800",
-    "title": "Quantitative Comparison of Vulnerability Indicators for VSC-HVDC Site Selection to Improve Transient Voltage Response",
-    "abstractText": null,
-    "publishedDate": "2026-09-28",
-    "doi": "https://doi.org/10.5370/kiee.2026.75.9.2040",
-    "sourceUrl": "https://doi.org/10.5370/kiee.2026.75.9.2040",
-    "isOpenAccess": false,
-    "venueName": "The Transactions of The Korean Institute of Electrical Engineers",
-    "citedByCount": 0,
-    "concepts": [
-      {
-        "id": "C95713431",
-        "name": "Vulnerability (computing)",
-        "score": 0.58160001039505
-      },
-      {
-        "id": "C85761212",
-        "name": "Transient response",
-        "score": 0.5774000287055969
-      },
-      {
-        "id": "C2780799671",
-        "name": "Transient (computer programming)",
-        "score": 0.5702000260353088
-      },
-      {
-        "id": "C81917197",
-        "name": "Selection (genetic algorithm)",
-        "score": 0.5540000200271606
-      },
-      {
-        "id": "C41008148",
-        "name": "Computer science",
-        "score": 0.5181000232696533
-      },
-      {
-        "id": "C165801399",
-        "name": "Voltage",
-        "score": 0.4345000088214874
-      }
-    ],
-    "authors": [
-      {
-        "id": "A5153065622",
-        "name": "Han-Byul Lim"
-      },
-      {
-        "id": "A5153163435",
-        "name": "Sung-yoon Song"
-      }
-    ],
-    "institutions": [],
-    "openAlexUrl": "https://openalex.org/W7214524800"
-  },
-  {
-    "id": "W7214524900",
-    "title": "Caregiver burden and malnutrition in patients with HIV-associated lymphoma: indirect pathways via symptom distress and family closeness, and a test of resilience as a mediator",
-    "abstractText": "Background and objective Malnutrition is a frequent and clinically significant complication in patients with HIV-associated lymphoma, adversely affecting treatment tolerance, prognosis, and quality of life. Although disease-related and immunological determinants of malnutrition have been widely reported, the potential psychosocial pathways—particularly the role of caregiver burden—in patients with HIV-associated lymphoma remain insufficiently characterized. This study aimed to identify key determinants of malnutrition and to examine whether caregiver burden exerts indirect effects through symptom distress and psychosocial factors. Methods This single-center cross-sectional study included 200 patients with HIV-associated lymphoma and their family caregivers. Nutritional status was assessed using the Patient-Generated Subjective Global Assessment (PG-SGA), with the total score analyzed as a continuous outcome. Symptom burden, caregiver burden, psychological resilience, and family closeness were assessed using standardized instruments. Univariable and multivariable linear regression analyses were conducted using HC3 heteroscedasticity-consistent inference. Indirect statistical associations were examined using bootstrap analyses, followed by exploratory subgroup and sensitivity analyses. Results Higher symptom burden and IPI risk were associated with higher PG-SGA total scores, whereas higher CD4 + T-cell counts and serum albumin concentrations were associated with lower scores (all p ≤ 0.005). Age, sex, and caregiver burden were not independently associated with PG-SGA score. Exploratory analyses provided no statistically supported evidence of an indirect association through symptom burden or of differences by age, sex, or CD4 + T-cell count. Sensitivity analyses produced consistent conclusions. Conclusion Nutritional status in patients with HIV-associated lymphoma was associated mainly with symptom burden, immune status, serum albumin, and lymphoma prognostic risk. Caregiver burden showed neither an independent association with PG-SGA score nor a confirmed indirect association through symptom burden. Larger multicenter longitudinal studies are needed to clarify the temporal relationships among caregiver burden, psychosocial factors, and nutritional status.",
-    "publishedDate": "2026-09-28",
-    "doi": "https://doi.org/10.3389/fnut.2026.1921747",
-    "sourceUrl": "https://doi.org/10.3389/fnut.2026.1921747",
-    "isOpenAccess": true,
-    "venueName": "Frontiers in Nutrition",
-    "citedByCount": 0,
-    "concepts": [
-      {
-        "id": "C150966472",
-        "name": "Psychosocial",
-        "score": 0.7936000227928162
-      },
-      {
-        "id": "C71924100",
-        "name": "Medicine",
-        "score": 0.7580999732017517
-      },
-      {
-        "id": "C551997983",
-        "name": "Malnutrition",
-        "score": 0.6615999937057495
-      },
-      {
-        "id": "C139265228",
-        "name": "Distress",
-        "score": 0.541100025177002
-      },
-      {
-        "id": "C70410870",
-        "name": "Clinical psychology",
-        "score": 0.40299999713897705
-      },
-      {
-        "id": "C142052008",
-        "name": "Cross-sectional study",
-        "score": 0.37290000915527344
-      }
-    ],
-    "authors": [
-      {
-        "id": "A5100441993",
-        "name": "Tingting Liu",
-        "institutionId": "I4210154480",
-        "institutionName": "Chongqing Cancer Hospital"
-      },
-      {
-        "id": "A5101598090",
-        "name": "Jing Lv",
-        "institutionId": "I4210154480",
-        "institutionName": "Chongqing Cancer Hospital"
-      },
-      {
-        "id": "A5050689804",
-        "name": "LuXiang Xu",
-        "institutionId": "I4210154480",
-        "institutionName": "Chongqing Cancer Hospital"
-      },
-      {
-        "id": "A5112963288",
-        "name": "Yu Peng",
-        "institutionId": "I4210154480",
-        "institutionName": "Chongqing Cancer Hospital"
-      },
-      {
-        "id": "A5124187582",
-        "name": "Chaoyu Wang",
-        "institutionId": "I4210154480",
-        "institutionName": "Chongqing Cancer Hospital"
-      },
-      {
-        "id": "A5110916077",
-        "name": "Xiaomei Zhang",
-        "institutionId": "I4210154480",
-        "institutionName": "Chongqing Cancer Hospital"
-      },
-      {
-        "id": "A5028538878",
-        "name": "Qing Xiao",
-        "institutionId": "I4210154480",
-        "institutionName": "Chongqing Cancer Hospital"
-      },
-      {
-        "id": "A5153173577",
-        "name": "Jun Li",
-        "institutionId": "I4210154480",
-        "institutionName": "Chongqing Cancer Hospital"
-      },
-      {
-        "id": "A5124179976",
-        "name": "Zhaoli Zhang",
-        "institutionId": "I4210154480",
-        "institutionName": "Chongqing Cancer Hospital"
-      },
-      {
-        "id": "A5153033845",
-        "name": "Yao Liu",
-        "institutionId": "I4210154480",
-        "institutionName": "Chongqing Cancer Hospital"
-      }
-    ],
-    "institutions": [
-      {
-        "id": "I4210154480",
-        "name": "Chongqing Cancer Hospital",
-        "countryCode": "CN"
-      }
-    ],
-    "openAlexUrl": "https://openalex.org/W7214524900"
   }
 ]

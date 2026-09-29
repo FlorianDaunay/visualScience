@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-09-28T14:00:08.129Z",
+  "generatedAt": "2026-09-29T12:56:57.663Z",
   "totalDiscoveries": 160,
-  "totalResearchers": 850,
-  "totalInstitutions": 116,
+  "totalResearchers": 840,
+  "totalInstitutions": 117,
   "totalCitations": 1,
   "averageCitations": 0,
-  "openAccessRatio": 0.69375,
+  "openAccessRatio": 0.70625,
   "weeklySeries": [
     {
       "weekStart": "2026-09-28",
@@ -50,13 +50,21 @@
       "count": 3
     },
     {
-      "label": "Microbiology",
+      "label": "Focus group",
       "count": 2
     }
   ],
   "topInstitutions": [
     {
+      "label": "Federal University Lafia",
+      "count": 4
+    },
+    {
       "label": "Johns Hopkins University",
+      "count": 2
+    },
+    {
+      "label": "Benue State University",
       "count": 2
     },
     {
@@ -86,20 +94,12 @@
     {
       "label": "Children's Mercy Hospital",
       "count": 1
-    },
-    {
-      "label": "Indiana University – Purdue University Indianapolis",
-      "count": 1
-    },
-    {
-      "label": "University of Kansas Medical Center",
-      "count": 1
     }
   ],
   "topCountries": [
     {
       "label": "CN",
-      "count": 31
+      "count": 30
     },
     {
       "label": "KR",
@@ -112,6 +112,10 @@
     {
       "label": "IT",
       "count": 10
+    },
+    {
+      "label": "NG",
+      "count": 7
     },
     {
       "label": "SA",
@@ -132,62 +136,58 @@
     {
       "label": "CA",
       "count": 3
-    },
-    {
-      "label": "CL",
-      "count": 2
     }
   ],
   "topResearchers": [
     {
       "label": "Reem A. Mustafa",
-      "count": 40432
-    },
-    {
-      "label": "M. Clemenza",
-      "count": 6780
+      "count": 40450
     },
     {
       "label": "Farinaldo S. Queiroz",
-      "count": 6401
-    },
-    {
-      "label": "Toshihiko Ota",
-      "count": 3630
+      "count": 6386
     },
     {
       "label": "Juan Carlos Helo",
-      "count": 3605
+      "count": 3999
+    },
+    {
+      "label": "Toshihiko Ota",
+      "count": 3623
     },
     {
       "label": "Pasquale Scarlino",
-      "count": 3329
+      "count": 3394
     },
     {
       "label": "Francesco Ciccarello",
-      "count": 3106
+      "count": 3093
     },
     {
       "label": "David S. Hains",
-      "count": 2991
+      "count": 2999
     },
     {
       "label": "Daniel Pizarro",
-      "count": 2773
+      "count": 2779
     },
     {
       "label": "Catherine S. Forster",
-      "count": 2514
+      "count": 2521
+    },
+    {
+      "label": "Milan Batista",
+      "count": 1352
     }
   ],
   "institutionTypes": [
     {
       "label": "University / school",
-      "count": 72
+      "count": 78
     },
     {
       "label": "Hospital / healthcare",
-      "count": 29
+      "count": 28
     },
     {
       "label": "Research facility",

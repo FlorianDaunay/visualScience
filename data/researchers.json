@@ -4,8 +4,8 @@
     "name": "Catherine S. Forster",
     "institutionId": "I170201317",
     "institutionName": "University of Pittsburgh",
-    "worksCount": 126,
-    "citedByCount": 2514,
+    "worksCount": 129,
+    "citedByCount": 2521,
     "hIndex": 22,
     "orcid": "https://orcid.org/0000-0002-6233-1070",
     "openAlexUrl": "https://openalex.org/A5068651485",
@@ -18,8 +18,8 @@
     "name": "Caleb Nelson",
     "institutionId": "I1288882113",
     "institutionName": "Boston Children's Hospital",
-    "worksCount": 2,
-    "citedByCount": 6,
+    "worksCount": 3,
+    "citedByCount": 7,
     "hIndex": 1,
     "orcid": null,
     "openAlexUrl": "https://openalex.org/A5061969216",
@@ -34,7 +34,7 @@
     "institutionName": "Children's Mercy Hospital",
     "worksCount": 1,
     "citedByCount": 1,
-    "hIndex": null,
+    "hIndex": 1,
     "orcid": null,
     "openAlexUrl": "https://openalex.org/A5153054954",
     "discoveryIds": [
@@ -46,8 +46,8 @@
     "name": "David S. Hains",
     "institutionId": "I55769427",
     "institutionName": "Indiana University – Purdue University Indianapolis",
-    "worksCount": 132,
-    "citedByCount": 2991,
+    "worksCount": 141,
+    "citedByCount": 2999,
     "hIndex": 29,
     "orcid": "https://orcid.org/0000-0001-6511-9561",
     "openAlexUrl": "https://openalex.org/A5030759310",
@@ -60,8 +60,8 @@
     "name": "Jamil Nazzal",
     "institutionId": "I4210128618",
     "institutionName": "University of Kansas Medical Center",
-    "worksCount": 48,
-    "citedByCount": 136,
+    "worksCount": 51,
+    "citedByCount": 137,
     "hIndex": 4,
     "orcid": "https://orcid.org/0009-0002-4215-2945",
     "openAlexUrl": "https://openalex.org/A5032019303",
@@ -74,8 +74,8 @@
     "name": "Emily Senerth",
     "institutionId": "I2799849604",
     "institutionName": "Cleveland Foundation",
-    "worksCount": 41,
-    "citedByCount": 566,
+    "worksCount": 45,
+    "citedByCount": 569,
     "hIndex": 9,
     "orcid": "https://orcid.org/0000-0003-3516-1990",
     "openAlexUrl": "https://openalex.org/A5001485771",
@@ -88,8 +88,8 @@
     "name": "Reem A. Mustafa",
     "institutionId": "I2799849604",
     "institutionName": "Cleveland Foundation",
-    "worksCount": 441,
-    "citedByCount": 40432,
+    "worksCount": 444,
+    "citedByCount": 40450,
     "hIndex": 98,
     "orcid": "https://orcid.org/0000-0002-2091-0875",
     "openAlexUrl": "https://openalex.org/A5067205817",
@@ -102,9 +102,9 @@
     "name": "Rebecca L. Morgan",
     "institutionId": "I2799849604",
     "institutionName": "Cleveland Foundation",
-    "worksCount": 1,
+    "worksCount": 2,
     "citedByCount": 1,
-    "hIndex": null,
+    "hIndex": 1,
     "orcid": null,
     "openAlexUrl": "https://openalex.org/A5153055152",
     "discoveryIds": [
@@ -118,11 +118,190 @@
     "institutionName": "Johns Hopkins University",
     "worksCount": 1,
     "citedByCount": 1,
-    "hIndex": null,
+    "hIndex": 1,
     "orcid": null,
     "openAlexUrl": "https://openalex.org/A5153106481",
     "discoveryIds": [
       "W7214518208"
+    ]
+  },
+  {
+    "id": "A5152996568",
+    "name": "TT Bitto",
+    "institutionId": null,
+    "institutionName": null,
+    "worksCount": 8,
+    "citedByCount": 0,
+    "hIndex": 0,
+    "orcid": null,
+    "openAlexUrl": "https://openalex.org/A5152996568",
+    "discoveryIds": [
+      "W7214450452",
+      "W7214478710",
+      "W7214482552",
+      "W7214485933"
+    ]
+  },
+  {
+    "id": "A5152996157",
+    "name": "VN Shaahu",
+    "institutionId": null,
+    "institutionName": null,
+    "worksCount": 8,
+    "citedByCount": 0,
+    "hIndex": 0,
+    "orcid": null,
+    "openAlexUrl": "https://openalex.org/A5152996157",
+    "discoveryIds": [
+      "W7214450452",
+      "W7214478710",
+      "W7214482552",
+      "W7214485933"
+    ]
+  },
+  {
+    "id": "A5152987830",
+    "name": "GN Rimamnunra",
+    "institutionId": null,
+    "institutionName": null,
+    "worksCount": 8,
+    "citedByCount": 0,
+    "hIndex": 0,
+    "orcid": null,
+    "openAlexUrl": "https://openalex.org/A5152987830",
+    "discoveryIds": [
+      "W7214450452",
+      "W7214478710",
+      "W7214482552",
+      "W7214485933"
+    ]
+  },
+  {
+    "id": "A5152979086",
+    "name": "IA Bako",
+    "institutionId": "I2800437794",
+    "institutionName": "Federal University Lafia",
+    "worksCount": 8,
+    "citedByCount": 0,
+    "hIndex": 0,
+    "orcid": null,
+    "openAlexUrl": "https://openalex.org/A5152979086",
+    "discoveryIds": [
+      "W7214450452",
+      "W7214478710",
+      "W7214482552",
+      "W7214485933"
+    ]
+  },
+  {
+    "id": "A5153008854",
+    "name": "PM Utoo",
+    "institutionId": null,
+    "institutionName": null,
+    "worksCount": 8,
+    "citedByCount": 0,
+    "hIndex": 0,
+    "orcid": null,
+    "openAlexUrl": "https://openalex.org/A5153008854",
+    "discoveryIds": [
+      "W7214450452",
+      "W7214478710",
+      "W7214482552",
+      "W7214485933"
+    ]
+  },
+  {
+    "id": "A5152977619",
+    "name": "TP Adajime",
+    "institutionId": null,
+    "institutionName": null,
+    "worksCount": 4,
+    "citedByCount": 0,
+    "hIndex": 0,
+    "orcid": null,
+    "openAlexUrl": "https://openalex.org/A5152977619",
+    "discoveryIds": [
+      "W7214450452",
+      "W7214478710",
+      "W7214482552",
+      "W7214485933"
+    ]
+  },
+  {
+    "id": "A5152963915",
+    "name": "NA Emeribe",
+    "institutionId": "I2800437794",
+    "institutionName": "Federal University Lafia",
+    "worksCount": 4,
+    "citedByCount": 0,
+    "hIndex": 0,
+    "orcid": null,
+    "openAlexUrl": "https://openalex.org/A5152963915",
+    "discoveryIds": [
+      "W7214450452",
+      "W7214478710",
+      "W7214482552",
+      "W7214485933"
+    ]
+  },
+  {
+    "id": "A5152959277",
+    "name": "JO Ben-Ameh",
+    "institutionId": "I187152970",
+    "institutionName": "Benue State University",
+    "worksCount": 2,
+    "citedByCount": 0,
+    "hIndex": 0,
+    "orcid": null,
+    "openAlexUrl": "https://openalex.org/A5152959277",
+    "discoveryIds": [
+      "W7214450452",
+      "W7214485933"
+    ]
+  },
+  {
+    "id": "A5153000564",
+    "name": "RI Izeji",
+    "institutionId": "I187152970",
+    "institutionName": "Benue State University",
+    "worksCount": 2,
+    "citedByCount": 0,
+    "hIndex": 0,
+    "orcid": null,
+    "openAlexUrl": "https://openalex.org/A5153000564",
+    "discoveryIds": [
+      "W7214450452",
+      "W7214485933"
+    ]
+  },
+  {
+    "id": "A5152994457",
+    "name": "AD Belabo",
+    "institutionId": null,
+    "institutionName": null,
+    "worksCount": 2,
+    "citedByCount": 0,
+    "hIndex": 0,
+    "orcid": null,
+    "openAlexUrl": "https://openalex.org/A5152994457",
+    "discoveryIds": [
+      "W7214478710",
+      "W7214482552"
+    ]
+  },
+  {
+    "id": "A5153000895",
+    "name": "TJ Adia",
+    "institutionId": null,
+    "institutionName": null,
+    "worksCount": 2,
+    "citedByCount": 0,
+    "hIndex": 0,
+    "orcid": null,
+    "openAlexUrl": "https://openalex.org/A5153000895",
+    "discoveryIds": [
+      "W7214478710",
+      "W7214482552"
     ]
   },
   {
@@ -131,7 +310,7 @@
     "institutionId": null,
     "institutionName": null,
     "worksCount": 120,
-    "citedByCount": 1353,
+    "citedByCount": 1352,
     "hIndex": 20,
     "orcid": "https://orcid.org/0000-0002-4004-8098",
     "openAlexUrl": "https://openalex.org/A5087189787",
@@ -158,8 +337,8 @@
     "name": "Daniel Pizarro",
     "institutionId": null,
     "institutionName": null,
-    "worksCount": 156,
-    "citedByCount": 2773,
+    "worksCount": 155,
+    "citedByCount": 2779,
     "hIndex": 28,
     "orcid": "https://orcid.org/0000-0003-0622-4884",
     "openAlexUrl": "https://openalex.org/A5014421885",
@@ -200,9 +379,9 @@
     "name": "Juan Carlos Helo",
     "institutionId": "I4387153024",
     "institutionName": "Millennium Institute for Subatomic Physics at High-Energy Frontier, Saphir",
-    "worksCount": 96,
-    "citedByCount": 3605,
-    "hIndex": 24,
+    "worksCount": 106,
+    "citedByCount": 3999,
+    "hIndex": 27,
     "orcid": "https://orcid.org/0000-0002-5310-8598",
     "openAlexUrl": "https://openalex.org/A5059795849",
     "discoveryIds": [
@@ -215,7 +394,7 @@
     "institutionId": "I4387153024",
     "institutionName": "Millennium Institute for Subatomic Physics at High-Energy Frontier, Saphir",
     "worksCount": 137,
-    "citedByCount": 3630,
+    "citedByCount": 3623,
     "hIndex": 33,
     "orcid": "https://orcid.org/0000-0001-8193-5665",
     "openAlexUrl": "https://openalex.org/A5072756410",
@@ -228,8 +407,8 @@
     "name": "Farinaldo S. Queiroz",
     "institutionId": "I35046152",
     "institutionName": "Universidade Federal do Rio Grande do Norte",
-    "worksCount": 198,
-    "citedByCount": 6401,
+    "worksCount": 197,
+    "citedByCount": 6386,
     "hIndex": 43,
     "orcid": "https://orcid.org/0000-0002-7141-5532",
     "openAlexUrl": "https://openalex.org/A5079441904",
@@ -242,8 +421,8 @@
     "name": "A. Soto Rodríguez",
     "institutionId": "I130474213",
     "institutionName": "Pontificia Universidad Católica de Valparaíso",
-    "worksCount": 27,
-    "citedByCount": 440,
+    "worksCount": 26,
+    "citedByCount": 432,
     "hIndex": 13,
     "orcid": "https://orcid.org/0000-0002-2993-8663",
     "openAlexUrl": "https://openalex.org/A5107950087",
@@ -284,9 +463,9 @@
     "name": "Luca Leonforte",
     "institutionId": "I900890020",
     "institutionName": "University of Palermo",
-    "worksCount": 8,
-    "citedByCount": 162,
-    "hIndex": 5,
+    "worksCount": 10,
+    "citedByCount": 194,
+    "hIndex": 7,
     "orcid": "https://orcid.org/0000-0003-4494-3732",
     "openAlexUrl": "https://openalex.org/A5036298493",
     "discoveryIds": [
@@ -312,9 +491,9 @@
     "name": "Léo Peyruchat",
     "institutionId": "I5124864",
     "institutionName": "École Polytechnique Fédérale de Lausanne",
-    "worksCount": 20,
-    "citedByCount": 53,
-    "hIndex": 4,
+    "worksCount": 21,
+    "citedByCount": 85,
+    "hIndex": 5,
     "orcid": "https://orcid.org/0000-0002-6889-7243",
     "openAlexUrl": "https://openalex.org/A5033855602",
     "discoveryIds": [
@@ -326,8 +505,8 @@
     "name": "Pasquale Scarlino",
     "institutionId": "I5124864",
     "institutionName": "École Polytechnique Fédérale de Lausanne",
-    "worksCount": 106,
-    "citedByCount": 3329,
+    "worksCount": 107,
+    "citedByCount": 3394,
     "hIndex": 26,
     "orcid": "https://orcid.org/0000-0002-4570-5958",
     "openAlexUrl": "https://openalex.org/A5009880801",
@@ -341,7 +520,7 @@
     "institutionId": "I900890020",
     "institutionName": "University of Palermo",
     "worksCount": 100,
-    "citedByCount": 3106,
+    "citedByCount": 3093,
     "hIndex": 30,
     "orcid": "https://orcid.org/0000-0002-6061-1255",
     "openAlexUrl": "https://openalex.org/A5048485245",
@@ -354,8 +533,8 @@
     "name": "Anargyros Katsabekis",
     "institutionId": null,
     "institutionName": null,
-    "worksCount": 42,
-    "citedByCount": 155,
+    "worksCount": 43,
+    "citedByCount": 169,
     "hIndex": 7,
     "orcid": "https://orcid.org/0000-0001-5084-3071",
     "openAlexUrl": "https://openalex.org/A5048097227",
@@ -382,8 +561,8 @@
     "name": "Bruno Ebner",
     "institutionId": null,
     "institutionName": null,
-    "worksCount": 82,
-    "citedByCount": 412,
+    "worksCount": 83,
+    "citedByCount": 413,
     "hIndex": 10,
     "orcid": "https://orcid.org/0000-0003-4329-8794",
     "openAlexUrl": "https://openalex.org/A5063738702",
@@ -397,7 +576,7 @@
     "institutionId": null,
     "institutionName": null,
     "worksCount": 49,
-    "citedByCount": 423,
+    "citedByCount": 417,
     "hIndex": 11,
     "orcid": "https://orcid.org/0000-0003-4016-3632",
     "openAlexUrl": "https://openalex.org/A5024241184",
@@ -410,9 +589,9 @@
     "name": "D. Alloni",
     "institutionId": "I4210109533",
     "institutionName": "Istituto Nazionale di Fisica Nucleare, Sezione di Pavia",
-    "worksCount": 5,
+    "worksCount": 1,
     "citedByCount": 0,
-    "hIndex": 0,
+    "hIndex": null,
     "orcid": "https://orcid.org/0000-0002-8677-8918",
     "openAlexUrl": "https://openalex.org/A5123853290",
     "discoveryIds": [
@@ -424,9 +603,9 @@
     "name": "G Benato",
     "institutionId": "I2800738734",
     "institutionName": "Istituto Nazionale di Fisica Nucleare, Laboratori Nazionali del Gran Sasso",
-    "worksCount": 30,
-    "citedByCount": 135,
-    "hIndex": 7,
+    "worksCount": 1,
+    "citedByCount": 0,
+    "hIndex": null,
     "orcid": null,
     "openAlexUrl": "https://openalex.org/A5019043634",
     "discoveryIds": [
@@ -438,9 +617,9 @@
     "name": "P. Carniti",
     "institutionId": "I4210140564",
     "institutionName": "Istituto Nazionale di Fisica Nucleare, Sezione di Milano Bicocca",
-    "worksCount": 175,
-    "citedByCount": 140,
-    "hIndex": 4,
+    "worksCount": 1,
+    "citedByCount": 0,
+    "hIndex": null,
     "orcid": null,
     "openAlexUrl": "https://openalex.org/A5128898357",
     "discoveryIds": [
@@ -454,7 +633,7 @@
     "institutionName": "Istituto Nazionale di Fisica Nucleare, Sezione di Milano Bicocca",
     "worksCount": 1,
     "citedByCount": 0,
-    "hIndex": 0,
+    "hIndex": null,
     "orcid": null,
     "openAlexUrl": "https://openalex.org/A5123849488",
     "discoveryIds": [
@@ -466,9 +645,9 @@
     "name": "L. Chen",
     "institutionId": "I19820366",
     "institutionName": "Chinese Academy of Sciences",
-    "worksCount": 3,
+    "worksCount": 1,
     "citedByCount": 0,
-    "hIndex": 0,
+    "hIndex": null,
     "orcid": "https://orcid.org/0000-0002-3461-3986",
     "openAlexUrl": "https://openalex.org/A5123840608",
     "discoveryIds": [
@@ -480,9 +659,9 @@
     "name": "M. Clemenza",
     "institutionId": "I4210140564",
     "institutionName": "Istituto Nazionale di Fisica Nucleare, Sezione di Milano Bicocca",
-    "worksCount": 337,
-    "citedByCount": 6780,
-    "hIndex": 39,
+    "worksCount": 1,
+    "citedByCount": 0,
+    "hIndex": null,
     "orcid": "https://orcid.org/0000-0002-8064-8936",
     "openAlexUrl": "https://openalex.org/A5047807194",
     "discoveryIds": [
@@ -494,9 +673,9 @@
     "name": "M. Consonni",
     "institutionId": "I4210140564",
     "institutionName": "Istituto Nazionale di Fisica Nucleare, Sezione di Milano Bicocca",
-    "worksCount": 7,
+    "worksCount": 1,
     "citedByCount": 0,
-    "hIndex": 0,
+    "hIndex": null,
     "orcid": "https://orcid.org/0009-0002-5362-3044",
     "openAlexUrl": "https://openalex.org/A5123826068",
     "discoveryIds": [
@@ -508,9 +687,9 @@
     "name": "G. Croci",
     "institutionId": "I4210140564",
     "institutionName": "Istituto Nazionale di Fisica Nucleare, Sezione di Milano Bicocca",
-    "worksCount": 18,
-    "citedByCount": 3,
-    "hIndex": 1,
+    "worksCount": 1,
+    "citedByCount": 0,
+    "hIndex": null,
     "orcid": null,
     "openAlexUrl": "https://openalex.org/A5133357899",
     "discoveryIds": [
@@ -522,9 +701,9 @@
     "name": "I Dafinei",
     "institutionId": "I4210157426",
     "institutionName": "Istituto Nazionale di Fisica Nucleare, Sezione di Roma I",
-    "worksCount": 30,
-    "citedByCount": 101,
-    "hIndex": 4,
+    "worksCount": 1,
+    "citedByCount": 0,
+    "hIndex": null,
     "orcid": "https://orcid.org/0000-0002-8280-682X",
     "openAlexUrl": "https://openalex.org/A5107344466",
     "discoveryIds": [
@@ -536,9 +715,9 @@
     "name": "F. A. Danevich",
     "institutionId": "I4210147706",
     "institutionName": "Institute for Nuclear Research",
-    "worksCount": 15,
-    "citedByCount": 34,
-    "hIndex": 2,
+    "worksCount": 1,
+    "citedByCount": 0,
+    "hIndex": null,
     "orcid": null,
     "openAlexUrl": "https://openalex.org/A5086503520",
     "discoveryIds": [
@@ -550,9 +729,9 @@
     "name": "C. De Vecchi",
     "institutionId": "I4210109533",
     "institutionName": "Istituto Nazionale di Fisica Nucleare, Sezione di Pavia",
-    "worksCount": 7,
-    "citedByCount": 16,
-    "hIndex": 2,
+    "worksCount": 1,
+    "citedByCount": 0,
+    "hIndex": null,
     "orcid": null,
     "openAlexUrl": "https://openalex.org/A5061846391",
     "discoveryIds": [
@@ -11603,300 +11782,6 @@
     "openAlexUrl": "https://openalex.org/A5103671529",
     "discoveryIds": [
       "W7214524686"
-    ]
-  },
-  {
-    "id": "A5014643889",
-    "name": "David Ernest James",
-    "institutionId": null,
-    "institutionName": null,
-    "worksCount": 1,
-    "citedByCount": 0,
-    "hIndex": null,
-    "orcid": "https://orcid.org/0000-0001-5946-5257",
-    "openAlexUrl": "https://openalex.org/A5014643889",
-    "discoveryIds": [
-      "W7214524725"
-    ]
-  },
-  {
-    "id": "A5153035477",
-    "name": "M. Naziruddin Khan",
-    "institutionId": null,
-    "institutionName": null,
-    "worksCount": 1,
-    "citedByCount": 0,
-    "hIndex": null,
-    "orcid": null,
-    "openAlexUrl": "https://openalex.org/A5153035477",
-    "discoveryIds": [
-      "W7214524788"
-    ]
-  },
-  {
-    "id": "A5153105763",
-    "name": "H. Kerrai",
-    "institutionId": null,
-    "institutionName": null,
-    "worksCount": 1,
-    "citedByCount": 0,
-    "hIndex": null,
-    "orcid": null,
-    "openAlexUrl": "https://openalex.org/A5153105763",
-    "discoveryIds": [
-      "W7214524788"
-    ]
-  },
-  {
-    "id": "A5153082763",
-    "name": "A. Jabar",
-    "institutionId": null,
-    "institutionName": null,
-    "worksCount": 1,
-    "citedByCount": 0,
-    "hIndex": null,
-    "orcid": null,
-    "openAlexUrl": "https://openalex.org/A5153082763",
-    "discoveryIds": [
-      "W7214524788"
-    ]
-  },
-  {
-    "id": "A5153159836",
-    "name": "Z. Fadil",
-    "institutionId": null,
-    "institutionName": null,
-    "worksCount": 1,
-    "citedByCount": 0,
-    "hIndex": null,
-    "orcid": null,
-    "openAlexUrl": "https://openalex.org/A5153159836",
-    "discoveryIds": [
-      "W7214524788"
-    ]
-  },
-  {
-    "id": "A5080729786",
-    "name": "Abdulrahman A. Alsayyari",
-    "institutionId": null,
-    "institutionName": null,
-    "worksCount": 1,
-    "citedByCount": 0,
-    "hIndex": null,
-    "orcid": "https://orcid.org/0000-0001-5535-5659",
-    "openAlexUrl": "https://openalex.org/A5080729786",
-    "discoveryIds": [
-      "W7214524788"
-    ]
-  },
-  {
-    "id": "A5135151208",
-    "name": "Abdullah Almohammedi",
-    "institutionId": null,
-    "institutionName": null,
-    "worksCount": 1,
-    "citedByCount": 0,
-    "hIndex": null,
-    "orcid": null,
-    "openAlexUrl": "https://openalex.org/A5135151208",
-    "discoveryIds": [
-      "W7214524788"
-    ]
-  },
-  {
-    "id": "A5153155769",
-    "name": "Chaitany Jayprakash Raorane",
-    "institutionId": null,
-    "institutionName": null,
-    "worksCount": 1,
-    "citedByCount": 0,
-    "hIndex": null,
-    "orcid": null,
-    "openAlexUrl": "https://openalex.org/A5153155769",
-    "discoveryIds": [
-      "W7214524788"
-    ]
-  },
-  {
-    "id": "A5153151943",
-    "name": "Seong-Cheol Kim",
-    "institutionId": null,
-    "institutionName": null,
-    "worksCount": 1,
-    "citedByCount": 0,
-    "hIndex": null,
-    "orcid": null,
-    "openAlexUrl": "https://openalex.org/A5153151943",
-    "discoveryIds": [
-      "W7214524788"
-    ]
-  },
-  {
-    "id": "A5153065622",
-    "name": "Han-Byul Lim",
-    "institutionId": null,
-    "institutionName": null,
-    "worksCount": 1,
-    "citedByCount": 0,
-    "hIndex": null,
-    "orcid": null,
-    "openAlexUrl": "https://openalex.org/A5153065622",
-    "discoveryIds": [
-      "W7214524800"
-    ]
-  },
-  {
-    "id": "A5153163435",
-    "name": "Sung-yoon Song",
-    "institutionId": null,
-    "institutionName": null,
-    "worksCount": 1,
-    "citedByCount": 0,
-    "hIndex": null,
-    "orcid": null,
-    "openAlexUrl": "https://openalex.org/A5153163435",
-    "discoveryIds": [
-      "W7214524800"
-    ]
-  },
-  {
-    "id": "A5100441993",
-    "name": "Tingting Liu",
-    "institutionId": "I4210154480",
-    "institutionName": "Chongqing Cancer Hospital",
-    "worksCount": 1,
-    "citedByCount": 0,
-    "hIndex": null,
-    "orcid": "https://orcid.org/0000-0001-6043-3340",
-    "openAlexUrl": "https://openalex.org/A5100441993",
-    "discoveryIds": [
-      "W7214524900"
-    ]
-  },
-  {
-    "id": "A5101598090",
-    "name": "Jing Lv",
-    "institutionId": "I4210154480",
-    "institutionName": "Chongqing Cancer Hospital",
-    "worksCount": 1,
-    "citedByCount": 0,
-    "hIndex": null,
-    "orcid": "https://orcid.org/0000-0002-0016-5417",
-    "openAlexUrl": "https://openalex.org/A5101598090",
-    "discoveryIds": [
-      "W7214524900"
-    ]
-  },
-  {
-    "id": "A5050689804",
-    "name": "LuXiang Xu",
-    "institutionId": "I4210154480",
-    "institutionName": "Chongqing Cancer Hospital",
-    "worksCount": 1,
-    "citedByCount": 0,
-    "hIndex": null,
-    "orcid": null,
-    "openAlexUrl": "https://openalex.org/A5050689804",
-    "discoveryIds": [
-      "W7214524900"
-    ]
-  },
-  {
-    "id": "A5112963288",
-    "name": "Yu Peng",
-    "institutionId": "I4210154480",
-    "institutionName": "Chongqing Cancer Hospital",
-    "worksCount": 1,
-    "citedByCount": 0,
-    "hIndex": null,
-    "orcid": null,
-    "openAlexUrl": "https://openalex.org/A5112963288",
-    "discoveryIds": [
-      "W7214524900"
-    ]
-  },
-  {
-    "id": "A5124187582",
-    "name": "Chaoyu Wang",
-    "institutionId": "I4210154480",
-    "institutionName": "Chongqing Cancer Hospital",
-    "worksCount": 1,
-    "citedByCount": 0,
-    "hIndex": null,
-    "orcid": null,
-    "openAlexUrl": "https://openalex.org/A5124187582",
-    "discoveryIds": [
-      "W7214524900"
-    ]
-  },
-  {
-    "id": "A5110916077",
-    "name": "Xiaomei Zhang",
-    "institutionId": "I4210154480",
-    "institutionName": "Chongqing Cancer Hospital",
-    "worksCount": 1,
-    "citedByCount": 0,
-    "hIndex": null,
-    "orcid": "https://orcid.org/0009-0006-1818-8373",
-    "openAlexUrl": "https://openalex.org/A5110916077",
-    "discoveryIds": [
-      "W7214524900"
-    ]
-  },
-  {
-    "id": "A5028538878",
-    "name": "Qing Xiao",
-    "institutionId": "I4210154480",
-    "institutionName": "Chongqing Cancer Hospital",
-    "worksCount": 1,
-    "citedByCount": 0,
-    "hIndex": null,
-    "orcid": "https://orcid.org/0000-0002-2014-9959",
-    "openAlexUrl": "https://openalex.org/A5028538878",
-    "discoveryIds": [
-      "W7214524900"
-    ]
-  },
-  {
-    "id": "A5153173577",
-    "name": "Jun Li",
-    "institutionId": "I4210154480",
-    "institutionName": "Chongqing Cancer Hospital",
-    "worksCount": 1,
-    "citedByCount": 0,
-    "hIndex": null,
-    "orcid": null,
-    "openAlexUrl": "https://openalex.org/A5153173577",
-    "discoveryIds": [
-      "W7214524900"
-    ]
-  },
-  {
-    "id": "A5124179976",
-    "name": "Zhaoli Zhang",
-    "institutionId": "I4210154480",
-    "institutionName": "Chongqing Cancer Hospital",
-    "worksCount": 1,
-    "citedByCount": 0,
-    "hIndex": null,
-    "orcid": null,
-    "openAlexUrl": "https://openalex.org/A5124179976",
-    "discoveryIds": [
-      "W7214524900"
-    ]
-  },
-  {
-    "id": "A5153033845",
-    "name": "Yao Liu",
-    "institutionId": "I4210154480",
-    "institutionName": "Chongqing Cancer Hospital",
-    "worksCount": 1,
-    "citedByCount": 0,
-    "hIndex": null,
-    "orcid": null,
-    "openAlexUrl": "https://openalex.org/A5153033845",
-    "discoveryIds": [
-      "W7214524900"
     ]
   }
 ]
