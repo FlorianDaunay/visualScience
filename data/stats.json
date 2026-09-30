@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-09-29T12:56:57.663Z",
+  "generatedAt": "2026-09-30T12:38:20.650Z",
   "totalDiscoveries": 160,
-  "totalResearchers": 840,
-  "totalInstitutions": 117,
+  "totalResearchers": 525,
+  "totalInstitutions": 83,
   "totalCitations": 1,
   "averageCitations": 0,
-  "openAccessRatio": 0.70625,
+  "openAccessRatio": 0.78125,
   "weeklySeries": [
     {
       "weekStart": "2026-09-28",
@@ -15,106 +15,114 @@
   "topConcepts": [
     {
       "label": "Medicine",
-      "count": 34
+      "count": 24
     },
     {
       "label": "Computer science",
-      "count": 8
-    },
-    {
-      "label": "Physics",
-      "count": 6
-    },
-    {
-      "label": "Psychology",
-      "count": 6
+      "count": 10
     },
     {
       "label": "Biology",
-      "count": 6
+      "count": 7
     },
     {
       "label": "Chemistry",
       "count": 5
     },
     {
-      "label": "Mathematics",
-      "count": 3
+      "label": "Feature selection",
+      "count": 4
     },
     {
       "label": "Artificial intelligence",
       "count": 3
     },
     {
-      "label": "Materials science",
+      "label": "Business",
       "count": 3
     },
     {
-      "label": "Focus group",
+      "label": "Psychology",
+      "count": 3
+    },
+    {
+      "label": "Climate change",
+      "count": 2
+    },
+    {
+      "label": "Head teachers",
       "count": 2
     }
   ],
   "topInstitutions": [
     {
-      "label": "Federal University Lafia",
+      "label": "University of Kirkuk",
+      "count": 7
+    },
+    {
+      "label": "The NorthCap University",
       "count": 4
     },
     {
-      "label": "Johns Hopkins University",
+      "label": "Imam Abdulrahman Bin Faisal University",
+      "count": 4
+    },
+    {
+      "label": "KIIT University",
+      "count": 4
+    },
+    {
+      "label": "Bahria University",
+      "count": 4
+    },
+    {
+      "label": "University of Tikrit",
+      "count": 3
+    },
+    {
+      "label": "German Centre for Integrative Biodiversity Research",
       "count": 2
     },
     {
-      "label": "Benue State University",
+      "label": "Universidade do Porto",
       "count": 2
     },
     {
-      "label": "Chungbuk National University",
+      "label": "Shaheed Zulfiqar Ali Bhutto Institute of Science and Technology",
       "count": 2
     },
     {
-      "label": "Capital Medical University",
+      "label": "Dow University of Health Sciences",
       "count": 2
-    },
-    {
-      "label": "University of Milan",
-      "count": 2
-    },
-    {
-      "label": "Sichuan University",
-      "count": 2
-    },
-    {
-      "label": "University of Pittsburgh",
-      "count": 1
-    },
-    {
-      "label": "Boston Children's Hospital",
-      "count": 1
-    },
-    {
-      "label": "Children's Mercy Hospital",
-      "count": 1
     }
   ],
   "topCountries": [
     {
-      "label": "CN",
-      "count": 30
+      "label": "IN",
+      "count": 32
     },
     {
-      "label": "KR",
+      "label": "IQ",
       "count": 16
     },
     {
-      "label": "US",
-      "count": 14
-    },
-    {
-      "label": "IT",
+      "label": "PK",
       "count": 10
     },
     {
-      "label": "NG",
+      "label": "KR",
+      "count": 10
+    },
+    {
+      "label": "CN",
+      "count": 8
+    },
+    {
+      "label": "RU",
+      "count": 7
+    },
+    {
+      "label": "JP",
       "count": 7
     },
     {
@@ -122,83 +130,71 @@
       "count": 6
     },
     {
-      "label": "GB",
-      "count": 5
-    },
-    {
-      "label": "ES",
-      "count": 5
-    },
-    {
-      "label": "ID",
+      "label": "NG",
       "count": 4
     },
     {
-      "label": "CA",
-      "count": 3
+      "label": "US",
+      "count": 4
     }
   ],
   "topResearchers": [
     {
-      "label": "Reem A. Mustafa",
-      "count": 40450
+      "label": "Henrique M. Pereira",
+      "count": 27995
     },
     {
-      "label": "Farinaldo S. Queiroz",
-      "count": 6386
+      "label": "Néstor Fernández",
+      "count": 6050
     },
     {
-      "label": "Juan Carlos Helo",
-      "count": 3999
+      "label": "Rajan Gupta",
+      "count": 3860
     },
     {
-      "label": "Toshihiko Ota",
-      "count": 3623
+      "label": "Anish Pandey",
+      "count": 2520
     },
     {
-      "label": "Pasquale Scarlino",
-      "count": 3394
+      "label": "Poonam Chaudhary",
+      "count": 838
     },
     {
-      "label": "Francesco Ciccarello",
-      "count": 3093
+      "label": "Emilio Berti",
+      "count": 590
     },
     {
-      "label": "David S. Hains",
-      "count": 2999
+      "label": "Jeremy Dertien",
+      "count": 244
     },
     {
-      "label": "Daniel Pizarro",
-      "count": 2779
+      "label": "Vinoth Raman",
+      "count": 170
     },
     {
-      "label": "Catherine S. Forster",
-      "count": 2521
+      "label": "Magali Weissgerber",
+      "count": 120
     },
     {
-      "label": "Milan Batista",
-      "count": 1352
+      "label": "Gerardo C. Palacios-Saucedo",
+      "count": 104
     }
   ],
   "institutionTypes": [
     {
       "label": "University / school",
-      "count": 78
-    },
-    {
-      "label": "Hospital / healthcare",
-      "count": 28
+      "count": 108
     },
     {
       "label": "Research facility",
       "count": 10
     },
     {
-      "label": "Government",
-      "count": 4
+      "label": "Hospital / healthcare",
+      "count": 6
     },
     {
-      "label": "Company",
+      "label": "Government",
       "count": 3
     },
     {
@@ -206,7 +202,7 @@
       "count": 2
     },
     {
-      "label": "Organization",
+      "label": "Company",
       "count": 1
     }
   ]
