@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-09-30T12:38:20.650Z",
+  "generatedAt": "2026-10-01T13:20:27.723Z",
   "totalDiscoveries": 160,
-  "totalResearchers": 525,
-  "totalInstitutions": 83,
-  "totalCitations": 1,
+  "totalResearchers": 139,
+  "totalInstitutions": 9,
+  "totalCitations": 0,
   "averageCitations": 0,
-  "openAccessRatio": 0.78125,
+  "openAccessRatio": 0.99375,
   "weeklySeries": [
     {
       "weekStart": "2026-09-28",
@@ -15,194 +15,154 @@
   "topConcepts": [
     {
       "label": "Medicine",
-      "count": 24
+      "count": 52
     },
     {
-      "label": "Computer science",
-      "count": 10
+      "label": "Phytochemical",
+      "count": 6
     },
     {
-      "label": "Biology",
-      "count": 7
+      "label": "Perspective (graphical)",
+      "count": 6
     },
     {
-      "label": "Chemistry",
+      "label": "Antimicrobial",
       "count": 5
     },
     {
-      "label": "Feature selection",
+      "label": "Mathematics",
       "count": 4
     },
     {
-      "label": "Artificial intelligence",
+      "label": "Transdermal",
+      "count": 4
+    },
+    {
+      "label": "Disease",
       "count": 3
     },
     {
-      "label": "Business",
-      "count": 3
-    },
-    {
-      "label": "Psychology",
-      "count": 3
-    },
-    {
-      "label": "Climate change",
+      "label": "Environmental science",
       "count": 2
     },
     {
-      "label": "Head teachers",
+      "label": "Biology",
+      "count": 2
+    },
+    {
+      "label": "Nasal administration",
       "count": 2
     }
   ],
   "topInstitutions": [
     {
-      "label": "University of Kirkuk",
-      "count": 7
+      "label": "Los Alamos National Laboratory",
+      "count": 1
     },
     {
-      "label": "The NorthCap University",
-      "count": 4
+      "label": "University of Illinois Urbana-Champaign",
+      "count": 1
     },
     {
-      "label": "Imam Abdulrahman Bin Faisal University",
-      "count": 4
+      "label": "Universidad de Costa Rica",
+      "count": 1
     },
     {
-      "label": "KIIT University",
-      "count": 4
+      "label": "Nanjing University",
+      "count": 1
     },
     {
-      "label": "Bahria University",
-      "count": 4
+      "label": "Jiangsu Second Normal University",
+      "count": 1
     },
     {
-      "label": "University of Tikrit",
-      "count": 3
+      "label": "Saint Petersburg Mining University",
+      "count": 1
     },
     {
-      "label": "German Centre for Integrative Biodiversity Research",
-      "count": 2
+      "label": "University of Lancashire",
+      "count": 1
     },
     {
-      "label": "Universidade do Porto",
-      "count": 2
+      "label": "Glasgow School of Art",
+      "count": 1
     },
     {
-      "label": "Shaheed Zulfiqar Ali Bhutto Institute of Science and Technology",
-      "count": 2
-    },
-    {
-      "label": "Dow University of Health Sciences",
-      "count": 2
+      "label": "Glasgow Caledonian University",
+      "count": 1
     }
   ],
   "topCountries": [
     {
-      "label": "IN",
-      "count": 32
-    },
-    {
-      "label": "IQ",
-      "count": 16
-    },
-    {
-      "label": "PK",
-      "count": 10
-    },
-    {
-      "label": "KR",
-      "count": 10
-    },
-    {
-      "label": "CN",
-      "count": 8
-    },
-    {
-      "label": "RU",
-      "count": 7
-    },
-    {
-      "label": "JP",
-      "count": 7
-    },
-    {
-      "label": "SA",
-      "count": 6
-    },
-    {
-      "label": "NG",
-      "count": 4
+      "label": "GB",
+      "count": 3
     },
     {
       "label": "US",
-      "count": 4
+      "count": 2
+    },
+    {
+      "label": "CN",
+      "count": 2
+    },
+    {
+      "label": "CR",
+      "count": 1
+    },
+    {
+      "label": "RU",
+      "count": 1
     }
   ],
   "topResearchers": [
     {
-      "label": "Henrique M. Pereira",
-      "count": 27995
+      "label": "Moumita Hazra",
+      "count": 141
     },
     {
-      "label": "Néstor Fernández",
-      "count": 6050
+      "label": "2*Dr. Mukesh Kumar 1Dr. Suman Sarkar",
+      "count": 0
     },
     {
-      "label": "Rajan Gupta",
-      "count": 3860
+      "label": "Priya Singh1*, Dr. Paras Kumar Prajapati2, Dr. Pushpendra Kannojia3, Ms. Anshika Chaudhary4",
+      "count": 0
     },
     {
-      "label": "Anish Pandey",
-      "count": 2520
+      "label": "Swati Jaiman*, Dr. Tara Chand, Ashish Jain",
+      "count": 0
     },
     {
-      "label": "Poonam Chaudhary",
-      "count": 838
+      "label": "Dr. Sneh Ranga*1, Divyanshi Sangwal2, Muskan Soni2",
+      "count": 0
     },
     {
-      "label": "Emilio Berti",
-      "count": 590
+      "label": "Dr. P. Ashok Kumar*, Athiya Rafath, Damini S., Maheshwari B. K., Pavithra M. G., Radhika U.",
+      "count": 0
     },
     {
-      "label": "Jeremy Dertien",
-      "count": 244
+      "label": "Dr. P. Ashok Kumar P.*, Prajwal S., Yogananda D. M., Pavan C., Shivashankar H. R., Nayana B. R.",
+      "count": 0
     },
     {
-      "label": "Vinoth Raman",
-      "count": 170
+      "label": "1*Dr. P. Ashok Kumar, 2Harshitha B., 3Deepashree G., 4Kavya Galag, 5Sindhushree H. K., 6Karthik G. S.",
+      "count": 0
     },
     {
-      "label": "Magali Weissgerber",
-      "count": 120
+      "label": "Salman M.1*, Nagendra R.1, Nithin R.2*, Sinchana H. D.2, Manoj C. A.2, Chandan2, Venkatesh3, Hanumanthachar Joshi4",
+      "count": 0
     },
     {
-      "label": "Gerardo C. Palacios-Saucedo",
-      "count": 104
+      "label": "Prof. Dr. Ravi Sharma2 Dr. Asmita Rani*1",
+      "count": 0
     }
   ],
   "institutionTypes": [
     {
       "label": "University / school",
-      "count": 108
+      "count": 8
     },
     {
       "label": "Research facility",
-      "count": 10
-    },
-    {
-      "label": "Hospital / healthcare",
-      "count": 6
-    },
-    {
-      "label": "Government",
-      "count": 3
-    },
-    {
-      "label": "Nonprofit / institute",
-      "count": 2
-    },
-    {
-      "label": "Company",
       "count": 1
     }
   ]
