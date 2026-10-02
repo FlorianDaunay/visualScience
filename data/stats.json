@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-01T13:20:27.723Z",
+  "generatedAt": "2026-10-02T12:40:03.775Z",
   "totalDiscoveries": 160,
-  "totalResearchers": 139,
-  "totalInstitutions": 9,
+  "totalResearchers": 771,
+  "totalInstitutions": 137,
   "totalCitations": 0,
   "averageCitations": 0,
-  "openAccessRatio": 0.99375,
+  "openAccessRatio": 0.7,
   "weeklySeries": [
     {
       "weekStart": "2026-09-28",
@@ -15,154 +15,194 @@
   "topConcepts": [
     {
       "label": "Medicine",
-      "count": 52
+      "count": 22
     },
     {
-      "label": "Phytochemical",
-      "count": 6
+      "label": "Chemistry",
+      "count": 13
     },
     {
-      "label": "Perspective (graphical)",
-      "count": 6
+      "label": "Psychology",
+      "count": 7
     },
     {
-      "label": "Antimicrobial",
-      "count": 5
+      "label": "Materials science",
+      "count": 7
     },
     {
       "label": "Mathematics",
-      "count": 4
+      "count": 6
     },
     {
-      "label": "Transdermal",
-      "count": 4
-    },
-    {
-      "label": "Disease",
-      "count": 3
-    },
-    {
-      "label": "Environmental science",
-      "count": 2
+      "label": "Humanities",
+      "count": 5
     },
     {
       "label": "Biology",
+      "count": 4
+    },
+    {
+      "label": "Process (computing)",
+      "count": 3
+    },
+    {
+      "label": "Computer science",
       "count": 2
     },
     {
-      "label": "Nasal administration",
+      "label": "Mental health",
       "count": 2
     }
   ],
   "topInstitutions": [
     {
-      "label": "Los Alamos National Laboratory",
-      "count": 1
+      "label": "Guangzhou University of Chinese Medicine",
+      "count": 3
     },
     {
-      "label": "University of Illinois Urbana-Champaign",
-      "count": 1
+      "label": "Centre National de la Recherche Scientifique",
+      "count": 2
     },
     {
-      "label": "Universidad de Costa Rica",
-      "count": 1
+      "label": "Tecnológico Nacional de México",
+      "count": 2
     },
     {
-      "label": "Nanjing University",
-      "count": 1
+      "label": "Jiaxing University",
+      "count": 2
     },
     {
-      "label": "Jiangsu Second Normal University",
-      "count": 1
+      "label": "East China Normal University",
+      "count": 2
     },
     {
-      "label": "Saint Petersburg Mining University",
-      "count": 1
+      "label": "Affiliated Hospital of Guizhou Medical University",
+      "count": 2
     },
     {
-      "label": "University of Lancashire",
-      "count": 1
+      "label": "The First Affiliated Hospital of Guangxi University of Traditional Chinese Medicine",
+      "count": 2
     },
     {
-      "label": "Glasgow School of Art",
-      "count": 1
+      "label": "Indian Institute of Technology Kharagpur",
+      "count": 2
     },
     {
-      "label": "Glasgow Caledonian University",
+      "label": "The University of Osaka",
+      "count": 2
+    },
+    {
+      "label": "Radboud University Nijmegen",
       "count": 1
     }
   ],
   "topCountries": [
     {
-      "label": "GB",
-      "count": 3
+      "label": "CN",
+      "count": 60
     },
     {
       "label": "US",
-      "count": 2
+      "count": 10
     },
     {
-      "label": "CN",
-      "count": 2
+      "label": "IN",
+      "count": 8
     },
     {
-      "label": "CR",
-      "count": 1
+      "label": "JP",
+      "count": 8
     },
     {
-      "label": "RU",
-      "count": 1
+      "label": "FR",
+      "count": 6
+    },
+    {
+      "label": "BR",
+      "count": 6
+    },
+    {
+      "label": "DE",
+      "count": 5
+    },
+    {
+      "label": "MX",
+      "count": 4
+    },
+    {
+      "label": "KR",
+      "count": 4
+    },
+    {
+      "label": "GB",
+      "count": 3
     }
   ],
   "topResearchers": [
     {
-      "label": "Moumita Hazra",
-      "count": 141
+      "label": "Sona Dimidjian",
+      "count": 14555
     },
     {
-      "label": "2*Dr. Mukesh Kumar 1Dr. Suman Sarkar",
-      "count": 0
+      "label": "Jana Roithová",
+      "count": 7984
     },
     {
-      "label": "Priya Singh1*, Dr. Paras Kumar Prajapati2, Dr. Pushpendra Kannojia3, Ms. Anshika Chaudhary4",
-      "count": 0
+      "label": "Radim Vrzal",
+      "count": 2811
     },
     {
-      "label": "Swati Jaiman*, Dr. Tara Chand, Ashish Jain",
-      "count": 0
+      "label": "Zdenĕk Dvořák",
+      "count": 2461
     },
     {
-      "label": "Dr. Sneh Ranga*1, Divyanshi Sangwal2, Muskan Soni2",
-      "count": 0
+      "label": "Miroslav Soural",
+      "count": 1504
     },
     {
-      "label": "Dr. P. Ashok Kumar*, Athiya Rafath, Damini S., Maheshwari B. K., Pavithra M. G., Radhika U.",
-      "count": 0
+      "label": "Anahí Collado",
+      "count": 734
     },
     {
-      "label": "Dr. P. Ashok Kumar P.*, Prajwal S., Yogananda D. M., Pavan C., Shivashankar H. R., Nayana B. R.",
-      "count": 0
+      "label": "Fenfang Wu",
+      "count": 206
     },
     {
-      "label": "1*Dr. P. Ashok Kumar, 2Harshitha B., 3Deepashree G., 4Kavya Galag, 5Sindhushree H. K., 6Karthik G. S.",
-      "count": 0
+      "label": "Michael Kompatscher",
+      "count": 191
     },
     {
-      "label": "Salman M.1*, Nagendra R.1, Nithin R.2*, Sinchana H. D.2, Manoj C. A.2, Chandan2, Venkatesh3, Hanumanthachar Joshi4",
-      "count": 0
+      "label": "Aneta Grycová",
+      "count": 161
     },
     {
-      "label": "Prof. Dr. Ravi Sharma2 Dr. Asmita Rani*1",
-      "count": 0
+      "label": "Boutheina Nemouchi",
+      "count": 140
     }
   ],
   "institutionTypes": [
     {
       "label": "University / school",
-      "count": 8
+      "count": 103
+    },
+    {
+      "label": "Hospital / healthcare",
+      "count": 25
+    },
+    {
+      "label": "Government",
+      "count": 10
     },
     {
       "label": "Research facility",
+      "count": 7
+    },
+    {
+      "label": "Nonprofit / institute",
+      "count": 1
+    },
+    {
+      "label": "Company",
       "count": 1
     }
   ]
