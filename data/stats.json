@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T12:40:03.775Z",
+  "generatedAt": "2026-10-03T11:42:38.731Z",
   "totalDiscoveries": 160,
   "totalResearchers": 771,
   "totalInstitutions": 137,
@@ -141,15 +141,15 @@
   "topResearchers": [
     {
       "label": "Sona Dimidjian",
-      "count": 14555
+      "count": 14562
     },
     {
       "label": "Jana Roithová",
-      "count": 7984
+      "count": 7994
     },
     {
       "label": "Radim Vrzal",
-      "count": 2811
+      "count": 2814
     },
     {
       "label": "Zdenĕk Dvořák",
@@ -173,11 +173,11 @@
     },
     {
       "label": "Aneta Grycová",
-      "count": 161
+      "count": 165
     },
     {
       "label": "Boutheina Nemouchi",
-      "count": 140
+      "count": 144
     }
   ],
   "institutionTypes": [
