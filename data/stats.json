@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-03T11:42:38.731Z",
+  "generatedAt": "2026-10-04T12:24:56.566Z",
   "totalDiscoveries": 160,
-  "totalResearchers": 771,
-  "totalInstitutions": 137,
-  "totalCitations": 0,
+  "totalResearchers": 854,
+  "totalInstitutions": 13,
+  "totalCitations": 1,
   "averageCitations": 0,
-  "openAccessRatio": 0.7,
+  "openAccessRatio": 0.53125,
   "weeklySeries": [
     {
       "weekStart": "2026-09-28",
@@ -15,194 +15,162 @@
   "topConcepts": [
     {
       "label": "Medicine",
-      "count": 22
+      "count": 14
     },
     {
-      "label": "Chemistry",
-      "count": 13
-    },
-    {
-      "label": "Psychology",
-      "count": 7
+      "label": "Computer science",
+      "count": 11
     },
     {
       "label": "Materials science",
       "count": 7
     },
     {
-      "label": "Mathematics",
+      "label": "Humanities",
       "count": 6
     },
     {
-      "label": "Humanities",
-      "count": 5
+      "label": "Psychology",
+      "count": 6
+    },
+    {
+      "label": "Environmental science",
+      "count": 6
     },
     {
       "label": "Biology",
       "count": 4
     },
     {
-      "label": "Process (computing)",
-      "count": 3
+      "label": "Chemistry",
+      "count": 4
     },
     {
-      "label": "Computer science",
+      "label": "Philosophy",
       "count": 2
     },
     {
-      "label": "Mental health",
+      "label": "Engineering",
       "count": 2
     }
   ],
   "topInstitutions": [
     {
-      "label": "Guangzhou University of Chinese Medicine",
-      "count": 3
-    },
-    {
-      "label": "Centre National de la Recherche Scientifique",
+      "label": "Universidad Técnica Estatal de Quevedo",
       "count": 2
     },
     {
-      "label": "Tecnológico Nacional de México",
+      "label": "Universidad Técnica de Manabí",
       "count": 2
     },
     {
-      "label": "Jiaxing University",
+      "label": "Universidad Laica Eloy Alfaro de Manabí",
       "count": 2
     },
     {
-      "label": "East China Normal University",
-      "count": 2
+      "label": "National University of San Marcos",
+      "count": 1
     },
     {
-      "label": "Affiliated Hospital of Guizhou Medical University",
-      "count": 2
+      "label": "Universidad del Azuay",
+      "count": 1
     },
     {
-      "label": "The First Affiliated Hospital of Guangxi University of Traditional Chinese Medicine",
-      "count": 2
+      "label": "Istanbul Technical University",
+      "count": 1
     },
     {
-      "label": "Indian Institute of Technology Kharagpur",
-      "count": 2
+      "label": "Narayan Medical College and Hospital",
+      "count": 1
     },
     {
-      "label": "The University of Osaka",
-      "count": 2
+      "label": "University of Uyo",
+      "count": 1
     },
     {
-      "label": "Radboud University Nijmegen",
+      "label": "Universidad Continental",
+      "count": 1
+    },
+    {
+      "label": "Universidad de Los Andes, Chile",
       "count": 1
     }
   ],
   "topCountries": [
     {
-      "label": "CN",
-      "count": 60
+      "label": "EC",
+      "count": 7
     },
     {
-      "label": "US",
-      "count": 10
+      "label": "PE",
+      "count": 3
     },
     {
       "label": "IN",
-      "count": 8
+      "count": 2
     },
     {
-      "label": "JP",
-      "count": 8
+      "label": "TR",
+      "count": 1
     },
     {
-      "label": "FR",
-      "count": 6
+      "label": "NG",
+      "count": 1
     },
     {
-      "label": "BR",
-      "count": 6
-    },
-    {
-      "label": "DE",
-      "count": 5
-    },
-    {
-      "label": "MX",
-      "count": 4
-    },
-    {
-      "label": "KR",
-      "count": 4
-    },
-    {
-      "label": "GB",
-      "count": 3
+      "label": "CL",
+      "count": 1
     }
   ],
   "topResearchers": [
     {
-      "label": "Sona Dimidjian",
-      "count": 14562
+      "label": "Irfan Rahman",
+      "count": 46324
     },
     {
-      "label": "Jana Roithová",
-      "count": 7994
+      "label": "Manoj J. Mammen",
+      "count": 6475
     },
     {
-      "label": "Radim Vrzal",
-      "count": 2814
+      "label": "Marcos A. Valdebenito",
+      "count": 3247
     },
     {
-      "label": "Zdenĕk Dvořák",
-      "count": 2461
+      "label": "Matthias G.R. Faes",
+      "count": 2985
     },
     {
-      "label": "Miroslav Soural",
-      "count": 1504
+      "label": "Qixin Wang",
+      "count": 2197
     },
     {
-      "label": "Anahí Collado",
-      "count": 734
+      "label": "Gagandeep Kaur",
+      "count": 1606
     },
     {
-      "label": "Fenfang Wu",
-      "count": 206
+      "label": "Chao Dang",
+      "count": 1544
     },
     {
-      "label": "Michael Kompatscher",
-      "count": 191
+      "label": "Hoshang Jehangir Unwalla",
+      "count": 1260
     },
     {
-      "label": "Aneta Grycová",
-      "count": 165
+      "label": "Pei‐Pei Li",
+      "count": 226
     },
     {
-      "label": "Boutheina Nemouchi",
-      "count": 144
+      "label": "Felix Effah",
+      "count": 216
     }
   ],
   "institutionTypes": [
     {
       "label": "University / school",
-      "count": 103
+      "count": 15
     },
     {
       "label": "Hospital / healthcare",
-      "count": 25
-    },
-    {
-      "label": "Government",
-      "count": 10
-    },
-    {
-      "label": "Research facility",
-      "count": 7
-    },
-    {
-      "label": "Nonprofit / institute",
-      "count": 1
-    },
-    {
-      "label": "Company",
       "count": 1
     }
   ]
