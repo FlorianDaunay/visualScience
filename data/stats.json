@@ -1,176 +1,208 @@
 {
-  "generatedAt": "2026-10-04T12:24:56.566Z",
+  "generatedAt": "2026-10-05T14:45:03.950Z",
   "totalDiscoveries": 160,
-  "totalResearchers": 854,
-  "totalInstitutions": 13,
-  "totalCitations": 1,
+  "totalResearchers": 917,
+  "totalInstitutions": 82,
+  "totalCitations": 0,
   "averageCitations": 0,
-  "openAccessRatio": 0.53125,
+  "openAccessRatio": 0.6625,
   "weeklySeries": [
     {
-      "weekStart": "2026-09-28",
+      "weekStart": "2026-10-05",
       "count": 160
     }
   ],
   "topConcepts": [
     {
       "label": "Medicine",
-      "count": 14
-    },
-    {
-      "label": "Computer science",
-      "count": 11
+      "count": 34
     },
     {
       "label": "Materials science",
-      "count": 7
-    },
-    {
-      "label": "Humanities",
-      "count": 6
+      "count": 11
     },
     {
       "label": "Psychology",
-      "count": 6
+      "count": 5
     },
     {
-      "label": "Environmental science",
-      "count": 6
-    },
-    {
-      "label": "Biology",
-      "count": 4
+      "label": "Computer science",
+      "count": 5
     },
     {
       "label": "Chemistry",
       "count": 4
     },
     {
-      "label": "Philosophy",
+      "label": "Biology",
+      "count": 4
+    },
+    {
+      "label": "Humanities",
       "count": 2
     },
     {
-      "label": "Engineering",
+      "label": "Sustainability",
+      "count": 2
+    },
+    {
+      "label": "Southeast asia",
+      "count": 2
+    },
+    {
+      "label": "Mathematics",
       "count": 2
     }
   ],
   "topInstitutions": [
     {
-      "label": "Universidad Técnica Estatal de Quevedo",
+      "label": "Third Affiliated Hospital of Southern Medical University",
       "count": 2
     },
     {
-      "label": "Universidad Técnica de Manabí",
+      "label": "Oslo University Hospital",
       "count": 2
     },
     {
-      "label": "Universidad Laica Eloy Alfaro de Manabí",
-      "count": 2
-    },
-    {
-      "label": "National University of San Marcos",
+      "label": "Raja Ramanna Centre for Advanced Technology",
       "count": 1
     },
     {
-      "label": "Universidad del Azuay",
+      "label": "Linyi City Chinese Medicine Hospital",
       "count": 1
     },
     {
-      "label": "Istanbul Technical University",
+      "label": "Anhui Agricultural University",
       "count": 1
     },
     {
-      "label": "Narayan Medical College and Hospital",
+      "label": "University of Auckland",
       "count": 1
     },
     {
-      "label": "University of Uyo",
+      "label": "Shandong University",
       "count": 1
     },
     {
-      "label": "Universidad Continental",
+      "label": "Noguchi Memorial Institute for Medical Research",
       "count": 1
     },
     {
-      "label": "Universidad de Los Andes, Chile",
+      "label": "Twelfth Guangzhou City People's Hospital",
+      "count": 1
+    },
+    {
+      "label": "Guangzhou Medical University",
       "count": 1
     }
   ],
   "topCountries": [
     {
-      "label": "EC",
-      "count": 7
+      "label": "CN",
+      "count": 36
     },
     {
-      "label": "PE",
+      "label": "US",
+      "count": 15
+    },
+    {
+      "label": "IT",
+      "count": 4
+    },
+    {
+      "label": "NL",
+      "count": 4
+    },
+    {
+      "label": "SA",
       "count": 3
     },
     {
-      "label": "IN",
+      "label": "PS",
+      "count": 3
+    },
+    {
+      "label": "SE",
+      "count": 3
+    },
+    {
+      "label": "NO",
       "count": 2
     },
     {
-      "label": "TR",
-      "count": 1
+      "label": "HK",
+      "count": 2
     },
     {
-      "label": "NG",
-      "count": 1
-    },
-    {
-      "label": "CL",
-      "count": 1
+      "label": "AU",
+      "count": 2
     }
   ],
   "topResearchers": [
     {
-      "label": "Irfan Rahman",
-      "count": 46324
+      "label": "Andrew C. Allan",
+      "count": 27634
     },
     {
-      "label": "Manoj J. Mammen",
-      "count": 6475
+      "label": "Jochen W. Wild",
+      "count": 829
     },
     {
-      "label": "Marcos A. Valdebenito",
-      "count": 3247
+      "label": "Shilpam Sharma",
+      "count": 393
     },
     {
-      "label": "Matthias G.R. Faes",
-      "count": 2985
+      "label": "Ashish Khandelwal",
+      "count": 205
     },
     {
-      "label": "Qixin Wang",
-      "count": 2197
+      "label": "Istiatin Istiatin",
+      "count": 203
     },
     {
-      "label": "Gagandeep Kaur",
-      "count": 1606
+      "label": "Yanchen Xu",
+      "count": 193
     },
     {
-      "label": "Chao Dang",
-      "count": 1544
+      "label": "Patrícia H. Baptistelli",
+      "count": 64
     },
     {
-      "label": "Hoshang Jehangir Unwalla",
-      "count": 1260
+      "label": "Zhu Xie",
+      "count": 39
     },
     {
-      "label": "Pei‐Pei Li",
-      "count": 226
+      "label": "Shijiang Cui",
+      "count": 31
     },
     {
-      "label": "Felix Effah",
-      "count": 216
+      "label": "Maria Elenice Rodrigues Hernandes",
+      "count": 29
     }
   ],
   "institutionTypes": [
     {
       "label": "University / school",
-      "count": 15
+      "count": 47
     },
     {
       "label": "Hospital / healthcare",
+      "count": 22
+    },
+    {
+      "label": "Research facility",
+      "count": 5
+    },
+    {
+      "label": "Organization",
+      "count": 5
+    },
+    {
+      "label": "Nonprofit / institute",
+      "count": 4
+    },
+    {
+      "label": "Government",
       "count": 1
     }
   ]
