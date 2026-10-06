@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-05T14:45:03.950Z",
+  "generatedAt": "2026-10-06T13:21:21.798Z",
   "totalDiscoveries": 160,
-  "totalResearchers": 917,
-  "totalInstitutions": 82,
+  "totalResearchers": 954,
+  "totalInstitutions": 84,
   "totalCitations": 0,
   "averageCitations": 0,
-  "openAccessRatio": 0.6625,
+  "openAccessRatio": 0.575,
   "weeklySeries": [
     {
       "weekStart": "2026-10-05",
@@ -15,186 +15,182 @@
   "topConcepts": [
     {
       "label": "Medicine",
-      "count": 34
-    },
-    {
-      "label": "Materials science",
-      "count": 11
-    },
-    {
-      "label": "Psychology",
-      "count": 5
+      "count": 31
     },
     {
       "label": "Computer science",
-      "count": 5
+      "count": 9
     },
     {
       "label": "Chemistry",
-      "count": 4
+      "count": 8
+    },
+    {
+      "label": "Psychology",
+      "count": 8
     },
     {
       "label": "Biology",
-      "count": 4
+      "count": 7
+    },
+    {
+      "label": "Materials science",
+      "count": 6
+    },
+    {
+      "label": "Physics",
+      "count": 5
+    },
+    {
+      "label": "Neuroscience",
+      "count": 3
+    },
+    {
+      "label": "Peat",
+      "count": 2
     },
     {
       "label": "Humanities",
-      "count": 2
-    },
-    {
-      "label": "Sustainability",
-      "count": 2
-    },
-    {
-      "label": "Southeast asia",
-      "count": 2
-    },
-    {
-      "label": "Mathematics",
       "count": 2
     }
   ],
   "topInstitutions": [
     {
-      "label": "Third Affiliated Hospital of Southern Medical University",
+      "label": "Yunnan University",
+      "count": 3
+    },
+    {
+      "label": "Universidade Estadual Paulista (Unesp)",
       "count": 2
     },
     {
-      "label": "Oslo University Hospital",
+      "label": "University of Utah",
       "count": 2
     },
     {
-      "label": "Raja Ramanna Centre for Advanced Technology",
+      "label": "The University of Melbourne",
+      "count": 2
+    },
+    {
+      "label": "Southern University of Science and Technology",
+      "count": 2
+    },
+    {
+      "label": "Massachusetts Institute of Technology",
       "count": 1
     },
     {
-      "label": "Linyi City Chinese Medicine Hospital",
+      "label": "University of Manchester",
       "count": 1
     },
     {
-      "label": "Anhui Agricultural University",
+      "label": "University of Antwerp",
       "count": 1
     },
     {
-      "label": "University of Auckland",
+      "label": "National Institute for Materials Science",
       "count": 1
     },
     {
-      "label": "Shandong University",
-      "count": 1
-    },
-    {
-      "label": "Noguchi Memorial Institute for Medical Research",
-      "count": 1
-    },
-    {
-      "label": "Twelfth Guangzhou City People's Hospital",
-      "count": 1
-    },
-    {
-      "label": "Guangzhou Medical University",
+      "label": "Institut Català de Nanociència i Nanotecnologia",
       "count": 1
     }
   ],
   "topCountries": [
     {
-      "label": "CN",
-      "count": 36
-    },
-    {
       "label": "US",
-      "count": 15
+      "count": 27
     },
     {
-      "label": "IT",
-      "count": 4
+      "label": "CN",
+      "count": 18
     },
     {
-      "label": "NL",
-      "count": 4
+      "label": "IN",
+      "count": 7
     },
     {
-      "label": "SA",
-      "count": 3
+      "label": "GB",
+      "count": 5
     },
     {
-      "label": "PS",
-      "count": 3
-    },
-    {
-      "label": "SE",
-      "count": 3
-    },
-    {
-      "label": "NO",
-      "count": 2
-    },
-    {
-      "label": "HK",
-      "count": 2
+      "label": "JP",
+      "count": 5
     },
     {
       "label": "AU",
+      "count": 4
+    },
+    {
+      "label": "ES",
+      "count": 4
+    },
+    {
+      "label": "KR",
+      "count": 4
+    },
+    {
+      "label": "BR",
+      "count": 3
+    },
+    {
+      "label": "DE",
       "count": 2
     }
   ],
   "topResearchers": [
     {
-      "label": "Andrew C. Allan",
-      "count": 27634
+      "label": "Dazhi Hou",
+      "count": 2229
     },
     {
-      "label": "Jochen W. Wild",
-      "count": 829
+      "label": "Zhiren Zheng",
+      "count": 2202
     },
     {
-      "label": "Shilpam Sharma",
-      "count": 393
+      "label": "Shengchun Shen",
+      "count": 2155
     },
     {
-      "label": "Ashish Khandelwal",
-      "count": 205
+      "label": "Sergey Slizovskiy",
+      "count": 1388
     },
     {
-      "label": "Istiatin Istiatin",
-      "count": 203
+      "label": "Jeong San Kim",
+      "count": 1053
     },
     {
-      "label": "Yanchen Xu",
-      "count": 193
+      "label": "Hayato Shimabukuro",
+      "count": 559
     },
     {
-      "label": "Patrícia H. Baptistelli",
-      "count": 64
+      "label": "Jingdi Lu",
+      "count": 479
     },
     {
-      "label": "Zhu Xie",
-      "count": 39
+      "label": "Krystian Nowakowski",
+      "count": 421
     },
     {
-      "label": "Shijiang Cui",
-      "count": 31
+      "label": "Enda Hua",
+      "count": 405
     },
     {
-      "label": "Maria Elenice Rodrigues Hernandes",
-      "count": 29
+      "label": "Bohua Li",
+      "count": 373
     }
   ],
   "institutionTypes": [
     {
       "label": "University / school",
-      "count": 47
-    },
-    {
-      "label": "Hospital / healthcare",
-      "count": 22
+      "count": 67
     },
     {
       "label": "Research facility",
-      "count": 5
+      "count": 8
     },
     {
-      "label": "Organization",
+      "label": "Hospital / healthcare",
       "count": 5
     },
     {
@@ -203,6 +199,18 @@
     },
     {
       "label": "Government",
+      "count": 2
+    },
+    {
+      "label": "Organization",
+      "count": 2
+    },
+    {
+      "label": "Archive",
+      "count": 1
+    },
+    {
+      "label": "Company",
       "count": 1
     }
   ]
