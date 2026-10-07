@@ -82,45 +82,33 @@
     ]
   },
   {
-    "id": "I3045169105",
-    "name": "Southern University of Science and Technology",
+    "id": "I2800614057",
+    "name": "Kalinga University",
     "type": "education",
-    "countryCode": "CN",
+    "countryCode": "IN",
     "homepage": null,
     "ror": null,
-    "openAlexUrl": "https://openalex.org/I3045169105",
+    "openAlexUrl": "https://openalex.org/I2800614057",
     "researcherIds": [
-      "A5080213752",
-      "A5090132986",
-      "A5135679578",
-      "A5037154185",
-      "A5157551392",
-      "A5121628439",
-      "A5068927179",
-      "A5012238552",
-      "A5153456563",
-      "A5147604241",
-      "A5007850765",
-      "A5134557598",
-      "A5138843817",
-      "A5022926692",
-      "A5009971650",
-      "A5139546447",
-      "A5157411805",
-      "A5100340105",
-      "A5135518994",
-      "A5066467352",
-      "A5101399928",
-      "A5157556086",
-      "A5100714371",
-      "A5101567764",
-      "A5049318774",
-      "A5062489271",
-      "A5060691871"
+      "A5109782885"
     ],
     "discoveryIds": [
-      "W7220367934",
-      "W7220394552"
+      "W7219816712"
+    ]
+  },
+  {
+    "id": "I4210131140",
+    "name": "Universidad Privada Boliviana",
+    "type": "education",
+    "countryCode": "BO",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I4210131140",
+    "researcherIds": [
+      "A5156894569"
+    ],
+    "discoveryIds": [
+      "W7219816712"
     ]
   },
   {
@@ -904,6 +892,35 @@
     ]
   },
   {
+    "id": "I3045169105",
+    "name": "Southern University of Science and Technology",
+    "type": "education",
+    "countryCode": "CN",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I3045169105",
+    "researcherIds": [
+      "A5080213752",
+      "A5090132986",
+      "A5135679578",
+      "A5037154185",
+      "A5157551392",
+      "A5121628439",
+      "A5068927179",
+      "A5012238552",
+      "A5153456563",
+      "A5147604241",
+      "A5007850765",
+      "A5134557598",
+      "A5138843817",
+      "A5022926692",
+      "A5009971650"
+    ],
+    "discoveryIds": [
+      "W7220367934"
+    ]
+  },
+  {
     "id": "I94310126",
     "name": "Shanxi Normal University",
     "type": "education",
@@ -1378,23 +1395,6 @@
     ],
     "discoveryIds": [
       "W7220393247"
-    ]
-  },
-  {
-    "id": "I165339363",
-    "name": "Universidad de Oviedo",
-    "type": "education",
-    "countryCode": "ES",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I165339363",
-    "researcherIds": [
-      "A5124945527",
-      "A5041531780",
-      "A5027400259"
-    ],
-    "discoveryIds": [
-      "W7220394103"
     ]
   }
 ]

@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-06T13:21:21.798Z",
+  "generatedAt": "2026-10-07T13:28:42.066Z",
   "totalDiscoveries": 160,
-  "totalResearchers": 954,
-  "totalInstitutions": 84,
+  "totalResearchers": 940,
+  "totalInstitutions": 85,
   "totalCitations": 0,
   "averageCitations": 0,
-  "openAccessRatio": 0.575,
+  "openAccessRatio": 0.58125,
   "weeklySeries": [
     {
       "weekStart": "2026-10-05",
@@ -15,11 +15,11 @@
   "topConcepts": [
     {
       "label": "Medicine",
-      "count": 31
+      "count": 30
     },
     {
       "label": "Computer science",
-      "count": 9
+      "count": 10
     },
     {
       "label": "Chemistry",
@@ -34,12 +34,16 @@
       "count": 7
     },
     {
+      "label": "Physics",
+      "count": 6
+    },
+    {
       "label": "Materials science",
       "count": 6
     },
     {
-      "label": "Physics",
-      "count": 5
+      "label": "Political science",
+      "count": 3
     },
     {
       "label": "Neuroscience",
@@ -47,10 +51,6 @@
     },
     {
       "label": "Peat",
-      "count": 2
-    },
-    {
-      "label": "Humanities",
       "count": 2
     }
   ],
@@ -72,8 +72,12 @@
       "count": 2
     },
     {
-      "label": "Southern University of Science and Technology",
-      "count": 2
+      "label": "Kalinga University",
+      "count": 1
+    },
+    {
+      "label": "Universidad Privada Boliviana",
+      "count": 1
     },
     {
       "label": "Massachusetts Institute of Technology",
@@ -90,10 +94,6 @@
     {
       "label": "National Institute for Materials Science",
       "count": 1
-    },
-    {
-      "label": "Institut Català de Nanociència i Nanotecnologia",
-      "count": 1
     }
   ],
   "topCountries": [
@@ -103,11 +103,11 @@
     },
     {
       "label": "CN",
-      "count": 18
+      "count": 17
     },
     {
       "label": "IN",
-      "count": 7
+      "count": 8
     },
     {
       "label": "GB",
@@ -122,15 +122,15 @@
       "count": 4
     },
     {
-      "label": "ES",
-      "count": 4
-    },
-    {
       "label": "KR",
       "count": 4
     },
     {
       "label": "BR",
+      "count": 3
+    },
+    {
+      "label": "ES",
       "count": 3
     },
     {
@@ -141,19 +141,11 @@
   "topResearchers": [
     {
       "label": "Dazhi Hou",
-      "count": 2229
-    },
-    {
-      "label": "Zhiren Zheng",
-      "count": 2202
+      "count": 2230
     },
     {
       "label": "Shengchun Shen",
-      "count": 2155
-    },
-    {
-      "label": "Sergey Slizovskiy",
-      "count": 1388
+      "count": 2158
     },
     {
       "label": "Jeong San Kim",
@@ -161,15 +153,11 @@
     },
     {
       "label": "Hayato Shimabukuro",
-      "count": 559
+      "count": 562
     },
     {
       "label": "Jingdi Lu",
       "count": 479
-    },
-    {
-      "label": "Krystian Nowakowski",
-      "count": 421
     },
     {
       "label": "Enda Hua",
@@ -178,6 +166,18 @@
     {
       "label": "Bohua Li",
       "count": 373
+    },
+    {
+      "label": "Wenfeng Wu",
+      "count": 258
+    },
+    {
+      "label": "Zhengguo Liang",
+      "count": 219
+    },
+    {
+      "label": "Zhen Wang",
+      "count": 204
     }
   ],
   "institutionTypes": [

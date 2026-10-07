@@ -1,5 +1,299 @@
 [
   {
+    "id": "W7219530387",
+    "title": "Multistate Litigation Coordination with Jamila Johnson of The Lawyering Project",
+    "abstractText": "Wednesday, October 7, 2026 | 12:30 PM | Eck Hall of Law, McCartan Courtroom Join ACS on October 7 as we listen to The Lawyering Project's Jamila Johnson as she discusses multistate impact litigation! Sponsors: American Constitution Society Black Law Students Association",
+    "publishedDate": "2026-10-07",
+    "doi": null,
+    "sourceUrl": "https://scholarship.law.nd.edu/ndls_posters/1422",
+    "isOpenAccess": false,
+    "venueName": "Journal of legislation",
+    "citedByCount": 0,
+    "concepts": [
+      {
+        "id": "C2776154427",
+        "name": "Constitution",
+        "score": 0.8102999925613403
+      },
+      {
+        "id": "C199539241",
+        "name": "Law",
+        "score": 0.5630000233650208
+      },
+      {
+        "id": "C2776124973",
+        "name": "Join (topology)",
+        "score": 0.5195000171661377
+      },
+      {
+        "id": "C17744445",
+        "name": "Political science",
+        "score": 0.4973999857902527
+      },
+      {
+        "id": "C190253527",
+        "name": "Law and economics",
+        "score": 0.38019999861717224
+      },
+      {
+        "id": "C142853389",
+        "name": "Association (psychology)",
+        "score": 0.34790000319480896
+      }
+    ],
+    "authors": [
+      {
+        "id": "A5124083518",
+        "name": "American Constitution Society"
+      },
+      {
+        "id": "A5150230730",
+        "name": "Black Law Students Association"
+      }
+    ],
+    "institutions": [],
+    "openAlexUrl": "https://openalex.org/W7219530387"
+  },
+  {
+    "id": "W7219816712",
+    "title": "Design and Evaluation of Lightweight Cryptographic Primitives for Secure Communication in Resource-Constrained LPWAN Devices",
+    "abstractText": "The fast growth of Low-Power Wide-Area Networks (LPWANs) within the scope of Internet of Things (IoT) brought up the urgent questions of secure communications in highly resource-limited settings. As a robust AES and RSA conventional cryptographic scheme, it applied a heavy burden to the embedded LPWAN nodes with limited memory capacity, computing ability, and power supplies. With this in mind, to fill this gap we suggest a set of lightweight cryptographic primitives that can be utilized in secure communication in LPWAN protocols including LoRaWAN and NB-IoT. The suite contains optimized versions of block ciphers (e.g. PRESENT, Speck), stream ciphers (e.g. Trivium), and hash functions (e.g. PHOTON, SPONGENT), benchmarked on microcontrollers with ultra-low power including STM32L0 and nRF52840. Security tests are done on differential, linear, and replay attacks and the performance tests on flash/RAM usage, latency, and energy consumption. Findings show that the PRESENT cipher implemented together with the SPONGENT hash-function decreases the memory demand by 52 percent, and energy utilization by 37 percent as contrasted to AES-CCM, with no foundational security promises damaged. These results highlight the ability to implement lightweight cryptography in the IoT system based on the LPWAN and maintain the data confidentiality, integrity, and authentication and at the same time support the efficiency of the devices. The work gives a scalable basis of secure embedded communication especially in areas like smart metering, environmental monitoring, industrials telemetry.",
+    "publishedDate": "2026-10-07",
+    "doi": "https://doi.org/10.31838/esa/03.02.02",
+    "sourceUrl": "https://ecejournals.in/index.php/ESA/article/download/396/631",
+    "isOpenAccess": true,
+    "venueName": "SCCTS Journal of Embedded Systems Design and Applications",
+    "citedByCount": 0,
+    "concepts": [
+      {
+        "id": "C41008148",
+        "name": "Computer science",
+        "score": 0.7692999839782715
+      },
+      {
+        "id": "C178489894",
+        "name": "Cryptography",
+        "score": 0.616100013256073
+      },
+      {
+        "id": "C38652104",
+        "name": "Computer security",
+        "score": 0.47440001368522644
+      },
+      {
+        "id": "C31258907",
+        "name": "Computer network",
+        "score": 0.4447000026702881
+      },
+      {
+        "id": "C99138194",
+        "name": "Hash function",
+        "score": 0.42309999465942383
+      },
+      {
+        "id": "C149635348",
+        "name": "Embedded system",
+        "score": 0.4090000092983246
+      }
+    ],
+    "authors": [
+      {
+        "id": "A5109782885",
+        "name": "Pushplata Patel",
+        "institutionId": "I2800614057",
+        "institutionName": "Kalinga University"
+      },
+      {
+        "id": "A5156894569",
+        "name": "G.C. Kingdone",
+        "institutionId": "I4210131140",
+        "institutionName": "Universidad Privada Boliviana"
+      }
+    ],
+    "institutions": [
+      {
+        "id": "I2800614057",
+        "name": "Kalinga University",
+        "countryCode": "IN"
+      },
+      {
+        "id": "I4210131140",
+        "name": "Universidad Privada Boliviana",
+        "countryCode": "BO"
+      }
+    ],
+    "openAlexUrl": "https://openalex.org/W7219816712"
+  },
+  {
+    "id": "W7220039435",
+    "title": "PERAN SATUAN RESERSE KRIMINAL POLRESTA BENGKULU DALAM PENANGGULANGAN KEKERASAN SEKSUAL TERHADAP ANAK PERSPEKTIF FIQIH SIYASAH",
+    "abstractText": "Kekerasan seksual terhadap anak merupakan tindak pidana yang mengancam pemenuhan hak anak serta berdampak terhadap perkembangan fisik, psikologis, dan sosial korban. Tingginya kasus kekerasan seksual terhadap anak di Kota Bengkulu menunjukkan bahwa upaya perlindungan hukum masih memerlukan penguatan, khususnya melalui optimalisasi peran Kepolisian Negara Republik Indonesia sebagai aparat penegak hukum. Penelitian ini bertujuan menganalisis peran Satuan Reserse Kriminal Kepolisian Resor Kota Bengkulu dalam penanggulangan kekerasan seksual terhadap anak berdasarkan Undang-Undang Nomor 35 Tahun 2014 tentang Perlindungan Anak serta menganalisis implementasinya dalam perspektif fiqih siyasah. Penelitian menggunakan metode hukum empiris dengan pendekatan kualitatif. Data diperoleh melalui observasi, wawancara, dan dokumentasi, kemudian dianalisis secara kualitatif dengan tahapan reduksi data, penyajian data, dan penarikan kesimpulan. Hasil penelitian menunjukkan bahwa Satreskrim Polresta Bengkulu melaksanakan penanggulangan kekerasan seksual terhadap anak melalui strategi preemtif, preventif, dan represif yang diwujudkan dalam penyuluhan hukum, edukasi masyarakat, patroli, penyelidikan, penyidikan, perlindungan korban, serta koordinasi dengan instansi terkait. Pelaksanaan strategi tersebut masih menghadapi berbagai kendala, antara lain keterbatasan alat bukti, rendahnya kesadaran masyarakat untuk melapor, trauma yang dialami korban, serta faktor sosial dan budaya yang memengaruhi proses penegakan hukum. Ditinjau dari perspektif fiqih siyasah, peran kepolisian telah mencerminkan pelaksanaan fungsi negara dalam mewujudkan kemaslahatan melalui penerapan prinsip al-'adl, amar ma'ruf nahi munkar, sadd al-dzari'ah, dan himayah sebagai dasar perlindungan terhadap anak sebagai kelompok yang rentan.",
+    "publishedDate": "2026-10-07",
+    "doi": null,
+    "sourceUrl": "https://ejournal.almusthofa.org/index.php/index/article/view/289",
+    "isOpenAccess": true,
+    "venueName": "SETARA: Jurnal Hukum",
+    "citedByCount": 0,
+    "concepts": [
+      {
+        "id": "C17744445",
+        "name": "Political science",
+        "score": 0.566100001335144
+      },
+      {
+        "id": "C15708023",
+        "name": "Humanities",
+        "score": 0.5249000191688538
+      },
+      {
+        "id": "C29456083",
+        "name": "Gynecology",
+        "score": 0.25040000677108765
+      },
+      {
+        "id": "C121332964",
+        "name": "Physics",
+        "score": 0.17919999361038208
+      },
+      {
+        "id": "C15744967",
+        "name": "Psychology",
+        "score": 0.15780000388622284
+      },
+      {
+        "id": "C142362112",
+        "name": "Art",
+        "score": 0.13349999487400055
+      }
+    ],
+    "authors": [
+      {
+        "id": "A5157082907",
+        "name": "Yozi Pradeva"
+      },
+      {
+        "id": "A5157134148",
+        "name": "Rohmadi"
+      },
+      {
+        "id": "A5157292211",
+        "name": "Fauzan"
+      }
+    ],
+    "institutions": [],
+    "openAlexUrl": "https://openalex.org/W7220039435"
+  },
+  {
+    "id": "W7220044520",
+    "title": "PERAN PENYULUH HUKUM DALAM PEMBINAAN KESADARAN DAN BUDAYA HUKUM MASYARAKAT PERSPEKTIF FIQH SIYASAH DI KELURAHAN BENTIRING KOTA BENGKULU",
+    "abstractText": "Penelitian ini dilatarbelakangi oleh pentingnya peran penyuluh hukum dalam meningkatkan kesadaran dan budaya hukum masyarakat melalui program Kelurahan Sadar Hukum di Kelurahan Bentiring Kota Bengkulu. Meskipun Kelurahan Bentiring telah menyandang status sebagai Kelurahan Sadar Hukum, dalam praktiknya masih ditemukan beberapa pelanggaran hukum di masyarakat yang menunjukkan belum optimalnya pembinaan kesadaran hukum. Penelitian ini bertujuan untuk menganalisis pelaksanaan peran penyuluh hukum dalam pembinaan Kelurahan Sadar Hukum, faktor pendukung dan penghambat pelaksanaannya, serta menganalisisnya dalam perspektif fiqh siyasah tanfidziyah. Jenis penelitian ini adalah penelitian hukum empiris dengan pendekatan yuridis empiris. Sumber data terdiri dari data primer dan data sekunder. Data primer diperoleh melalui wawancara dengan penyuluh hukum Kantor Wilayah Kementerian Hukum Bengkulu, aparat Kelurahan Bentiring, serta masyarakat setempat sebagai informan penelitian. Data sekunder diperoleh melalui studi kepustakaan terhadap peraturan perundang-undangan, buku, jurnal, dan dokumen terkait. Teknik pengumpulan data dilakukan melalui wawancara, observasi, dan dokumentasi, kemudian dianalisis secara kualitatif. Hasil penelitian menunjukkan bahwa pelaksanaan peran penyuluh hukum dalam pembinaan Kelurahan Sadar Hukum di Kelurahan Bentiring telah berjalan, namun belum optimal. Kegiatan penyuluhan hukum masih terbatas, pembentukan paralegal belum terlaksana, serta pembinaan hukum belum dilakukan secara berkelanjutan. Faktor pendukung meliputi dukungan pemerintah kelurahan dan partisipasi masyarakat, sedangkan faktor penghambat meliputi keterbatasan anggaran, sumber daya, dan rendahnya intensitas kegiatan. Dalam perspektif fiqh siyasah tanfidziyah, pelaksanaan pembinaan hukum tersebut merupakan bagian dari tanggung jawab pemerintah dalam mewujudkan kemaslahatan masyarakat, namun pelaksanaannya masih memerlukan optimalisasi agar tujuan pembinaan kesadaran hukum dapat tercapai secara efektif.",
+    "publishedDate": "2026-10-07",
+    "doi": null,
+    "sourceUrl": "https://ejournal.almusthofa.org/index.php/index/article/view/258",
+    "isOpenAccess": true,
+    "venueName": "SETARA: Jurnal Hukum",
+    "citedByCount": 0,
+    "concepts": [
+      {
+        "id": "C17744445",
+        "name": "Political science",
+        "score": 0.5383999943733215
+      },
+      {
+        "id": "C15708023",
+        "name": "Humanities",
+        "score": 0.2556999921798706
+      },
+      {
+        "id": "C178550888",
+        "name": "Business administration",
+        "score": 0.2433999925851822
+      },
+      {
+        "id": "C29456083",
+        "name": "Gynecology",
+        "score": 0.2125999927520752
+      },
+      {
+        "id": "C144024400",
+        "name": "Sociology",
+        "score": 0.2069000005722046
+      },
+      {
+        "id": "C15744967",
+        "name": "Psychology",
+        "score": 0.19920000433921814
+      }
+    ],
+    "authors": [
+      {
+        "id": "A5157323624",
+        "name": "Yudhi Irawan Yudhi"
+      },
+      {
+        "id": "A5119994412",
+        "name": "Rohimin Rohimin"
+      },
+      {
+        "id": "A5092238544",
+        "name": "Ismail Jalili"
+      }
+    ],
+    "institutions": [],
+    "openAlexUrl": "https://openalex.org/W7220044520"
+  },
+  {
+    "id": "W7220237026",
+    "title": "ANALISIS STRATEGI PENCEGAHAN PELANGGARAN LALU LINTAS OLEH POLRES SELUMA DALAM PERSPEKTIF FIQH SIYASAH",
+    "abstractText": "Tingginya angka pelanggaran dan kecelakaan lalu lintas di Kabupaten Seluma menunjukkan bahwa upaya pencegahan belum sepenuhnya mampu meningkatkan kesadaran hukum masyarakat. Kondisi tersebut menuntut penerapan strategi kepolisian yang efektif serta selaras dengan ketentuan Peraturan Kapolri Nomor 8 Tahun 2021 dan prinsip-prinsip Fiqih Siyasah Tanfidziyah. Penelitian ini bertujuan menganalisis strategi Kepolisian Resor Seluma dalam pencegahan pelanggaran lalu lintas, implementasinya berdasarkan Peraturan Kapolri Nomor 8 Tahun 2021, serta relevansinya dalam perspektif Fiqih Siyasah Tanfidziyah. Penelitian menggunakan pendekatan kualitatif dengan jenis penelitian lapangan (field research). Data diperoleh melalui observasi, wawancara, dan dokumentasi, kemudian dianalisis menggunakan teknik reduksi data, penyajian data, dan penarikan kesimpulan. Hasil penelitian menunjukkan bahwa strategi pencegahan pelanggaran lalu lintas dilaksanakan melalui pendekatan preemtif, preventif, dan represif yang saling terintegrasi untuk meningkatkan kesadaran hukum masyarakat, mencegah pelanggaran dan kecelakaan lalu lintas, serta mewujudkan ketertiban dan keselamatan berlalu lintas. Implementasi strategi tersebut telah mengacu pada Peraturan Kapolri Nomor 8 Tahun 2021 melalui tahapan manajemen operasional yang sistematis dengan mengedepankan profesionalisme, pendekatan humanis, dan tindakan persuasif, meskipun masih menghadapi keterbatasan sumber daya, sarana prasarana, dan partisipasi masyarakat. Perspektif Fiqih Siyasah Tanfidziyah menunjukkan bahwa strategi tersebut sejalan dengan prinsip maslahah dan maqāṣid al-syarī'ah, khususnya perlindungan terhadap jiwa (ḥifẓ al-nafs), sehingga penegakan hukum lalu lintas tidak hanya memenuhi ketentuan hukum positif, tetapi juga merefleksikan nilai-nilai keadilan, kemaslahatan, dan tanggung jawab dalam penyelenggaraan pemerintahan.",
+    "publishedDate": "2026-10-07",
+    "doi": null,
+    "sourceUrl": "https://ejournal.almusthofa.org/index.php/index/article/view/308",
+    "isOpenAccess": true,
+    "venueName": "SETARA: Jurnal Hukum",
+    "citedByCount": 0,
+    "concepts": [
+      {
+        "id": "C121332964",
+        "name": "Physics",
+        "score": 0.828000009059906
+      },
+      {
+        "id": "C15708023",
+        "name": "Humanities",
+        "score": 0.7037000060081482
+      },
+      {
+        "id": "C17744445",
+        "name": "Political science",
+        "score": 0.35749998688697815
+      },
+      {
+        "id": "C178550888",
+        "name": "Business administration",
+        "score": 0.12120000272989273
+      },
+      {
+        "id": "C144133560",
+        "name": "Business",
+        "score": 0.09790000319480896
+      },
+      {
+        "id": "C2779861674",
+        "name": "Youth engagement",
+        "score": 0.09239999949932098
+      }
+    ],
+    "authors": [
+      {
+        "id": "A5157164361",
+        "name": "Yoldiansya"
+      }
+    ],
+    "institutions": [],
+    "openAlexUrl": "https://openalex.org/W7220237026"
+  },
+  {
     "id": "W4405767884",
     "title": "Postmeasurement information and nonlocality of quantum state discrimination",
     "abstractText": null,
@@ -11969,382 +12263,5 @@
     ],
     "institutions": [],
     "openAlexUrl": "https://openalex.org/W7220393895"
-  },
-  {
-    "id": "W7220394101",
-    "title": "Framework nanoarchitectonics of fullerene-derived catalyst",
-    "abstractText": null,
-    "publishedDate": "2026-10-06",
-    "doi": "https://doi.org/10.1016/j.mcat.2026.116372",
-    "sourceUrl": "https://doi.org/10.1016/j.mcat.2026.116372",
-    "isOpenAccess": false,
-    "venueName": "Molecular Catalysis",
-    "citedByCount": 0,
-    "concepts": [
-      {
-        "id": "C161790260",
-        "name": "Catalysis",
-        "score": 0.7773000001907349
-      },
-      {
-        "id": "C192562407",
-        "name": "Materials science",
-        "score": 0.5328999757766724
-      },
-      {
-        "id": "C171250308",
-        "name": "Nanotechnology",
-        "score": 0.4643000066280365
-      },
-      {
-        "id": "C42360764",
-        "name": "Chemical engineering",
-        "score": 0.3939000070095062
-      },
-      {
-        "id": "C185592680",
-        "name": "Chemistry",
-        "score": 0.32850000262260437
-      },
-      {
-        "id": "C155672457",
-        "name": "Nanoparticle",
-        "score": 0.25
-      }
-    ],
-    "authors": [
-      {
-        "id": "A5017037081",
-        "name": "Lok Kumar Shrestha"
-      },
-      {
-        "id": "A5001334280",
-        "name": "Yurina Sekine"
-      },
-      {
-        "id": "A5017050283",
-        "name": "Takuya Nankawa"
-      },
-      {
-        "id": "A5085720064",
-        "name": "Katsuhiko Ariga"
-      }
-    ],
-    "institutions": [],
-    "openAlexUrl": "https://openalex.org/W7220394101"
-  },
-  {
-    "id": "W7220394103",
-    "title": "Dehydrogenation of 1-Methyldecalin as a Liquid Organic Hydrogen Carrier: Effect of Isomer Composition on Catalyst Performance and Stability",
-    "abstractText": "Abstract Liquid organic hydrogen carriers (LOHCs) represent a safe and cost-effective resource for hydrogen storage due to reversible hydrogenation/dehydrogenation cycles. Although scarcely studied, the 1-methylnaphthalene/1-methyldecalin (1-MN/1-MD) pair could be an attractive LOHC due to its physical properties and because it can be obtained from waste streams of the carbochemical industry. However, 1-MD dehydrogenation is strongly affected by its stereoisomeric composition, as cis- and trans-isomers exhibit different reactivities and can undergo concurrent isomerization. In this work, the influence of individual 1-MD stereoisomers on dehydrogenation performance was systematically investigated using two feeds enriched in either cis- or trans-isomers. Pd- and Pt-based catalysts supported on alumina and activated carbon were evaluated, and the effect of temperature (250–400 °C) was studied over the most active catalyst, Pt/Al2O3. Based on the experimental data, we hypothesized that trans-isomers promoted catalyst deactivation and coke formation, whereas cis-isomers enhanced dehydrogenation activity. This effect is also believed to influence the formation of intermediate products. Specifically, 1-methyltetralin, which is generated mainly from cis-isomers, readily dehydrogenates to 1-methylnaphthalene (1-MN), whereas 5-methyltetralin, formed preferentially from trans-isomers, appears to promote catalyst deactivation.",
-    "publishedDate": "2026-10-06",
-    "doi": "https://doi.org/10.1021/acs.energyfuels.6c03642",
-    "sourceUrl": "https://doi.org/10.1021/acs.energyfuels.6c03642",
-    "isOpenAccess": true,
-    "venueName": "Energy & Fuels",
-    "citedByCount": 0,
-    "concepts": [
-      {
-        "id": "C161790260",
-        "name": "Catalysis",
-        "score": 0.849399983882904
-      },
-      {
-        "id": "C2780385392",
-        "name": "Coke",
-        "score": 0.7279000282287598
-      },
-      {
-        "id": "C185592680",
-        "name": "Chemistry",
-        "score": 0.6784999966621399
-      },
-      {
-        "id": "C512968161",
-        "name": "Hydrogen",
-        "score": 0.6348999738693237
-      },
-      {
-        "id": "C42360764",
-        "name": "Chemical engineering",
-        "score": 0.5047000050544739
-      },
-      {
-        "id": "C40231798",
-        "name": "Composition (language)",
-        "score": 0.5009999871253967
-      }
-    ],
-    "authors": [
-      {
-        "id": "A5124945527",
-        "name": "Isabel Prieto",
-        "institutionId": "I165339363",
-        "institutionName": "Universidad de Oviedo"
-      },
-      {
-        "id": "A5041531780",
-        "name": "Eva Dı́az",
-        "institutionId": "I165339363",
-        "institutionName": "Universidad de Oviedo"
-      },
-      {
-        "id": "A5027400259",
-        "name": "Salvador Ordóñez",
-        "institutionId": "I165339363",
-        "institutionName": "Universidad de Oviedo"
-      }
-    ],
-    "institutions": [
-      {
-        "id": "I165339363",
-        "name": "Universidad de Oviedo",
-        "countryCode": "ES"
-      }
-    ],
-    "openAlexUrl": "https://openalex.org/W7220394103"
-  },
-  {
-    "id": "W7220394552",
-    "title": "Phenylammonium Grafted SAM Molecule in Molecule-Extrusion Process to Enhance Perovskite Film Quality and Interfacial Passivation",
-    "abstractText": "Abstract Widely used as hole transport layers (HTLs) for inverted perovskite solar cells (PSCs), the functions of phosphonic acid-based self-assembly monolayer (SAM) molecules in the bulk of the perovskite film have been studied in a limited manner but are essential. In this work, we designed a phenylammonium-functionalized SAM molecule termed 4PACD to study its effect on the perovskite crystal growth and the interfacial defect state passivation in the bulk of the perovskite film, depending on the molecule-extrusion process. By means of in situ photoluminescence, a slower crystal growth pathway was evidenced for 4PACD-incorporated perovskite film with much improved quality, which cuts down the defect density by nearly one order. Finally, the incorporation of 4PACD resulted in a champion device power conversion efficiency (PCE) of 26.78% compared with 25.01% for the control device with 4PACD as the HTL. The target device can reserve 98.9% of the initial PCE after 1000 h of light soaking, while the control retained 88.7%. This work highlights the perovskite growth advantage of the SAM incorporated in the bulk of the perovskite film over using it only as HTL, demonstrating the great potential of the molecule-extrusion process for high-performance PSCs without predepositing HTLs.",
-    "publishedDate": "2026-10-06",
-    "doi": "https://doi.org/10.1021/acs.jpclett.6c02870",
-    "sourceUrl": "https://doi.org/10.1021/acs.jpclett.6c02870",
-    "isOpenAccess": false,
-    "venueName": "The Journal of Physical Chemistry Letters",
-    "citedByCount": 0,
-    "concepts": [
-      {
-        "id": "C155011858",
-        "name": "Perovskite (structure)",
-        "score": 0.8903999924659729
-      },
-      {
-        "id": "C192562407",
-        "name": "Materials science",
-        "score": 0.7973999977111816
-      },
-      {
-        "id": "C2781285689",
-        "name": "Crystal (programming language)",
-        "score": 0.546500027179718
-      },
-      {
-        "id": "C7070889",
-        "name": "Monolayer",
-        "score": 0.5307000279426575
-      },
-      {
-        "id": "C206991015",
-        "name": "Energy conversion efficiency",
-        "score": 0.4652000069618225
-      },
-      {
-        "id": "C26456737",
-        "name": "Crystal growth",
-        "score": 0.4449000060558319
-      }
-    ],
-    "authors": [
-      {
-        "id": "A5139546447",
-        "name": "Jinfeng Huang",
-        "institutionId": "I3045169105",
-        "institutionName": "Southern University of Science and Technology"
-      },
-      {
-        "id": "A5157411805",
-        "name": "Chuanxin Chen",
-        "institutionId": "I3045169105",
-        "institutionName": "Southern University of Science and Technology"
-      },
-      {
-        "id": "A5100340105",
-        "name": "Jinlong Wang",
-        "institutionId": "I3045169105",
-        "institutionName": "Southern University of Science and Technology"
-      },
-      {
-        "id": "A5135518994",
-        "name": "Xiao Yang",
-        "institutionId": "I3045169105",
-        "institutionName": "Southern University of Science and Technology"
-      },
-      {
-        "id": "A5066467352",
-        "name": "Siyuan Tang",
-        "institutionId": "I3045169105",
-        "institutionName": "Southern University of Science and Technology"
-      },
-      {
-        "id": "A5101399928",
-        "name": "Jiacheng He",
-        "institutionId": "I3045169105",
-        "institutionName": "Southern University of Science and Technology"
-      },
-      {
-        "id": "A5157556086",
-        "name": "Chao Sun",
-        "institutionId": "I3045169105",
-        "institutionName": "Southern University of Science and Technology"
-      },
-      {
-        "id": "A5100714371",
-        "name": "Haojie Chen",
-        "institutionId": "I3045169105",
-        "institutionName": "Southern University of Science and Technology"
-      },
-      {
-        "id": "A5101567764",
-        "name": "Huiyi Zhang",
-        "institutionId": "I3045169105",
-        "institutionName": "Southern University of Science and Technology"
-      },
-      {
-        "id": "A5049318774",
-        "name": "Rui Bo Hu",
-        "institutionId": "I3045169105",
-        "institutionName": "Southern University of Science and Technology"
-      },
-      {
-        "id": "A5062489271",
-        "name": "Beibei Zong",
-        "institutionId": "I3045169105",
-        "institutionName": "Southern University of Science and Technology"
-      },
-      {
-        "id": "A5060691871",
-        "name": "Zhubing He",
-        "institutionId": "I3045169105",
-        "institutionName": "Southern University of Science and Technology"
-      }
-    ],
-    "institutions": [
-      {
-        "id": "I3045169105",
-        "name": "Southern University of Science and Technology",
-        "countryCode": "CN"
-      }
-    ],
-    "openAlexUrl": "https://openalex.org/W7220394552"
-  },
-  {
-    "id": "W7220394672",
-    "title": "Treatment-specific prediction of stone-free outcomes after SWL and RIRS using machine learning",
-    "abstractText": null,
-    "publishedDate": "2026-10-06",
-    "doi": "https://doi.org/10.1186/s12894-026-02345-5",
-    "sourceUrl": "https://doi.org/10.1186/s12894-026-02345-5",
-    "isOpenAccess": true,
-    "venueName": "BMC Urology",
-    "citedByCount": 0,
-    "concepts": [
-      {
-        "id": "C71924100",
-        "name": "Medicine",
-        "score": 0.8521000146865845
-      },
-      {
-        "id": "C119857082",
-        "name": "Machine learning",
-        "score": 0.4650000035762787
-      },
-      {
-        "id": "C154945302",
-        "name": "Artificial intelligence",
-        "score": 0.43070000410079956
-      },
-      {
-        "id": "C19527891",
-        "name": "Medical physics",
-        "score": 0.38510000705718994
-      },
-      {
-        "id": "C2779473830",
-        "name": "MEDLINE",
-        "score": 0.3407000005245209
-      },
-      {
-        "id": "C50644808",
-        "name": "Artificial neural network",
-        "score": 0.25519999861717224
-      }
-    ],
-    "authors": [
-      {
-        "id": "A5157596148",
-        "name": "Niyazi Ünlü"
-      },
-      {
-        "id": "A5044166767",
-        "name": "Erım Erdem"
-      },
-      {
-        "id": "A5079503795",
-        "name": "Erdem Akbay"
-      },
-      {
-        "id": "A5091037859",
-        "name": "T. Ahmet Serel"
-      },
-      {
-        "id": "A5055752955",
-        "name": "Barış Saylam"
-      }
-    ],
-    "institutions": [],
-    "openAlexUrl": "https://openalex.org/W7220394672"
-  },
-  {
-    "id": "W7220394730",
-    "title": "Pengaruh Work Life Balance dan Employee Engagement terhadap Kinerja Karyawan PT Adikari Wisesa Indonesia di Jakarta",
-    "abstractText": "Employee performance is an important factor in achieving organizational goals, particularly in companies with project-based work characteristics that require coordination, cooperation, and employee adaptability. This study aims to examine the effect of work life balance and employee engagement on employee performance at PT Adikari Wisesa Indonesia in Jakarta, both partially and simultaneously. This study employed a quantitative approach with an associative research design. The population consisted of 123 employees, with 100 respondents selected as the research sample using the Slovin formula. Data were collected through questionnaires and analyzed using IBM SPSS Statistics version 25. The analysis included validity and reliability tests, classical assumption tests, multiple linear regression, t-test, F-test, and coefficient of determination. The results indicate that work life balance has a positive and significant effect on employee performance, with a t-value of 3.409 and a significance value of 0.001. Employee engagement also has a positive and significant effect on employee performance, with a t-value of 5.530 and a significance value of 0.000. Simultaneously, work life balance and employee engagement significantly affect employee performance, as indicated by an F-value of 55.234 with a significance value of 0.000. The adjusted R-square value of 0.523 indicates that both independent variables explain 52.3% of the variation in employee performance.",
-    "publishedDate": "2026-10-06",
-    "doi": "https://doi.org/10.61132/maeswara.v4i5.2936",
-    "sourceUrl": "https://doi.org/10.61132/maeswara.v4i5.2936",
-    "isOpenAccess": true,
-    "venueName": "Maeswara Jurnal Riset Ilmu Manajemen dan Kewirausahaan",
-    "citedByCount": 0,
-    "concepts": [
-      {
-        "id": "C99753626",
-        "name": "Employee engagement",
-        "score": 0.7540000081062317
-      },
-      {
-        "id": "C178550888",
-        "name": "Business administration",
-        "score": 0.5546000003814697
-      },
-      {
-        "id": "C15744967",
-        "name": "Psychology",
-        "score": 0.541700005531311
-      },
-      {
-        "id": "C198531522",
-        "name": "Sample (material)",
-        "score": 0.46470001339912415
-      },
-      {
-        "id": "C2908647359",
-        "name": "Population",
-        "score": 0.44130000472068787
-      },
-      {
-        "id": "C2776291640",
-        "name": "Value (mathematics)",
-        "score": 0.38839998841285706
-      }
-    ],
-    "authors": [
-      {
-        "id": "A5157501258",
-        "name": "Alya Humaira"
-      }
-    ],
-    "institutions": [],
-    "openAlexUrl": "https://openalex.org/W7220394730"
   }
 ]
