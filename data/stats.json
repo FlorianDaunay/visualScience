@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-07T13:28:42.066Z",
+  "generatedAt": "2026-10-08T13:34:22.462Z",
   "totalDiscoveries": 160,
-  "totalResearchers": 940,
-  "totalInstitutions": 85,
-  "totalCitations": 0,
+  "totalResearchers": 947,
+  "totalInstitutions": 174,
+  "totalCitations": 1,
   "averageCitations": 0,
-  "openAccessRatio": 0.58125,
+  "openAccessRatio": 0.79375,
   "weeklySeries": [
     {
       "weekStart": "2026-10-05",
@@ -15,202 +15,202 @@
   "topConcepts": [
     {
       "label": "Medicine",
-      "count": 30
+      "count": 25
     },
     {
-      "label": "Computer science",
+      "label": "Physics",
       "count": 10
-    },
-    {
-      "label": "Chemistry",
-      "count": 8
-    },
-    {
-      "label": "Psychology",
-      "count": 8
     },
     {
       "label": "Biology",
       "count": 7
     },
     {
-      "label": "Physics",
-      "count": 6
+      "label": "Computer science",
+      "count": 7
     },
     {
-      "label": "Materials science",
-      "count": 6
+      "label": "Mathematics education",
+      "count": 7
     },
     {
-      "label": "Political science",
-      "count": 3
+      "label": "Psychology",
+      "count": 4
     },
     {
-      "label": "Neuroscience",
-      "count": 3
+      "label": "Environmental science",
+      "count": 4
     },
     {
-      "label": "Peat",
+      "label": "Chemistry",
+      "count": 4
+    },
+    {
+      "label": "Adsorption",
+      "count": 2
+    },
+    {
+      "label": "Mathematics",
       "count": 2
     }
   ],
   "topInstitutions": [
     {
-      "label": "Yunnan University",
-      "count": 3
+      "label": "Centre National de la Recherche Scientifique",
+      "count": 4
     },
     {
-      "label": "Universidade Estadual Paulista (Unesp)",
+      "label": "Goddard Space Flight Center",
       "count": 2
     },
     {
-      "label": "University of Utah",
+      "label": "University of Pennsylvania",
       "count": 2
     },
     {
-      "label": "The University of Melbourne",
+      "label": "Tbilisi State University",
       "count": 2
     },
     {
-      "label": "Kalinga University",
+      "label": "University of California, Los Angeles",
+      "count": 2
+    },
+    {
+      "label": "Astronomical Observatory of Rome",
       "count": 1
     },
     {
-      "label": "Universidad Privada Boliviana",
+      "label": "Center for Astrophysics Harvard & Smithsonian",
       "count": 1
     },
     {
-      "label": "Massachusetts Institute of Technology",
+      "label": "Jagiellonian University",
       "count": 1
     },
     {
-      "label": "University of Manchester",
+      "label": "Marshall Space Flight Center",
       "count": 1
     },
     {
-      "label": "University of Antwerp",
-      "count": 1
-    },
-    {
-      "label": "National Institute for Materials Science",
+      "label": "National Research University Higher School of Economics",
       "count": 1
     }
   ],
   "topCountries": [
     {
       "label": "US",
-      "count": 27
+      "count": 47
     },
     {
       "label": "CN",
       "count": 17
     },
     {
-      "label": "IN",
-      "count": 8
+      "label": "GB",
+      "count": 16
     },
     {
-      "label": "GB",
-      "count": 5
+      "label": "FR",
+      "count": 13
+    },
+    {
+      "label": "IR",
+      "count": 10
+    },
+    {
+      "label": "IT",
+      "count": 7
     },
     {
       "label": "JP",
-      "count": 5
+      "count": 7
     },
     {
-      "label": "AU",
-      "count": 4
+      "label": "DE",
+      "count": 6
+    },
+    {
+      "label": "AT",
+      "count": 5
     },
     {
       "label": "KR",
       "count": 4
-    },
-    {
-      "label": "BR",
-      "count": 3
-    },
-    {
-      "label": "ES",
-      "count": 3
-    },
-    {
-      "label": "DE",
-      "count": 2
     }
   ],
   "topResearchers": [
     {
-      "label": "Dazhi Hou",
-      "count": 2230
+      "label": "M. Elvis",
+      "count": 37679
     },
     {
-      "label": "Shengchun Shen",
-      "count": 2158
+      "label": "G. Fabbiano",
+      "count": 14901
     },
     {
-      "label": "Jeong San Kim",
-      "count": 1053
+      "label": "Thomas N. Zemb",
+      "count": 11807
     },
     {
-      "label": "Hayato Shimabukuro",
-      "count": 562
+      "label": "Michalis G. Nikolaidis",
+      "count": 7919
     },
     {
-      "label": "Jingdi Lu",
-      "count": 479
+      "label": "Jérôme Casas",
+      "count": 7915
     },
     {
-      "label": "Enda Hua",
-      "count": 405
+      "label": "Jennifer A. Flegg",
+      "count": 5142
     },
     {
-      "label": "Bohua Li",
-      "count": 373
+      "label": "Peter Pivonka",
+      "count": 4767
     },
     {
-      "label": "Wenfeng Wu",
-      "count": 258
+      "label": "James Nathan Cobley",
+      "count": 3543
     },
     {
-      "label": "Zhengguo Liang",
-      "count": 219
+      "label": "Fabrice Lemoult",
+      "count": 3423
     },
     {
-      "label": "Zhen Wang",
-      "count": 204
+      "label": "Jean‐François Dufrêche",
+      "count": 3209
     }
   ],
   "institutionTypes": [
     {
       "label": "University / school",
-      "count": 67
+      "count": 131
     },
     {
       "label": "Research facility",
-      "count": 8
-    },
-    {
-      "label": "Hospital / healthcare",
-      "count": 5
-    },
-    {
-      "label": "Nonprofit / institute",
-      "count": 4
+      "count": 14
     },
     {
       "label": "Government",
-      "count": 2
+      "count": 11
     },
     {
-      "label": "Organization",
-      "count": 2
+      "label": "Nonprofit / institute",
+      "count": 11
+    },
+    {
+      "label": "Hospital / healthcare",
+      "count": 7
     },
     {
       "label": "Archive",
-      "count": 1
+      "count": 5
     },
     {
       "label": "Company",
+      "count": 1
+    },
+    {
+      "label": "Organization",
       "count": 1
     }
   ]
