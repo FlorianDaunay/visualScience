@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-09T13:21:18.807Z",
+  "generatedAt": "2026-10-10T12:35:42.231Z",
   "totalDiscoveries": 160,
-  "totalResearchers": 922,
-  "totalInstitutions": 36,
-  "totalCitations": 2,
+  "totalResearchers": 637,
+  "totalInstitutions": 98,
+  "totalCitations": 0,
   "averageCitations": 0,
-  "openAccessRatio": 0.6,
+  "openAccessRatio": 0.7125,
   "weeklySeries": [
     {
       "weekStart": "2026-10-05",
@@ -15,30 +15,34 @@
   "topConcepts": [
     {
       "label": "Medicine",
-      "count": 34
+      "count": 33
+    },
+    {
+      "label": "Psychology",
+      "count": 14
+    },
+    {
+      "label": "Humanities",
+      "count": 10
     },
     {
       "label": "Chemistry",
       "count": 9
     },
     {
-      "label": "Psychology",
-      "count": 8
+      "label": "Materials science",
+      "count": 7
     },
     {
       "label": "Computer science",
       "count": 6
     },
     {
-      "label": "Materials science",
-      "count": 5
+      "label": "Physics",
+      "count": 3
     },
     {
-      "label": "Mathematics",
-      "count": 4
-    },
-    {
-      "label": "Remote sensing",
+      "label": "Process (computing)",
       "count": 3
     },
     {
@@ -46,155 +50,163 @@
       "count": 3
     },
     {
-      "label": "Humanities",
-      "count": 2
-    },
-    {
-      "label": "Political science",
+      "label": "Bonferroni correction",
       "count": 2
     }
   ],
   "topInstitutions": [
     {
-      "label": "Nanjing University of Posts and Telecommunications",
+      "label": "Sechenov University",
+      "count": 4
+    },
+    {
+      "label": "Universitas Maritim Raja Ali Haji",
+      "count": 3
+    },
+    {
+      "label": "National Medical Research Center of Cardiology",
+      "count": 3
+    },
+    {
+      "label": "The University of Tokyo",
+      "count": 2
+    },
+    {
+      "label": "Jadavpur University",
+      "count": 2
+    },
+    {
+      "label": "National Institute for Fusion Science",
       "count": 1
     },
     {
-      "label": "Institute of Software",
+      "label": "The University of Osaka",
       "count": 1
     },
     {
-      "label": "East China Normal University",
+      "label": "Liaoning Normal University",
       "count": 1
     },
     {
-      "label": "University of New Hampshire",
+      "label": "Peking University",
       "count": 1
     },
     {
-      "label": "Soochow University",
-      "count": 1
-    },
-    {
-      "label": "Hokkaido University",
-      "count": 1
-    },
-    {
-      "label": "Universidad Autónoma de Madrid",
-      "count": 1
-    },
-    {
-      "label": "University of Southern Denmark",
-      "count": 1
-    },
-    {
-      "label": "Kalinga University",
-      "count": 1
-    },
-    {
-      "label": "Andalas University",
+      "label": "Islamic Azad University, Zahedan Branch",
       "count": 1
     }
   ],
   "topCountries": [
     {
-      "label": "CN",
-      "count": 16
-    },
-    {
-      "label": "IN",
-      "count": 4
-    },
-    {
-      "label": "DE",
-      "count": 3
-    },
-    {
-      "label": "ES",
-      "count": 2
+      "label": "RU",
+      "count": 17
     },
     {
       "label": "ID",
-      "count": 2
+      "count": 11
     },
     {
-      "label": "VN",
-      "count": 2
+      "label": "CN",
+      "count": 11
     },
     {
       "label": "US",
-      "count": 1
+      "count": 11
     },
     {
       "label": "JP",
-      "count": 1
+      "count": 7
     },
     {
-      "label": "DK",
-      "count": 1
+      "label": "IN",
+      "count": 7
     },
     {
-      "label": "BR",
-      "count": 1
+      "label": "ES",
+      "count": 5
+    },
+    {
+      "label": "PH",
+      "count": 4
+    },
+    {
+      "label": "VN",
+      "count": 4
+    },
+    {
+      "label": "IR",
+      "count": 3
     }
   ],
   "topResearchers": [
     {
-      "label": "JAMES G. OXLEY",
-      "count": 3653
+      "label": "Teruyasu Mizoguchi",
+      "count": 10636
     },
     {
-      "label": "Richard Good",
-      "count": 2715
+      "label": "Shuji Nakanishi",
+      "count": 7904
     },
     {
-      "label": "Ben Shelley",
-      "count": 2459
+      "label": "Keisuke Mukai",
+      "count": 529
     },
     {
-      "label": "Chun‐Hung Liu",
-      "count": 2148
+      "label": "Sheng‐Qi Zhang",
+      "count": 301
     },
     {
-      "label": "Sean McGinty",
-      "count": 2144
+      "label": "Gerardo Ramos Serpa",
+      "count": 184
     },
     {
-      "label": "Pradip Roul",
-      "count": 2095
+      "label": "Raúl Comas Rodríguez",
+      "count": 144
     },
     {
-      "label": "Harish Vashisth",
-      "count": 1446
+      "label": "Hamid Nejat",
+      "count": 95
     },
     {
-      "label": "Shou‐Jun Xu",
-      "count": 1428
+      "label": "Ahmad Mansouri",
+      "count": 68
     },
     {
-      "label": "Ankush Aggarwal",
-      "count": 1098
+      "label": "Rezky Ramadhona",
+      "count": 66
     },
     {
-      "label": "Sanjay Pant",
-      "count": 989
+      "label": "O. Iu. Trushina",
+      "count": 55
     }
   ],
   "institutionTypes": [
     {
       "label": "University / school",
-      "count": 31
+      "count": 83
     },
     {
       "label": "Research facility",
-      "count": 2
-    },
-    {
-      "label": "Hospital / healthcare",
-      "count": 2
+      "count": 10
     },
     {
       "label": "Government",
+      "count": 5
+    },
+    {
+      "label": "Hospital / healthcare",
+      "count": 4
+    },
+    {
+      "label": "Organization",
+      "count": 2
+    },
+    {
+      "label": "Company",
+      "count": 2
+    },
+    {
+      "label": "Nonprofit / institute",
       "count": 1
     }
   ]
