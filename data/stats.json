@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-10T12:35:42.231Z",
+  "generatedAt": "2026-10-11T12:54:28.493Z",
   "totalDiscoveries": 160,
-  "totalResearchers": 637,
-  "totalInstitutions": 98,
+  "totalResearchers": 1034,
+  "totalInstitutions": 22,
   "totalCitations": 0,
   "averageCitations": 0,
-  "openAccessRatio": 0.7125,
+  "openAccessRatio": 0.8375,
   "weeklySeries": [
     {
       "weekStart": "2026-10-05",
@@ -15,199 +15,171 @@
   "topConcepts": [
     {
       "label": "Medicine",
-      "count": 33
-    },
-    {
-      "label": "Psychology",
-      "count": 14
-    },
-    {
-      "label": "Humanities",
-      "count": 10
-    },
-    {
-      "label": "Chemistry",
-      "count": 9
+      "count": 44
     },
     {
       "label": "Materials science",
-      "count": 7
+      "count": 8
+    },
+    {
+      "label": "Humanities",
+      "count": 8
     },
     {
       "label": "Computer science",
+      "count": 7
+    },
+    {
+      "label": "Psychology",
       "count": 6
     },
     {
-      "label": "Physics",
-      "count": 3
-    },
-    {
-      "label": "Process (computing)",
-      "count": 3
-    },
-    {
       "label": "Biology",
-      "count": 3
+      "count": 6
     },
     {
-      "label": "Bonferroni correction",
+      "label": "Chemistry",
+      "count": 4
+    },
+    {
+      "label": "Workflow",
+      "count": 2
+    },
+    {
+      "label": "Environmental science",
+      "count": 2
+    },
+    {
+      "label": "Hyperspectral imaging",
       "count": 2
     }
   ],
   "topInstitutions": [
     {
-      "label": "Sechenov University",
-      "count": 4
-    },
-    {
-      "label": "Universitas Maritim Raja Ali Haji",
-      "count": 3
-    },
-    {
-      "label": "National Medical Research Center of Cardiology",
-      "count": 3
-    },
-    {
-      "label": "The University of Tokyo",
-      "count": 2
-    },
-    {
-      "label": "Jadavpur University",
-      "count": 2
-    },
-    {
-      "label": "National Institute for Fusion Science",
+      "label": "King's College London",
       "count": 1
     },
     {
-      "label": "The University of Osaka",
+      "label": "University of Toronto",
       "count": 1
     },
     {
-      "label": "Liaoning Normal University",
+      "label": "Imperial College London",
       "count": 1
     },
     {
-      "label": "Peking University",
+      "label": "Kalinga University",
       "count": 1
     },
     {
-      "label": "Islamic Azad University, Zahedan Branch",
+      "label": "Universitas Bina Insani",
+      "count": 1
+    },
+    {
+      "label": "State University of Makassar",
+      "count": 1
+    },
+    {
+      "label": "Universitas Teuku Umar",
+      "count": 1
+    },
+    {
+      "label": "Sumatera Institute of Technology",
+      "count": 1
+    },
+    {
+      "label": "Malikussaleh University",
+      "count": 1
+    },
+    {
+      "label": "EM Normandie Business School",
       "count": 1
     }
   ],
   "topCountries": [
     {
-      "label": "RU",
-      "count": 17
-    },
-    {
       "label": "ID",
-      "count": 11
-    },
-    {
-      "label": "CN",
-      "count": 11
-    },
-    {
-      "label": "US",
-      "count": 11
-    },
-    {
-      "label": "JP",
-      "count": 7
+      "count": 8
     },
     {
       "label": "IN",
-      "count": 7
-    },
-    {
-      "label": "ES",
       "count": 5
     },
     {
-      "label": "PH",
-      "count": 4
+      "label": "GB",
+      "count": 2
     },
     {
-      "label": "VN",
-      "count": 4
+      "label": "CN",
+      "count": 2
     },
     {
-      "label": "IR",
-      "count": 3
+      "label": "CA",
+      "count": 1
+    },
+    {
+      "label": "FR",
+      "count": 1
+    },
+    {
+      "label": "TR",
+      "count": 1
+    },
+    {
+      "label": "FI",
+      "count": 1
+    },
+    {
+      "label": "DE",
+      "count": 1
     }
   ],
   "topResearchers": [
     {
-      "label": "Teruyasu Mizoguchi",
-      "count": 10636
+      "label": "Daniel J. Graham",
+      "count": 10350
     },
     {
-      "label": "Shuji Nakanishi",
-      "count": 7904
+      "label": "Syed Ainul Hussain",
+      "count": 7739
     },
     {
-      "label": "Keisuke Mukai",
-      "count": 529
+      "label": "Daniela Lucini",
+      "count": 5362
     },
     {
-      "label": "Sheng‐Qi Zhang",
-      "count": 301
+      "label": "Ruchi Badola",
+      "count": 4625
     },
     {
-      "label": "Gerardo Ramos Serpa",
-      "count": 184
+      "label": "Kuan Liu",
+      "count": 3342
     },
     {
-      "label": "Raúl Comas Rodríguez",
-      "count": 144
+      "label": "Francesca Bianchi",
+      "count": 2369
     },
     {
-      "label": "Hamid Nejat",
-      "count": 95
+      "label": "Yu Luo",
+      "count": 1028
     },
     {
-      "label": "Ahmad Mansouri",
-      "count": 68
+      "label": "Pallavi Pallavi",
+      "count": 954
     },
     {
-      "label": "Rezky Ramadhona",
-      "count": 66
+      "label": "Praneet Saurabh",
+      "count": 719
     },
     {
-      "label": "O. Iu. Trushina",
-      "count": 55
+      "label": "Ramandeep Singh",
+      "count": 337
     }
   ],
   "institutionTypes": [
     {
       "label": "University / school",
-      "count": 83
-    },
-    {
-      "label": "Research facility",
-      "count": 10
-    },
-    {
-      "label": "Government",
-      "count": 5
-    },
-    {
-      "label": "Hospital / healthcare",
-      "count": 4
-    },
-    {
-      "label": "Organization",
-      "count": 2
-    },
-    {
-      "label": "Company",
-      "count": 2
-    },
-    {
-      "label": "Nonprofit / institute",
-      "count": 1
+      "count": 22
     }
   ]
 }
