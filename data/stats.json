@@ -1,185 +1,213 @@
 {
-  "generatedAt": "2026-10-11T12:54:28.493Z",
+  "generatedAt": "2026-10-12T15:30:45.379Z",
   "totalDiscoveries": 160,
-  "totalResearchers": 1034,
-  "totalInstitutions": 22,
+  "totalResearchers": 793,
+  "totalInstitutions": 98,
   "totalCitations": 0,
   "averageCitations": 0,
-  "openAccessRatio": 0.8375,
+  "openAccessRatio": 0.74375,
   "weeklySeries": [
     {
-      "weekStart": "2026-10-05",
+      "weekStart": "2026-10-12",
       "count": 160
     }
   ],
   "topConcepts": [
     {
       "label": "Medicine",
-      "count": 44
-    },
-    {
-      "label": "Materials science",
-      "count": 8
-    },
-    {
-      "label": "Humanities",
-      "count": 8
+      "count": 36
     },
     {
       "label": "Computer science",
-      "count": 7
+      "count": 6
     },
     {
       "label": "Psychology",
-      "count": 6
+      "count": 5
     },
     {
-      "label": "Biology",
-      "count": 6
-    },
-    {
-      "label": "Chemistry",
+      "label": "Humanities",
       "count": 4
     },
     {
-      "label": "Workflow",
-      "count": 2
+      "label": "Biology",
+      "count": 4
     },
     {
-      "label": "Environmental science",
-      "count": 2
+      "label": "Islam",
+      "count": 3
     },
     {
-      "label": "Hyperspectral imaging",
+      "label": "Curriculum",
+      "count": 3
+    },
+    {
+      "label": "Physics",
+      "count": 3
+    },
+    {
+      "label": "Chemistry",
+      "count": 3
+    },
+    {
+      "label": "Artificial intelligence",
       "count": 2
     }
   ],
   "topInstitutions": [
     {
-      "label": "King's College London",
+      "label": "Polissia National University",
+      "count": 2
+    },
+    {
+      "label": "Nanjing Drum Tower Hospital",
+      "count": 2
+    },
+    {
+      "label": "Université de Sherbrooke",
+      "count": 2
+    },
+    {
+      "label": "Fujian Medical University",
+      "count": 2
+    },
+    {
+      "label": "Université Laval",
       "count": 1
     },
     {
-      "label": "University of Toronto",
+      "label": "Center for Northern Studies",
       "count": 1
     },
     {
-      "label": "Imperial College London",
+      "label": "Environment and Climate Change Canada",
       "count": 1
     },
     {
-      "label": "Kalinga University",
+      "label": "Centre National de la Recherche Scientifique",
       "count": 1
     },
     {
-      "label": "Universitas Bina Insani",
+      "label": "Los Alamos National Laboratory",
       "count": 1
     },
     {
-      "label": "State University of Makassar",
-      "count": 1
-    },
-    {
-      "label": "Universitas Teuku Umar",
-      "count": 1
-    },
-    {
-      "label": "Sumatera Institute of Technology",
-      "count": 1
-    },
-    {
-      "label": "Malikussaleh University",
-      "count": 1
-    },
-    {
-      "label": "EM Normandie Business School",
+      "label": "Pacific Northwest National Laboratory",
       "count": 1
     }
   ],
   "topCountries": [
     {
-      "label": "ID",
-      "count": 8
-    },
-    {
-      "label": "IN",
-      "count": 5
-    },
-    {
-      "label": "GB",
-      "count": 2
-    },
-    {
       "label": "CN",
-      "count": 2
+      "count": 29
+    },
+    {
+      "label": "US",
+      "count": 23
     },
     {
       "label": "CA",
-      "count": 1
+      "count": 14
+    },
+    {
+      "label": "KR",
+      "count": 7
+    },
+    {
+      "label": "UZ",
+      "count": 5
+    },
+    {
+      "label": "AU",
+      "count": 4
+    },
+    {
+      "label": "UA",
+      "count": 3
+    },
+    {
+      "label": "IR",
+      "count": 3
+    },
+    {
+      "label": "GB",
+      "count": 3
     },
     {
       "label": "FR",
-      "count": 1
-    },
-    {
-      "label": "TR",
-      "count": 1
-    },
-    {
-      "label": "FI",
-      "count": 1
-    },
-    {
-      "label": "DE",
-      "count": 1
+      "count": 2
     }
   ],
   "topResearchers": [
     {
-      "label": "Daniel J. Graham",
-      "count": 10350
+      "label": "Jayaram K. Udupa",
+      "count": 18591
     },
     {
-      "label": "Syed Ainul Hussain",
-      "count": 7739
+      "label": "Florent Dominé",
+      "count": 10557
     },
     {
-      "label": "Daniela Lucini",
-      "count": 5362
+      "label": "Robert D. Hetland",
+      "count": 5821
     },
     {
-      "label": "Ruchi Badola",
-      "count": 4625
+      "label": "Vincent Vionnet",
+      "count": 5450
     },
     {
-      "label": "Kuan Liu",
-      "count": 3342
+      "label": "Alexandre Roy",
+      "count": 3398
     },
     {
-      "label": "Francesca Bianchi",
-      "count": 2369
+      "label": "Christophe Kinnard",
+      "count": 3175
     },
     {
-      "label": "Yu Luo",
-      "count": 1028
+      "label": "Libo Wang",
+      "count": 1536
     },
     {
-      "label": "Pallavi Pallavi",
-      "count": 954
+      "label": "Yao Jiang",
+      "count": 1262
     },
     {
-      "label": "Praneet Saurabh",
-      "count": 719
+      "label": "Kyle E. Hinson",
+      "count": 339
     },
     {
-      "label": "Ramandeep Singh",
-      "count": 337
+      "label": "Mickaël Lalande",
+      "count": 166
     }
   ],
   "institutionTypes": [
     {
       "label": "University / school",
-      "count": 22
+      "count": 69
+    },
+    {
+      "label": "Hospital / healthcare",
+      "count": 16
+    },
+    {
+      "label": "Government",
+      "count": 8
+    },
+    {
+      "label": "Research facility",
+      "count": 4
+    },
+    {
+      "label": "Nonprofit / institute",
+      "count": 2
+    },
+    {
+      "label": "Organization",
+      "count": 2
+    },
+    {
+      "label": "Company",
+      "count": 1
     }
   ]
 }
