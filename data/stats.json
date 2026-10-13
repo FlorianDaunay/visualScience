@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-12T15:30:45.379Z",
+  "generatedAt": "2026-10-13T14:15:27.410Z",
   "totalDiscoveries": 160,
-  "totalResearchers": 793,
-  "totalInstitutions": 98,
-  "totalCitations": 0,
+  "totalResearchers": 610,
+  "totalInstitutions": 57,
+  "totalCitations": 2,
   "averageCitations": 0,
-  "openAccessRatio": 0.74375,
+  "openAccessRatio": 0.46875,
   "weeklySeries": [
     {
       "weekStart": "2026-10-12",
@@ -15,198 +15,194 @@
   "topConcepts": [
     {
       "label": "Medicine",
-      "count": 36
-    },
-    {
-      "label": "Computer science",
-      "count": 6
+      "count": 20
     },
     {
       "label": "Psychology",
-      "count": 5
+      "count": 9
     },
     {
-      "label": "Humanities",
-      "count": 4
+      "label": "Materials science",
+      "count": 8
     },
     {
-      "label": "Biology",
-      "count": 4
-    },
-    {
-      "label": "Islam",
-      "count": 3
-    },
-    {
-      "label": "Curriculum",
-      "count": 3
+      "label": "Computer science",
+      "count": 7
     },
     {
       "label": "Physics",
+      "count": 4
+    },
+    {
+      "label": "Mathematics",
+      "count": 4
+    },
+    {
+      "label": "Econometrics",
       "count": 3
     },
     {
       "label": "Chemistry",
-      "count": 3
+      "count": 2
     },
     {
-      "label": "Artificial intelligence",
+      "label": "Pedagogy",
+      "count": 2
+    },
+    {
+      "label": "Humanities",
       "count": 2
     }
   ],
   "topInstitutions": [
     {
-      "label": "Polissia National University",
+      "label": "Northeast Normal University",
       "count": 2
     },
     {
-      "label": "Nanjing Drum Tower Hospital",
+      "label": "National University of Singapore",
       "count": 2
     },
     {
-      "label": "Université de Sherbrooke",
-      "count": 2
+      "label": "Karlsruhe Institute of Technology",
+      "count": 1
     },
     {
-      "label": "Fujian Medical University",
-      "count": 2
+      "label": "University of Zurich",
+      "count": 1
+    },
+    {
+      "label": "IDEFIX: Solution d'Equations Differentielles pour l'Imagerie et la physique",
+      "count": 1
+    },
+    {
+      "label": "Laboratoire Analyse, Géométrie et Applications",
+      "count": 1
     },
     {
       "label": "Université Laval",
       "count": 1
     },
     {
-      "label": "Center for Northern Studies",
+      "label": "Polytechnic University of Bari",
       "count": 1
     },
     {
-      "label": "Environment and Climate Change Canada",
+      "label": "Jawaharlal Nehru Centre for Advanced Scientific Research",
       "count": 1
     },
     {
-      "label": "Centre National de la Recherche Scientifique",
-      "count": 1
-    },
-    {
-      "label": "Los Alamos National Laboratory",
-      "count": 1
-    },
-    {
-      "label": "Pacific Northwest National Laboratory",
+      "label": "Hanoi University of Science and Technology",
       "count": 1
     }
   ],
   "topCountries": [
     {
       "label": "CN",
-      "count": 29
+      "count": 26
     },
     {
       "label": "US",
-      "count": 23
-    },
-    {
-      "label": "CA",
-      "count": 14
+      "count": 10
     },
     {
       "label": "KR",
-      "count": 7
-    },
-    {
-      "label": "UZ",
       "count": 5
     },
     {
       "label": "AU",
-      "count": 4
-    },
-    {
-      "label": "UA",
       "count": 3
     },
     {
-      "label": "IR",
-      "count": 3
-    },
-    {
-      "label": "GB",
-      "count": 3
+      "label": "SG",
+      "count": 2
     },
     {
       "label": "FR",
       "count": 2
+    },
+    {
+      "label": "CA",
+      "count": 2
+    },
+    {
+      "label": "DE",
+      "count": 1
+    },
+    {
+      "label": "CH",
+      "count": 1
+    },
+    {
+      "label": "IT",
+      "count": 1
     }
   ],
   "topResearchers": [
     {
-      "label": "Jayaram K. Udupa",
-      "count": 18591
+      "label": "Sundaram Balasubramanian",
+      "count": 11284
     },
     {
-      "label": "Florent Dominé",
-      "count": 10557
+      "label": "Aiden Doherty",
+      "count": 9621
     },
     {
-      "label": "Robert D. Hetland",
-      "count": 5821
+      "label": "Sergio Gómez",
+      "count": 9229
     },
     {
-      "label": "Vincent Vionnet",
-      "count": 5450
+      "label": "J. Giacalone",
+      "count": 8586
     },
     {
-      "label": "Alexandre Roy",
-      "count": 3398
+      "label": "Bhal Chandra Joshi",
+      "count": 6453
     },
     {
-      "label": "Christophe Kinnard",
-      "count": 3175
+      "label": "Jordi Duch",
+      "count": 6317
     },
     {
-      "label": "Libo Wang",
-      "count": 1536
+      "label": "P. K. Manoharan",
+      "count": 3952
     },
     {
-      "label": "Yao Jiang",
-      "count": 1262
+      "label": "Okan Bulut",
+      "count": 3430
     },
     {
-      "label": "Kyle E. Hinson",
-      "count": 339
+      "label": "O. Malandraki",
+      "count": 3392
     },
     {
-      "label": "Mickaël Lalande",
-      "count": 166
+      "label": "Laurence Halpern",
+      "count": 2970
     }
   ],
   "institutionTypes": [
     {
       "label": "University / school",
-      "count": 69
+      "count": 44
     },
     {
       "label": "Hospital / healthcare",
-      "count": 16
-    },
-    {
-      "label": "Government",
-      "count": 8
+      "count": 6
     },
     {
       "label": "Research facility",
-      "count": 4
+      "count": 5
     },
     {
       "label": "Nonprofit / institute",
       "count": 2
     },
     {
-      "label": "Organization",
-      "count": 2
+      "label": "Company",
+      "count": 1
     },
     {
-      "label": "Company",
+      "label": "Organization",
       "count": 1
     }
   ]
