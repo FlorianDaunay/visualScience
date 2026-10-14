@@ -1,5 +1,204 @@
 [
   {
+    "id": "W7213095339",
+    "title": "Impact of artificial intelligence on project planning, scheduling, and control",
+    "abstractText": "Abstract The growing complexity of engineering and construction projects has revealed the weaknesses of conventional project planning, scheduling, and control approaches. Traditional tools often employ fixed assumptions, deterministic models, and past averages, which are inadequate for dealing with uncertainty, dynamic environments, and large-scale data. Artificial intelligence has become a disruptive technology that can be used to improve decision-making, prediction, and automation in project management processes. This paper examines the application of artificial intelligence in project planning, scheduling, and control within the engineering and construction sector. The paper summarises the application of artificial intelligence methods, including machine learning, optimization algorithms, and predictive analytics, in enhancing project performance using a methodical review of the recent scholarly literature and industry practise. The results show that artificial intelligence promotes the planning accuracy, flexibility of scheduling, and real-time project control to a great extent, as it allows data-driven insights and flexible responses. Issues of data quality, company preparedness, and ethical issues are major obstacles to implementation. The research paper adds to the project management literature because it develops the application of artificial intelligence in the three fundamental project management functions and provides practical advice to practitioners interested in introducing intelligent project management systems. Keywords Artificial intelligence, project planning, project scheduling, project control, construction management, digital transformation",
+    "publishedDate": "2026-10-14",
+    "doi": "https://doi.org/10.5281/zenodo.22753692",
+    "sourceUrl": "https://doi.org/10.5281/zenodo.22753692",
+    "isOpenAccess": true,
+    "venueName": "International Journal of Construction Management",
+    "citedByCount": 0,
+    "concepts": [
+      {
+        "id": "C15952604",
+        "name": "Project management",
+        "score": 0.6258000135421753
+      },
+      {
+        "id": "C2780598303",
+        "name": "Flexibility (engineering)",
+        "score": 0.5309000015258789
+      },
+      {
+        "id": "C41008148",
+        "name": "Computer science",
+        "score": 0.4661000072956085
+      },
+      {
+        "id": "C2775924081",
+        "name": "Control (management)",
+        "score": 0.4659000039100647
+      },
+      {
+        "id": "C115901376",
+        "name": "Automation",
+        "score": 0.45660001039505005
+      },
+      {
+        "id": "C110354214",
+        "name": "Engineering management",
+        "score": 0.4424999952316284
+      }
+    ],
+    "authors": [
+      {
+        "id": "A5137265086",
+        "name": "Paulson Geo Philip"
+      }
+    ],
+    "institutions": [],
+    "openAlexUrl": "https://openalex.org/W7213095339"
+  },
+  {
+    "id": "W7221557325",
+    "title": "Pelatihan Strategi Pengelolaan Usaha Bermodal Kecil Bagi Wirausaha Muda Lokabisa Bojonggede",
+    "abstractText": "Kegiatan PKM dilaksanakan untuk memperkuat kemampuan wirausaha muda dalam mengelola usaha dengan modal terbatas, Kegiatan ini bertujuan meningkatkan pemahaman peserta mengenai strategi praktis pengelolaan usaha dan mendukung perencanaan bisnis yang lebih terstruktur bagi anggota komunitas Lokabisa Bojonggede, Kabupaten Bogor. Kegiatan dilaksanakan secara luring pada 26 September 2026 dengan pendekatan pelatihan partisipatif melalui pemaparan materi, diskusi, studi kasus, simulasi perhitungan usaha, dan penyusunan rencana usaha sederhana satu halaman. Materi meliputi identifikasi peluang usaha, perencanaan modal, pencatatan keuangan sederhana, perhitungan Harga Pokok Penjualan (HPP), penetapan harga jual, dan pemasaran digital berbiaya rendah. Evaluasi dilakukan berdasarkan kuesioner setelah kegiatan yang diisi oleh 13 responden. Hasil evaluasi menunjukkan bahwa persepsi manfaat kegiatan memperoleh nilai rata-rata 4,69 dari skala 5, sedangkan kepuasan keseluruhan mencapai 4,54. Penyampaian materi oleh tutor memperoleh nilai rata-rata 4,62 dan materi pelatihan 4,46. Hasil tersebut menunjukkan bahwa peserta memberikan respons positif dan menilai kegiatan bermanfaat. Kegiatan selanjutnya disarankan dilengkapi dengan tes sebelum dan sesudah pelatihan, penilaian rencana usaha, serta pendampingan lanjutan untuk mengevaluasi penerapan dan keberlanjutan hasil pelatihan.",
+    "publishedDate": "2026-10-14",
+    "doi": "https://doi.org/10.63822/8t4fr204",
+    "sourceUrl": "https://indojurnal.com/index.php/aksikita/article/view/5207",
+    "isOpenAccess": true,
+    "venueName": "Aksi Kita: Jurnal Pengabdian kepada Masyarakat",
+    "citedByCount": 0,
+    "concepts": [
+      {
+        "id": "C15708023",
+        "name": "Humanities",
+        "score": 0.5385000109672546
+      },
+      {
+        "id": "C121332964",
+        "name": "Physics",
+        "score": 0.5321999788284302
+      },
+      {
+        "id": "C178550888",
+        "name": "Business administration",
+        "score": 0.421999990940094
+      },
+      {
+        "id": "C144133560",
+        "name": "Business",
+        "score": 0.3522000014781952
+      },
+      {
+        "id": "C37621935",
+        "name": "Agricultural science",
+        "score": 0.22599999606609344
+      },
+      {
+        "id": "C33923547",
+        "name": "Mathematics",
+        "score": 0.21979999542236328
+      }
+    ],
+    "authors": [
+      {
+        "id": "A5157586652",
+        "name": "Elmira Siska",
+        "institutionId": "I4405253754",
+        "institutionName": "Universitas Bina Sarana Informatika"
+      },
+      {
+        "id": "A5060238904",
+        "name": "Nurlaela Eva Puji Lestari",
+        "institutionId": "I4405253754",
+        "institutionName": "Universitas Bina Sarana Informatika"
+      },
+      {
+        "id": "A5090513743",
+        "name": "Lela Elvira",
+        "institutionId": "I4405253754",
+        "institutionName": "Universitas Bina Sarana Informatika"
+      },
+      {
+        "id": "A5001605632",
+        "name": "Siti Mabrur Rachmah",
+        "institutionId": "I4405253754",
+        "institutionName": "Universitas Bina Sarana Informatika"
+      }
+    ],
+    "institutions": [
+      {
+        "id": "I4405253754",
+        "name": "Universitas Bina Sarana Informatika",
+        "countryCode": "ID"
+      }
+    ],
+    "openAlexUrl": "https://openalex.org/W7221557325"
+  },
+  {
+    "id": "W7221560855",
+    "title": "Analisis Deskriptif Profitabilitas PT Japfa Comfeed Indonesia Tbk Tahun 2021-2025: Mengidentifikasi Pola Kenaikan/Penurunan dan Interpretasi Manajerial",
+    "abstractText": "Penelitian dilakukan untuk menganalisis perkembangan profitabilitas PT Japfa Comfeed Indonesia Tbk periode 2021-2025 berdasarkan biaya, laba, dan segmen usaha. Penelitian menggunakan metode kuantitatif dengan pendekatan deskriptif. Data sekunder bersumber dari laporan keuangan konsolidasian dan laporan tahunan Perusahaan, lalu dianalisis melalui rasio COGS, beban operasional, markup, gross profit margin (GPM), operating profit margin (OPM), net profit margin (NPM), return on assets (ROA), dan return on equity (ROE). Hasil menunjukkan bahwa penjualan naik 35,3% selama periode pengamatan, tetapi profitabilitas menurun pada 2022-2023 dan pulih pada 2024-2025. GPM turun dari 17,87% pada 2021 menjadi 14,68% pada 2023, lalu mencapai 21,73% pada 2025. Pola serupa terjadi pada OPM (7,85%; 4,31%; 10,18%), NPM (4,75%; 1,85%; 7,05%), ROA, dan ROE. Penurunan margin terjadi ketika penjualan masih tumbuh, sehingga mengindikasikan tekanan pada biaya produksi, bukan permintaan. Peternakan komersial dan pakan ternak menyumbang sekitar 65% penjualan 2025, sedangkan segmen pengolahan hasil peternakan dan produk konsumen tumbuh paling cepat. Karena COGS dialokasikan secara proporsional, efisiensi antarsegmen belum dapat dinilai. Pengendalian biaya bahan baku menjadi prioritas manajemen untuk menjaga profitabilitas.",
+    "publishedDate": "2026-10-14",
+    "doi": "https://doi.org/10.63822/6scms512",
+    "sourceUrl": "https://indojurnal.com/index.php/ekopedia/article/view/5205",
+    "isOpenAccess": true,
+    "venueName": "Ekopedia Jurnal Ilmiah Ekonomi",
+    "citedByCount": 0,
+    "concepts": [
+      {
+        "id": "C189560676",
+        "name": "Profit margin",
+        "score": 0.6413000226020813
+      },
+      {
+        "id": "C144133560",
+        "name": "Business",
+        "score": 0.4375999867916107
+      },
+      {
+        "id": "C178550888",
+        "name": "Business administration",
+        "score": 0.3917999863624573
+      },
+      {
+        "id": "C37621935",
+        "name": "Agricultural science",
+        "score": 0.36629998683929443
+      },
+      {
+        "id": "C29456083",
+        "name": "Gynecology",
+        "score": 0.3149000108242035
+      },
+      {
+        "id": "C181622380",
+        "name": "Profit (economics)",
+        "score": 0.30149999260902405
+      }
+    ],
+    "authors": [
+      {
+        "id": "A5158524522",
+        "name": "Riska Koeswidyawati",
+        "institutionId": "I23758234",
+        "institutionName": "Universitas Negeri Surabaya"
+      },
+      {
+        "id": "A5158462381",
+        "name": "Nisfatul Khamdiyah",
+        "institutionId": "I23758234",
+        "institutionName": "Universitas Negeri Surabaya"
+      },
+      {
+        "id": "A5158526818",
+        "name": "Aliyu Listianingrum",
+        "institutionId": "I23758234",
+        "institutionName": "Universitas Negeri Surabaya"
+      }
+    ],
+    "institutions": [
+      {
+        "id": "I23758234",
+        "name": "Universitas Negeri Surabaya",
+        "countryCode": "ID"
+      }
+    ],
+    "openAlexUrl": "https://openalex.org/W7221560855"
+  },
+  {
     "id": "W4413132741",
     "title": "Silyl Chloroalkenyl and Alkynyl Sulfur Pentafluorides as Versatile Reagents to Access Fundamental SF5 Building Blocks",
     "abstractText": "Abstract Herein, we report a second-generation SF5-alkenyl platform reagent granting facile benchtop access to a variety of known and unknown SF5-containing building blocks under mild conditions without any necessity to use pentafluorosulfanylation reagents, such as SF5Cl, on-site. This work overcomes the previous synthetic bottleneck that had prevented a broader use of the triisopropylsilylalkynyl (TASP) reagent. This versatile platform reagent is thermally stable, easy to handle, shows high shelf stability, and can be accessed on a multigram scale. This class of reagents undergoes protodesilylation/nucleophilic substitution reactions with O-, S-, and N-nucleophiles allowing access to (E)-configured α-SF5-enamines (up to >99%), (E)-configured α-SF5-vinyl ethers (up to 90%), another synthetically useful access to (E)-configured β-vinyl sulfides (up to 99%), O,O-acetals (up to 95%), and S,S-acetals (up to 97%) in a single reaction step. Further processing allowed access to S,S-ketene acetals (up to 97%), the corresponding α-SF5-acetic acid esters (up to 88%), as well as α-SF5-acetic acid (92%). Based on these findings, we shed light on the operating reaction mechanism by DFT studies, revealing that the amount of charge accumulated on the α-SF5 carbon controls the efficacy of the reaction with different nucleophiles. In a second part, we reconnected to previous inaccessible alkynyl sulfur pentafluorides by developing a novel in situ elimination strategy and identified the TBDMS derivative as an accessible, stable, and reactive reagent to prepare the complementary (Z)-configured β-vinyl sulfides (up to 85%) in a single reaction step, whereas the pure TMS and TES alkynyl derivatives were found to be inaccessible or unstable under ambient conditions. This report offers a versatile and robust protocol to access important SF5-containing organic motifs employing a commercially available prefunctionalized SF5 reagent.",
@@ -10372,174 +10571,5 @@
     ],
     "institutions": [],
     "openAlexUrl": "https://openalex.org/W7221526135"
-  },
-  {
-    "id": "W7221526195",
-    "title": "Research on Embedded Hypervisor Technology Selection: Requirements Analysis and Capability Comparison for Extreme Environment Application Scenarios",
-    "abstractText": "As embedded devices grow more complex, running multiple operating systems on a single device—and deploying virtualization beyond data centers into embedded systems—has become standard. This paper focuses on the hypervisor Virtual Machine Monitor and examines its selection challenges in extreme environments: disaster rescue, space exploration, deep-sea and polar operations, and security confrontations. We propose a four-layer analytical framework—\"Scenario → Threat → Requirement → Capability\"—to systematically compare mainstream embedded hypervisors across key dimensions. The framework is validated through real-world cases: the Mars Pathfinder mission, AWS Snowcone edge devices, and the DARPA HACMS red-team experiment. Results show no one-size-fits-all hypervisor for extreme settings, optimal selection depends on specific application context, security needs, and system constraints. In safety-critical domains, certification standards (e.g., DO-178C, ISO 26262) and formal verification—once limited to military applications—are now spreading to critical infrastructure. The selection decision process proposed in this paper can provide a reference for embedded virtualization engineering practice.",
-    "publishedDate": "2026-10-13",
-    "doi": "https://doi.org/10.54254/2755-2721/2026.ld37589",
-    "sourceUrl": "https://doi.org/10.54254/2755-2721/2026.ld37589",
-    "isOpenAccess": false,
-    "venueName": "Applied and Computational Engineering",
-    "citedByCount": 0,
-    "concepts": [
-      {
-        "id": "C41008148",
-        "name": "Computer science",
-        "score": 0.7249000072479248
-      },
-      {
-        "id": "C25344961",
-        "name": "Virtual machine",
-        "score": 0.6279000043869019
-      },
-      {
-        "id": "C149635348",
-        "name": "Embedded system",
-        "score": 0.5619000196456909
-      },
-      {
-        "id": "C98045186",
-        "name": "Process (computing)",
-        "score": 0.5511000156402588
-      },
-      {
-        "id": "C111919701",
-        "name": "Operating system",
-        "score": 0.5504999756813049
-      },
-      {
-        "id": "C26517878",
-        "name": "Key (lock)",
-        "score": 0.4805000126361847
-      }
-    ],
-    "authors": [
-      {
-        "id": "A5158477272",
-        "name": "Zhichen Wang",
-        "institutionId": "I11406153",
-        "institutionName": "Shanghai International Studies University"
-      }
-    ],
-    "institutions": [
-      {
-        "id": "I11406153",
-        "name": "Shanghai International Studies University",
-        "countryCode": "CN"
-      }
-    ],
-    "openAlexUrl": "https://openalex.org/W7221526195"
-  },
-  {
-    "id": "W7221526259",
-    "title": "Oḍiā Kṣudragalpare Bhāratīya Mukti Saṅgrāmara Pratiphalaṇa",
-    "abstractText": null,
-    "publishedDate": "2026-10-13",
-    "doi": "https://doi.org/10.64647/bb.vol.2.issue.4.2026.11",
-    "sourceUrl": "https://doi.org/10.64647/bb.vol.2.issue.4.2026.11",
-    "isOpenAccess": false,
-    "venueName": "Bindu Bimarsha",
-    "citedByCount": 0,
-    "concepts": [
-      {
-        "id": "C71924100",
-        "name": "Medicine",
-        "score": 0.24210000038146973
-      },
-      {
-        "id": "C185592680",
-        "name": "Chemistry",
-        "score": 0.2337000072002411
-      },
-      {
-        "id": "C116834253",
-        "name": "Identification (biology)",
-        "score": 0.20100000500679016
-      },
-      {
-        "id": "C90673727",
-        "name": "Product (mathematics)",
-        "score": 0.2003999948501587
-      },
-      {
-        "id": "C98045186",
-        "name": "Process (computing)",
-        "score": 0.1973000019788742
-      },
-      {
-        "id": "C86803240",
-        "name": "Biology",
-        "score": 0.18310000002384186
-      }
-    ],
-    "authors": [
-      {
-        "id": "A5101301824",
-        "name": "Rajasmita Sahoo"
-      }
-    ],
-    "institutions": [],
-    "openAlexUrl": "https://openalex.org/W7221526259"
-  },
-  {
-    "id": "W7221526467",
-    "title": "The Effects of Regular Aerobic Exercise on Blood-glucose Control in Sedentary Adults with Type 2 Diabetes",
-    "abstractText": "Sedentary behaviour has become a widespread health risk factor for modern adults, greatly increasing the risk of type 2 diabetes and worsening glycaemic regulation. Although pharmacological treatments are widely used for diabetes management, non-drug interventions such as aerobic exercise deserve further investigation. The study aims to explore how regular aerobic exercise would influence blood-glucose control among sedentary adults with type 2 diabetes. This narrative review synthesizes relevant published literature and physiological mechanisms including insulin sensitivity. Intervention outcomes such as changes in HbA1c and 24-hour glucose monitoring are compared between exercise and control groups. The results indicate that consistent aerobic training can effectively improve participants' blood glucose control. It is concluded that regular aerobic exercise is absolutely a meaningful approach for blood-glucose control, yet it should combine with personal condition changes to form practical exercise prescriptions.",
-    "publishedDate": "2026-10-13",
-    "doi": "https://doi.org/10.54254/2753-8818/2026.37680",
-    "sourceUrl": "https://doi.org/10.54254/2753-8818/2026.37680",
-    "isOpenAccess": false,
-    "venueName": "Theoretical and Natural Science",
-    "citedByCount": 0,
-    "concepts": [
-      {
-        "id": "C103038586",
-        "name": "Aerobic exercise",
-        "score": 0.8700000047683716
-      },
-      {
-        "id": "C71924100",
-        "name": "Medicine",
-        "score": 0.7491000294685364
-      },
-      {
-        "id": "C1862650",
-        "name": "Physical therapy",
-        "score": 0.5342000126838684
-      },
-      {
-        "id": "C555293320",
-        "name": "Diabetes mellitus",
-        "score": 0.45730000734329224
-      },
-      {
-        "id": "C27415008",
-        "name": "Psychological intervention",
-        "score": 0.44200000166893005
-      },
-      {
-        "id": "C2780665704",
-        "name": "Intervention (counseling)",
-        "score": 0.43220001459121704
-      }
-    ],
-    "authors": [
-      {
-        "id": "A5158441458",
-        "name": "Jinxuan Cao",
-        "institutionId": "I184983240",
-        "institutionName": "Northeast Normal University"
-      }
-    ],
-    "institutions": [
-      {
-        "id": "I184983240",
-        "name": "Northeast Normal University",
-        "countryCode": "CN"
-      }
-    ],
-    "openAlexUrl": "https://openalex.org/W7221526467"
   }
 ]

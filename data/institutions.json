@@ -1,19 +1,24 @@
 [
   {
-    "id": "I184983240",
-    "name": "Northeast Normal University",
+    "id": "I4405253754",
+    "name": "Universitas Bina Sarana Informatika",
     "type": "education",
-    "countryCode": "CN",
+    "countryCode": "ID",
     "homepage": null,
     "ror": null,
-    "openAlexUrl": "https://openalex.org/I184983240",
+    "openAlexUrl": "https://openalex.org/I4405253754",
     "researcherIds": [
-      "A5102394120",
-      "A5158441458"
+      "A5157586652",
+      "A5060238904",
+      "A5090513743",
+      "A5001605632",
+      "A5158343686",
+      "A5077038869",
+      "A5038712877"
     ],
     "discoveryIds": [
-      "W7221504692",
-      "W7221526467"
+      "W7221557325",
+      "W7221460769"
     ]
   },
   {
@@ -67,6 +72,23 @@
     ],
     "discoveryIds": [
       "W4413132741"
+    ]
+  },
+  {
+    "id": "I23758234",
+    "name": "Universitas Negeri Surabaya",
+    "type": "education",
+    "countryCode": "ID",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I23758234",
+    "researcherIds": [
+      "A5158524522",
+      "A5158462381",
+      "A5158526818"
+    ],
+    "discoveryIds": [
+      "W7221560855"
     ]
   },
   {
@@ -163,23 +185,6 @@
     ]
   },
   {
-    "id": "I4405253754",
-    "name": "Universitas Bina Sarana Informatika",
-    "type": "education",
-    "countryCode": "ID",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I4405253754",
-    "researcherIds": [
-      "A5158343686",
-      "A5077038869",
-      "A5038712877"
-    ],
-    "discoveryIds": [
-      "W7221460769"
-    ]
-  },
-  {
     "id": "I111088046",
     "name": "Boston University",
     "type": "education",
@@ -227,6 +232,21 @@
     "openAlexUrl": "https://openalex.org/I4210106852",
     "researcherIds": [
       "A5066441017"
+    ],
+    "discoveryIds": [
+      "W7221504692"
+    ]
+  },
+  {
+    "id": "I184983240",
+    "name": "Northeast Normal University",
+    "type": "education",
+    "countryCode": "CN",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I184983240",
+    "researcherIds": [
+      "A5102394120"
     ],
     "discoveryIds": [
       "W7221504692"
@@ -893,21 +913,6 @@
     ],
     "discoveryIds": [
       "W7221525615"
-    ]
-  },
-  {
-    "id": "I11406153",
-    "name": "Shanghai International Studies University",
-    "type": "education",
-    "countryCode": "CN",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I11406153",
-    "researcherIds": [
-      "A5158477272"
-    ],
-    "discoveryIds": [
-      "W7221526195"
     ]
   }
 ]
