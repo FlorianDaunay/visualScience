@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-14T11:57:11.305Z",
+  "generatedAt": "2026-10-15T11:33:23.447Z",
   "totalDiscoveries": 160,
-  "totalResearchers": 615,
-  "totalInstitutions": 57,
-  "totalCitations": 2,
+  "totalResearchers": 731,
+  "totalInstitutions": 79,
+  "totalCitations": 0,
   "averageCitations": 0,
-  "openAccessRatio": 0.4875,
+  "openAccessRatio": 0.55,
   "weeklySeries": [
     {
       "weekStart": "2026-10-12",
@@ -15,84 +15,84 @@
   "topConcepts": [
     {
       "label": "Medicine",
-      "count": 19
-    },
-    {
-      "label": "Psychology",
-      "count": 9
+      "count": 11
     },
     {
       "label": "Materials science",
+      "count": 11
+    },
+    {
+      "label": "Psychology",
       "count": 8
     },
     {
-      "label": "Computer science",
+      "label": "Humanities",
       "count": 6
+    },
+    {
+      "label": "Chemistry",
+      "count": 6
+    },
+    {
+      "label": "Computer science",
+      "count": 5
     },
     {
       "label": "Physics",
       "count": 4
     },
     {
-      "label": "Mathematics",
-      "count": 4
-    },
-    {
-      "label": "Humanities",
-      "count": 3
-    },
-    {
-      "label": "Econometrics",
-      "count": 3
-    },
-    {
-      "label": "Chemistry",
+      "label": "Microcontroller",
       "count": 2
     },
     {
-      "label": "Pedagogy",
+      "label": "Biology",
+      "count": 2
+    },
+    {
+      "label": "Animal science",
       "count": 2
     }
   ],
   "topInstitutions": [
     {
-      "label": "Universitas Bina Sarana Informatika",
+      "label": "Institut Agama Kristen Negeri Palangka Raya",
       "count": 2
     },
     {
-      "label": "National University of Singapore",
-      "count": 2
-    },
-    {
-      "label": "Karlsruhe Institute of Technology",
+      "label": "Ahsanullah University of Science and Technology",
       "count": 1
     },
     {
-      "label": "University of Zurich",
+      "label": "Birla Institute of Technology and Science - Hyderabad Campus",
       "count": 1
     },
     {
-      "label": "Universitas Negeri Surabaya",
+      "label": "Birla Institute of Technology and Science, Pilani",
       "count": 1
     },
     {
-      "label": "IDEFIX: Solution d'Equations Differentielles pour l'Imagerie et la physique",
+      "label": "Sun Yat-sen University",
       "count": 1
     },
     {
-      "label": "Laboratoire Analyse, Géométrie et Applications",
+      "label": "Universidad del Desarrollo",
       "count": 1
     },
     {
-      "label": "Université Laval",
+      "label": "Hospital del Salvador",
       "count": 1
     },
     {
-      "label": "Polytechnic University of Bari",
+      "label": "Hospital Clínico Dra. Eloísa Díaz I. La Florida",
       "count": 1
     },
     {
-      "label": "Jawaharlal Nehru Centre for Advanced Scientific Research",
+      "label": "Kalinga University",
+      "count": 1
+    },
+    {
+      "label": "Excelsior College",
       "count": 1
     }
   ],
@@ -106,11 +106,23 @@
       "count": 10
     },
     {
-      "label": "KR",
-      "count": 5
+      "label": "IN",
+      "count": 6
     },
     {
       "label": "ID",
+      "count": 6
+    },
+    {
+      "label": "GB",
+      "count": 4
+    },
+    {
+      "label": "KG",
+      "count": 4
+    },
+    {
+      "label": "CL",
       "count": 3
     },
     {
@@ -118,87 +130,79 @@
       "count": 3
     },
     {
-      "label": "SG",
-      "count": 2
+      "label": "TR",
+      "count": 3
     },
     {
       "label": "FR",
       "count": 2
-    },
-    {
-      "label": "CA",
-      "count": 2
-    },
-    {
-      "label": "DE",
-      "count": 1
-    },
-    {
-      "label": "CH",
-      "count": 1
     }
   ],
   "topResearchers": [
     {
-      "label": "Sundaram Balasubramanian",
-      "count": 11291
+      "label": "Michihisa Takeuchi",
+      "count": 4753
     },
     {
-      "label": "Aiden Doherty",
-      "count": 9625
+      "label": "Min-Woo Ha",
+      "count": 660
     },
     {
-      "label": "Sergio Gómez",
-      "count": 9233
+      "label": "Ogyun Seok",
+      "count": 441
     },
     {
-      "label": "Bhal Chandra Joshi",
-      "count": 6456
+      "label": "David Figueroa Poblete",
+      "count": 270
     },
     {
-      "label": "Jordi Duch",
-      "count": 6317
+      "label": "Junho Bang",
+      "count": 269
     },
     {
-      "label": "P. K. Manoharan",
-      "count": 3958
+      "label": "Rafael Calvo Rodríguez",
+      "count": 109
     },
     {
-      "label": "Okan Bulut",
-      "count": 3432
+      "label": "Andang Rohendi",
+      "count": 90
     },
     {
-      "label": "Laurence Halpern",
-      "count": 2970
+      "label": "Rahul Bhagat",
+      "count": 82
     },
     {
-      "label": "Matthew D. Johnson",
-      "count": 2883
+      "label": "Gani Kardani",
+      "count": 30
     },
     {
-      "label": "Moochickal Ambalappat Krishnakumar",
-      "count": 2850
+      "label": "Waldo González Duque",
+      "count": 25
     }
   ],
   "institutionTypes": [
     {
       "label": "University / school",
-      "count": 44
-    },
-    {
-      "label": "Hospital / healthcare",
-      "count": 6
+      "count": 61
     },
     {
       "label": "Research facility",
+      "count": 6
+    },
+    {
+      "label": "Government",
       "count": 5
     },
     {
-      "label": "Nonprofit / institute",
-      "count": 2
+      "label": "Hospital / healthcare",
+      "count": 4
     },
     {
       "label": "Company",
+      "count": 2
+    },
+    {
+      "label": "Archive",
       "count": 1
     },
     {
