@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-15T11:33:23.447Z",
+  "generatedAt": "2026-10-16T11:28:05.405Z",
   "totalDiscoveries": 160,
-  "totalResearchers": 731,
-  "totalInstitutions": 79,
-  "totalCitations": 0,
-  "averageCitations": 0,
-  "openAccessRatio": 0.55,
+  "totalResearchers": 779,
+  "totalInstitutions": 221,
+  "totalCitations": 35,
+  "averageCitations": 0.2,
+  "openAccessRatio": 1,
   "weeklySeries": [
     {
       "weekStart": "2026-10-12",
@@ -14,200 +14,200 @@
   ],
   "topConcepts": [
     {
-      "label": "Medicine",
+      "label": "Physics",
+      "count": 14
+    },
+    {
+      "label": "Mathematics",
       "count": 11
-    },
-    {
-      "label": "Materials science",
-      "count": 11
-    },
-    {
-      "label": "Psychology",
-      "count": 8
-    },
-    {
-      "label": "Humanities",
-      "count": 6
-    },
-    {
-      "label": "Chemistry",
-      "count": 6
     },
     {
       "label": "Computer science",
+      "count": 6
+    },
+    {
+      "label": "Medicine",
       "count": 5
     },
     {
-      "label": "Physics",
-      "count": 4
-    },
-    {
-      "label": "Microcontroller",
+      "label": "Astrophysics",
       "count": 2
     },
     {
-      "label": "Biology",
+      "label": "Skew",
       "count": 2
     },
     {
-      "label": "Animal science",
+      "label": "Rigidity (electromagnetism)",
+      "count": 2
+    },
+    {
+      "label": "Quantum",
+      "count": 2
+    },
+    {
+      "label": "Measure (data warehouse)",
+      "count": 2
+    },
+    {
+      "label": "Geology",
       "count": 2
     }
   ],
   "topInstitutions": [
     {
-      "label": "Institut Agama Kristen Negeri Palangka Raya",
+      "label": "California Institute of Technology",
+      "count": 3
+    },
+    {
+      "label": "Chinese Academy of Sciences",
+      "count": 3
+    },
+    {
+      "label": "University of Southern California",
       "count": 2
     },
     {
-      "label": "Ahsanullah University of Science and Technology",
-      "count": 1
+      "label": "Cornell University",
+      "count": 2
     },
     {
-      "label": "Birla Institute of Technology and Science - Hyderabad Campus",
-      "count": 1
+      "label": "Massachusetts Institute of Technology",
+      "count": 2
     },
     {
-      "label": "Birla Institute of Technology and Science, Pilani",
-      "count": 1
+      "label": "Weierstrass Institute for Applied Analysis and Stochastics",
+      "count": 2
     },
     {
-      "label": "Sun Yat-sen University",
-      "count": 1
+      "label": "Flatiron Institute",
+      "count": 2
     },
     {
-      "label": "Universidad del Desarrollo",
-      "count": 1
+      "label": "Princeton University",
+      "count": 2
     },
     {
-      "label": "Hospital del Salvador",
-      "count": 1
+      "label": "Universitat Autònoma de Barcelona",
+      "count": 2
     },
     {
-      "label": "Hospital Clínico Dra. Eloísa Díaz I. La Florida",
-      "count": 1
-    },
-    {
-      "label": "Kalinga University",
-      "count": 1
-    },
-    {
-      "label": "Excelsior College",
-      "count": 1
+      "label": "University of Arizona",
+      "count": 2
     }
   ],
   "topCountries": [
     {
-      "label": "CN",
-      "count": 24
-    },
-    {
       "label": "US",
-      "count": 10
+      "count": 86
     },
     {
-      "label": "IN",
-      "count": 6
+      "label": "CN",
+      "count": 31
     },
     {
-      "label": "ID",
-      "count": 6
+      "label": "DE",
+      "count": 20
     },
     {
       "label": "GB",
-      "count": 4
+      "count": 15
     },
     {
-      "label": "KG",
-      "count": 4
+      "label": "ES",
+      "count": 11
     },
     {
-      "label": "CL",
-      "count": 3
+      "label": "IT",
+      "count": 10
     },
     {
-      "label": "AU",
-      "count": 3
-    },
-    {
-      "label": "TR",
-      "count": 3
+      "label": "CA",
+      "count": 9
     },
     {
       "label": "FR",
-      "count": 2
+      "count": 7
+    },
+    {
+      "label": "EG",
+      "count": 7
+    },
+    {
+      "label": "CH",
+      "count": 4
     }
   ],
   "topResearchers": [
     {
-      "label": "Michihisa Takeuchi",
-      "count": 4753
+      "label": "Avishai Dekel",
+      "count": 59500
     },
     {
-      "label": "Min-Woo Ha",
-      "count": 660
+      "label": "Seigo Tarucha",
+      "count": 31412
     },
     {
-      "label": "Ogyun Seok",
-      "count": 441
+      "label": "Giordano Scappucci",
+      "count": 8960
     },
     {
-      "label": "David Figueroa Poblete",
-      "count": 270
+      "label": "Raisa Mäkipää",
+      "count": 7932
     },
     {
-      "label": "Junho Bang",
-      "count": 269
+      "label": "Kamyar Azizzadenesheli",
+      "count": 6717
     },
     {
-      "label": "Rafael Calvo Rodríguez",
-      "count": 109
+      "label": "Aleksi Lehtonen",
+      "count": 5323
     },
     {
-      "label": "Andang Rohendi",
-      "count": 90
+      "label": "Xu Andy Sun",
+      "count": 5260
     },
     {
-      "label": "Rahul Bhagat",
-      "count": 82
+      "label": "Juha E. P. Heikkinen",
+      "count": 3796
     },
     {
-      "label": "Gani Kardani",
-      "count": 30
+      "label": "Nikola Kovachki",
+      "count": 3268
     },
     {
-      "label": "Waldo González Duque",
-      "count": 25
+      "label": "Takashi Nakajima",
+      "count": 3183
     }
   ],
   "institutionTypes": [
     {
       "label": "University / school",
-      "count": 61
+      "count": 184
     },
     {
       "label": "Research facility",
-      "count": 6
+      "count": 29
     },
     {
       "label": "Government",
-      "count": 5
+      "count": 12
+    },
+    {
+      "label": "Nonprofit / institute",
+      "count": 9
     },
     {
       "label": "Hospital / healthcare",
-      "count": 4
+      "count": 7
     },
     {
       "label": "Company",
-      "count": 2
-    },
-    {
-      "label": "Archive",
-      "count": 1
+      "count": 4
     },
     {
       "label": "Organization",
-      "count": 1
+      "count": 3
     }
   ]
 }
