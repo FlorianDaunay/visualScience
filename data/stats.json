@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-16T11:28:05.405Z",
+  "generatedAt": "2026-10-17T10:48:00.936Z",
   "totalDiscoveries": 160,
-  "totalResearchers": 779,
-  "totalInstitutions": 221,
-  "totalCitations": 35,
-  "averageCitations": 0.2,
-  "openAccessRatio": 1,
+  "totalResearchers": 467,
+  "totalInstitutions": 35,
+  "totalCitations": 0,
+  "averageCitations": 0,
+  "openAccessRatio": 0.875,
   "weeklySeries": [
     {
       "weekStart": "2026-10-12",
@@ -14,200 +14,176 @@
   ],
   "topConcepts": [
     {
-      "label": "Physics",
-      "count": 14
-    },
-    {
-      "label": "Mathematics",
-      "count": 11
-    },
-    {
-      "label": "Computer science",
-      "count": 6
-    },
-    {
       "label": "Medicine",
+      "count": 51
+    },
+    {
+      "label": "Humanities",
+      "count": 40
+    },
+    {
+      "label": "Psychology",
       "count": 5
     },
     {
-      "label": "Astrophysics",
+      "label": "Gynecology",
+      "count": 3
+    },
+    {
+      "label": "Process (computing)",
+      "count": 3
+    },
+    {
+      "label": "Materials science",
+      "count": 3
+    },
+    {
+      "label": "Mathematics",
       "count": 2
     },
     {
-      "label": "Skew",
+      "label": "Political science",
       "count": 2
     },
     {
-      "label": "Rigidity (electromagnetism)",
-      "count": 2
+      "label": "Skyrmion",
+      "count": 1
     },
     {
-      "label": "Quantum",
-      "count": 2
-    },
-    {
-      "label": "Measure (data warehouse)",
-      "count": 2
-    },
-    {
-      "label": "Geology",
-      "count": 2
+      "label": "Control reconfiguration",
+      "count": 1
     }
   ],
   "topInstitutions": [
     {
-      "label": "California Institute of Technology",
-      "count": 3
-    },
-    {
-      "label": "Chinese Academy of Sciences",
-      "count": 3
-    },
-    {
-      "label": "University of Southern California",
+      "label": "Universitas Baiturrahmah",
       "count": 2
     },
     {
-      "label": "Cornell University",
+      "label": "Universitas Muhammadiyah Sumatera Utara",
       "count": 2
     },
     {
-      "label": "Massachusetts Institute of Technology",
+      "label": "Universitas Bina Sarana Informatika",
       "count": 2
     },
     {
-      "label": "Weierstrass Institute for Applied Analysis and Stochastics",
-      "count": 2
+      "label": "University of Duisburg-Essen",
+      "count": 1
     },
     {
-      "label": "Flatiron Institute",
-      "count": 2
+      "label": "University of Stuttgart",
+      "count": 1
     },
     {
-      "label": "Princeton University",
-      "count": 2
+      "label": "Institut Agama Kristen Negeri Kupang",
+      "count": 1
     },
     {
-      "label": "Universitat Autònoma de Barcelona",
-      "count": 2
+      "label": "Sengunthar Engineering College (Autonomous)",
+      "count": 1
     },
     {
-      "label": "University of Arizona",
-      "count": 2
+      "label": "York University",
+      "count": 1
+    },
+    {
+      "label": "California Northstate University",
+      "count": 1
+    },
+    {
+      "label": "Universitas Bina Darma",
+      "count": 1
     }
   ],
   "topCountries": [
     {
-      "label": "US",
-      "count": 86
+      "label": "ID",
+      "count": 14
     },
     {
-      "label": "CN",
-      "count": 31
+      "label": "KR",
+      "count": 7
+    },
+    {
+      "label": "US",
+      "count": 4
     },
     {
       "label": "DE",
-      "count": 20
+      "count": 3
     },
     {
-      "label": "GB",
-      "count": 15
-    },
-    {
-      "label": "ES",
-      "count": 11
-    },
-    {
-      "label": "IT",
-      "count": 10
-    },
-    {
-      "label": "CA",
-      "count": 9
+      "label": "CN",
+      "count": 3
     },
     {
       "label": "FR",
-      "count": 7
+      "count": 3
     },
     {
-      "label": "EG",
-      "count": 7
+      "label": "CA",
+      "count": 2
     },
     {
-      "label": "CH",
-      "count": 4
+      "label": "IN",
+      "count": 1
     }
   ],
   "topResearchers": [
     {
-      "label": "Avishai Dekel",
-      "count": 59500
+      "label": "Harald W. Giessen",
+      "count": 47886
     },
     {
-      "label": "Seigo Tarucha",
-      "count": 31412
+      "label": "Timothy J. Davis",
+      "count": 8340
     },
     {
-      "label": "Giordano Scappucci",
-      "count": 8960
+      "label": "Karin Everschor‐Sitte",
+      "count": 7287
     },
     {
-      "label": "Raisa Mäkipää",
-      "count": 7932
+      "label": "F.‐J. Meyer zu Heringdorf",
+      "count": 5303
     },
     {
-      "label": "Kamyar Azizzadenesheli",
-      "count": 6717
+      "label": "Bettina Frank",
+      "count": 1926
     },
     {
-      "label": "Aleksi Lehtonen",
-      "count": 5323
+      "label": "Pascal Dreher",
+      "count": 712
     },
     {
-      "label": "Xu Andy Sun",
-      "count": 5260
+      "label": "Yahdian Rasyadi",
+      "count": 127
     },
     {
-      "label": "Juha E. P. Heikkinen",
-      "count": 3796
+      "label": "Alexander Neuhaus",
+      "count": 67
     },
     {
-      "label": "Nikola Kovachki",
-      "count": 3268
+      "label": "Diana Permatasari",
+      "count": 37
     },
     {
-      "label": "Takashi Nakajima",
-      "count": 3183
+      "label": "Indah Yun Diniaty Rosidi",
+      "count": 31
     }
   ],
   "institutionTypes": [
     {
       "label": "University / school",
-      "count": 184
+      "count": 34
     },
     {
       "label": "Research facility",
-      "count": 29
+      "count": 3
     },
     {
       "label": "Government",
-      "count": 12
-    },
-    {
-      "label": "Nonprofit / institute",
-      "count": 9
-    },
-    {
-      "label": "Hospital / healthcare",
-      "count": 7
-    },
-    {
-      "label": "Company",
-      "count": 4
-    },
-    {
-      "label": "Organization",
-      "count": 3
+      "count": 1
     }
   ]
 }
