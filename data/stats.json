@@ -1,44 +1,40 @@
 {
-  "generatedAt": "2026-10-18T11:10:16.610Z",
+  "generatedAt": "2026-10-19T13:21:49.146Z",
   "totalDiscoveries": 160,
-  "totalResearchers": 558,
-  "totalInstitutions": 74,
-  "totalCitations": 6,
+  "totalResearchers": 805,
+  "totalInstitutions": 87,
+  "totalCitations": 1,
   "averageCitations": 0,
-  "openAccessRatio": 0.7375,
+  "openAccessRatio": 0.55625,
   "weeklySeries": [
     {
-      "weekStart": "2026-10-12",
+      "weekStart": "2026-10-19",
       "count": 160
     }
   ],
   "topConcepts": [
     {
       "label": "Medicine",
-      "count": 38
-    },
-    {
-      "label": "Computer science",
-      "count": 13
+      "count": 44
     },
     {
       "label": "Psychology",
-      "count": 8
+      "count": 10
     },
     {
-      "label": "Humanities",
-      "count": 8
-    },
-    {
-      "label": "Mathematics",
+      "label": "Computer science",
       "count": 8
     },
     {
       "label": "Biology",
-      "count": 4
+      "count": 8
     },
     {
-      "label": "Political science",
+      "label": "Materials science",
+      "count": 8
+    },
+    {
+      "label": "Humanities",
       "count": 3
     },
     {
@@ -46,163 +42,167 @@
       "count": 3
     },
     {
-      "label": "Materials science",
+      "label": "Mathematics",
       "count": 2
     },
     {
-      "label": "Bridging (networking)",
+      "label": "Machine learning",
       "count": 2
+    },
+    {
+      "label": "Microcontroller",
+      "count": 1
     }
   ],
   "topInstitutions": [
     {
-      "label": "Centre National de la Recherche Scientifique",
-      "count": 3
+      "label": "National University of Trujillo",
+      "count": 4
     },
     {
-      "label": "Universitas Asahan",
+      "label": "Creighton University",
       "count": 2
     },
     {
-      "label": "Mercu Buana University",
+      "label": "Brown University",
       "count": 2
     },
     {
-      "label": "National University of Singapore",
+      "label": "Embry–Riddle Aeronautical University",
+      "count": 2
+    },
+    {
+      "label": "The University of Melbourne",
+      "count": 2
+    },
+    {
+      "label": "Kuwait Institute for Scientific Research",
       "count": 1
     },
     {
-      "label": "University of Warwick",
+      "label": "University of Moratuwa",
       "count": 1
     },
     {
-      "label": "Lappeenranta-Lahti University of Technology",
+      "label": "Sekolah Tinggi Agama Islam Al-Gazali Soppeng",
       "count": 1
     },
     {
-      "label": "Mila - Quebec Artificial Intelligence Institute",
+      "label": "Vels University",
       "count": 1
     },
     {
-      "label": "University of Konstanz",
-      "count": 1
-    },
-    {
-      "label": "Central South University of Forestry and Technology",
-      "count": 1
-    },
-    {
-      "label": "China West Normal University",
+      "label": "Nigerian Defence Academy",
       "count": 1
     }
   ],
   "topCountries": [
     {
-      "label": "ID",
-      "count": 13
-    },
-    {
       "label": "US",
-      "count": 13
+      "count": 26
     },
     {
-      "label": "CN",
-      "count": 11
-    },
-    {
-      "label": "FR",
-      "count": 4
-    },
-    {
-      "label": "GB",
-      "count": 4
+      "label": "KR",
+      "count": 17
     },
     {
       "label": "IN",
-      "count": 4
-    },
-    {
-      "label": "IT",
-      "count": 4
-    },
-    {
-      "label": "FI",
-      "count": 3
+      "count": 8
     },
     {
       "label": "DE",
+      "count": 7
+    },
+    {
+      "label": "CA",
+      "count": 6
+    },
+    {
+      "label": "PE",
+      "count": 4
+    },
+    {
+      "label": "AU",
       "count": 3
     },
     {
-      "label": "RU",
+      "label": "IQ",
+      "count": 3
+    },
+    {
+      "label": "CN",
+      "count": 3
+    },
+    {
+      "label": "IR",
       "count": 3
     }
   ],
   "topResearchers": [
     {
-      "label": "François Aubin",
-      "count": 16958
+      "label": "Omar Viswanath",
+      "count": 11489
     },
     {
-      "label": "Mengling Feng",
-      "count": 12956
+      "label": "Latha Ganti",
+      "count": 6520
     },
     {
-      "label": "Cécile Badoual",
-      "count": 11795
+      "label": "Warren F. Miller",
+      "count": 2240
     },
     {
-      "label": "Jean‐Luc Prétet",
-      "count": 4466
+      "label": "K. K. Bineesh",
+      "count": 2033
     },
     {
-      "label": "Giovanni Beltrame",
-      "count": 3467
+      "label": "Tien Rafida",
+      "count": 623
     },
     {
-      "label": "Xavier Carcopino",
-      "count": 3443
+      "label": "Muhammad Fadhli",
+      "count": 539
     },
     {
-      "label": "Heiko Hamann",
-      "count": 2615
+      "label": "Araz Rajab Abrahim",
+      "count": 87
     },
     {
-      "label": "R. Ramanah",
-      "count": 1874
+      "label": "Rosmita Rosmita",
+      "count": 87
     },
     {
-      "label": "Zuofu Xiang",
-      "count": 1582
+      "label": "Arif Rahman Hakim",
+      "count": 53
     },
     {
-      "label": "Gerlinde Avérous",
-      "count": 1567
+      "label": "Anita Cassoli Cortez",
+      "count": 43
     }
   ],
   "institutionTypes": [
     {
       "label": "University / school",
-      "count": 64
-    },
-    {
-      "label": "Research facility",
-      "count": 7
-    },
-    {
-      "label": "Government",
-      "count": 3
-    },
-    {
-      "label": "Nonprofit / institute",
-      "count": 2
+      "count": 66
     },
     {
       "label": "Hospital / healthcare",
+      "count": 21
+    },
+    {
+      "label": "Government",
+      "count": 4
+    },
+    {
+      "label": "Organization",
       "count": 1
     },
     {
-      "label": "Company",
+      "label": "Nonprofit / institute",
+      "count": 1
+    },
+    {
+      "label": "Research facility",
       "count": 1
     }
   ]
