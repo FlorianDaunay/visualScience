@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-19T13:21:49.146Z",
+  "generatedAt": "2026-10-20T11:42:05.144Z",
   "totalDiscoveries": 160,
-  "totalResearchers": 805,
-  "totalInstitutions": 87,
-  "totalCitations": 1,
+  "totalResearchers": 780,
+  "totalInstitutions": 65,
+  "totalCitations": 0,
   "averageCitations": 0,
-  "openAccessRatio": 0.55625,
+  "openAccessRatio": 0.65,
   "weeklySeries": [
     {
       "weekStart": "2026-10-19",
@@ -15,26 +15,34 @@
   "topConcepts": [
     {
       "label": "Medicine",
-      "count": 44
-    },
-    {
-      "label": "Psychology",
-      "count": 10
-    },
-    {
-      "label": "Computer science",
-      "count": 8
-    },
-    {
-      "label": "Biology",
-      "count": 8
+      "count": 24
     },
     {
       "label": "Materials science",
-      "count": 8
+      "count": 11
+    },
+    {
+      "label": "Computer science",
+      "count": 10
+    },
+    {
+      "label": "Physics",
+      "count": 7
     },
     {
       "label": "Humanities",
+      "count": 7
+    },
+    {
+      "label": "Psychology",
+      "count": 6
+    },
+    {
+      "label": "Biology",
+      "count": 6
+    },
+    {
+      "label": "Environmental science",
       "count": 3
     },
     {
@@ -42,167 +50,159 @@
       "count": 3
     },
     {
-      "label": "Mathematics",
-      "count": 2
-    },
-    {
-      "label": "Machine learning",
-      "count": 2
-    },
-    {
-      "label": "Microcontroller",
-      "count": 1
+      "label": "Artificial intelligence",
+      "count": 3
     }
   ],
   "topInstitutions": [
     {
-      "label": "National University of Trujillo",
-      "count": 4
-    },
-    {
-      "label": "Creighton University",
+      "label": "Universitas Islam Negeri Alauddin Makassar",
       "count": 2
     },
     {
-      "label": "Brown University",
+      "label": "Chinese Academy of Sciences",
       "count": 2
     },
     {
-      "label": "Embry–Riddle Aeronautical University",
+      "label": "Southeast University",
       "count": 2
     },
     {
-      "label": "The University of Melbourne",
-      "count": 2
-    },
-    {
-      "label": "Kuwait Institute for Scientific Research",
+      "label": "Universität Hamburg",
       "count": 1
     },
     {
-      "label": "University of Moratuwa",
+      "label": "Tokyo University of Science",
       "count": 1
     },
     {
-      "label": "Sekolah Tinggi Agama Islam Al-Gazali Soppeng",
+      "label": "KTH Royal Institute of Technology",
       "count": 1
     },
     {
-      "label": "Vels University",
+      "label": "University of Michigan",
       "count": 1
     },
     {
-      "label": "Nigerian Defence Academy",
+      "label": "University of Vaasa",
+      "count": 1
+    },
+    {
+      "label": "Tokyo Institute of Technology",
+      "count": 1
+    },
+    {
+      "label": "Huazhong University of Science and Technology",
       "count": 1
     }
   ],
   "topCountries": [
     {
-      "label": "US",
-      "count": 26
-    },
-    {
-      "label": "KR",
+      "label": "CN",
       "count": 17
     },
     {
-      "label": "IN",
+      "label": "US",
       "count": 8
     },
     {
-      "label": "DE",
-      "count": 7
-    },
-    {
-      "label": "CA",
+      "label": "ID",
       "count": 6
     },
     {
-      "label": "PE",
+      "label": "IN",
+      "count": 5
+    },
+    {
+      "label": "TH",
+      "count": 5
+    },
+    {
+      "label": "KR",
       "count": 4
     },
     {
-      "label": "AU",
+      "label": "JP",
       "count": 3
     },
     {
-      "label": "IQ",
+      "label": "FR",
       "count": 3
     },
     {
-      "label": "CN",
+      "label": "SN",
       "count": 3
     },
     {
-      "label": "IR",
-      "count": 3
+      "label": "CA",
+      "count": 2
     }
   ],
   "topResearchers": [
     {
-      "label": "Omar Viswanath",
-      "count": 11489
+      "label": "Thomas Devereaux",
+      "count": 22147
     },
     {
-      "label": "Latha Ganti",
-      "count": 6520
+      "label": "Matthias F. Kling",
+      "count": 16312
     },
     {
-      "label": "Warren F. Miller",
-      "count": 2240
+      "label": "Brian Moritz",
+      "count": 10450
     },
     {
-      "label": "K. K. Bineesh",
-      "count": 2033
+      "label": "Stephan Geprägs",
+      "count": 5430
     },
     {
-      "label": "Tien Rafida",
-      "count": 623
+      "label": "Zengqing Zhuo",
+      "count": 4583
     },
     {
-      "label": "Muhammad Fadhli",
-      "count": 539
+      "label": "Georgi L. Dakovski",
+      "count": 3519
     },
     {
-      "label": "Araz Rajab Abrahim",
-      "count": 87
+      "label": "Mohammed Salem Elmusrati",
+      "count": 3311
     },
     {
-      "label": "Rosmita Rosmita",
-      "count": 87
+      "label": "Ali W. Elshaari",
+      "count": 3163
     },
     {
-      "label": "Arif Rahman Hakim",
-      "count": 53
+      "label": "Tetsuro Nikuni",
+      "count": 2828
     },
     {
-      "label": "Anita Cassoli Cortez",
-      "count": 43
+      "label": "Daniel Jost",
+      "count": 2469
     }
   ],
   "institutionTypes": [
     {
       "label": "University / school",
-      "count": 66
+      "count": 53
     },
     {
       "label": "Hospital / healthcare",
-      "count": 21
+      "count": 6
     },
     {
       "label": "Government",
-      "count": 4
-    },
-    {
-      "label": "Organization",
-      "count": 1
-    },
-    {
-      "label": "Nonprofit / institute",
-      "count": 1
+      "count": 3
     },
     {
       "label": "Research facility",
+      "count": 3
+    },
+    {
+      "label": "Company",
+      "count": 2
+    },
+    {
+      "label": "Organization",
       "count": 1
     }
   ]
