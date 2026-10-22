@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-21T11:53:08.697Z",
+  "generatedAt": "2026-10-22T11:56:53.529Z",
   "totalDiscoveries": 160,
-  "totalResearchers": 837,
-  "totalInstitutions": 104,
+  "totalResearchers": 781,
+  "totalInstitutions": 55,
   "totalCitations": 1,
   "averageCitations": 0,
-  "openAccessRatio": 0.5875,
+  "openAccessRatio": 0.575,
   "weeklySeries": [
     {
       "weekStart": "2026-10-19",
@@ -15,202 +15,198 @@
   "topConcepts": [
     {
       "label": "Medicine",
-      "count": 30
-    },
-    {
-      "label": "Biology",
-      "count": 10
+      "count": 33
     },
     {
       "label": "Computer science",
-      "count": 7
-    },
-    {
-      "label": "Chemistry",
-      "count": 6
-    },
-    {
-      "label": "Materials science",
-      "count": 4
-    },
-    {
-      "label": "Environmental science",
-      "count": 3
-    },
-    {
-      "label": "Physics",
-      "count": 3
+      "count": 13
     },
     {
       "label": "Psychology",
+      "count": 8
+    },
+    {
+      "label": "Biology",
+      "count": 8
+    },
+    {
+      "label": "Materials science",
+      "count": 5
+    },
+    {
+      "label": "Political science",
+      "count": 4
+    },
+    {
+      "label": "Mathematics",
       "count": 3
     },
     {
-      "label": "Economics",
-      "count": 2
+      "label": "Artificial intelligence",
+      "count": 3
     },
     {
-      "label": "Mathematics education",
+      "label": "Business",
+      "count": 3
+    },
+    {
+      "label": "Ecology",
       "count": 2
     }
   ],
   "topInstitutions": [
     {
-      "label": "University of Bergen",
+      "label": "Malikussaleh University",
       "count": 2
     },
     {
-      "label": "University of Science and Technology of China",
-      "count": 2
-    },
-    {
-      "label": "Centre National de la Recherche Scientifique",
-      "count": 2
-    },
-    {
-      "label": "University of Oxford",
-      "count": 2
-    },
-    {
-      "label": "University of Würzburg",
+      "label": "Henan University",
       "count": 1
     },
     {
-      "label": "University of Twente",
+      "label": "Xinjiang University",
       "count": 1
     },
     {
-      "label": "University of Birmingham",
+      "label": "Chinese Academy of Sciences",
       "count": 1
     },
     {
-      "label": "Amherst College",
+      "label": "Universidad Autónoma de Santo Domingo",
       "count": 1
     },
     {
-      "label": "University of Illinois Urbana-Champaign",
+      "label": "University of Manchester",
       "count": 1
     },
     {
-      "label": "National Centre of Scientific Research \"Demokritos\"",
+      "label": "Binghamton University",
+      "count": 1
+    },
+    {
+      "label": "Rwanda Biomedical Center",
+      "count": 1
+    },
+    {
+      "label": "University of Louisiana at Lafayette",
+      "count": 1
+    },
+    {
+      "label": "Universitas Bina Sarana Informatika",
       "count": 1
     }
   ],
   "topCountries": [
     {
       "label": "US",
-      "count": 28
-    },
-    {
-      "label": "GB",
-      "count": 12
-    },
-    {
-      "label": "CN",
       "count": 11
     },
     {
-      "label": "DE",
+      "label": "CN",
       "count": 8
     },
     {
-      "label": "NO",
-      "count": 6
-    },
-    {
-      "label": "MY",
-      "count": 6
-    },
-    {
       "label": "AU",
-      "count": 4
+      "count": 8
     },
     {
       "label": "ID",
+      "count": 6
+    },
+    {
+      "label": "GB",
       "count": 4
     },
     {
       "label": "CA",
-      "count": 4
+      "count": 3
     },
     {
-      "label": "FR",
+      "label": "JP",
       "count": 3
+    },
+    {
+      "label": "HK",
+      "count": 2
+    },
+    {
+      "label": "HR",
+      "count": 2
+    },
+    {
+      "label": "DO",
+      "count": 1
     }
   ],
   "topResearchers": [
     {
-      "label": "Weixin Ding",
-      "count": 11268
+      "label": "Jonny James Blaker",
+      "count": 11610
     },
     {
-      "label": "Christof Schütte",
-      "count": 8392
+      "label": "Anne Barrett Clark",
+      "count": 5669
     },
     {
-      "label": "Themistoklis P. Sapsis",
-      "count": 6532
+      "label": "Sam Hay",
+      "count": 5514
     },
     {
-      "label": "Gustav Nilsonne",
-      "count": 6019
+      "label": "Bessem Chouaia",
+      "count": 2699
     },
     {
-      "label": "Tobias Hertel",
-      "count": 5902
+      "label": "Gabriele Morra",
+      "count": 2402
     },
     {
-      "label": "Bernhard Voelkl",
-      "count": 5129
+      "label": "Haijun Wang",
+      "count": 2248
     },
     {
-      "label": "Jesús Cuevas–Maraver",
-      "count": 3556
+      "label": "Roberto Rico‐Martínez",
+      "count": 2160
     },
     {
-      "label": "Kimberley Elaine Wever",
-      "count": 3480
+      "label": "He Zhang",
+      "count": 2128
     },
     {
-      "label": "Luc Deike",
-      "count": 3258
+      "label": "Akio Kawauchi",
+      "count": 1494
     },
     {
-      "label": "Zengming Chen",
-      "count": 2815
+      "label": "Marta Simeoni",
+      "count": 1395
     }
   ],
   "institutionTypes": [
     {
       "label": "University / school",
-      "count": 71
-    },
-    {
-      "label": "Research facility",
-      "count": 13
+      "count": 39
     },
     {
       "label": "Hospital / healthcare",
-      "count": 13
+      "count": 9
     },
     {
       "label": "Government",
-      "count": 4
-    },
-    {
-      "label": "Company",
       "count": 3
     },
     {
-      "label": "Archive",
+      "label": "Research facility",
       "count": 2
     },
     {
-      "label": "Organization",
+      "label": "Company",
       "count": 1
     },
     {
       "label": "Nonprofit / institute",
+      "count": 1
+    },
+    {
+      "label": "Archive",
       "count": 1
     }
   ]
