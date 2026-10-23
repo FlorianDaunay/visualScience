@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-22T11:56:53.529Z",
+  "generatedAt": "2026-10-23T11:42:50.052Z",
   "totalDiscoveries": 160,
-  "totalResearchers": 781,
-  "totalInstitutions": 55,
-  "totalCitations": 1,
+  "totalResearchers": 897,
+  "totalInstitutions": 66,
+  "totalCitations": 0,
   "averageCitations": 0,
-  "openAccessRatio": 0.575,
+  "openAccessRatio": 0.60625,
   "weeklySeries": [
     {
       "weekStart": "2026-10-19",
@@ -15,198 +15,198 @@
   "topConcepts": [
     {
       "label": "Medicine",
-      "count": 33
+      "count": 29
     },
     {
       "label": "Computer science",
-      "count": 13
+      "count": 11
     },
     {
       "label": "Psychology",
+      "count": 9
+    },
+    {
+      "label": "Materials science",
+      "count": 9
+    },
+    {
+      "label": "Chemistry",
       "count": 8
     },
     {
       "label": "Biology",
-      "count": 8
+      "count": 6
     },
     {
-      "label": "Materials science",
+      "label": "Process (computing)",
       "count": 5
     },
     {
-      "label": "Political science",
+      "label": "Mathematics",
       "count": 4
     },
     {
-      "label": "Mathematics",
-      "count": 3
+      "label": "Environmental science",
+      "count": 2
     },
     {
-      "label": "Artificial intelligence",
-      "count": 3
-    },
-    {
-      "label": "Business",
-      "count": 3
-    },
-    {
-      "label": "Ecology",
+      "label": "Geology",
       "count": 2
     }
   ],
   "topInstitutions": [
     {
-      "label": "Malikussaleh University",
+      "label": "Central State Medical Academy",
+      "count": 3
+    },
+    {
+      "label": "Sun Yat-sen University",
+      "count": 3
+    },
+    {
+      "label": "Ministry of Internal Affairs of the Russian Federation",
       "count": 2
     },
     {
-      "label": "Henan University",
+      "label": "Rowan University",
       "count": 1
     },
     {
-      "label": "Xinjiang University",
+      "label": "La Trobe University",
       "count": 1
     },
     {
-      "label": "Chinese Academy of Sciences",
+      "label": "Ateneo de Naga University",
       "count": 1
     },
     {
-      "label": "Universidad Autónoma de Santo Domingo",
+      "label": "Kalinga University",
       "count": 1
     },
     {
-      "label": "University of Manchester",
+      "label": "Research Institute of Vaccines and Sera. Mechnikov of the Russian Academy of Medical Sciences",
       "count": 1
     },
     {
-      "label": "Binghamton University",
+      "label": "Guangzhou University of Chinese Medicine",
       "count": 1
     },
     {
-      "label": "Rwanda Biomedical Center",
-      "count": 1
-    },
-    {
-      "label": "University of Louisiana at Lafayette",
-      "count": 1
-    },
-    {
-      "label": "Universitas Bina Sarana Informatika",
+      "label": "Bowen University",
       "count": 1
     }
   ],
   "topCountries": [
     {
-      "label": "US",
+      "label": "CN",
       "count": 11
     },
     {
-      "label": "CN",
-      "count": 8
+      "label": "RU",
+      "count": 10
+    },
+    {
+      "label": "ES",
+      "count": 9
+    },
+    {
+      "label": "US",
+      "count": 7
+    },
+    {
+      "label": "BR",
+      "count": 5
+    },
+    {
+      "label": "PT",
+      "count": 3
+    },
+    {
+      "label": "NZ",
+      "count": 3
+    },
+    {
+      "label": "KR",
+      "count": 3
+    },
+    {
+      "label": "FR",
+      "count": 3
     },
     {
       "label": "AU",
-      "count": 8
-    },
-    {
-      "label": "ID",
-      "count": 6
-    },
-    {
-      "label": "GB",
-      "count": 4
-    },
-    {
-      "label": "CA",
-      "count": 3
-    },
-    {
-      "label": "JP",
-      "count": 3
-    },
-    {
-      "label": "HK",
       "count": 2
-    },
-    {
-      "label": "HR",
-      "count": 2
-    },
-    {
-      "label": "DO",
-      "count": 1
     }
   ],
   "topResearchers": [
     {
-      "label": "Jonny James Blaker",
-      "count": 11610
+      "label": "James M. Tiedje",
+      "count": 144987
     },
     {
-      "label": "Anne Barrett Clark",
-      "count": 5669
+      "label": "Louis du Plessis",
+      "count": 24862
     },
     {
-      "label": "Sam Hay",
-      "count": 5514
+      "label": "Nicholas C. Grassly",
+      "count": 15727
     },
     {
-      "label": "Bessem Chouaia",
-      "count": 2699
+      "label": "Liping Ma",
+      "count": 9997
     },
     {
-      "label": "Gabriele Morra",
-      "count": 2402
+      "label": "Timothy A. Johnson",
+      "count": 8237
     },
     {
-      "label": "Haijun Wang",
-      "count": 2248
+      "label": "Haihan Zhang",
+      "count": 5207
     },
     {
-      "label": "Roberto Rico‐Martínez",
-      "count": 2160
+      "label": "Chang‐Jun Cha",
+      "count": 4827
     },
     {
-      "label": "He Zhang",
-      "count": 2128
+      "label": "Xun Qian",
+      "count": 4116
     },
     {
-      "label": "Akio Kawauchi",
-      "count": 1494
+      "label": "Margarita Pons-Salort",
+      "count": 2288
     },
     {
-      "label": "Marta Simeoni",
-      "count": 1395
+      "label": "Zeyou Chen",
+      "count": 1963
     }
   ],
   "institutionTypes": [
     {
       "label": "University / school",
-      "count": 39
+      "count": 52
+    },
+    {
+      "label": "Research facility",
+      "count": 6
     },
     {
       "label": "Hospital / healthcare",
-      "count": 9
+      "count": 4
     },
     {
       "label": "Government",
       "count": 3
     },
     {
-      "label": "Research facility",
-      "count": 2
-    },
-    {
       "label": "Company",
-      "count": 1
+      "count": 3
     },
     {
       "label": "Nonprofit / institute",
-      "count": 1
+      "count": 2
     },
     {
-      "label": "Archive",
+      "label": "Organization",
       "count": 1
     }
   ]
