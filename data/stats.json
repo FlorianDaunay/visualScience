@@ -1,213 +1,201 @@
 {
-  "generatedAt": "2026-10-25T11:35:03.442Z",
+  "generatedAt": "2026-10-26T13:08:17.950Z",
   "totalDiscoveries": 160,
-  "totalResearchers": 559,
-  "totalInstitutions": 126,
-  "totalCitations": 5,
+  "totalResearchers": 785,
+  "totalInstitutions": 50,
+  "totalCitations": 1,
   "averageCitations": 0,
-  "openAccessRatio": 0.925,
+  "openAccessRatio": 0.63125,
   "weeklySeries": [
     {
-      "weekStart": "2026-10-19",
+      "weekStart": "2026-10-26",
       "count": 160
     }
   ],
   "topConcepts": [
     {
-      "label": "Dance",
-      "count": 13
+      "label": "Medicine",
+      "count": 28
     },
     {
-      "label": "Medicine",
+      "label": "Computer science",
       "count": 11
     },
     {
-      "label": "Mathematics",
-      "count": 7
+      "label": "Materials science",
+      "count": 5
     },
     {
-      "label": "Humanities",
+      "label": "Biology",
       "count": 5
     },
     {
       "label": "Physics",
-      "count": 5
-    },
-    {
-      "label": "Computer science",
-      "count": 5
-    },
-    {
-      "label": "Materials science",
       "count": 4
     },
     {
-      "label": "Chemistry",
+      "label": "Humanities",
       "count": 4
     },
     {
-      "label": "Psychology",
+      "label": "Mental health",
       "count": 4
     },
     {
-      "label": "Immune system",
-      "count": 2
+      "label": "Process (computing)",
+      "count": 4
+    },
+    {
+      "label": "Mathematics",
+      "count": 3
+    },
+    {
+      "label": "Environmental science",
+      "count": 3
     }
   ],
   "topInstitutions": [
     {
       "label": "Universitas Negeri Padang",
-      "count": 35
+      "count": 4
     },
     {
-      "label": "University of Vienna",
-      "count": 3
-    },
-    {
-      "label": "Peking University",
+      "label": "Sriwijaya University",
       "count": 2
     },
     {
-      "label": "Chinese Academy of Sciences",
-      "count": 2
-    },
-    {
-      "label": "Université du littoral côte d'opale",
-      "count": 2
-    },
-    {
-      "label": "Beijing Academy of Artificial Intelligence",
+      "label": "Sekolah Tinggi Agama Islam Al-Gazali Soppeng",
       "count": 1
     },
     {
-      "label": "Shandong University",
+      "label": "Nagoya University",
       "count": 1
     },
     {
-      "label": "Guizhou Normal University",
+      "label": "Macau University of Science and Technology",
       "count": 1
     },
     {
-      "label": "ZheJiang Academy of Agricultural Sciences",
+      "label": "Zhengzhou University",
       "count": 1
     },
     {
-      "label": "University of Augsburg",
+      "label": "Guangdong Provincial Hospital of Chinese Medicine",
+      "count": 1
+    },
+    {
+      "label": "Addis Ababa University",
+      "count": 1
+    },
+    {
+      "label": "University of Benghazi",
+      "count": 1
+    },
+    {
+      "label": "Universitas Islam Negeri Sumatera Utara",
       "count": 1
     }
   ],
   "topCountries": [
     {
-      "label": "ID",
-      "count": 42
-    },
-    {
       "label": "US",
-      "count": 18
+      "count": 15
     },
     {
-      "label": "CN",
-      "count": 16
-    },
-    {
-      "label": "JP",
-      "count": 10
-    },
-    {
-      "label": "GB",
+      "label": "ID",
       "count": 9
     },
     {
-      "label": "DE",
+      "label": "CN",
+      "count": 9
+    },
+    {
+      "label": "KR",
       "count": 7
     },
     {
-      "label": "AT",
-      "count": 5
+      "label": "PT",
+      "count": 2
     },
     {
-      "label": "FR",
-      "count": 5
+      "label": "JP",
+      "count": 1
+    },
+    {
+      "label": "MO",
+      "count": 1
+    },
+    {
+      "label": "ET",
+      "count": 1
+    },
+    {
+      "label": "LY",
+      "count": 1
     },
     {
       "label": "IN",
-      "count": 5
-    },
-    {
-      "label": "BR",
-      "count": 5
+      "count": 1
     }
   ],
   "topResearchers": [
     {
-      "label": "Christoph Dellago A",
-      "count": 17082
+      "label": "Sharifah Rafidah Wan Alwi",
+      "count": 7455
     },
     {
-      "label": "Yilong Yin",
-      "count": 11134
+      "label": "Zainuddin Abdul Manan",
+      "count": 6314
     },
     {
-      "label": "Xuewu Fu",
-      "count": 7849
+      "label": "Jeng Shiun Lim",
+      "count": 5549
     },
     {
-      "label": "Liwei Wang",
-      "count": 4607
+      "label": "Luca Dieci",
+      "count": 2748
     },
     {
-      "label": "Yixiao Chen",
-      "count": 2810
+      "label": "Feifei Feng",
+      "count": 2143
     },
     {
-      "label": "Guangyi Sun",
-      "count": 2541
+      "label": "Ying Xiao",
+      "count": 1918
     },
     {
-      "label": "Zhongyi Han",
-      "count": 2306
+      "label": "Edwin Gustavo Estrada-Araoz",
+      "count": 1118
     },
     {
-      "label": "Nadine Schwierz",
-      "count": 2232
+      "label": "Artem Zvavitch",
+      "count": 821
     },
     {
-      "label": "Di He",
-      "count": 1720
+      "label": "Siti Nikmatin",
+      "count": 713
     },
     {
-      "label": "Yuzhi Liu A",
-      "count": 1399
+      "label": "Shicheng Wang",
+      "count": 669
     }
   ],
   "institutionTypes": [
     {
       "label": "University / school",
-      "count": 139
-    },
-    {
-      "label": "Research facility",
-      "count": 9
-    },
-    {
-      "label": "Government",
-      "count": 6
+      "count": 39
     },
     {
       "label": "Hospital / healthcare",
-      "count": 6
+      "count": 10
     },
     {
-      "label": "Nonprofit / institute",
+      "label": "Government",
+      "count": 3
+    },
+    {
+      "label": "Research facility",
       "count": 2
-    },
-    {
-      "label": "Company",
-      "count": 2
-    },
-    {
-      "label": "Organization",
-      "count": 1
     }
   ]
 }
