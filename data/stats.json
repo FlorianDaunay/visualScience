@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-26T13:08:17.950Z",
+  "generatedAt": "2026-10-27T12:16:12.264Z",
   "totalDiscoveries": 160,
-  "totalResearchers": 785,
-  "totalInstitutions": 50,
+  "totalResearchers": 747,
+  "totalInstitutions": 55,
   "totalCitations": 1,
   "averageCitations": 0,
   "openAccessRatio": 0.63125,
@@ -15,11 +15,23 @@
   "topConcepts": [
     {
       "label": "Medicine",
-      "count": 28
+      "count": 25
     },
     {
       "label": "Computer science",
       "count": 11
+    },
+    {
+      "label": "Physics",
+      "count": 6
+    },
+    {
+      "label": "Humanities",
+      "count": 5
+    },
+    {
+      "label": "Psychology",
+      "count": 5
     },
     {
       "label": "Materials science",
@@ -28,14 +40,6 @@
     {
       "label": "Biology",
       "count": 5
-    },
-    {
-      "label": "Physics",
-      "count": 4
-    },
-    {
-      "label": "Humanities",
-      "count": 4
     },
     {
       "label": "Mental health",
@@ -47,10 +51,6 @@
     },
     {
       "label": "Mathematics",
-      "count": 3
-    },
-    {
-      "label": "Environmental science",
       "count": 3
     }
   ],
@@ -68,31 +68,31 @@
       "count": 1
     },
     {
+      "label": "Universitas Muhammadiyah Bengkulu",
+      "count": 1
+    },
+    {
+      "label": "Pancasila University",
+      "count": 1
+    },
+    {
+      "label": "Malikussaleh University",
+      "count": 1
+    },
+    {
+      "label": "Indonesian Bakti University of Banyuwangi",
+      "count": 1
+    },
+    {
+      "label": "Universitas Negeri Surabaya",
+      "count": 1
+    },
+    {
       "label": "Nagoya University",
       "count": 1
     },
     {
       "label": "Macau University of Science and Technology",
-      "count": 1
-    },
-    {
-      "label": "Zhengzhou University",
-      "count": 1
-    },
-    {
-      "label": "Guangdong Provincial Hospital of Chinese Medicine",
-      "count": 1
-    },
-    {
-      "label": "Addis Ababa University",
-      "count": 1
-    },
-    {
-      "label": "University of Benghazi",
-      "count": 1
-    },
-    {
-      "label": "Universitas Islam Negeri Sumatera Utara",
       "count": 1
     }
   ],
@@ -103,7 +103,7 @@
     },
     {
       "label": "ID",
-      "count": 9
+      "count": 14
     },
     {
       "label": "CN",
@@ -141,27 +141,19 @@
   "topResearchers": [
     {
       "label": "Sharifah Rafidah Wan Alwi",
-      "count": 7455
+      "count": 7456
     },
     {
       "label": "Zainuddin Abdul Manan",
-      "count": 6314
+      "count": 6316
     },
     {
       "label": "Jeng Shiun Lim",
-      "count": 5549
+      "count": 5550
     },
     {
       "label": "Luca Dieci",
       "count": 2748
-    },
-    {
-      "label": "Feifei Feng",
-      "count": 2143
-    },
-    {
-      "label": "Ying Xiao",
-      "count": 1918
     },
     {
       "label": "Edwin Gustavo Estrada-Araoz",
@@ -178,12 +170,20 @@
     {
       "label": "Shicheng Wang",
       "count": 669
+    },
+    {
+      "label": "Ye Tian",
+      "count": 525
+    },
+    {
+      "label": "Limei Gai",
+      "count": 367
     }
   ],
   "institutionTypes": [
     {
       "label": "University / school",
-      "count": 39
+      "count": 44
     },
     {
       "label": "Hospital / healthcare",

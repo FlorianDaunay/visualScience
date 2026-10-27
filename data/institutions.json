@@ -62,6 +62,92 @@
     ]
   },
   {
+    "id": "I4210087922",
+    "name": "Universitas Muhammadiyah Bengkulu",
+    "type": "education",
+    "countryCode": "ID",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I4210087922",
+    "researcherIds": [
+      "A5120128380",
+      "A5159569913",
+      "A5032090555"
+    ],
+    "discoveryIds": [
+      "W7223550591"
+    ]
+  },
+  {
+    "id": "I3129280579",
+    "name": "Pancasila University",
+    "type": "education",
+    "countryCode": "ID",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I3129280579",
+    "researcherIds": [
+      "A5119801238",
+      "A5025031858",
+      "A5092470289"
+    ],
+    "discoveryIds": [
+      "W7223556266"
+    ]
+  },
+  {
+    "id": "I3130850664",
+    "name": "Malikussaleh University",
+    "type": "education",
+    "countryCode": "ID",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I3130850664",
+    "researcherIds": [
+      "A5159542014",
+      "A5050827841",
+      "A5146463819",
+      "A5159574367",
+      "A5084016964"
+    ],
+    "discoveryIds": [
+      "W7223567776"
+    ]
+  },
+  {
+    "id": "I4210152830",
+    "name": "Indonesian Bakti University of Banyuwangi",
+    "type": "education",
+    "countryCode": "ID",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I4210152830",
+    "researcherIds": [
+      "A5159526003",
+      "A5155789278",
+      "A5071186323"
+    ],
+    "discoveryIds": [
+      "W7223569198"
+    ]
+  },
+  {
+    "id": "I23758234",
+    "name": "Universitas Negeri Surabaya",
+    "type": "education",
+    "countryCode": "ID",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I23758234",
+    "researcherIds": [
+      "A5159534278",
+      "A5037089777"
+    ],
+    "discoveryIds": [
+      "W7223571728"
+    ]
+  },
+  {
     "id": "I60134161",
     "name": "Nagoya University",
     "type": "education",

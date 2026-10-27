@@ -1,5 +1,366 @@
 [
   {
+    "id": "W7223550591",
+    "title": "Membangun Kebiasaan Menabung Melalui Literasi Keuangan Siswa SD Negeri 50 Kota Bengkulu",
+    "abstractText": "Pengelolaan keuangan merupakan kemampuan penting yang perlu ditanamkan sejak usia sekolah dasar, namun banyak siswa Sekolah Dasar Negeri 50 Sawah Lebar Baru belum memahami perbedaan kebutuhan dan keinginan serta belum terbiasa menabung. Survei awal menunjukkan bahwa dari 40 siswa kelas 4A dan 4B, sekitar 70% belum memiliki kebiasaan menabung dan uang sakunya sebagian besar habis untuk top up game. Berdasarkan kondisi tersebut, kegiatan pengabdian ini bertujuan meningkatkan pemahaman siswa tentang pentingnya menabung sejak dini serta menumbuhkan kesadaran menyisihkan uang saku secara teratur. Kegiatan dilaksanakan dalam satu pertemuan berdurasi 90 menit menggunakan tiga metode, yaitu ceramah tentang literasi keuangan, sesi tanya jawab berhadiah celengan, dan kegiatan menggambar pohon impian untuk menetapkan tujuan menabung. Hasil kegiatan menunjukkan bahwa siswa antusias mengikuti seluruh rangkaian kegiatan, aktif menjawab pertanyaan, serta mampu menuliskan tujuan menabung mereka secara konkret pada media pohon impian, seperti sepeda, tas sekolah, dan mainan. Kegiatan ini berhasil menumbuhkan kesadaran awal siswa mengenai manfaat menabung dan mendorong mereka untuk mulai menyisihkan uang saku secara teratur, meskipun keberlanjutan kebiasaan tersebut masih memerlukan pendampingan dari guru dan orang tua serta evaluasi lebih lanjut.",
+    "publishedDate": "2026-10-27",
+    "doi": "https://doi.org/10.63822/9j85sm94",
+    "sourceUrl": "https://indojurnal.com/index.php/aksikita/article/view/5135",
+    "isOpenAccess": true,
+    "venueName": "Aksi Kita: Jurnal Pengabdian kepada Masyarakat",
+    "citedByCount": 0,
+    "concepts": [
+      {
+        "id": "C121332964",
+        "name": "Physics",
+        "score": 0.6179999709129333
+      },
+      {
+        "id": "C15708023",
+        "name": "Humanities",
+        "score": 0.45509999990463257
+      },
+      {
+        "id": "C17744445",
+        "name": "Political science",
+        "score": 0.33180001378059387
+      },
+      {
+        "id": "C178550888",
+        "name": "Business administration",
+        "score": 0.272599995136261
+      },
+      {
+        "id": "C19417346",
+        "name": "Pedagogy",
+        "score": 0.23589999973773956
+      },
+      {
+        "id": "C15744967",
+        "name": "Psychology",
+        "score": 0.21709999442100525
+      }
+    ],
+    "authors": [
+      {
+        "id": "A5120128380",
+        "name": "Bayu Erlangga",
+        "institutionId": "I4210087922",
+        "institutionName": "Universitas Muhammadiyah Bengkulu"
+      },
+      {
+        "id": "A5159569913",
+        "name": "Anisa NovitaSyahfitri",
+        "institutionId": "I4210087922",
+        "institutionName": "Universitas Muhammadiyah Bengkulu"
+      },
+      {
+        "id": "A5032090555",
+        "name": "Ledyawati Ledyawati",
+        "institutionId": "I4210087922",
+        "institutionName": "Universitas Muhammadiyah Bengkulu"
+      }
+    ],
+    "institutions": [
+      {
+        "id": "I4210087922",
+        "name": "Universitas Muhammadiyah Bengkulu",
+        "countryCode": "ID"
+      }
+    ],
+    "openAlexUrl": "https://openalex.org/W7223550591"
+  },
+  {
+    "id": "W7223556266",
+    "title": "Peran Pojok Baca dan Media Interaktif Terhadap Minat Baca dan Motivasi Belajar Siswa Kelas 4 SDI Tabene",
+    "abstractText": "Penelitian ini bertujuan untuk mengetahui peran pojok baca dan media interaktif terhadap peningkatan minat baca dan motivasi belajar siswa kelas IV SDI Tabene. Metode yang digunakan adalah defskriptif kualitatif dengan pengumpulan data melalui observasi,wawancara, dan dokumentasi yang melibatkan Kepala Sekolah, Wali Kelas IV, dan Siswa Kelas IV SDI Tabene. Hasil penelitian ini menunjukan bahwa keberadaan pojok baca yang dilengkapi dengan koleksi buku bacaan dan tata letak yang nyaman, serta penggunaan media interaktif seperti aplikasi wordwall, kuis pembelajaran, LKPD, dan refleksi siswa mampu meningkatkan motivasi belajar melalui pembelajaran yang lebih menarik, aktif, dan menyenagkan. Dengan demikian, integrasi pojok baca dan media interaktifmemberikan konstribusi positif terhadap peningkatan minat baca dan motivasi belajar siswa kelas IV SDI Tabene.",
+    "publishedDate": "2026-10-27",
+    "doi": "https://doi.org/10.63822/nt79bj88",
+    "sourceUrl": "https://indojurnal.com/index.php/jejakdigital/article/view/5285",
+    "isOpenAccess": true,
+    "venueName": "Jejak digital Jurnal Ilmiah Multidisiplin",
+    "citedByCount": 0,
+    "concepts": [
+      {
+        "id": "C15708023",
+        "name": "Humanities",
+        "score": 0.3278999924659729
+      },
+      {
+        "id": "C121332964",
+        "name": "Physics",
+        "score": 0.3228999972343445
+      },
+      {
+        "id": "C142362112",
+        "name": "Art",
+        "score": 0.27720001339912415
+      },
+      {
+        "id": "C3018311702",
+        "name": "Motivation to learn",
+        "score": 0.24480000138282776
+      },
+      {
+        "id": "C33923547",
+        "name": "Mathematics",
+        "score": 0.21490000188350677
+      },
+      {
+        "id": "C15744967",
+        "name": "Psychology",
+        "score": 0.2061000019311905
+      }
+    ],
+    "authors": [
+      {
+        "id": "A5119801238",
+        "name": "Evalinda Florida Nahak",
+        "institutionId": "I3129280579",
+        "institutionName": "Pancasila University"
+      },
+      {
+        "id": "A5025031858",
+        "name": "Yohana Febriana Tabun",
+        "institutionId": "I3129280579",
+        "institutionName": "Pancasila University"
+      },
+      {
+        "id": "A5092470289",
+        "name": "Damian Puling",
+        "institutionId": "I3129280579",
+        "institutionName": "Pancasila University"
+      }
+    ],
+    "institutions": [
+      {
+        "id": "I3129280579",
+        "name": "Pancasila University",
+        "countryCode": "ID"
+      }
+    ],
+    "openAlexUrl": "https://openalex.org/W7223556266"
+  },
+  {
+    "id": "W7223567776",
+    "title": "Peran Instagram @univ.malikussaleh dalam Memenuhi Kebutuhan Informasi Akademik Mahasiswa Ilmu Komunikasi",
+    "abstractText": "Instagram @univ.malikussaleh merupakan salah satu media komunikasi institusional yang dimanfaatkan untuk menyampaikan informasi akademik kepada mahasiswa. Penelitian ini bertujuan untuk mengetahui pemanfaatan akun tersebut sebagai media informasi akademik, tingkat pemenuhan kebutuhan informasi akademik mahasiswa, serta pengaruhnya terhadap pemenuhan kebutuhan informasi akademik mahasiswa Ilmu Komunikasi angkatan 2022 Universitas Malikussaleh. Penelitian ini menggunakan pendekatan kuantitatif dengan metode survei terhadap 69 responden yang dipilih melalui teknik purposive sampling. Data dikumpulkan melalui kuesioner daring dan observasi nonpartisipan, kemudian dianalisis menggunakan regresi linear sederhana dengan bantuan IBM SPSS Statistics versi 26. Hasil penelitian menunjukkan bahwa Instagram @univ.malikussaleh berpengaruh positif dan signifikan terhadap pemenuhan kebutuhan informasi akademik, dengan koefisien regresi sebesar 0,932 dan nilai signifikansi 0,000. Koefisien determinasi sebesar 0,655 menunjukkan bahwa akun tersebut berkontribusi sebesar 65,5% terhadap pemenuhan kebutuhan informasi akademik, sedangkan 34,5% sisanya dipengaruhi oleh faktor lain di luar penelitian. Temuan ini memperkuat relevansi Model Perilaku Informasi Wilson dalam menjelaskan peran media sosial institusional sebagai sumber informasi akademik. Pengelola akun perlu meningkatkan kelengkapan konten, konsistensi publikasi, dan kemudahan akses informasi agar lebih sesuai dengan kebutuhan mahasiswa.",
+    "publishedDate": "2026-10-27",
+    "doi": "https://doi.org/10.63822/xx1qtd42",
+    "sourceUrl": "https://indojurnal.com/index.php/jisoh/article/view/5284",
+    "isOpenAccess": true,
+    "venueName": "Jurnal Ilmu Sosial dan Humaniora",
+    "citedByCount": 0,
+    "concepts": [
+      {
+        "id": "C15744967",
+        "name": "Psychology",
+        "score": 0.4235999882221222
+      },
+      {
+        "id": "C15708023",
+        "name": "Humanities",
+        "score": 0.33880001306533813
+      },
+      {
+        "id": "C2984316601",
+        "name": "Information media",
+        "score": 0.2874999940395355
+      },
+      {
+        "id": "C2992496598",
+        "name": "Marketing communication",
+        "score": 0.28690001368522644
+      },
+      {
+        "id": "C144024400",
+        "name": "Sociology",
+        "score": 0.27309998869895935
+      },
+      {
+        "id": "C178550888",
+        "name": "Business administration",
+        "score": 0.22259999811649323
+      }
+    ],
+    "authors": [
+      {
+        "id": "A5159542014",
+        "name": "Mesi Atikah",
+        "institutionId": "I3130850664",
+        "institutionName": "Malikussaleh University"
+      },
+      {
+        "id": "A5050827841",
+        "name": "Harinawati Harinawati",
+        "institutionId": "I3130850664",
+        "institutionName": "Malikussaleh University"
+      },
+      {
+        "id": "A5146463819",
+        "name": "Asmaul Husna",
+        "institutionId": "I3130850664",
+        "institutionName": "Malikussaleh University"
+      },
+      {
+        "id": "A5159574367",
+        "name": "Jamiati Kn",
+        "institutionId": "I3130850664",
+        "institutionName": "Malikussaleh University"
+      },
+      {
+        "id": "A5084016964",
+        "name": "Fitria Akmal",
+        "institutionId": "I3130850664",
+        "institutionName": "Malikussaleh University"
+      }
+    ],
+    "institutions": [
+      {
+        "id": "I3130850664",
+        "name": "Malikussaleh University",
+        "countryCode": "ID"
+      }
+    ],
+    "openAlexUrl": "https://openalex.org/W7223567776"
+  },
+  {
+    "id": "W7223569198",
+    "title": "Pengaruh Discovery Learning Terhadap Hasil Belajar Siswa Kelas IV Materi Pecahan SDN Telaga Biru 02",
+    "abstractText": "Penelitian ini dilatarbelakangi oleh permasalahan rendahnya hasil belajar siswa kelas IV pada materi pecahan di SDN Telaga Biru. Berdasarkan Analisa nilai dari hasil pre test, siswa sebanyak 46 tidak mencapai KKM (75). Penelitian ini bertujuan untuk mengetahui pengaruh Discovery Learning terhadap hasil belajar siswa kelas IV materi pecahan UPTD SDN Telaga Biru 02. Desain penelitian menggunakan penelitian kuantitatif dengan pendekatan kuasi eksperimen (quasi-experimental design) menggunakan desain faktorial 2 × 2. Populasi penelitian mencakup seluruh siswa kelas IV UPTD SDN Telaga Biru 02 dengan jumlah sampel sebanyak 46 siswa yang dipilih menggunakan teknik purposive sampling. Sampel terbagi menjadi kelompok eksperimen (kelas IV A, ) yang membelajarkan materi pecahan menggunakan model Discovery Learning, dan kelompok kontrol (kelas IV B, ) dengan pembelajaran konvensional. Data dikumpulkan melalui hasil belajar matematika (pretest dan posttest). Teknik analisis data menggunakan analisis uji t sampel bebas pada taraf signifikansi , setelah terlebih dahulu memenuhi uji prasyarat normalitas dan homogenitas. Hasil penelitian menunjukkan bahwa : Terdapat pengaruh yang signifikan penerapan model Discovery Learning terhadap hasil belajar matematika materi pecahan ( ; ). Kelompok siswa yang dibelajarkan dengan model Discovery Learning memperoleh rata-rata hasil belajar posttest lebih tinggi ( ) dibandingkan kelompok kontrol ( ).",
+    "publishedDate": "2026-10-27",
+    "doi": "https://doi.org/10.63822/bnseen80",
+    "sourceUrl": "https://indojurnal.com/index.php/jejakdigital/article/view/5276",
+    "isOpenAccess": true,
+    "venueName": "Jejak digital Jurnal Ilmiah Multidisiplin",
+    "citedByCount": 0,
+    "concepts": [
+      {
+        "id": "C121332964",
+        "name": "Physics",
+        "score": 0.7063000202178955
+      },
+      {
+        "id": "C15708023",
+        "name": "Humanities",
+        "score": 0.44200000166893005
+      },
+      {
+        "id": "C145420912",
+        "name": "Mathematics education",
+        "score": 0.29829999804496765
+      },
+      {
+        "id": "C2776933062",
+        "name": "Mastery learning",
+        "score": 0.18529999256134033
+      },
+      {
+        "id": "C33923547",
+        "name": "Mathematics",
+        "score": 0.18449999392032623
+      },
+      {
+        "id": "C3020594445",
+        "name": "Initial training",
+        "score": 0.15539999306201935
+      }
+    ],
+    "authors": [
+      {
+        "id": "A5159526003",
+        "name": "Moh. Arif Romadhon",
+        "institutionId": "I4210152830",
+        "institutionName": "Indonesian Bakti University of Banyuwangi"
+      },
+      {
+        "id": "A5155789278",
+        "name": "Wahyu Setyo Nugroho",
+        "institutionId": "I4210152830",
+        "institutionName": "Indonesian Bakti University of Banyuwangi"
+      },
+      {
+        "id": "A5071186323",
+        "name": "Andi Wapa",
+        "institutionId": "I4210152830",
+        "institutionName": "Indonesian Bakti University of Banyuwangi"
+      }
+    ],
+    "institutions": [
+      {
+        "id": "I4210152830",
+        "name": "Indonesian Bakti University of Banyuwangi",
+        "countryCode": "ID"
+      }
+    ],
+    "openAlexUrl": "https://openalex.org/W7223569198"
+  },
+  {
+    "id": "W7223571728",
+    "title": "Pengaruh Pengalaman Praktik Kerja Industri Dan Motivasi Belajar Terhadap Hasil Belajar Rencana Anggaran Biaya Siswa DPIB SMK Negeri 1 Baureno.",
+    "abstractText": "Cost estimation (Rencana Anggaran Biaya, RAB) is a course that demands careful calculation and an understanding of how costs arise in real projects. An initial observation at SMK Negeri 1 Baureno found that roughly 63% of students grasped and could apply RAB concepts. This research examines whether industrial internship (Prakerin) experience and learning motivation, individually and jointly, influence the RAB learning outcomes of Building Modeling and Information Design (DPIB) students. It adopts an associative quantitative approach with an ex post facto design. Purposive sampling selected 68 twelfth-grade students who had finished their internship. Four-point Likert questionnaires measured Prakerin experience and learning motivation, while a multiple-choice test and grade records supplied the outcome data. Classical assumption tests and multiple linear regression were run in SPSS. Prakerin experience had a significant positive effect on outcomes (B = 1.137, t = 2.717, p = 0.008); the effect of motivation was positive but not significant (B = 0.782, t = 1.754, p = 0.084). Together, the two variables had a significant effect (F = 44.231, p < 0.001), explaining 57.6% of the variance. Schools should improve internship quality and link students' industry experience to RAB teaching",
+    "publishedDate": "2026-10-27",
+    "doi": "https://doi.org/10.63822/0mm6sq93",
+    "sourceUrl": "https://indojurnal.com/index.php/jejakdigital/article/view/5281",
+    "isOpenAccess": true,
+    "venueName": "Jejak digital Jurnal Ilmiah Multidisiplin",
+    "citedByCount": 0,
+    "concepts": [
+      {
+        "id": "C15744967",
+        "name": "Psychology",
+        "score": 0.6639999747276306
+      },
+      {
+        "id": "C540751848",
+        "name": "Internship",
+        "score": 0.6482999920845032
+      },
+      {
+        "id": "C145420912",
+        "name": "Mathematics education",
+        "score": 0.5194000005722046
+      },
+      {
+        "id": "C133462117",
+        "name": "Data collection",
+        "score": 0.476500004529953
+      },
+      {
+        "id": "C2777267654",
+        "name": "Test (biology)",
+        "score": 0.4715999960899353
+      },
+      {
+        "id": "C105776082",
+        "name": "Likert scale",
+        "score": 0.44200000166893005
+      }
+    ],
+    "authors": [
+      {
+        "id": "A5159534278",
+        "name": "Iin Nur Kholidah",
+        "institutionId": "I23758234",
+        "institutionName": "Universitas Negeri Surabaya"
+      },
+      {
+        "id": "A5037089777",
+        "name": "SUPARJI SUPARJI",
+        "institutionId": "I23758234",
+        "institutionName": "Universitas Negeri Surabaya"
+      }
+    ],
+    "institutions": [
+      {
+        "id": "I23758234",
+        "name": "Universitas Negeri Surabaya",
+        "countryCode": "ID"
+      }
+    ],
+    "openAlexUrl": "https://openalex.org/W7223571728"
+  },
+  {
     "id": "W4415329740",
     "title": "Maps between circle bundles: fiber-preserving, finiteness and realization of mapping degree sets",
     "abstractText": null,
@@ -10902,456 +11263,5 @@
     ],
     "institutions": [],
     "openAlexUrl": "https://openalex.org/W7223556992"
-  },
-  {
-    "id": "W7223557122",
-    "title": "Severe environmental disturbances compromise ecological thresholds in aquatic environments",
-    "abstractText": "Abstract Large-scale disturbances can profoundly alter aquatic ecosystems by modifying water chemistry, sediment dynamics, and biodiversity across connected freshwater and marine environments. The 2015 Fundão Dam collapse in Brazil provides an unprecedented context to evaluate how multiple aquatic communities respond to intense and prolonged contamination, revealing key mechanisms of community reorganization under chronic anthropogenic impacts. By a multi-taxa monitoring dataset collected from 62 freshwater and marine sites, we analyzed how different communities, comprising phytoplankton, zooplankton, macroinvertebrates, and fish, responded along a gradient of mining tailing exposure. Applying threshold indicator taxa analysis (TITAN), we identified critical environmental variables, capturing tipping points for positive and negative biotic responses to tailing-related environmental gradients. Our results showed that mining-related contaminants, combined with hydrogeochemical alterations triggered by the dam collapse, have driven long-term changes in biodiversity, reshaping ecosystem functioning. The same stressors that caused widespread negative responses in community structure also promoted localized increases in opportunistic, mainly planktonic taxa, indicating a multidirectional community reorganization. In general, small increases in metals and hydrogeochemical alterations (such as turbidity up to 17 NTU in riverine systems and 2 NTU in the marine sites), resulting from the dam collapse have driven persistent changes in biodiversity, ultimately reshaping ecosystem functioning. Integrating community-level thresholds should represent a critical approach to improve the detection of regime shifts and to support the development of habitat-specific recovery strategies for riverine and marine ecosystems affected by mining disturbances.",
-    "publishedDate": "2026-10-26",
-    "doi": "https://doi.org/10.1007/s10661-026-16090-7",
-    "sourceUrl": "https://doi.org/10.1007/s10661-026-16090-7",
-    "isOpenAccess": true,
-    "venueName": "Environmental Monitoring and Assessment",
-    "citedByCount": 0,
-    "concepts": [
-      {
-        "id": "C175327387",
-        "name": "Aquatic ecosystem",
-        "score": 0.7105000019073486
-      },
-      {
-        "id": "C39432304",
-        "name": "Environmental science",
-        "score": 0.6899999976158142
-      },
-      {
-        "id": "C110872660",
-        "name": "Ecosystem",
-        "score": 0.6604999899864197
-      },
-      {
-        "id": "C2779343474",
-        "name": "Context (archaeology)",
-        "score": 0.5776000022888184
-      },
-      {
-        "id": "C18903297",
-        "name": "Ecology",
-        "score": 0.5716000199317932
-      },
-      {
-        "id": "C130217890",
-        "name": "Biodiversity",
-        "score": 0.5235999822616577
-      }
-    ],
-    "authors": [
-      {
-        "id": "A5049879807",
-        "name": "Gisele Daiane Pinha"
-      },
-      {
-        "id": "A5038154683",
-        "name": "Beatrice Padovani Ferreira"
-      },
-      {
-        "id": "A5027401165",
-        "name": "Fabiana Xavier Costa"
-      },
-      {
-        "id": "A5012525247",
-        "name": "Fábio Cavalca Bom"
-      },
-      {
-        "id": "A5011418691",
-        "name": "Kyssyanne Samihra Santos Oliveira"
-      },
-      {
-        "id": "A5026941590",
-        "name": "Maikon Di Domênico"
-      },
-      {
-        "id": "A5078304418",
-        "name": "Manuela S. Santana"
-      },
-      {
-        "id": "A5022436651",
-        "name": "Nelson A. Gouveia"
-      },
-      {
-        "id": "A5059441024",
-        "name": "Alessandra Delazari‐Barroso"
-      },
-      {
-        "id": "A5071538994",
-        "name": "Alex Cardoso Bastos"
-      },
-      {
-        "id": "A5039551567",
-        "name": "Daniel Rigo"
-      },
-      {
-        "id": "A5091113106",
-        "name": "Elisabeth Henschel"
-      },
-      {
-        "id": "A5003277109",
-        "name": "Eneida Maria Eskinazi-Sant’Anna"
-      },
-      {
-        "id": "A5013191696",
-        "name": "Fabian Sá"
-      },
-      {
-        "id": "A5010437679",
-        "name": "Gilberto Fonseca Barroso"
-      },
-      {
-        "id": "A5060649914",
-        "name": "Jorge Abdala Dergam"
-      },
-      {
-        "id": "A5116470235",
-        "name": "Leila de Lourdes Longo"
-      },
-      {
-        "id": "A5026158870",
-        "name": "Luiz Loureiro Fernandes"
-      },
-      {
-        "id": "A5047358868",
-        "name": "Maurício Hostim‐Silva"
-      },
-      {
-        "id": "A5075293695",
-        "name": "Renato David Ghisolfi"
-      },
-      {
-        "id": "A5054923983",
-        "name": "Renato Rodrigues Neto"
-      },
-      {
-        "id": "A5055214747",
-        "name": "Stéfano Zorzal‐Almeida"
-      },
-      {
-        "id": "A5030199133",
-        "name": "Valéria da Silva Quaresma"
-      },
-      {
-        "id": "A5011972552",
-        "name": "Vânya Márcia Duarte Pasa"
-      },
-      {
-        "id": "A5044777473",
-        "name": "Nadson Ressyé Simões"
-      }
-    ],
-    "institutions": [],
-    "openAlexUrl": "https://openalex.org/W7223557122"
-  },
-  {
-    "id": "W7223557201",
-    "title": "Systematic framework for ARIMA and SARIMA model selection using multiple error metrics: An application to export forecasting",
-    "abstractText": "This study proposes a systematic and practical framework for selecting autoregressive integrated moving average (ARIMA) and seasonal autoregressive integrated moving average (SARIMA) forecasting models based on multiple error evaluation metrics, including root mean square error (RMSE), mean absolute percentage error (MAPE), and mean absolute error (MAE). In practical forecasting applications, different error metrics often produce conflicting model selection outcomes, resulting in uncertainty in decision-making. Accordingly, this study introduces a percentage-based consistency evaluation approach to identify the most reliable forecasting model across multiple datasets. This study proposes a systematic framework for ARIMA and SARIMA model selection that integrates multiple forecasting error metrics to address conflicting model rankings and improve the consistency of model-selection decisions. This framework is applied to Thailand’s export value data, consisting of 69 monthly observations across 12 datasets derived from major industrial product groups (HS-84, HS-85, and HS-87) and key trading partners, including China, Japan, and South Korea. Results indicate that ARIMA(1,2,1) achieves the highest level of consistency across error metrics, with 83.33% under RMSE and 75% under MAPE and MAE. In terms of seasonal models, SARIMA (2,2,2)(2,0,0)₁₂ demonstrates the best overall performance. The findings confirm that the choice of error metrics can significantly influence forecasting outcomes. The proposed consistency-based framework reduces model selection conflicts and enhances the reliability of decision-making. This approach provides practical guidance for forecasting applications in economic planning, industrial systems, and export management.",
-    "publishedDate": "2026-10-26",
-    "doi": "https://doi.org/10.64960/easr.2026.267189",
-    "sourceUrl": "https://doi.org/10.64960/easr.2026.267189",
-    "isOpenAccess": true,
-    "venueName": "Engineering and Applied Science Research",
-    "citedByCount": 0,
-    "concepts": [
-      {
-        "id": "C139945424",
-        "name": "Mean squared error",
-        "score": 0.7457000017166138
-      },
-      {
-        "id": "C2776436953",
-        "name": "Consistency (knowledge bases)",
-        "score": 0.7297000288963318
-      },
-      {
-        "id": "C81917197",
-        "name": "Selection (genetic algorithm)",
-        "score": 0.6312999725341797
-      },
-      {
-        "id": "C159877910",
-        "name": "Autoregressive model",
-        "score": 0.5447999835014343
-      },
-      {
-        "id": "C41008148",
-        "name": "Computer science",
-        "score": 0.4909000098705292
-      },
-      {
-        "id": "C93959086",
-        "name": "Model selection",
-        "score": 0.47620001435279846
-      }
-    ],
-    "authors": [
-      {
-        "id": "A5092217243",
-        "name": "Nattavadee Mahanil"
-      },
-      {
-        "id": "A5085494839",
-        "name": "Premporn Khemavuk"
-      }
-    ],
-    "institutions": [],
-    "openAlexUrl": "https://openalex.org/W7223557201"
-  },
-  {
-    "id": "W7223557261",
-    "title": "Polypharmacy and probability of reduced glomerular filtration rate differentiated by gender and hypertension status in older adults",
-    "abstractText": null,
-    "publishedDate": "2026-10-26",
-    "doi": "https://doi.org/10.24875/gmm.25000078",
-    "sourceUrl": "https://doi.org/10.24875/gmm.25000078",
-    "isOpenAccess": true,
-    "venueName": "Gaceta Médica de México",
-    "citedByCount": 0,
-    "concepts": [
-      {
-        "id": "C71924100",
-        "name": "Medicine",
-        "score": 0.8149999976158142
-      },
-      {
-        "id": "C36434225",
-        "name": "Polypharmacy",
-        "score": 0.6158999800682068
-      },
-      {
-        "id": "C159641895",
-        "name": "Renal function",
-        "score": 0.5656999945640564
-      },
-      {
-        "id": "C126322002",
-        "name": "Internal medicine",
-        "score": 0.49950000643730164
-      },
-      {
-        "id": "C555293320",
-        "name": "Diabetes mellitus",
-        "score": 0.36660000681877136
-      },
-      {
-        "id": "C2778653478",
-        "name": "Kidney disease",
-        "score": 0.28439998626708984
-      }
-    ],
-    "authors": [
-      {
-        "id": "A5079538168",
-        "name": "Dolores Mino‐León"
-      },
-      {
-        "id": "A5080926317",
-        "name": "Sergio Flores‐Hernández"
-      },
-      {
-        "id": "A5099034920",
-        "name": "KEVIN F. RIOS-BRITO"
-      },
-      {
-        "id": "A5077289884",
-        "name": "Sergio Sánchez‐García"
-      },
-      {
-        "id": "A5069136567",
-        "name": "Hortensia Reyes‐Morales"
-      }
-    ],
-    "institutions": [],
-    "openAlexUrl": "https://openalex.org/W7223557261"
-  },
-  {
-    "id": "W7223557373",
-    "title": "Integrated angiographic hemodynamics, serum inflammatory factors, and untargeted metabolomics characterize a rupture-associated multi-system phenotype in intracranial aneurysms: a cross-sectional study",
-    "abstractText": null,
-    "publishedDate": "2026-10-26",
-    "doi": "https://doi.org/10.1186/s12883-026-05565-2",
-    "sourceUrl": "https://doi.org/10.1186/s12883-026-05565-2",
-    "isOpenAccess": true,
-    "venueName": "BMC Neurology",
-    "citedByCount": 0,
-    "concepts": [
-      {
-        "id": "C71924100",
-        "name": "Medicine",
-        "score": 0.8284000158309937
-      },
-      {
-        "id": "C16568411",
-        "name": "Neurology",
-        "score": 0.6862000226974487
-      },
-      {
-        "id": "C142724271",
-        "name": "Pathology",
-        "score": 0.46230000257492065
-      },
-      {
-        "id": "C12770488",
-        "name": "Neurosurgery",
-        "score": 0.4268999993801117
-      },
-      {
-        "id": "C21565614",
-        "name": "Metabolomics",
-        "score": 0.3587999939918518
-      },
-      {
-        "id": "C2776914184",
-        "name": "Inflammation",
-        "score": 0.35760000348091125
-      }
-    ],
-    "authors": [
-      {
-        "id": "A5159473467",
-        "name": "Sheng Bi"
-      },
-      {
-        "id": "A5159505033",
-        "name": "Jia Jiang"
-      },
-      {
-        "id": "A5023856644",
-        "name": "Siming Gui"
-      },
-      {
-        "id": "A5159472868",
-        "name": "Changhao Cheng"
-      },
-      {
-        "id": "A5151846275",
-        "name": "Lu Zheng"
-      },
-      {
-        "id": "A5159356674",
-        "name": "Qinglin Liu"
-      },
-      {
-        "id": "A5159541524",
-        "name": "Youxiang Li"
-      },
-      {
-        "id": "A5159571983",
-        "name": "Dongsheng Kong"
-      }
-    ],
-    "institutions": [],
-    "openAlexUrl": "https://openalex.org/W7223557373"
-  },
-  {
-    "id": "W7223557379",
-    "title": "Cardiometabolic multimorbidity and mortality in calcific aortic valve stenosis: the ARISTOTLE cohort study",
-    "abstractText": "Abstract Background Cardiometabolic multimorbidity (CMM), defined as the coexistence of two or more cardiometabolic diseases (CMDs), is highly prevalent in patients with calcific aortic valve stenosis (CAVS). However, its association with mortality in this population remains poorly characterized. Methods This retrospective cohort study analyzed 1175 adults with echocardiographically confirmed CAVS from the ARISTOTLE (Aortic valve diseases RISk facTOr assessmenT and prognosis modeL construction) registry. Participants were stratified by baseline CMD count into pre-specified primary exposure groups: CMM0 (no CMD), CMM1 (one CMD), and CMM2–3 (≥ 2 CMDs). CMDs included type 2 diabetes mellitus (T2DM), coronary heart disease (CHD), and ischemic stroke. Cause-specific Cox proportional-hazards models were applied; non-cardiovascular deaths were treated as censoring events for cardiovascular mortality analyses. Fine–Gray competing-risk models were constructed, with non-cardiovascular death set as the competing event. Formal interaction testing with Bonferroni correction was conducted for pre-defined subgroup analyses. Exploratory four-category CMD stratification and analyses of distinct CMD combinations were presented in supplementary materials. Results During a median follow-up of 3.23 years, 329 all-cause deaths and 179 cardiovascular deaths occurred. Mortality risk tended to increase with higher cardiometabolic multimorbidity burden. In the fully adjusted model, participants with ≥ 2 CMDs showed higher risk of all-cause mortality (HR 1.74, 95% CI 1.23–2.48; P = 0.002) and cardiovascular mortality (HR 2.24, 95% CI 1.39–3.61; P < 0.001), compared with patients without CMD. Each incremental rise in CMD count was associated with 30% higher all-cause death risk (HR 1.30, 95% CI 1.10–1.53, P = 0.002) and 47% higher cardiovascular death risk (HR 1.47, 95% CI 1.18–1.84, P < 0.001). Fine–Gray competing-risk analyses yielded consistent findings (subdistribution HR 2.07, 95% CI 1.30–3.28, P = 0.002 for CMM2–3 versus CMM0). Associations between CMD burden and mortality were directionally uniform across most predefined subgroups; no statistically significant interaction remained after Bonferroni correction for multiple comparisons. Conclusions Among patients with calcific aortic valve stenosis, higher cumulative cardiometabolic multimorbidity burden was independently associated with elevated all‑cause and cardiovascular mortality. These observational findings suggest that assessment of cumulative cardiometabolic comorbidity burden may add prognostic context for patients with CAVS.",
-    "publishedDate": "2026-10-26",
-    "doi": "https://doi.org/10.1186/s12872-026-06655-2",
-    "sourceUrl": "https://doi.org/10.1186/s12872-026-06655-2",
-    "isOpenAccess": true,
-    "venueName": "BMC Cardiovascular Disorders",
-    "citedByCount": 0,
-    "concepts": [
-      {
-        "id": "C71924100",
-        "name": "Medicine",
-        "score": 0.9623000025749207
-      },
-      {
-        "id": "C555175668",
-        "name": "Angiology",
-        "score": 0.6759999990463257
-      },
-      {
-        "id": "C126322002",
-        "name": "Internal medicine",
-        "score": 0.6534000039100647
-      },
-      {
-        "id": "C167135981",
-        "name": "Retrospective cohort study",
-        "score": 0.5022000074386597
-      },
-      {
-        "id": "C201903717",
-        "name": "Cohort study",
-        "score": 0.4961000084877014
-      },
-      {
-        "id": "C50382708",
-        "name": "Proportional hazards model",
-        "score": 0.47920000553131104
-      }
-    ],
-    "authors": [
-      {
-        "id": "A5130770190",
-        "name": "Jiayuan Zhang"
-      },
-      {
-        "id": "A5158837469",
-        "name": "Ziwei Zhou"
-      },
-      {
-        "id": "A5082583445",
-        "name": "Xinghao Xu"
-      },
-      {
-        "id": "A5027434419",
-        "name": "Yue Guo"
-      },
-      {
-        "id": "A5042119047",
-        "name": "Zhenyu Xiong"
-      },
-      {
-        "id": "A5008787889",
-        "name": "Menghui Liu"
-      },
-      {
-        "id": "A5159480359",
-        "name": "Shaozhao Zhang"
-      },
-      {
-        "id": "A5159521649",
-        "name": "Rihua Huang"
-      },
-      {
-        "id": "A5159498144",
-        "name": "Han Wen"
-      },
-      {
-        "id": "A5159500252",
-        "name": "Yiqi Zheng"
-      },
-      {
-        "id": "A5159538415",
-        "name": "Xinyuan Chen"
-      },
-      {
-        "id": "A5159499068",
-        "name": "Longyun Peng"
-      },
-      {
-        "id": "A5108139564",
-        "name": "Xiaodong Zhuang"
-      },
-      {
-        "id": "A5159539369",
-        "name": "Xinxue Liao"
-      }
-    ],
-    "institutions": [],
-    "openAlexUrl": "https://openalex.org/W7223557379"
   }
 ]
