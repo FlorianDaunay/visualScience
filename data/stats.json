@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-27T12:16:12.264Z",
+  "generatedAt": "2026-10-28T12:59:04.038Z",
   "totalDiscoveries": 160,
-  "totalResearchers": 747,
-  "totalInstitutions": 55,
+  "totalResearchers": 853,
+  "totalInstitutions": 136,
   "totalCitations": 1,
   "averageCitations": 0,
-  "openAccessRatio": 0.63125,
+  "openAccessRatio": 0.58125,
   "weeklySeries": [
     {
       "weekStart": "2026-10-26",
@@ -15,187 +15,199 @@
   "topConcepts": [
     {
       "label": "Medicine",
-      "count": 25
-    },
-    {
-      "label": "Computer science",
-      "count": 11
-    },
-    {
-      "label": "Physics",
-      "count": 6
-    },
-    {
-      "label": "Humanities",
-      "count": 5
+      "count": 39
     },
     {
       "label": "Psychology",
-      "count": 5
+      "count": 7
+    },
+    {
+      "label": "Computer science",
+      "count": 7
+    },
+    {
+      "label": "Chemistry",
+      "count": 7
     },
     {
       "label": "Materials science",
-      "count": 5
+      "count": 4
+    },
+    {
+      "label": "Business administration",
+      "count": 3
     },
     {
       "label": "Biology",
-      "count": 5
-    },
-    {
-      "label": "Mental health",
-      "count": 4
-    },
-    {
-      "label": "Process (computing)",
-      "count": 4
-    },
-    {
-      "label": "Mathematics",
       "count": 3
+    },
+    {
+      "label": "Artificial intelligence",
+      "count": 3
+    },
+    {
+      "label": "Political science",
+      "count": 2
+    },
+    {
+      "label": "Sustainability",
+      "count": 2
     }
   ],
   "topInstitutions": [
     {
-      "label": "Universitas Negeri Padang",
+      "label": "University of Brawijaya",
       "count": 4
     },
     {
-      "label": "Sriwijaya University",
+      "label": "Ho Chi Minh City University of Industry and Trade",
+      "count": 3
+    },
+    {
+      "label": "Rothman Orthopaedics",
       "count": 2
     },
     {
-      "label": "Sekolah Tinggi Agama Islam Al-Gazali Soppeng",
+      "label": "Xinjiang University",
+      "count": 2
+    },
+    {
+      "label": "Nanjing University of Science and Technology",
+      "count": 2
+    },
+    {
+      "label": "University of Electronic Science and Technology of China",
       "count": 1
     },
     {
-      "label": "Universitas Muhammadiyah Bengkulu",
+      "label": "Universitas Muhammadiyah Aceh",
       "count": 1
     },
     {
-      "label": "Pancasila University",
+      "label": "Bennett University",
       "count": 1
     },
     {
-      "label": "Malikussaleh University",
+      "label": "Indian Institute of Management Bodh Gaya",
       "count": 1
     },
     {
-      "label": "Indonesian Bakti University of Banyuwangi",
-      "count": 1
-    },
-    {
-      "label": "Universitas Negeri Surabaya",
-      "count": 1
-    },
-    {
-      "label": "Nagoya University",
-      "count": 1
-    },
-    {
-      "label": "Macau University of Science and Technology",
+      "label": "Lund University",
       "count": 1
     }
   ],
   "topCountries": [
     {
       "label": "US",
-      "count": 15
-    },
-    {
-      "label": "ID",
-      "count": 14
+      "count": 27
     },
     {
       "label": "CN",
-      "count": 9
+      "count": 26
     },
     {
       "label": "KR",
-      "count": 7
+      "count": 16
     },
     {
-      "label": "PT",
-      "count": 2
-    },
-    {
-      "label": "JP",
-      "count": 1
-    },
-    {
-      "label": "MO",
-      "count": 1
-    },
-    {
-      "label": "ET",
-      "count": 1
-    },
-    {
-      "label": "LY",
-      "count": 1
+      "label": "VN",
+      "count": 13
     },
     {
       "label": "IN",
-      "count": 1
+      "count": 11
+    },
+    {
+      "label": "ID",
+      "count": 6
+    },
+    {
+      "label": "BR",
+      "count": 6
+    },
+    {
+      "label": "GB",
+      "count": 6
+    },
+    {
+      "label": "MY",
+      "count": 5
+    },
+    {
+      "label": "AU",
+      "count": 5
     }
   ],
   "topResearchers": [
     {
-      "label": "Sharifah Rafidah Wan Alwi",
-      "count": 7456
+      "label": "Zhiyong Lu",
+      "count": 33839
     },
     {
-      "label": "Zainuddin Abdul Manan",
-      "count": 6316
+      "label": "Eudald Carbonell",
+      "count": 20706
     },
     {
-      "label": "Jeng Shiun Lim",
-      "count": 5550
+      "label": "Xiao Wang",
+      "count": 12064
     },
     {
-      "label": "Luca Dieci",
-      "count": 2748
+      "label": "Aidong Zhang",
+      "count": 5741
     },
     {
-      "label": "Edwin Gustavo Estrada-Araoz",
-      "count": 1118
+      "label": "Minjia Zhang",
+      "count": 4929
     },
     {
-      "label": "Artem Zvavitch",
-      "count": 821
+      "label": "Josep Vallverdú",
+      "count": 4580
     },
     {
-      "label": "Siti Nikmatin",
-      "count": 713
+      "label": "Qiao Jin",
+      "count": 4265
     },
     {
-      "label": "Shicheng Wang",
-      "count": 669
+      "label": "Palmira Saladié",
+      "count": 4210
     },
     {
-      "label": "Ye Tian",
-      "count": 525
+      "label": "Fang Yin",
+      "count": 3382
     },
     {
-      "label": "Limei Gai",
-      "count": 367
+      "label": "Yifan Yang",
+      "count": 2154
     }
   ],
   "institutionTypes": [
     {
       "label": "University / school",
-      "count": 44
+      "count": 105
     },
     {
       "label": "Hospital / healthcare",
-      "count": 10
+      "count": 18
     },
     {
       "label": "Government",
-      "count": 3
+      "count": 6
+    },
+    {
+      "label": "Company",
+      "count": 5
     },
     {
       "label": "Research facility",
-      "count": 2
+      "count": 4
+    },
+    {
+      "label": "Organization",
+      "count": 3
+    },
+    {
+      "label": "Nonprofit / institute",
+      "count": 3
     }
   ]
 }
