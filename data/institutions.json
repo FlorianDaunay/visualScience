@@ -1,1643 +1,152 @@
 [
   {
-    "id": "I177055848",
-    "name": "University of Brawijaya",
-    "type": "education",
-    "countryCode": "ID",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I177055848",
-    "researcherIds": [
-      "A5011625559",
-      "A5157132886",
-      "A5156858265",
-      "A5140090647",
-      "A5156875020",
-      "A5156990445",
-      "A5157345378",
-      "A5157041365",
-      "A5157002970",
-      "A5157193154",
-      "A5157309885",
-      "A5157249292",
-      "A5156941222",
-      "A5157001010",
-      "A5157322456",
-      "A5156957564",
-      "A5156880867",
-      "A5157125314"
-    ],
-    "discoveryIds": [
-      "W7220026986",
-      "W7220206888",
-      "W7220212608",
-      "W7220015736"
-    ]
-  },
-  {
-    "id": "I4210116271",
-    "name": "Ho Chi Minh City University of Industry and Trade",
-    "type": "education",
-    "countryCode": "VN",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I4210116271",
-    "researcherIds": [
-      "A5019897276",
-      "A5159764145",
-      "A5159799740",
-      "A5153664250",
-      "A5101716714",
-      "A5017932855",
-      "A5153590968",
-      "A5077090472",
-      "A5159810245",
-      "A5115835815",
-      "A5007944356",
-      "A5070846074"
-    ],
-    "discoveryIds": [
-      "W7223783762",
-      "W7223818082",
-      "W7223824997"
-    ]
-  },
-  {
-    "id": "I4210090807",
-    "name": "Rothman Orthopaedics",
-    "type": "other",
-    "countryCode": "US",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I4210090807",
-    "researcherIds": [
-      "A5124113275",
-      "A5009142068"
-    ],
-    "discoveryIds": [
-      "W7223785269",
-      "W7223836667"
-    ]
-  },
-  {
-    "id": "I96908189",
-    "name": "Xinjiang University",
-    "type": "education",
-    "countryCode": "CN",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I96908189",
-    "researcherIds": [
-      "A5044137538",
-      "A5100684448",
-      "A5159769243"
-    ],
-    "discoveryIds": [
-      "W7223812178",
-      "W7223871559"
-    ]
-  },
-  {
-    "id": "I36399199",
-    "name": "Nanjing University of Science and Technology",
-    "type": "education",
-    "countryCode": "CN",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I36399199",
-    "researcherIds": [
-      "A5159748592",
-      "A5100451239",
-      "A5100604139",
-      "A5022408966",
-      "A5159878762"
-    ],
-    "discoveryIds": [
-      "W7223830242",
-      "W7223867204"
-    ]
-  },
-  {
-    "id": "I150229711",
-    "name": "University of Electronic Science and Technology of China",
-    "type": "education",
-    "countryCode": "CN",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I150229711",
-    "researcherIds": [
-      "A5079182114",
-      "A5122056140",
-      "A5124770658",
-      "A5053213848",
-      "A5106974408",
-      "A5122255855",
-      "A5103023179",
-      "A5004851663",
-      "A5101948335"
-    ],
-    "discoveryIds": [
-      "W7169856940"
-    ]
-  },
-  {
-    "id": "I4210109415",
-    "name": "Universitas Muhammadiyah Aceh",
-    "type": "education",
-    "countryCode": "ID",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I4210109415",
-    "researcherIds": [
-      "A5113021103",
-      "A5093114332",
-      "A5023339217",
-      "A5117255996",
-      "A5156956290"
-    ],
-    "discoveryIds": [
-      "W7220034042"
-    ]
-  },
-  {
-    "id": "I3129773123",
-    "name": "Bennett University",
-    "type": "education",
-    "countryCode": "IN",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I3129773123",
-    "researcherIds": [
-      "A5046689867"
-    ],
-    "discoveryIds": [
-      "W7222540481"
-    ]
-  },
-  {
-    "id": "I4400600926",
-    "name": "Indian Institute of Management Bodh Gaya",
-    "type": "education",
-    "countryCode": "IN",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I4400600926",
-    "researcherIds": [
-      "A5057686556"
-    ],
-    "discoveryIds": [
-      "W7222540481"
-    ]
-  },
-  {
-    "id": "I187531555",
-    "name": "Lund University",
-    "type": "education",
-    "countryCode": "SE",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I187531555",
-    "researcherIds": [
-      "A5158872813"
-    ],
-    "discoveryIds": [
-      "W7222540481"
-    ]
-  },
-  {
-    "id": "I887998513",
-    "name": "Bharati Vidyapeeth (Deemed to be University)",
-    "type": "education",
-    "countryCode": "IN",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I887998513",
-    "researcherIds": [
-      "A5114186596"
-    ],
-    "discoveryIds": [
-      "W7223782517"
-    ]
-  },
-  {
-    "id": "I4405261114",
-    "name": "Mother Theresa Institute Of Engineering And Technology",
-    "type": "education",
-    "countryCode": "IN",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I4405261114",
-    "researcherIds": [
-      "A5159843069"
-    ],
-    "discoveryIds": [
-      "W7223782517"
-    ]
-  },
-  {
-    "id": "I4405261882",
-    "name": "Mar Gregorios College of Arts and Science",
-    "type": "education",
-    "countryCode": "IN",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I4405261882",
-    "researcherIds": [
-      "A5159783633"
-    ],
-    "discoveryIds": [
-      "W7223782517"
-    ]
-  },
-  {
-    "id": "I1330855593",
-    "name": "Vel Tech Rangarajan Dr. Sagunthala R&D Institute of Science and Technology",
-    "type": "education",
-    "countryCode": "IN",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I1330855593",
-    "researcherIds": [
-      "A5119140813"
-    ],
-    "discoveryIds": [
-      "W7223782517"
-    ]
-  },
-  {
-    "id": "I1328775524",
-    "name": "Zhejiang Sci-Tech University",
-    "type": "education",
-    "countryCode": "CN",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I1328775524",
-    "researcherIds": [
-      "A5159852902",
-      "A5116252262",
-      "A5159938305",
-      "A5148847876",
-      "A5101589057",
-      "A5110837893"
-    ],
-    "discoveryIds": [
-      "W7223782907"
-    ]
-  },
-  {
-    "id": "I4210122257",
-    "name": "Vietnam Military Medical University",
-    "type": "education",
-    "countryCode": "VN",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I4210122257",
-    "researcherIds": [
-      "A5020600221"
-    ],
-    "discoveryIds": [
-      "W7223784478"
-    ]
-  },
-  {
-    "id": "I177233841",
-    "name": "Vietnam National University, Hanoi",
-    "type": "education",
-    "countryCode": "VN",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I177233841",
-    "researcherIds": [
-      "A5159756885"
-    ],
-    "discoveryIds": [
-      "W7223784478"
-    ]
-  },
-  {
-    "id": "I32971472",
-    "name": "Yale University",
+    "id": "I290598920",
+    "name": "California State University, Dominguez Hills",
     "type": "education",
     "countryCode": "US",
     "homepage": null,
     "ror": null,
-    "openAlexUrl": "https://openalex.org/I32971472",
+    "openAlexUrl": "https://openalex.org/I290598920",
     "researcherIds": [
-      "A5074234501",
-      "A5120334132",
-      "A5159748880",
-      "A5032980228",
-      "A5088924343",
-      "A5159763972",
-      "A5159753892",
-      "A5078439455"
+      "A5160055560",
+      "A5110243395"
     ],
     "discoveryIds": [
-      "W7223785269"
+      "W7224078954",
+      "W7224092249"
     ]
   },
   {
-    "id": "I130238516",
-    "name": "University of Minnesota",
-    "type": "education",
-    "countryCode": "US",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I130238516",
-    "researcherIds": [
-      "A5014780359"
-    ],
-    "discoveryIds": [
-      "W7223785269"
-    ]
-  },
-  {
-    "id": "I170897317",
-    "name": "Duke University",
-    "type": "education",
-    "countryCode": "US",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I170897317",
-    "researcherIds": [
-      "A5113076002"
-    ],
-    "discoveryIds": [
-      "W7223785269"
-    ]
-  },
-  {
-    "id": "I143414431",
-    "name": "Essentia Health",
-    "type": "healthcare",
-    "countryCode": "US",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I143414431",
-    "researcherIds": [
-      "A5078585399"
-    ],
-    "discoveryIds": [
-      "W7223785269"
-    ]
-  },
-  {
-    "id": "I140172145",
-    "name": "University of Connecticut",
-    "type": "education",
-    "countryCode": "US",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I140172145",
-    "researcherIds": [
-      "A5143651420"
-    ],
-    "discoveryIds": [
-      "W7223785269"
-    ]
-  },
-  {
-    "id": "I94625822",
-    "name": "Universiti Utara Malaysia",
-    "type": "education",
-    "countryCode": "MY",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I94625822",
-    "researcherIds": [
-      "A5109160047"
-    ],
-    "discoveryIds": [
-      "W7223786119"
-    ]
-  },
-  {
-    "id": "I174731842",
-    "name": "Islamia University of Bahawalpur",
-    "type": "education",
-    "countryCode": "PK",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I174731842",
-    "researcherIds": [
-      "A5110579827"
-    ],
-    "discoveryIds": [
-      "W7223786119"
-    ]
-  },
-  {
-    "id": "I160993911",
-    "name": "Queensland University of Technology",
-    "type": "education",
-    "countryCode": "AU",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I160993911",
-    "researcherIds": [
-      "A5005746194"
-    ],
-    "discoveryIds": [
-      "W7223786119"
-    ]
-  },
-  {
-    "id": "I82951845",
-    "name": "RMIT University",
-    "type": "education",
-    "countryCode": "AU",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I82951845",
-    "researcherIds": [
-      "A5090397371"
-    ],
-    "discoveryIds": [
-      "W7223786119"
-    ]
-  },
-  {
-    "id": "I15766328",
-    "name": "Universitat de Lleida",
-    "type": "education",
-    "countryCode": "ES",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I15766328",
-    "researcherIds": [
-      "A5008609384",
-      "A5067601827",
-      "A5159938433",
-      "A5159777887"
-    ],
-    "discoveryIds": [
-      "W7223788964"
-    ]
-  },
-  {
-    "id": "I35304288",
-    "name": "Universitas Halu Oleo",
-    "type": "education",
-    "countryCode": "ID",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I35304288",
-    "researcherIds": [
-      "A5159930094",
-      "A5096362688",
-      "A5051768644",
-      "A5006339272",
-      "A5119960565"
-    ],
-    "discoveryIds": [
-      "W7223791733"
-    ]
-  },
-  {
-    "id": "I244572783",
-    "name": "Symbiosis International University",
-    "type": "education",
-    "countryCode": "IN",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I244572783",
-    "researcherIds": [
-      "A5000809172"
-    ],
-    "discoveryIds": [
-      "W7223791943"
-    ]
-  },
-  {
-    "id": "I48018076",
-    "name": "Christ University",
-    "type": "education",
-    "countryCode": "IN",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I48018076",
-    "researcherIds": [
-      "A5075870029"
-    ],
-    "discoveryIds": [
-      "W7223791943"
-    ]
-  },
-  {
-    "id": "I71437568",
-    "name": "Universidade de Pernambuco",
-    "type": "education",
-    "countryCode": "BR",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I71437568",
-    "researcherIds": [
-      "A5041581758",
-      "A5057900427",
-      "A5045242784"
-    ],
-    "discoveryIds": [
-      "W7223792761"
-    ]
-  },
-  {
-    "id": "I25112270",
-    "name": "Universidade Federal de Pernambuco",
-    "type": "education",
-    "countryCode": "BR",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I25112270",
-    "researcherIds": [
-      "A5002560680",
-      "A5080919616",
-      "A5101706730",
-      "A5013137905"
-    ],
-    "discoveryIds": [
-      "W7223792761"
-    ]
-  },
-  {
-    "id": "I4210119912",
-    "name": "Hospital Universitário Oswaldo Cruz",
-    "type": "healthcare",
-    "countryCode": "BR",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I4210119912",
-    "researcherIds": [
-      "A5058880496",
-      "A5089012129",
-      "A5159787038"
-    ],
-    "discoveryIds": [
-      "W7223792761"
-    ]
-  },
-  {
-    "id": "I4210089966",
-    "name": "London School of Hygiene & Tropical Medicine",
-    "type": "education",
-    "countryCode": "GB",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I4210089966",
-    "researcherIds": [
-      "A5091135056",
-      "A5025677183"
-    ],
-    "discoveryIds": [
-      "W7223792761"
-    ]
-  },
-  {
-    "id": "I4210126826",
-    "name": "Instituto de Tecnologia de Pernambuco",
-    "type": "facility",
-    "countryCode": "BR",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I4210126826",
-    "researcherIds": [
-      "A5042733686",
-      "A5018735204"
-    ],
-    "discoveryIds": [
-      "W7223792761"
-    ]
-  },
-  {
-    "id": "I4210098775",
-    "name": "Fundação Altino Ventura",
-    "type": "healthcare",
-    "countryCode": "BR",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I4210098775",
-    "researcherIds": [
-      "A5036117177"
-    ],
-    "discoveryIds": [
-      "W7223792761"
-    ]
-  },
-  {
-    "id": "I12912129",
-    "name": "Northeastern University",
-    "type": "education",
-    "countryCode": "US",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I12912129",
-    "researcherIds": [
-      "A5021810593",
-      "A5146701649",
-      "A5059738966"
-    ],
-    "discoveryIds": [
-      "W7223792834"
-    ]
-  },
-  {
-    "id": "I4210146051",
-    "name": "Anyang Institute of Technology",
-    "type": "education",
-    "countryCode": "CN",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I4210146051",
-    "researcherIds": [
-      "A5159891671"
-    ],
-    "discoveryIds": [
-      "W7223792834"
-    ]
-  },
-  {
-    "id": "I19820366",
-    "name": "Chinese Academy of Sciences",
-    "type": "government",
-    "countryCode": "CN",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I19820366",
-    "researcherIds": [
-      "A5159841708"
-    ],
-    "discoveryIds": [
-      "W7223792834"
-    ]
-  },
-  {
-    "id": "I123565023",
-    "name": "Vietnam National University Ho Chi Minh City",
-    "type": "education",
-    "countryCode": "VN",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I123565023",
-    "researcherIds": [
-      "A5159811426",
-      "A5159790150"
-    ],
-    "discoveryIds": [
-      "W7223794560"
-    ]
-  },
-  {
-    "id": "I204824540",
-    "name": "University of Wollongong",
-    "type": "education",
-    "countryCode": "AU",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I204824540",
-    "researcherIds": [
-      "A5010765737",
-      "A5026041565"
-    ],
-    "discoveryIds": [
-      "W7223794979"
-    ]
-  },
-  {
-    "id": "I52325",
-    "name": "Fundação Oswaldo Cruz",
-    "type": "facility",
-    "countryCode": "BR",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I52325",
-    "researcherIds": [
-      "A5058907166",
-      "A5028598374",
-      "A5082461699",
-      "A5017438036",
-      "A5089865584",
-      "A5016006972",
-      "A5036487687",
-      "A5073574356"
-    ],
-    "discoveryIds": [
-      "W7223795269"
-    ]
-  },
-  {
-    "id": "I40120149",
-    "name": "University of Oxford",
-    "type": "education",
-    "countryCode": "GB",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I40120149",
-    "researcherIds": [
-      "A5006045347"
-    ],
-    "discoveryIds": [
-      "W7223795269"
-    ]
-  },
-  {
-    "id": "I164928964",
-    "name": "Merck KGaA, Darmstadt (Germany)",
-    "type": "company",
-    "countryCode": "DE",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I164928964",
-    "researcherIds": [
-      "A5083837708"
-    ],
-    "discoveryIds": [
-      "W7223795269"
-    ]
-  },
-  {
-    "id": "I4576418",
-    "name": "University of Technology Malaysia",
-    "type": "education",
-    "countryCode": "MY",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I4576418",
-    "researcherIds": [
-      "A5062591713",
-      "A5087273108"
-    ],
-    "discoveryIds": [
-      "W7223795815"
-    ]
-  },
-  {
-    "id": "I33849332",
-    "name": "University of Malaya",
-    "type": "education",
-    "countryCode": "MY",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I33849332",
-    "researcherIds": [
-      "A5041398393"
-    ],
-    "discoveryIds": [
-      "W7223795815"
-    ]
-  },
-  {
-    "id": "I930072361",
-    "name": "Tun Hussein Onn University of Malaysia",
-    "type": "education",
-    "countryCode": "MY",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I930072361",
-    "researcherIds": [
-      "A5016146147"
-    ],
-    "discoveryIds": [
-      "W7223795815"
-    ]
-  },
-  {
-    "id": "I202539009",
-    "name": "Industrial University of Ho Chi Minh City",
-    "type": "education",
-    "countryCode": "VN",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I202539009",
-    "researcherIds": [
-      "A5159881458",
-      "A5159765851",
-      "A5139253446",
-      "A5159929497",
-      "A5062623259"
-    ],
-    "discoveryIds": [
-      "W7223795866"
-    ]
-  },
-  {
-    "id": "I4403928254",
-    "name": "Ba Ria - Vung Tau College of Engineering and Technology",
-    "type": "education",
-    "countryCode": "VN",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I4403928254",
-    "researcherIds": [
-      "A5051801625"
-    ],
-    "discoveryIds": [
-      "W7223795866"
-    ]
-  },
-  {
-    "id": "I12832649",
-    "name": "Gachon University",
+    "id": "I139264467",
+    "name": "Seoul National University",
     "type": "education",
     "countryCode": "KR",
     "homepage": null,
     "ror": null,
-    "openAlexUrl": "https://openalex.org/I12832649",
+    "openAlexUrl": "https://openalex.org/I139264467",
     "researcherIds": [
-      "A5125735051"
+      "A5067568881",
+      "A5100346658",
+      "A5025245211",
+      "A5101833483"
     ],
     "discoveryIds": [
-      "W7223798332"
+      "W7224080986",
+      "W7224090952"
     ]
   },
   {
-    "id": "I4405259649",
-    "name": "Korea Fire Institute",
-    "type": "facility",
-    "countryCode": "KR",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I4405259649",
-    "researcherIds": [
-      "A5125231215",
-      "A5159802866"
-    ],
-    "discoveryIds": [
-      "W7223798332"
-    ]
-  },
-  {
-    "id": "I3019177047",
-    "name": "Korea Institute of Civil Engineering and Building Technology",
-    "type": "government",
-    "countryCode": "KR",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I3019177047",
-    "researcherIds": [
-      "A5066162138",
-      "A5001283737",
-      "A5159884332"
-    ],
-    "discoveryIds": [
-      "W7223798927"
-    ]
-  },
-  {
-    "id": "I119203015",
-    "name": "Shandong University of Technology",
-    "type": "education",
-    "countryCode": "CN",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I119203015",
-    "researcherIds": [
-      "A5159916906",
-      "A5159791510",
-      "A5101980433",
-      "A5101828990"
-    ],
-    "discoveryIds": [
-      "W7223799353"
-    ]
-  },
-  {
-    "id": "I122706678",
-    "name": "Halla University",
+    "id": "I197347611",
+    "name": "Korea University",
     "type": "education",
     "countryCode": "KR",
     "homepage": null,
     "ror": null,
-    "openAlexUrl": "https://openalex.org/I122706678",
+    "openAlexUrl": "https://openalex.org/I197347611",
     "researcherIds": [
-      "A5159930979"
+      "A5159999837",
+      "A5111918277",
+      "A5109604064"
     ],
     "discoveryIds": [
-      "W7223800243"
+      "W7224080986",
+      "W7224081115"
     ]
   },
   {
-    "id": "I135237710",
-    "name": "Zhejiang Normal University",
-    "type": "education",
-    "countryCode": "CN",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I135237710",
-    "researcherIds": [
-      "A5079230757",
-      "A5159953303"
-    ],
-    "discoveryIds": [
-      "W7223800307"
-    ]
-  },
-  {
-    "id": "I141649914",
-    "name": "Nanchang University",
-    "type": "education",
-    "countryCode": "CN",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I141649914",
-    "researcherIds": [
-      "A5159918525"
-    ],
-    "discoveryIds": [
-      "W7223800307"
-    ]
-  },
-  {
-    "id": "I4210165606",
-    "name": "Hubei Normal University",
-    "type": "education",
-    "countryCode": "CN",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I4210165606",
-    "researcherIds": [
-      "A5109655538",
-      "A5121838549",
-      "A5110980863",
-      "A5159755812",
-      "A5045879893",
-      "A5159833768",
-      "A5100451677",
-      "A5159960862",
-      "A5053454454"
-    ],
-    "discoveryIds": [
-      "W7223801475"
-    ]
-  },
-  {
-    "id": "I4210136681",
-    "name": "Ocean Energy (Norway)",
-    "type": "company",
-    "countryCode": "NO",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I4210136681",
-    "researcherIds": [
-      "A5159772523"
-    ],
-    "discoveryIds": [
-      "W7223801534"
-    ]
-  },
-  {
-    "id": "I165507594",
-    "name": "Kangwon National University",
+    "id": "I4210148722",
+    "name": "Kwangju Women's University",
     "type": "education",
     "countryCode": "KR",
     "homepage": null,
     "ror": null,
-    "openAlexUrl": "https://openalex.org/I165507594",
+    "openAlexUrl": "https://openalex.org/I4210148722",
     "researcherIds": [
-      "A5038242611"
+      "A5047800100",
+      "A5101935499",
+      "A5139324600",
+      "A5072005606"
     ],
     "discoveryIds": [
-      "W7223804456"
+      "W7224082180",
+      "W7224084824"
     ]
   },
   {
-    "id": "I4387152860",
-    "name": "Trabzon University",
-    "type": "education",
-    "countryCode": "TR",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I4387152860",
-    "researcherIds": [
-      "A5010894764"
-    ],
-    "discoveryIds": [
-      "W7223807876"
-    ]
-  },
-  {
-    "id": "I4210094226",
-    "name": "Mi̇lli̇ Eği̇ti̇m Bakanliği",
-    "type": "government",
-    "countryCode": "TR",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I4210094226",
-    "researcherIds": [
-      "A5159936028"
-    ],
-    "discoveryIds": [
-      "W7223807876"
-    ]
-  },
-  {
-    "id": "I1174212",
-    "name": "University of Southern California",
-    "type": "education",
-    "countryCode": "US",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I1174212",
-    "researcherIds": [
-      "A5093315931",
-      "A5025731919",
-      "A5126214505",
-      "A5159887338",
-      "A5108881905",
-      "A5084981681",
-      "A5034495408",
-      "A5025367366",
-      "A5072719883"
-    ],
-    "discoveryIds": [
-      "W7223807950"
-    ]
-  },
-  {
-    "id": "I1336910626",
-    "name": "Children's Hospital Los Angeles",
-    "type": "healthcare",
-    "countryCode": "US",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I1336910626",
-    "researcherIds": [
-      "A5070800182",
-      "A5058603016",
-      "A5158557924",
-      "A5066003270",
-      "A5073659294",
-      "A5008395370",
-      "A5046576474",
-      "A5022278084"
-    ],
-    "discoveryIds": [
-      "W7223807950"
-    ]
-  },
-  {
-    "id": "I1324766304",
-    "name": "Barrow Neurological Institute",
-    "type": "healthcare",
-    "countryCode": "US",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I1324766304",
-    "researcherIds": [
-      "A5016807163",
-      "A5090148953"
-    ],
-    "discoveryIds": [
-      "W7223807950"
-    ]
-  },
-  {
-    "id": "I167576493",
-    "name": "Colorado School of Mines",
-    "type": "education",
-    "countryCode": "US",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I167576493",
-    "researcherIds": [
-      "A5085866032",
-      "A5034327787",
-      "A5057591034",
-      "A5063202522",
-      "A5073329690"
-    ],
-    "discoveryIds": [
-      "W7223809414"
-    ]
-  },
-  {
-    "id": "I4210097061",
-    "name": "Hazen and Sawyer (United States)",
-    "type": "company",
-    "countryCode": "US",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I4210097061",
-    "researcherIds": [
-      "A5072616632"
-    ],
-    "discoveryIds": [
-      "W7223809414"
-    ]
-  },
-  {
-    "id": "I4210119109",
-    "name": "Indiana University Bloomington",
-    "type": "education",
-    "countryCode": "US",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I4210119109",
-    "researcherIds": [
-      "A5010257263"
-    ],
-    "discoveryIds": [
-      "W7223809414"
-    ]
-  },
-  {
-    "id": "I193775966",
-    "name": "Yonsei University",
-    "type": "education",
-    "countryCode": "KR",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I193775966",
-    "researcherIds": [
-      "A5062370192",
-      "A5103006041",
-      "A5079801328",
-      "A5102806261",
-      "A5102851293",
-      "A5100757276",
-      "A5015897790",
-      "A5086178193",
-      "A5100764546",
-      "A5004789784",
-      "A5022383639",
-      "A5053575162",
-      "A5081680751"
-    ],
-    "discoveryIds": [
-      "W7223809823"
-    ]
-  },
-  {
-    "id": "I4210149656",
-    "name": "Yeungnam University Medical Center",
-    "type": "healthcare",
-    "countryCode": "KR",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I4210149656",
-    "researcherIds": [
-      "A5031727133"
-    ],
-    "discoveryIds": [
-      "W7223809823"
-    ]
-  },
-  {
-    "id": "I4210088426",
-    "name": "Gachon University Gil Medical Center",
-    "type": "healthcare",
-    "countryCode": "KR",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I4210088426",
-    "researcherIds": [
-      "A5070701475"
-    ],
-    "discoveryIds": [
-      "W7223809823"
-    ]
-  },
-  {
-    "id": "I4405259945",
-    "name": "The Catholic University of Korea Eunpyeong St. Mary's Hospital",
-    "type": "healthcare",
-    "countryCode": "KR",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I4405259945",
-    "researcherIds": [
-      "A5013035409"
-    ],
-    "discoveryIds": [
-      "W7223809823"
-    ]
-  },
-  {
-    "id": "I4210103122",
-    "name": "Wonju Severance Christian Hospital",
-    "type": "healthcare",
-    "countryCode": "KR",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I4210103122",
-    "researcherIds": [
-      "A5100435062"
-    ],
-    "discoveryIds": [
-      "W7223809823"
-    ]
-  },
-  {
-    "id": "I138925566",
-    "name": "Ewha Womans University",
-    "type": "education",
-    "countryCode": "KR",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I138925566",
-    "researcherIds": [
-      "A5071199634"
-    ],
-    "discoveryIds": [
-      "W7223809823"
-    ]
-  },
-  {
-    "id": "I113940042",
-    "name": "Shanghai University",
-    "type": "education",
-    "countryCode": "CN",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I113940042",
-    "researcherIds": [
-      "A5159837316"
-    ],
-    "discoveryIds": [
-      "W7223810880"
-    ]
-  },
-  {
-    "id": "I180949307",
-    "name": "Illinois Institute of Technology",
-    "type": "education",
-    "countryCode": "US",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I180949307",
-    "researcherIds": [
-      "A5159967574"
-    ],
-    "discoveryIds": [
-      "W7223810880"
-    ]
-  },
-  {
-    "id": "I3923682",
-    "name": "Soochow University",
-    "type": "education",
-    "countryCode": "CN",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I3923682",
-    "researcherIds": [
-      "A5000753564"
-    ],
-    "discoveryIds": [
-      "W7223810880"
-    ]
-  },
-  {
-    "id": "I59028903",
-    "name": "Ocean University of China",
-    "type": "education",
-    "countryCode": "CN",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I59028903",
-    "researcherIds": [
-      "A5159903827"
-    ],
-    "discoveryIds": [
-      "W7223812178"
-    ]
-  },
-  {
-    "id": "I141568987",
-    "name": "Hong Kong Baptist University",
-    "type": "education",
-    "countryCode": "HK",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I141568987",
-    "researcherIds": [
-      "A5087840965"
-    ],
-    "discoveryIds": [
-      "W7223812178"
-    ]
-  },
-  {
-    "id": "I73616290",
-    "name": "Korea Research Institute of Bioscience and Biotechnology",
-    "type": "facility",
-    "countryCode": "KR",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I73616290",
-    "researcherIds": [
-      "A5127953550"
-    ],
-    "discoveryIds": [
-      "W7223815180"
-    ]
-  },
-  {
-    "id": "I9927081",
-    "name": "Aalto University",
-    "type": "education",
-    "countryCode": "FI",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I9927081",
-    "researcherIds": [
-      "A5055875296"
-    ],
-    "discoveryIds": [
-      "W7223817690"
-    ]
-  },
-  {
-    "id": "I4210163938",
-    "name": "Sevenoaks Hospital",
+    "id": "I2802518537",
+    "name": "Epsom and St Helier University Hospitals NHS Trust",
     "type": "healthcare",
     "countryCode": "GB",
     "homepage": null,
     "ror": null,
-    "openAlexUrl": "https://openalex.org/I4210163938",
+    "openAlexUrl": "https://openalex.org/I2802518537",
     "researcherIds": [
-      "A5159938492"
+      "A5083284347",
+      "A5076436642"
     ],
     "discoveryIds": [
-      "W7223817720"
+      "W7224076970"
     ]
   },
   {
-    "id": "I1343052199",
-    "name": "Kaiser Permanente",
-    "type": "nonprofit",
-    "countryCode": "US",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I1343052199",
-    "researcherIds": [
-      "A5064259976"
-    ],
-    "discoveryIds": [
-      "W7223817720"
-    ]
-  },
-  {
-    "id": "I98677209",
-    "name": "University of Edinburgh",
+    "id": "I45129253",
+    "name": "University College London",
     "type": "education",
     "countryCode": "GB",
     "homepage": null,
     "ror": null,
-    "openAlexUrl": "https://openalex.org/I98677209",
+    "openAlexUrl": "https://openalex.org/I45129253",
     "researcherIds": [
-      "A5112299161"
+      "A5006934961"
     ],
     "discoveryIds": [
-      "W7223817720"
+      "W7224076970"
     ]
   },
   {
-    "id": "I4210154685",
-    "name": "Hung Vuong University of Ho Chi Minh City",
-    "type": "education",
-    "countryCode": "VN",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I4210154685",
-    "researcherIds": [
-      "A5159958503"
-    ],
-    "discoveryIds": [
-      "W7223818082"
-    ]
-  },
-  {
-    "id": "I141445968",
-    "name": "Ton Duc Thang University",
-    "type": "education",
-    "countryCode": "VN",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I141445968",
-    "researcherIds": [
-      "A5157058975"
-    ],
-    "discoveryIds": [
-      "W7223818082"
-    ]
-  },
-  {
-    "id": "I114017466",
-    "name": "University of Technology Sydney",
-    "type": "education",
-    "countryCode": "AU",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I114017466",
-    "researcherIds": [
-      "A5023191516",
-      "A5076855742",
-      "A5133893023"
-    ],
-    "discoveryIds": [
-      "W7223819240"
-    ]
-  },
-  {
-    "id": "I2802928900",
-    "name": "Amsterdam UMC Location University of Amsterdam",
-    "type": "healthcare",
-    "countryCode": "NL",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I2802928900",
-    "researcherIds": [
-      "A5042132167"
-    ],
-    "discoveryIds": [
-      "W7223819240"
-    ]
-  },
-  {
-    "id": "I4210101143",
-    "name": "Danish Institute for Quality and Accreditation in Healthcare",
-    "type": "education",
-    "countryCode": "DK",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I4210101143",
-    "researcherIds": [
-      "A5086278391"
-    ],
-    "discoveryIds": [
-      "W7223819240"
-    ]
-  },
-  {
-    "id": "I4387156334",
-    "name": "Arthritis Research UK",
+    "id": "I4210093836",
+    "name": "Progress Educational Trust",
     "type": "nonprofit",
     "countryCode": "GB",
     "homepage": null,
     "ror": null,
-    "openAlexUrl": "https://openalex.org/I4387156334",
+    "openAlexUrl": "https://openalex.org/I4210093836",
     "researcherIds": [
-      "A5061585798"
+      "A5062336337"
     ],
     "discoveryIds": [
-      "W7223819240"
+      "W7224076970"
     ]
   },
   {
-    "id": "I177969490",
-    "name": "University of Southern Denmark",
+    "id": "I180825142",
+    "name": "City, University of London",
     "type": "education",
-    "countryCode": "DK",
+    "countryCode": "GB",
     "homepage": null,
     "ror": null,
-    "openAlexUrl": "https://openalex.org/I177969490",
+    "openAlexUrl": "https://openalex.org/I180825142",
     "researcherIds": [
-      "A5018135109"
+      "A5063085489"
     ],
     "discoveryIds": [
-      "W7223819240"
+      "W7224076970"
     ]
   },
   {
-    "id": "I145311948",
-    "name": "Johns Hopkins University",
-    "type": "education",
-    "countryCode": "US",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I145311948",
-    "researcherIds": [
-      "A5026146654",
-      "A5004614392",
-      "A5016033707",
-      "A5075646247",
-      "A5089141798",
-      "A5033202151",
-      "A5037462105"
-    ],
-    "discoveryIds": [
-      "W7223820725"
-    ]
-  },
-  {
-    "id": "I4210134769",
-    "name": "University of Pittsburgh Medical Center",
-    "type": "healthcare",
-    "countryCode": "US",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I4210134769",
-    "researcherIds": [
-      "A5093059751"
-    ],
-    "discoveryIds": [
-      "W7223820725"
-    ]
-  },
-  {
-    "id": "I79576946",
-    "name": "University of Pennsylvania",
+    "id": "I204250578",
+    "name": "University of California, Irvine",
     "type": "education",
     "countryCode": "US",
     "homepage": null,
     "ror": null,
-    "openAlexUrl": "https://openalex.org/I79576946",
+    "openAlexUrl": "https://openalex.org/I204250578",
     "researcherIds": [
-      "A5061032581"
+      "A5051805703",
+      "A5082068997"
     ],
     "discoveryIds": [
-      "W7223820725"
-    ]
-  },
-  {
-    "id": "I901861585",
-    "name": "Vanderbilt University Medical Center",
-    "type": "healthcare",
-    "countryCode": "US",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I901861585",
-    "researcherIds": [
-      "A5012514751"
-    ],
-    "discoveryIds": [
-      "W7223820725"
-    ]
-  },
-  {
-    "id": "I27837315",
-    "name": "University of Michigan",
-    "type": "education",
-    "countryCode": "US",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I27837315",
-    "researcherIds": [
-      "A5084418600"
-    ],
-    "discoveryIds": [
-      "W7223820725"
-    ]
-  },
-  {
-    "id": "I36258959",
-    "name": "University of California San Diego",
-    "type": "education",
-    "countryCode": "US",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I36258959",
-    "researcherIds": [
-      "A5026684787"
-    ],
-    "discoveryIds": [
-      "W7223820725"
-    ]
-  },
-  {
-    "id": "I4405259572",
-    "name": "University of Arizona College of Medicine- Phoenix",
-    "type": "education",
-    "countryCode": "US",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I4405259572",
-    "researcherIds": [
-      "A5048482604"
-    ],
-    "discoveryIds": [
-      "W7223820725"
-    ]
-  },
-  {
-    "id": "I4405260934",
-    "name": "Korea University Anam Hospital",
-    "type": "healthcare",
-    "countryCode": "KR",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I4405260934",
-    "researcherIds": [
-      "A5088007707"
-    ],
-    "discoveryIds": [
-      "W7223821103"
-    ]
-  },
-  {
-    "id": "I1285764155",
-    "name": "Merck & Co., Inc., Rahway, NJ, USA (United States)",
-    "type": "company",
-    "countryCode": "US",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I1285764155",
-    "researcherIds": [
-      "A5082430260",
-      "A5005889651",
-      "A5056933171"
-    ],
-    "discoveryIds": [
-      "W7223822631"
+      "W7167063476"
     ]
   },
   {
@@ -1649,642 +158,762 @@
     "ror": null,
     "openAlexUrl": "https://openalex.org/I99464096",
     "researcherIds": [
-      "A5058725337"
+      "A5109096036",
+      "A5039657520",
+      "A5026059974",
+      "A5088663502"
     ],
     "discoveryIds": [
-      "W7223825737"
+      "W7214368233"
     ]
   },
   {
-    "id": "I11880225",
-    "name": "National Institute of Technology Karnataka",
+    "id": "I8087733",
+    "name": "University of Tübingen",
     "type": "education",
-    "countryCode": "IN",
+    "countryCode": "DE",
     "homepage": null,
     "ror": null,
-    "openAlexUrl": "https://openalex.org/I11880225",
+    "openAlexUrl": "https://openalex.org/I8087733",
     "researcherIds": [
-      "A5090975412"
+      "A5057409778",
+      "A5058726143"
     ],
     "discoveryIds": [
-      "W7223826816"
+      "W7214368233"
     ]
   },
   {
-    "id": "I55285296",
-    "name": "UCSI University",
-    "type": "education",
-    "countryCode": "MY",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I55285296",
-    "researcherIds": [
-      "A5075229528"
-    ],
-    "discoveryIds": [
-      "W7223826816"
-    ]
-  },
-  {
-    "id": "I4210129200",
-    "name": "O. P. Jindal Global University",
-    "type": "education",
-    "countryCode": "IN",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I4210129200",
-    "researcherIds": [
-      "A5073805031"
-    ],
-    "discoveryIds": [
-      "W7223826816"
-    ]
-  },
-  {
-    "id": "I12079687",
-    "name": "Edith Cowan University",
-    "type": "education",
-    "countryCode": "AU",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I12079687",
-    "researcherIds": [
-      "A5003086025"
-    ],
-    "discoveryIds": [
-      "W7223826816"
-    ]
-  },
-  {
-    "id": "I4210153550",
-    "name": "Beijing Tsinghua Chang Gung Hospital",
-    "type": "healthcare",
-    "countryCode": "CN",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I4210153550",
-    "researcherIds": [
-      "A5079151268",
-      "A5159743722",
-      "A5009366381",
-      "A5100450114",
-      "A5138405820",
-      "A5159917419",
-      "A5159856607",
-      "A5130693100",
-      "A5137686453",
-      "A5159976353",
-      "A5159921394",
-      "A5112113826",
-      "A5100702869",
-      "A5016832327"
-    ],
-    "discoveryIds": [
-      "W7223827691"
-    ]
-  },
-  {
-    "id": "I99065089",
-    "name": "Tsinghua University",
-    "type": "education",
-    "countryCode": "CN",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I99065089",
-    "researcherIds": [
-      "A5101511873",
-      "A5159862284"
-    ],
-    "discoveryIds": [
-      "W7223827691"
-    ]
-  },
-  {
-    "id": "I4210133846",
-    "name": "Peking University International Hospital",
-    "type": "healthcare",
-    "countryCode": "CN",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I4210133846",
-    "researcherIds": [
-      "A5159896081"
-    ],
-    "discoveryIds": [
-      "W7223827691"
-    ]
-  },
-  {
-    "id": "I76134821",
-    "name": "Medical University of Vienna",
-    "type": "education",
-    "countryCode": "AT",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I76134821",
-    "researcherIds": [
-      "A5062169731",
-      "A5038397867",
-      "A5159895196",
-      "A5152807938",
-      "A5040786438",
-      "A5159800989",
-      "A5079674165",
-      "A5159757526",
-      "A5110934390",
-      "A5064983617",
-      "A5114476837"
-    ],
-    "discoveryIds": [
-      "W7223830707"
-    ]
-  },
-  {
-    "id": "I4210106675",
-    "name": "Invenio Imaging (United States)",
-    "type": "company",
+    "id": "I1344073410",
+    "name": "Howard Hughes Medical Institute",
+    "type": "facility",
     "countryCode": "US",
     "homepage": null,
     "ror": null,
-    "openAlexUrl": "https://openalex.org/I4210106675",
+    "openAlexUrl": "https://openalex.org/I1344073410",
     "researcherIds": [
-      "A5004406151"
+      "A5076676830"
     ],
     "discoveryIds": [
-      "W7223830707"
+      "W7214368233"
     ]
   },
   {
-    "id": "I3123573182",
-    "name": "Transilvania University of Brașov",
-    "type": "education",
-    "countryCode": "RO",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I3123573182",
-    "researcherIds": [
-      "A5030155749",
-      "A5061682290",
-      "A5159812995",
-      "A5159797363",
-      "A5011142893",
-      "A5049939909"
-    ],
-    "discoveryIds": [
-      "W7223834701"
-    ]
-  },
-  {
-    "id": "I149251103",
-    "name": "Thomas Jefferson University",
+    "id": "I219193219",
+    "name": "Purdue University West Lafayette",
     "type": "education",
     "countryCode": "US",
     "homepage": null,
     "ror": null,
-    "openAlexUrl": "https://openalex.org/I149251103",
+    "openAlexUrl": "https://openalex.org/I219193219",
     "researcherIds": [
-      "A5092875519",
-      "A5047567300",
-      "A5159867937",
-      "A5065419518",
-      "A5057541635",
-      "A5040755293",
-      "A5005178755",
-      "A5013527201",
-      "A5021911312",
-      "A5159909823",
-      "A5078353806",
-      "A5016575156",
-      "A5036444579",
-      "A5089551693",
-      "A5044959686"
+      "A5026611150"
     ],
     "discoveryIds": [
-      "W7223836667"
+      "W7222782889"
     ]
   },
   {
-    "id": "I16764540",
-    "name": "University of Suwon",
-    "type": "education",
-    "countryCode": "KR",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I16764540",
-    "researcherIds": [
-      "A5159785163",
-      "A5085628132"
-    ],
-    "discoveryIds": [
-      "W7223839176"
-    ]
-  },
-  {
-    "id": "I80693520",
-    "name": "American University in Cairo",
-    "type": "education",
-    "countryCode": "EG",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I80693520",
-    "researcherIds": [
-      "A5032196588"
-    ],
-    "discoveryIds": [
-      "W7223841933"
-    ]
-  },
-  {
-    "id": "I185492890",
-    "name": "University of Canterbury",
-    "type": "education",
-    "countryCode": "NZ",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I185492890",
-    "researcherIds": [
-      "A5031535338"
-    ],
-    "discoveryIds": [
-      "W7223841933"
-    ]
-  },
-  {
-    "id": "I2801880299",
-    "name": "Translational Health Science and Technology Institute",
-    "type": "government",
-    "countryCode": "IN",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I2801880299",
-    "researcherIds": [
-      "A5159757124",
-      "A5109978251",
-      "A5101532155",
-      "A5111845200",
-      "A5159886307",
-      "A5000510699",
-      "A5009405596",
-      "A5101964184",
-      "A5051054860"
-    ],
-    "discoveryIds": [
-      "W7223846723"
-    ]
-  },
-  {
-    "id": "I140221134",
-    "name": "Anhui Agricultural University",
+    "id": "I173759888",
+    "name": "Hunan Normal University",
     "type": "education",
     "countryCode": "CN",
     "homepage": null,
     "ror": null,
-    "openAlexUrl": "https://openalex.org/I140221134",
+    "openAlexUrl": "https://openalex.org/I173759888",
     "researcherIds": [
-      "A5135482425",
-      "A5159787250",
-      "A5135732592",
-      "A5159830087",
-      "A5084858860"
+      "A5158735981",
+      "A5159157801"
     ],
     "discoveryIds": [
-      "W7223848612"
+      "W7223030774"
     ]
   },
   {
-    "id": "I881766915",
-    "name": "Nanjing University",
+    "id": "I4210134727",
+    "name": "Universitas Nusa Nipa Maumere",
     "type": "education",
-    "countryCode": "CN",
+    "countryCode": "ID",
     "homepage": null,
     "ror": null,
-    "openAlexUrl": "https://openalex.org/I881766915",
+    "openAlexUrl": "https://openalex.org/I4210134727",
     "researcherIds": [
-      "A5159937650",
-      "A5012675548"
+      "A5156330298",
+      "A5117386060"
     ],
     "discoveryIds": [
-      "W7223850241"
+      "W7223950338"
     ]
   },
   {
-    "id": "I2799503643",
-    "name": "Columbia University Irving Medical Center",
-    "type": "healthcare",
-    "countryCode": "US",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I2799503643",
-    "researcherIds": [
-      "A5159888667",
-      "A5046404155",
-      "A5045840947",
-      "A5092469567",
-      "A5067209766",
-      "A5009391644",
-      "A5055554435",
-      "A5014844323",
-      "A5107636870",
-      "A5020880696",
-      "A5062744165",
-      "A5082931291",
-      "A5000781076"
-    ],
-    "discoveryIds": [
-      "W7223856401"
-    ]
-  },
-  {
-    "id": "I56624758",
-    "name": "Kansai University",
+    "id": "I23758234",
+    "name": "Universitas Negeri Surabaya",
     "type": "education",
-    "countryCode": "JP",
+    "countryCode": "ID",
     "homepage": null,
     "ror": null,
-    "openAlexUrl": "https://openalex.org/I56624758",
+    "openAlexUrl": "https://openalex.org/I23758234",
     "researcherIds": [
-      "A5046418360"
+      "A5117257795",
+      "A5159807447",
+      "A5159933100",
+      "A5088324811",
+      "A5056152806"
     ],
     "discoveryIds": [
-      "W7223861462"
+      "W7223972183"
     ]
   },
   {
-    "id": "I4210113177",
-    "name": "National Disaster Management Research Institute",
-    "type": "government",
-    "countryCode": "KR",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I4210113177",
-    "researcherIds": [
-      "A5053612751",
-      "A5106008984",
-      "A5039658128",
-      "A5103264389"
-    ],
-    "discoveryIds": [
-      "W7223861462"
-    ]
-  },
-  {
-    "id": "I35440088",
-    "name": "ETH Zurich",
+    "id": "I3131790217",
+    "name": "Bukhara State University",
     "type": "education",
-    "countryCode": "CH",
+    "countryCode": "UZ",
     "homepage": null,
     "ror": null,
-    "openAlexUrl": "https://openalex.org/I35440088",
+    "openAlexUrl": "https://openalex.org/I3131790217",
     "researcherIds": [
-      "A5052463742",
-      "A5159747825"
+      "A5160015293",
+      "A5160025359"
     ],
     "discoveryIds": [
-      "W7223862517"
+      "W7224076619"
     ]
   },
   {
-    "id": "I80180929",
-    "name": "Universidad de Murcia",
-    "type": "education",
-    "countryCode": "ES",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I80180929",
-    "researcherIds": [
-      "A5136648580",
-      "A5048150087",
-      "A5009305191",
-      "A5058850197"
-    ],
-    "discoveryIds": [
-      "W7223862517"
-    ]
-  },
-  {
-    "id": "I12708293",
-    "name": "SIB Swiss Institute of Bioinformatics",
-    "type": "nonprofit",
-    "countryCode": "CH",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I12708293",
-    "researcherIds": [
-      "A5106700508"
-    ],
-    "discoveryIds": [
-      "W7223862517"
-    ]
-  },
-  {
-    "id": "I202697423",
-    "name": "University of Zurich",
-    "type": "education",
-    "countryCode": "CH",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I202697423",
-    "researcherIds": [
-      "A5053893299"
-    ],
-    "discoveryIds": [
-      "W7223862517"
-    ]
-  },
-  {
-    "id": "I4405260083",
-    "name": "UCL Queen Square Institute of Neurology",
+    "id": "I51216347",
+    "name": "Anglia Ruskin University",
     "type": "education",
     "countryCode": "GB",
     "homepage": null,
     "ror": null,
-    "openAlexUrl": "https://openalex.org/I4405260083",
+    "openAlexUrl": "https://openalex.org/I51216347",
     "researcherIds": [
-      "A5159960894"
+      "A5107197938"
     ],
     "discoveryIds": [
-      "W7223862517"
+      "W7224076970"
     ]
   },
   {
-    "id": "I162868743",
-    "name": "Tianjin University",
+    "id": "I4210148816",
+    "name": "Institute of Advanced Study in Science and Technology",
     "type": "education",
-    "countryCode": "CN",
+    "countryCode": "IN",
     "homepage": null,
     "ror": null,
-    "openAlexUrl": "https://openalex.org/I162868743",
+    "openAlexUrl": "https://openalex.org/I4210148816",
     "researcherIds": [
-      "A5159922654",
-      "A5137835141",
-      "A5124591256",
-      "A5109798709",
-      "A5064836260",
-      "A5049802545",
-      "A5159951114",
-      "A5023823793"
+      "A5106504158",
+      "A5010106014",
+      "A5032310346",
+      "A5086070801",
+      "A5113085963",
+      "A5030472580"
     ],
     "discoveryIds": [
-      "W7223864197"
+      "W7224077738"
     ]
   },
   {
-    "id": "I47265099",
-    "name": "Ho Chi Minh City University of Technology",
+    "id": "I126601174",
+    "name": "Tezpur University",
     "type": "education",
-    "countryCode": "VN",
+    "countryCode": "IN",
     "homepage": null,
     "ror": null,
-    "openAlexUrl": "https://openalex.org/I47265099",
+    "openAlexUrl": "https://openalex.org/I126601174",
     "researcherIds": [
-      "A5100642009",
-      "A5159867492",
-      "A5159764940",
-      "A5159763062",
-      "A5159972404"
+      "A5061825257"
     ],
     "discoveryIds": [
-      "W7223865695"
+      "W7224077738"
     ]
   },
   {
-    "id": "I4210098666",
-    "name": "Jiangsu Province Special Equipment Safety Supervision and Inspection Institute",
-    "type": "other",
-    "countryCode": "CN",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I4210098666",
-    "researcherIds": [
-      "A5086122339",
-      "A5036116515"
-    ],
-    "discoveryIds": [
-      "W7223867204"
-    ]
-  },
-  {
-    "id": "I4394709081",
-    "name": "Xuzhou College of Industrial Technology",
+    "id": "I4210103783",
+    "name": "National Institute of Pharmaceutical Education and Research",
     "type": "education",
-    "countryCode": "CN",
+    "countryCode": "IN",
     "homepage": null,
     "ror": null,
-    "openAlexUrl": "https://openalex.org/I4394709081",
+    "openAlexUrl": "https://openalex.org/I4210103783",
     "researcherIds": [
-      "A5159861939"
+      "A5004883612"
     ],
     "discoveryIds": [
-      "W7223867204"
+      "W7224077738"
     ]
   },
   {
-    "id": "I76569877",
-    "name": "Southeast University",
-    "type": "education",
-    "countryCode": "CN",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I76569877",
-    "researcherIds": [
-      "A5159812810",
-      "A5023085814"
-    ],
-    "discoveryIds": [
-      "W7223867204"
-    ]
-  },
-  {
-    "id": "I87445476",
-    "name": "Xi'an Jiaotong University",
-    "type": "education",
-    "countryCode": "CN",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I87445476",
-    "researcherIds": [
-      "A5017785539"
-    ],
-    "discoveryIds": [
-      "W7223871559"
-    ]
-  },
-  {
-    "id": "I25355098",
-    "name": "Chang'an University",
-    "type": "education",
-    "countryCode": "CN",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I25355098",
-    "researcherIds": [
-      "A5103503974"
-    ],
-    "discoveryIds": [
-      "W7223871559"
-    ]
-  },
-  {
-    "id": "I2802835388",
-    "name": "Seoul National University Hospital",
-    "type": "healthcare",
-    "countryCode": "KR",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I2802835388",
-    "researcherIds": [
-      "A5002085154"
-    ],
-    "discoveryIds": [
-      "W7223871747"
-    ]
-  },
-  {
-    "id": "I190805021",
-    "name": "Wakayama Medical University",
+    "id": "I159385669",
+    "name": "Chiba University",
     "type": "education",
     "countryCode": "JP",
     "homepage": null,
     "ror": null,
-    "openAlexUrl": "https://openalex.org/I190805021",
+    "openAlexUrl": "https://openalex.org/I159385669",
     "researcherIds": [
-      "A5159976605",
-      "A5041152022",
-      "A5105935534",
-      "A5112642414"
+      "A5038089135",
+      "A5049550483",
+      "A5080968621",
+      "A5044380883",
+      "A5108383313",
+      "A5105230305"
     ],
     "discoveryIds": [
-      "W7223871835"
+      "W7224078082"
     ]
   },
   {
-    "id": "I67868205",
-    "name": "VNU University of Science",
+    "id": "I46975222",
+    "name": "Yunnan University of Traditional Chinese Medicine",
+    "type": "education",
+    "countryCode": "CN",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I46975222",
+    "researcherIds": [
+      "A5055924995"
+    ],
+    "discoveryIds": [
+      "W7224078082"
+    ]
+  },
+  {
+    "id": "I24714338",
+    "name": "Youngsan University",
+    "type": "education",
+    "countryCode": "KR",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I24714338",
+    "researcherIds": [
+      "A5160062367",
+      "A5159995318"
+    ],
+    "discoveryIds": [
+      "W7224078263"
+    ]
+  },
+  {
+    "id": "I86467917",
+    "name": "James Cook University",
+    "type": "education",
+    "countryCode": "AU",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I86467917",
+    "researcherIds": [
+      "A5160045516",
+      "A5025955966"
+    ],
+    "discoveryIds": [
+      "W7224078862"
+    ]
+  },
+  {
+    "id": "I4210110442",
+    "name": "James Cook University Singapore",
+    "type": "education",
+    "countryCode": "SG",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I4210110442",
+    "researcherIds": [
+      "A5079654252"
+    ],
+    "discoveryIds": [
+      "W7224078862"
+    ]
+  },
+  {
+    "id": "I4210111957",
+    "name": "Bình Dương University",
     "type": "education",
     "countryCode": "VN",
     "homepage": null,
     "ror": null,
-    "openAlexUrl": "https://openalex.org/I67868205",
+    "openAlexUrl": "https://openalex.org/I4210111957",
     "researcherIds": [
-      "A5159545518"
+      "A5041377178"
     ],
     "discoveryIds": [
-      "W7223873680"
+      "W7224080216"
     ]
   },
   {
-    "id": "I70349855",
-    "name": "Vietnam Academy of Science and Technology",
-    "type": "government",
-    "countryCode": "VN",
+    "id": "I58716616",
+    "name": "Korea Institute of Science and Technology",
+    "type": "facility",
+    "countryCode": "KR",
     "homepage": null,
     "ror": null,
-    "openAlexUrl": "https://openalex.org/I70349855",
+    "openAlexUrl": "https://openalex.org/I58716616",
     "researcherIds": [
-      "A5159838701"
+      "A5160057908",
+      "A5160034085",
+      "A5156263510"
     ],
     "discoveryIds": [
-      "W7223873680"
+      "W7224080986"
+    ]
+  },
+  {
+    "id": "I61722147",
+    "name": "Universidade do Vale do Rio dos Sinos",
+    "type": "education",
+    "countryCode": "BR",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I61722147",
+    "researcherIds": [
+      "A5086542720",
+      "A5053014482"
+    ],
+    "discoveryIds": [
+      "W7224081115"
+    ]
+  },
+  {
+    "id": "I4210144729",
+    "name": "Universidade do Vale do Itajaí",
+    "type": "education",
+    "countryCode": "BR",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I4210144729",
+    "researcherIds": [
+      "A5058802876"
+    ],
+    "discoveryIds": [
+      "W7224081115"
+    ]
+  },
+  {
+    "id": "I4210132156",
+    "name": "RIKEN Center for Emergent Matter Science",
+    "type": "facility",
+    "countryCode": "JP",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I4210132156",
+    "researcherIds": [
+      "A5136446210",
+      "A5073861395",
+      "A5022210183",
+      "A5047524684",
+      "A5074034073"
+    ],
+    "discoveryIds": [
+      "W7224081955"
+    ]
+  },
+  {
+    "id": "I74801974",
+    "name": "The University of Tokyo",
+    "type": "education",
+    "countryCode": "JP",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I74801974",
+    "researcherIds": [
+      "A5066943855",
+      "A5071356050",
+      "A5057315592",
+      "A5063259148"
+    ],
+    "discoveryIds": [
+      "W7224081955"
+    ]
+  },
+  {
+    "id": "I60134161",
+    "name": "Nagoya University",
+    "type": "education",
+    "countryCode": "JP",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I60134161",
+    "researcherIds": [
+      "A5160053991"
+    ],
+    "discoveryIds": [
+      "W7224081955"
+    ]
+  },
+  {
+    "id": "I1289243028",
+    "name": "Oak Ridge National Laboratory",
+    "type": "facility",
+    "countryCode": "US",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I1289243028",
+    "researcherIds": [
+      "A5003568294"
+    ],
+    "discoveryIds": [
+      "W7224081955"
+    ]
+  },
+  {
+    "id": "I183067930",
+    "name": "Shanghai Jiao Tong University",
+    "type": "education",
+    "countryCode": "CN",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I183067930",
+    "researcherIds": [
+      "A5045188130"
+    ],
+    "discoveryIds": [
+      "W7224081955"
+    ]
+  },
+  {
+    "id": "I124121301",
+    "name": "Lucian Blaga University of Sibiu",
+    "type": "education",
+    "countryCode": "RO",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I124121301",
+    "researcherIds": [
+      "A5116682463",
+      "A5112517149",
+      "A5020954746",
+      "A5033790617",
+      "A5064659558",
+      "A5068866540",
+      "A5160014793",
+      "A5061039612",
+      "A5159241677"
+    ],
+    "discoveryIds": [
+      "W7224082554"
+    ]
+  },
+  {
+    "id": "I12150220",
+    "name": "University of Mosul",
+    "type": "education",
+    "countryCode": "IQ",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I12150220",
+    "researcherIds": [
+      "A5143569357"
+    ],
+    "discoveryIds": [
+      "W7224082797"
+    ]
+  },
+  {
+    "id": "I4210122770",
+    "name": "Université Officielle de Bukavu",
+    "type": "education",
+    "countryCode": "CD",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I4210122770",
+    "researcherIds": [
+      "A5160042721",
+      "A5120096198",
+      "A5160055556",
+      "A5114356916",
+      "A5065624191",
+      "A5160052295",
+      "A5066868621"
+    ],
+    "discoveryIds": [
+      "W7224088130"
+    ]
+  },
+  {
+    "id": "I89440247",
+    "name": "Myongji University",
+    "type": "education",
+    "countryCode": "KR",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I89440247",
+    "researcherIds": [
+      "A5037160735",
+      "A5042854178",
+      "A5159999000"
+    ],
+    "discoveryIds": [
+      "W7224088139"
+    ]
+  },
+  {
+    "id": "I138826464",
+    "name": "Daegu Haany University",
+    "type": "education",
+    "countryCode": "KR",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I138826464",
+    "researcherIds": [
+      "A5160061960"
+    ],
+    "discoveryIds": [
+      "W7224089381"
+    ]
+  },
+  {
+    "id": "I4210094357",
+    "name": "Shinhan University",
+    "type": "education",
+    "countryCode": "KR",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I4210094357",
+    "researcherIds": [
+      "A5103187253"
+    ],
+    "discoveryIds": [
+      "W7224089381"
+    ]
+  },
+  {
+    "id": "I189442560",
+    "name": "Gyeongsang National University",
+    "type": "education",
+    "countryCode": "KR",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I189442560",
+    "researcherIds": [
+      "A5059442943"
+    ],
+    "discoveryIds": [
+      "W7224090952"
+    ]
+  },
+  {
+    "id": "I111277659",
+    "name": "Chonnam National University",
+    "type": "education",
+    "countryCode": "KR",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I111277659",
+    "researcherIds": [
+      "A5100602544",
+      "A5159521270",
+      "A5159994079",
+      "A5032357362",
+      "A5024069939"
+    ],
+    "discoveryIds": [
+      "W7224091474"
+    ]
+  },
+  {
+    "id": "I152238500",
+    "name": "Chosun University",
+    "type": "education",
+    "countryCode": "KR",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I152238500",
+    "researcherIds": [
+      "A5028065770"
+    ],
+    "discoveryIds": [
+      "W7224091474"
+    ]
+  },
+  {
+    "id": "I4405262139",
+    "name": "North London NHS Foundation Trust",
+    "type": "healthcare",
+    "countryCode": "GB",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I4405262139",
+    "researcherIds": [
+      "A5068738620"
+    ],
+    "discoveryIds": [
+      "W7224091474"
+    ]
+  },
+  {
+    "id": "I142809039",
+    "name": "Jawaharlal Nehru Technological University, Kakinada",
+    "type": "education",
+    "countryCode": "IN",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I142809039",
+    "researcherIds": [
+      "A5006898950",
+      "A5010126465"
+    ],
+    "discoveryIds": [
+      "W7224091518"
+    ]
+  },
+  {
+    "id": "I71437568",
+    "name": "Universidade de Pernambuco",
+    "type": "education",
+    "countryCode": "BR",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I71437568",
+    "researcherIds": [
+      "A5016561215",
+      "A5048567333",
+      "A5056514169",
+      "A5101807366",
+      "A5049490188"
+    ],
+    "discoveryIds": [
+      "W7224092097"
+    ]
+  },
+  {
+    "id": "I17389662",
+    "name": "University of Nicosia",
+    "type": "education",
+    "countryCode": "CY",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I17389662",
+    "researcherIds": [
+      "A5118616146",
+      "A5160034259",
+      "A5159989576",
+      "A5114543851",
+      "A5051545440"
+    ],
+    "discoveryIds": [
+      "W7224092490"
+    ]
+  },
+  {
+    "id": "I100930933",
+    "name": "University College Dublin",
+    "type": "education",
+    "countryCode": "IE",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I100930933",
+    "researcherIds": [
+      "A5073076776"
+    ],
+    "discoveryIds": [
+      "W7224092490"
+    ]
+  },
+  {
+    "id": "I4388446366",
+    "name": "Indiana University Indianapolis",
+    "type": "education",
+    "countryCode": "US",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I4388446366",
+    "researcherIds": [
+      "A5100026706"
+    ],
+    "discoveryIds": [
+      "W7224092490"
+    ]
+  },
+  {
+    "id": "I165143802",
+    "name": "The University of Queensland",
+    "type": "education",
+    "countryCode": "AU",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I165143802",
+    "researcherIds": [
+      "A5011692770"
+    ],
+    "discoveryIds": [
+      "W7224092490"
+    ]
+  },
+  {
+    "id": "I1330342723",
+    "name": "Mayo Clinic",
+    "type": "healthcare",
+    "countryCode": "US",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I1330342723",
+    "researcherIds": [
+      "A5020519684"
+    ],
+    "discoveryIds": [
+      "W7224092490"
+    ]
+  },
+  {
+    "id": "I4210145880",
+    "name": "Sultan Qaboos University Hospital",
+    "type": "healthcare",
+    "countryCode": "OM",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I4210145880",
+    "researcherIds": [
+      "A5030936480"
+    ],
+    "discoveryIds": [
+      "W7224092490"
+    ]
+  },
+  {
+    "id": "I4405257637",
+    "name": "Sultan Qaboos Comprehensive Cancer Care & Research Center",
+    "type": "healthcare",
+    "countryCode": "OM",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I4405257637",
+    "researcherIds": [
+      "A5018732570"
+    ],
+    "discoveryIds": [
+      "W7224092490"
+    ]
+  },
+  {
+    "id": "I71052956",
+    "name": "University of Reading",
+    "type": "education",
+    "countryCode": "GB",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I71052956",
+    "researcherIds": [
+      "A5024121038"
+    ],
+    "discoveryIds": [
+      "W7224093340"
+    ]
+  },
+  {
+    "id": "I94951947",
+    "name": "University of Westminster",
+    "type": "education",
+    "countryCode": "GB",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I94951947",
+    "researcherIds": [
+      "A5003356155"
+    ],
+    "discoveryIds": [
+      "W7224093340"
     ]
   }
 ]

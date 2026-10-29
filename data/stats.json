@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-28T12:59:04.038Z",
+  "generatedAt": "2026-10-29T13:06:05.431Z",
   "totalDiscoveries": 160,
-  "totalResearchers": 853,
-  "totalInstitutions": 136,
+  "totalResearchers": 678,
+  "totalInstitutions": 56,
   "totalCitations": 1,
   "averageCitations": 0,
-  "openAccessRatio": 0.58125,
+  "openAccessRatio": 0.64375,
   "weeklySeries": [
     {
       "weekStart": "2026-10-26",
@@ -15,186 +15,178 @@
   "topConcepts": [
     {
       "label": "Medicine",
-      "count": 39
-    },
-    {
-      "label": "Psychology",
-      "count": 7
+      "count": 31
     },
     {
       "label": "Computer science",
-      "count": 7
+      "count": 10
+    },
+    {
+      "label": "Psychology",
+      "count": 8
+    },
+    {
+      "label": "Physics",
+      "count": 6
     },
     {
       "label": "Chemistry",
-      "count": 7
-    },
-    {
-      "label": "Materials science",
-      "count": 4
-    },
-    {
-      "label": "Business administration",
-      "count": 3
+      "count": 5
     },
     {
       "label": "Biology",
-      "count": 3
+      "count": 5
     },
     {
-      "label": "Artificial intelligence",
-      "count": 3
+      "label": "Materials science",
+      "count": 5
     },
     {
       "label": "Political science",
-      "count": 2
+      "count": 3
     },
     {
-      "label": "Sustainability",
+      "label": "Mathematics education",
+      "count": 3
+    },
+    {
+      "label": "Mathematics",
       "count": 2
     }
   ],
   "topInstitutions": [
     {
-      "label": "University of Brawijaya",
-      "count": 4
-    },
-    {
-      "label": "Ho Chi Minh City University of Industry and Trade",
-      "count": 3
-    },
-    {
-      "label": "Rothman Orthopaedics",
+      "label": "California State University, Dominguez Hills",
       "count": 2
     },
     {
-      "label": "Xinjiang University",
+      "label": "Seoul National University",
       "count": 2
     },
     {
-      "label": "Nanjing University of Science and Technology",
+      "label": "Korea University",
       "count": 2
     },
     {
-      "label": "University of Electronic Science and Technology of China",
+      "label": "Kwangju Women's University",
+      "count": 2
+    },
+    {
+      "label": "Epsom and St Helier University Hospitals NHS Trust",
       "count": 1
     },
     {
-      "label": "Universitas Muhammadiyah Aceh",
+      "label": "University College London",
       "count": 1
     },
     {
-      "label": "Bennett University",
+      "label": "Progress Educational Trust",
       "count": 1
     },
     {
-      "label": "Indian Institute of Management Bodh Gaya",
+      "label": "City, University of London",
       "count": 1
     },
     {
-      "label": "Lund University",
+      "label": "University of California, Irvine",
+      "count": 1
+    },
+    {
+      "label": "KU Leuven",
       "count": 1
     }
   ],
   "topCountries": [
     {
-      "label": "US",
-      "count": 27
-    },
-    {
-      "label": "CN",
-      "count": 26
-    },
-    {
       "label": "KR",
-      "count": 16
+      "count": 14
     },
     {
-      "label": "VN",
-      "count": 13
-    },
-    {
-      "label": "IN",
-      "count": 11
-    },
-    {
-      "label": "ID",
-      "count": 6
-    },
-    {
-      "label": "BR",
-      "count": 6
+      "label": "US",
+      "count": 8
     },
     {
       "label": "GB",
-      "count": 6
+      "count": 8
     },
     {
-      "label": "MY",
-      "count": 5
+      "label": "IN",
+      "count": 4
+    },
+    {
+      "label": "JP",
+      "count": 4
+    },
+    {
+      "label": "CN",
+      "count": 3
+    },
+    {
+      "label": "BR",
+      "count": 3
+    },
+    {
+      "label": "ID",
+      "count": 2
     },
     {
       "label": "AU",
-      "count": 5
+      "count": 2
+    },
+    {
+      "label": "OM",
+      "count": 2
     }
   ],
   "topResearchers": [
     {
-      "label": "Zhiyong Lu",
-      "count": 33839
+      "label": "Ulrich Rothbauer",
+      "count": 9408
     },
     {
-      "label": "Eudald Carbonell",
-      "count": 20706
+      "label": "Jenny Y. Yang",
+      "count": 6227
     },
     {
-      "label": "Xiao Wang",
-      "count": 12064
+      "label": "Xiaoqun Wu",
+      "count": 5942
     },
     {
-      "label": "Aidong Zhang",
-      "count": 5741
+      "label": "Peter Dedecker",
+      "count": 5868
     },
     {
-      "label": "Minjia Zhang",
-      "count": 4929
+      "label": "Vasanti Jadva",
+      "count": 4594
     },
     {
-      "label": "Josep Vallverdú",
-      "count": 4580
+      "label": "Qizhai Li",
+      "count": 4135
     },
     {
-      "label": "Qiao Jin",
-      "count": 4265
+      "label": "Shehab Ismail",
+      "count": 3252
     },
     {
-      "label": "Palmira Saladié",
-      "count": 4210
+      "label": "Vasily A. Klucharev",
+      "count": 2436
     },
     {
-      "label": "Fang Yin",
-      "count": 3382
+      "label": "Alison G. Tebo",
+      "count": 1689
     },
     {
-      "label": "Yifan Yang",
-      "count": 2154
+      "label": "Soanandrasana Rahelinirina",
+      "count": 1199
     }
   ],
   "institutionTypes": [
     {
       "label": "University / school",
-      "count": 105
+      "count": 50
     },
     {
       "label": "Hospital / healthcare",
-      "count": 18
-    },
-    {
-      "label": "Government",
-      "count": 6
-    },
-    {
-      "label": "Company",
       "count": 5
     },
     {
@@ -202,12 +194,8 @@
       "count": 4
     },
     {
-      "label": "Organization",
-      "count": 3
-    },
-    {
       "label": "Nonprofit / institute",
-      "count": 3
+      "count": 1
     }
   ]
 }
