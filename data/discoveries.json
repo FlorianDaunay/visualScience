@@ -1,5 +1,1399 @@
 [
   {
+    "id": "W7125491009",
+    "title": "СУРУНКАЛИ ЮРАК ҚОН-ТОМИР ВА НАФАС ТИЗИМИ КАСАЛЛИКЛАРИ МАВЖУД ТУМАНДА ЯШОВЧИ БЕМОРЛАРНИНГ ДАВОЛАНИШГА МОЙИЛЛИКЛАРИНИ ЎРГАНИШ (Самарқанд вилояти мисолида)",
+    "abstractText": "Мақолада гипертония касаллиги, юрак ишемик касаллиги, сурункали юрак етишмовчилиги, бронхиал астма, ўпканинг сурункали обструктив касалликлари бўйича Самарқанд вилояти мисолида туман марказида яшовчи ахолида даволанишга бўлган мойиллик ўрганилган. Ушбу кўрсатгич жахонда кенг қўлланиладиган Мориски-Грин сўровномаси ёрдамида баҳоланди. Беморнинг даволанишга бўлган паст мойиллиги, кўрсатмаларга риоя қилмаслик сабаблари кўрсатилган, улар беморга ҳамда шифокор ва бемор ўртасидаги муносабатларнинг етарли эмаслиги билан бевосита боғлиқ. Сурункали касалликларни муваффақиятли бошқариш нафақат самарали тиббий давони, балки беморнинг даволаниш жараёнида фаол иштирокини ҳам талаб қилади. Юқумли бўлмаган сурункали касалликларни даволаш самарадорлигини белгиловчи асосий омилларидан бири даволанишга бўлган мойиллик ҳисобланади. Ушбу кўрсатгични яхшилаш беморларнинг хаёт сифати, шифохонага ётишлар сони ва давомийлиги, сарфланадиган сарф харажатлар ҳамда ўлим кўрсатгичларини камайтиришга ёрдам беради.",
+    "publishedDate": "2026-10-30",
+    "doi": "https://doi.org/10.5281/zenodo.18350597",
+    "sourceUrl": "https://doi.org/10.5281/zenodo.18350597",
+    "isOpenAccess": true,
+    "venueName": "SOUTH ARAL SEA MEDICAL JOURNAL",
+    "citedByCount": 0,
+    "concepts": [
+      {
+        "id": "C98045186",
+        "name": "Process (computing)",
+        "score": 0.19869999587535858
+      },
+      {
+        "id": "C116834253",
+        "name": "Identification (biology)",
+        "score": 0.19499999284744263
+      },
+      {
+        "id": "C41008148",
+        "name": "Computer science",
+        "score": 0.1906999945640564
+      },
+      {
+        "id": "C90673727",
+        "name": "Product (mathematics)",
+        "score": 0.1860000044107437
+      },
+      {
+        "id": "C18762648",
+        "name": "Work (physics)",
+        "score": 0.18389999866485596
+      },
+      {
+        "id": "C2779343474",
+        "name": "Context (archaeology)",
+        "score": 0.16850000619888306
+      }
+    ],
+    "authors": [
+      {
+        "id": "A5122227261",
+        "name": "Жасур Ризаев"
+      },
+      {
+        "id": "A5123638158",
+        "name": "Абдугаффор Гадаев"
+      },
+      {
+        "id": "A5020961102",
+        "name": "Шоира Хусинова"
+      }
+    ],
+    "institutions": [],
+    "openAlexUrl": "https://openalex.org/W7125491009"
+  },
+  {
+    "id": "W7220008590",
+    "title": "“BADIIY KULOLCHILIKDA LOY MATERIALINING XUSUSIYATLARI VA UNDAN FOYDALANISH TEXNOLOGIYASI”",
+    "abstractText": "Mazkur maqolada badiiy kulolchilikda asosiy xomashyo sifatida qo‘llaniladigan loy materialining fizik va texnologik xususiyatlari, uni tanlash, tayyorlash hamda undan badiiy buyumlar yaratish jarayonlari tahlil qilinadi. Loyning plastikligi, yopishqoqligi, namligi, maydalanish darajasi, qurish va pishirish jarayonidagi xususiyatlari kulolchilik buyumlarining sifatiga ta’sir etuvchi muhim omillar sifatida yoritiladi. Shuningdek, loyni tozalash, elash, namlash, aralashtirish, yetiltirish va ishlashga tayyorlash bosqichlari, shakl berish, quritish, bezash va pishirish jarayonlarining o‘zaro bog‘liqligi ko‘rib chiqiladi. An’anaviy kulolchilik tajribalarida loydan foydalanish usullari hamda zamonaviy badiiy kulolchilikda material xususiyatlarini hisobga olishning ahamiyatiga e’tibor qaratiladi.",
+    "publishedDate": "2026-10-30",
+    "doi": null,
+    "sourceUrl": "https://spaceknowladge.com/index.php/JOISR/article/download/5943/6175",
+    "isOpenAccess": true,
+    "venueName": "JOURNAL OF INTERNATIONAL SCIENTIFIC RESEARCH",
+    "citedByCount": 0,
+    "concepts": [
+      {
+        "id": "C41008148",
+        "name": "Computer science",
+        "score": 0.2709999978542328
+      },
+      {
+        "id": "C71924100",
+        "name": "Medicine",
+        "score": 0.23090000450611115
+      },
+      {
+        "id": "C18762648",
+        "name": "Work (physics)",
+        "score": 0.2011999934911728
+      },
+      {
+        "id": "C127413603",
+        "name": "Engineering",
+        "score": 0.1876000016927719
+      },
+      {
+        "id": "C2777855551",
+        "name": "Subject (documents)",
+        "score": 0.15760000050067902
+      },
+      {
+        "id": "C61797465",
+        "name": "Term (time)",
+        "score": 0.15530000627040863
+      }
+    ],
+    "authors": [
+      {
+        "id": "A5157249739",
+        "name": "Narkuziyeva Sayyoraxon"
+      }
+    ],
+    "institutions": [],
+    "openAlexUrl": "https://openalex.org/W7220008590"
+  },
+  {
+    "id": "W7220225150",
+    "title": "“BADIIY KULOLCHILIKDA GEOMETRIK VA O‘SIMLIKSIMON NAQSHLARNING QO‘LLANILISHI”",
+    "abstractText": "Mazkur maqolada badiiy kulolchilik buyumlarini bezashda geometrik va o‘simliksimon naqshlarning qo‘llanilishi, ularning kompozitsion tuzilishi hamda estetik imkoniyatlari tahlil qilinadi. Geometrik naqshlarning shakl, ritm, simmetriya va muvozanatni tashkil etishdagi o‘rni, o‘simliksimon naqshlarning tabiat shakllarini badiiylashtirish va dekorativ ifodalashdagi xususiyatlari yoritiladi. Shuningdek, naqshlarning kulolchilik buyumi shakliga moslashtirilishi, markaziy va yordamchi bezaklar o‘rtasidagi munosabat, rang uyg‘unligi va ritmik takrorlanishning badiiy yaxlitlikni ta’minlashdagi ahamiyati ko‘rib chiqiladi. O‘zbek milliy kulolchilik maktablarida shakllangan naqsh an’analari va ularning zamonaviy badiiy kulolchilikdagi talqini ham tahlil qilinadi.",
+    "publishedDate": "2026-10-30",
+    "doi": null,
+    "sourceUrl": "https://spaceknowladge.com/index.php/JOISRMVI/article/download/5944/6176",
+    "isOpenAccess": true,
+    "venueName": "JOURNAL OF SCIENTIFIC RESEARCH, MODERN VIEWS AND INNOVATIONS",
+    "citedByCount": 0,
+    "concepts": [
+      {
+        "id": "C71924100",
+        "name": "Medicine",
+        "score": 0.20819999277591705
+      },
+      {
+        "id": "C15708023",
+        "name": "Humanities",
+        "score": 0.13449999690055847
+      },
+      {
+        "id": "C154945302",
+        "name": "Artificial intelligence",
+        "score": 0.13330000638961792
+      },
+      {
+        "id": "C41008148",
+        "name": "Computer science",
+        "score": 0.13109999895095825
+      },
+      {
+        "id": "C117797892",
+        "name": "Shadow (psychology)",
+        "score": 0.1306000053882599
+      },
+      {
+        "id": "C2779343474",
+        "name": "Context (archaeology)",
+        "score": 0.13040000200271606
+      }
+    ],
+    "authors": [
+      {
+        "id": "A5157249739",
+        "name": "Narkuziyeva Sayyoraxon"
+      }
+    ],
+    "institutions": [],
+    "openAlexUrl": "https://openalex.org/W7220225150"
+  },
+  {
+    "id": "W7221409212",
+    "title": "სამედიცინო მომსახურება საბჭოთა გულაგში: სახელმწიფო კონტროლი, დასჯა და ადამიანური სოლიდარობა",
+    "abstractText": "Abstract. This paper examines the medical system of the \"Gulag\" (Chief Administration of Camps) as an integral part of the Soviet repressive apparatus. The objective of this study is to determine how medical care, in alignment with ideological and economic requirements, became a tool for the exploitation and control of human resources. The paper analyzes the medical infrastructure of the Gulag and contrasts it with the actual health status of the prisoners. The study employs a historical-comparative method, utilizing both archival data and the memoir literature of survivors (e.g., V. Shalamov, E. Ginzburg, and others). The research demonstrates that the formal structure of the medical system often masked systemic dehumanization, while the efforts of prisoner-physicians to maintain professional ethics represented a rare but significant form of resistance. The findings confirm that violations of medical ethics in the Gulag were not the result of individual moral failures, but rather the inevitable consequence of an ethical infrastructure deliberately dismantled by the state.",
+    "publishedDate": "2026-10-30",
+    "doi": null,
+    "sourceUrl": "https://journal.archives-ajara.gov.ge/index.php/home/article/view/95",
+    "isOpenAccess": true,
+    "venueName": "ARCHEION",
+    "citedByCount": 0,
+    "concepts": [
+      {
+        "id": "C2776721811",
+        "name": "Gulag",
+        "score": 0.9431999921798706
+      },
+      {
+        "id": "C177897776",
+        "name": "Memoir",
+        "score": 0.7279000282287598
+      },
+      {
+        "id": "C126086293",
+        "name": "Medical ethics",
+        "score": 0.47189998626708984
+      },
+      {
+        "id": "C199539241",
+        "name": "Law",
+        "score": 0.40950000286102295
+      },
+      {
+        "id": "C17744445",
+        "name": "Political science",
+        "score": 0.383899986743927
+      },
+      {
+        "id": "C144024400",
+        "name": "Sociology",
+        "score": 0.3488999903202057
+      }
+    ],
+    "authors": [
+      {
+        "id": "A5130847042",
+        "name": "Tengiz Verulava"
+      },
+      {
+        "id": "A5158251446",
+        "name": "თენგიზ ვერულავა"
+      }
+    ],
+    "institutions": [],
+    "openAlexUrl": "https://openalex.org/W7221409212"
+  },
+  {
+    "id": "W7223548923",
+    "title": "PENGARUH STOCK OPNAME TERHADAP AKURASI DAN KEANDALAN LAPORAN PERSEDIAAN PADA UMKM DESSERT KABUPATEN KENDAL",
+    "abstractText": "The problem that is often experienced by UMKM is the Differences between actual stock and existing records are often caused by errors in data entry, lost goods, or lack of inventory control. This study aims to determine the effect of stocktaking on the accuracy and reliability of inventory reports in dessert UMKM in Kendal Regency. This study uses a quantitative method with data collection techniques through distributing questionnaires to 30 respondents consisting of owners or managers of dessert UMKM in Kendal Regency. The information used in this study was processed with the help of the \"Statistical Package for the Social Sciences\" (SPSS) software, through Validity Tests and Hypothesis Tests. The results show that most items in the stocktaking, accuracy, and reliability variables are declared valid and suitable for use as research instruments. The implementation of stocktaking that is carried out routinely can help UMKM in reducing inventory recording errors, minimizing stock differences, and increasing the accuracy and reliability of inventory reports. Thus, the implementation of stocktaking has an important role in supporting inventory management in dessert UMKM in Kendal Regency.",
+    "publishedDate": "2026-10-30",
+    "doi": "https://doi.org/10.51903/dinamika.v6i2.1238",
+    "sourceUrl": "https://journal.stiestekom.ac.id/index.php/dinamika/article/download/1238/925",
+    "isOpenAccess": true,
+    "venueName": "Dinamika",
+    "citedByCount": 0,
+    "concepts": [
+      {
+        "id": "C37621935",
+        "name": "Agricultural science",
+        "score": 0.43309998512268066
+      },
+      {
+        "id": "C133462117",
+        "name": "Data collection",
+        "score": 0.40619999170303345
+      },
+      {
+        "id": "C204036174",
+        "name": "Stock (firearms)",
+        "score": 0.3873000144958496
+      },
+      {
+        "id": "C144133560",
+        "name": "Business",
+        "score": 0.3483999967575073
+      },
+      {
+        "id": "C41008148",
+        "name": "Computer science",
+        "score": 0.29429998993873596
+      },
+      {
+        "id": "C105795698",
+        "name": "Statistics",
+        "score": 0.27649998664855957
+      }
+    ],
+    "authors": [
+      {
+        "id": "A5159525306",
+        "name": "Arum Suci Wardani"
+      },
+      {
+        "id": "A5053303239",
+        "name": "Munifah Munifah",
+        "institutionId": "I4387153296",
+        "institutionName": "Universitas Sains dan Teknologi Komputer"
+      },
+      {
+        "id": "A5049634498",
+        "name": "Kasih Purwantini",
+        "institutionId": "I4387153296",
+        "institutionName": "Universitas Sains dan Teknologi Komputer"
+      },
+      {
+        "id": "A5067919996",
+        "name": "Sukemi Kamto Sudibyo",
+        "institutionId": "I4387153296",
+        "institutionName": "Universitas Sains dan Teknologi Komputer"
+      },
+      {
+        "id": "A5019598394",
+        "name": "Haris Ihsanil Huda",
+        "institutionId": "I4387153296",
+        "institutionName": "Universitas Sains dan Teknologi Komputer"
+      }
+    ],
+    "institutions": [
+      {
+        "id": "I4387153296",
+        "name": "Universitas Sains dan Teknologi Komputer",
+        "countryCode": "ID"
+      }
+    ],
+    "openAlexUrl": "https://openalex.org/W7223548923"
+  },
+  {
+    "id": "W7223551263",
+    "title": "PENGARUH LINGKUNGAN KERJA & WORK-LIFE BALANCE TERHADAP TURNOVER INTENTION MELALUI KEPUASAN KERJA SEBAGAI VARIABEL INTERVENING: STUDI PADA KARYAWAN GENERASI Z DI KECAMATAN KEMBANGAN",
+    "abstractText": "Generation Z tends to have shorter working hours than previous generations and places a supportive work environment, work-life balance, and well-being as the main considerations in determining career sustainability. Turnover intention in Generation Z employees is a challenge for organizations because it has the potential to affect the stability of human resources and organizational effectiveness. This study is needed with the aim of analyzing the influence of the work environment and work-life balance on turnover intention through job satisfaction as an intervening variable in Generation Z employees. Primary data was obtained through questionnaire deployment and analyzed using the PLS-SEM method with the help of SmartPLS version 4.1.1.8. The results of the study show that the work environment and work-life balance have a positive and significant effect on job satisfaction. In addition, only the work environment has been shown to have a positive and significant effect on turnover intention, while work-life balance and job satisfaction have no significant effect on turnover intention. The findings of the study confirm that job satisfaction has not played a role as an intervening variable in the relationship between the work environment and work-life balance and turnover intention. Simultaneously, work environment, work-life balance, and job satisfaction have a significant effect on turnover intention.",
+    "publishedDate": "2026-10-30",
+    "doi": "https://doi.org/10.51903/dinamika.v6i2.1427",
+    "sourceUrl": "https://journal.stiestekom.ac.id/index.php/dinamika/article/download/1427/937",
+    "isOpenAccess": true,
+    "venueName": "Dinamika",
+    "citedByCount": 0,
+    "concepts": [
+      {
+        "id": "C2718322",
+        "name": "Job satisfaction",
+        "score": 0.7752000093460083
+      },
+      {
+        "id": "C15744967",
+        "name": "Psychology",
+        "score": 0.7294999957084656
+      },
+      {
+        "id": "C26077564",
+        "name": "Turnover",
+        "score": 0.5289999842643738
+      },
+      {
+        "id": "C77805123",
+        "name": "Social psychology",
+        "score": 0.5026999711990356
+      },
+      {
+        "id": "C2776035688",
+        "name": "Affect (linguistics)",
+        "score": 0.43220001459121704
+      },
+      {
+        "id": "C18762648",
+        "name": "Work (physics)",
+        "score": 0.4034999907016754
+      }
+    ],
+    "authors": [
+      {
+        "id": "A5158123260",
+        "name": "Septi Nur Atika",
+        "institutionId": "I4210145783",
+        "institutionName": "Universitas Budi Luhur"
+      },
+      {
+        "id": "A5011993436",
+        "name": "Deden Kurniawan",
+        "institutionId": "I4210145783",
+        "institutionName": "Universitas Budi Luhur"
+      }
+    ],
+    "institutions": [
+      {
+        "id": "I4210145783",
+        "name": "Universitas Budi Luhur",
+        "countryCode": "ID"
+      }
+    ],
+    "openAlexUrl": "https://openalex.org/W7223551263"
+  },
+  {
+    "id": "W7223551782",
+    "title": "MEMBANGUN LOYALITAS PENGGUNA SHOPEEPAY: PERAN KEMUDAHAN, MANFAAT DAN KEPERCAYAAN DALAM PENGGUNAAN SHOPEEPAY",
+    "abstractText": "Adoption of digital wallets has made user loyalty an important aspect for service providers. This study aims to examine the effects of Perceived Usefulness and Perceived Ease of Use on ShopeePay User Loyalty, with Trust serving as a mediating variable among university students in Semarang City. This study employed a quantitative approach with an explanatory research design through an online survey using a purposive sampling technique involving 171 respondents. Data were analyzed using Partial Least Squares–Structural Equation Modeling (PLS-SEM) with SmartPLS 4 software. The results indicate that Perceived Usefulness has a positive and significant effect on both Trust and User Loyalty, whereas Perceived Ease of Use has a positive and significant effect only on Trust. Furthermore, Trust has a positive and significant effect on User Loyalty and acts as a full mediator in the relationship between Perceived Ease of Use and User Loyalty, while serving as a partial mediator in the relationship between Perceived Usefulness and User Loyalty. These findings highlight that Trust plays a crucial role in strengthening ShopeePay user loyalty, while perceived usefulness enhances loyalty both directly and indirectly through trust.",
+    "publishedDate": "2026-10-30",
+    "doi": "https://doi.org/10.51903/dinamika.v6i2.1343",
+    "sourceUrl": "https://journal.stiestekom.ac.id/index.php/dinamika/article/download/1343/934",
+    "isOpenAccess": true,
+    "venueName": "Dinamika",
+    "citedByCount": 0,
+    "concepts": [
+      {
+        "id": "C71104824",
+        "name": "Structural equation modeling",
+        "score": 0.7390999794006348
+      },
+      {
+        "id": "C15744967",
+        "name": "Psychology",
+        "score": 0.6923999786376953
+      },
+      {
+        "id": "C2776967331",
+        "name": "Loyalty",
+        "score": 0.6416000127792358
+      },
+      {
+        "id": "C170130773",
+        "name": "Usability",
+        "score": 0.6337000131607056
+      },
+      {
+        "id": "C77805123",
+        "name": "Social psychology",
+        "score": 0.5249999761581421
+      },
+      {
+        "id": "C2993311118",
+        "name": "Positive relationship",
+        "score": 0.33959999680519104
+      }
+    ],
+    "authors": [
+      {
+        "id": "A5023963614",
+        "name": "Elsa Andriani",
+        "institutionId": "I4210127958",
+        "institutionName": "Universitas Dian Nuswantoro"
+      },
+      {
+        "id": "A5056337946",
+        "name": "Roymon Panjaitan",
+        "institutionId": "I4210127958",
+        "institutionName": "Universitas Dian Nuswantoro"
+      },
+      {
+        "id": "A5159495175",
+        "name": "Mahmud",
+        "institutionId": "I4210127958",
+        "institutionName": "Universitas Dian Nuswantoro"
+      },
+      {
+        "id": "A5159563599",
+        "name": "Mila Sartika",
+        "institutionId": "I4210127958",
+        "institutionName": "Universitas Dian Nuswantoro"
+      }
+    ],
+    "institutions": [
+      {
+        "id": "I4210127958",
+        "name": "Universitas Dian Nuswantoro",
+        "countryCode": "ID"
+      }
+    ],
+    "openAlexUrl": "https://openalex.org/W7223551782"
+  },
+  {
+    "id": "W7223555970",
+    "title": "PENGARUH CURRENT RATIO, PRICE TO BOOK VALUE DAN RETURN ON ASSET TERHADAP RETURN SAHAM",
+    "abstractText": "This study aims to analyze the effect of Current Ratio (CR), Price to Book Value (PBV), and Return on Assets (ROA) on stock returns in telecommunication sub-sector companies listed on the Indonesia Stock Exchange (IDX). The background of this study is based on fluctuations in companies' financial performance, which are assumed to influence the level of returns obtained by investors. The research method used is quantitative with an associative approach. The population consists of 22 telecommunication sub-sector companies, with a sample of 3 companies selected using purposive sampling technique. The research data includes 18 observations during the period 2019–2024. Data analysis was conducted using multiple linear regression with the help of SPSS version 26, including classical assumption tests, regression analysis, coefficient of determination test, t-test, and F-test. The results show that partially, CR and ROA have no significant effect on stock returns, with significance values of 0.506 and 0.316, respectively. Meanwhile, PBV has a significant effect on stock returns with a significance value of 0.044. Simultaneously, CR, PBV, and ROA do not have a significant effect on stock returns (Sig. 0.144). The coefficient of determination (R²) is 0.312, indicating that 31.2% of stock return variation can be explained by the model, while 68.8% is influenced by other factors outside the research model.",
+    "publishedDate": "2026-10-30",
+    "doi": "https://doi.org/10.51903/dinamika.v6i2.1333",
+    "sourceUrl": "https://journal.stiestekom.ac.id/index.php/dinamika/article/download/1333/933",
+    "isOpenAccess": true,
+    "venueName": "Dinamika",
+    "citedByCount": 0,
+    "concepts": [
+      {
+        "id": "C200870193",
+        "name": "Stock exchange",
+        "score": 0.7229999899864197
+      },
+      {
+        "id": "C149782125",
+        "name": "Econometrics",
+        "score": 0.7069000005722046
+      },
+      {
+        "id": "C48921125",
+        "name": "Linear regression",
+        "score": 0.5103999972343445
+      },
+      {
+        "id": "C204036174",
+        "name": "Stock (firearms)",
+        "score": 0.5080000162124634
+      },
+      {
+        "id": "C152877465",
+        "name": "Regression analysis",
+        "score": 0.48899999260902405
+      },
+      {
+        "id": "C162324750",
+        "name": "Economics",
+        "score": 0.4544000029563904
+      }
+    ],
+    "authors": [
+      {
+        "id": "A5159568569",
+        "name": "Nurbaity Nurbaity"
+      },
+      {
+        "id": "A5056140109",
+        "name": "Nafisah Nurulrahmatia"
+      },
+      {
+        "id": "A5159570448",
+        "name": "Amirulmukminin"
+      }
+    ],
+    "institutions": [],
+    "openAlexUrl": "https://openalex.org/W7223555970"
+  },
+  {
+    "id": "W7223556442",
+    "title": "PENGARUH PEMASARAN DIGITAL DAN BRAND AWARENESS TERHADAP PURCHASE INTENTION PADA TIKTOK",
+    "abstractText": "This study aims to analyze the influence of Digital Marketing and Brand Awareness on Purchase Intention among TikTok users in Tuban Regency, both partially and simultaneously. A quantitative approach was employed through a survey of 100 active TikTok users aged 17–35 years, selected using a non-probability sampling technique. The research instrument was a questionnaire, which was tested for validity and reliability before the data were analyzed using classical assumption tests and multiple linear regression with IBM SPSS Statistics. The findings demonstrate that Digital Marketing has a positive and significant partial effect on Purchase Intention (t = 4.475; Sig. < 0.001). Similarly, Brand Awareness has a positive and significant partial effect on Purchase Intention (t = 6.135; Sig. < 0.001), with a more dominant contribution than Digital Marketing. Furthermore, both variables simultaneously have a significant effect on Purchase Intention (F = 95.496; Sig. < 0.001), explaining 65.6% of the variation in Purchase Intention (Adjusted R Square = 0.656). These findings may serve as a reference for business practitioners in developing more effective and optimal digital marketing strategies on the TikTok platform",
+    "publishedDate": "2026-10-30",
+    "doi": "https://doi.org/10.51903/dinamika.v6i2.1414",
+    "sourceUrl": "https://journal.stiestekom.ac.id/index.php/dinamika/article/download/1414/936",
+    "isOpenAccess": true,
+    "venueName": "Dinamika",
+    "citedByCount": 0,
+    "concepts": [
+      {
+        "id": "C112698675",
+        "name": "Advertising",
+        "score": 0.5551999807357788
+      },
+      {
+        "id": "C144133560",
+        "name": "Business",
+        "score": 0.5235000252723694
+      },
+      {
+        "id": "C70388272",
+        "name": "IBM",
+        "score": 0.5210000276565552
+      },
+      {
+        "id": "C152455256",
+        "name": "Brand awareness",
+        "score": 0.47429999709129333
+      },
+      {
+        "id": "C133462117",
+        "name": "Data collection",
+        "score": 0.42179998755455017
+      },
+      {
+        "id": "C162853370",
+        "name": "Marketing",
+        "score": 0.41850000619888306
+      }
+    ],
+    "authors": [
+      {
+        "id": "A5093391956",
+        "name": "Fastabiqul Khoirot"
+      },
+      {
+        "id": "A5011112742",
+        "name": "Pemilia Sulistyowati Ningsih"
+      }
+    ],
+    "institutions": [],
+    "openAlexUrl": "https://openalex.org/W7223556442"
+  },
+  {
+    "id": "W7223556763",
+    "title": "THE INFLUENCE OF FINANCIAL TECHNOLOGY, RISK TOLERANCE, FINANCIAL SELF-EFFICACY, COGNITIVE DISSONANCE BIAS, AND LOSS AVERSION ON INVESTMENT DECISIONS",
+    "abstractText": "Investment decisions are shaped by various investor considerations, including financial technology, risk tolerance, financial self-efficacy, cognitive dissonance bias, and loss aversion. Because the findings of previous studies have been inconsistent, this study re-examines the effect of these five variables on investment decisions. Data were collected quantitatively from 100 respondents in Wonosobo Regency, with the sample size determined using the Slovin formula, and analyzed using multiple linear regression. The simultaneous test shows that all independent variables have a significant effect on investment decisions. However, the partial test shows that only financial self-efficacy and cognitive dissonance bias are significant, indicating that investors take these two factors into account when investing. Meanwhile, financial technology, risk tolerance, and loss aversion show no significant effect",
+    "publishedDate": "2026-10-30",
+    "doi": "https://doi.org/10.51903/dinamika.v6i2.1460",
+    "sourceUrl": "https://journal.stiestekom.ac.id/index.php/dinamika/article/download/1460/940",
+    "isOpenAccess": true,
+    "venueName": "Dinamika",
+    "citedByCount": 0,
+    "concepts": [
+      {
+        "id": "C77513098",
+        "name": "Cognitive dissonance",
+        "score": 0.932200014591217
+      },
+      {
+        "id": "C2778174566",
+        "name": "Loss aversion",
+        "score": 0.5307000279426575
+      },
+      {
+        "id": "C198531522",
+        "name": "Sample (material)",
+        "score": 0.49709999561309814
+      },
+      {
+        "id": "C2777267654",
+        "name": "Test (biology)",
+        "score": 0.4909999966621399
+      },
+      {
+        "id": "C162324750",
+        "name": "Economics",
+        "score": 0.4657999873161316
+      },
+      {
+        "id": "C162118730",
+        "name": "Actuarial science",
+        "score": 0.42739999294281006
+      }
+    ],
+    "authors": [
+      {
+        "id": "A5065988702",
+        "name": "Muhammad Ramadhan Pamungkas",
+        "institutionId": "I4210100020",
+        "institutionName": "Universitas Sains Al-Qur'an"
+      },
+      {
+        "id": "A5159480884",
+        "name": "Fathi Rifqi Mu’afa",
+        "institutionId": "I4210100020",
+        "institutionName": "Universitas Sains Al-Qur'an"
+      },
+      {
+        "id": "A5159545780",
+        "name": "Yordan Ifraim Risyafa",
+        "institutionId": "I4210100020",
+        "institutionName": "Universitas Sains Al-Qur'an"
+      },
+      {
+        "id": "A5146669916",
+        "name": "Dicky Rizkyadi",
+        "institutionId": "I4210100020",
+        "institutionName": "Universitas Sains Al-Qur'an"
+      }
+    ],
+    "institutions": [
+      {
+        "id": "I4210100020",
+        "name": "Universitas Sains Al-Qur'an",
+        "countryCode": "ID"
+      }
+    ],
+    "openAlexUrl": "https://openalex.org/W7223556763"
+  },
+  {
+    "id": "W7223559564",
+    "title": "GREEN PERCEIVED QUALITY DAN GREEN PERCEIVED CONSUMERISM SEBAGAI DETERMINAN GREEN PURCHASE INTENTION: ANALISIS PADA UMKM BERBASIS GREEN ECONOMY",
+    "abstractText": "This study aims to examine the influence of green perceived quality and green perceived consumerism on green purchase intention, with green perceived value acting as a mediating variable, regarding green products produced by MSMEs. The study involved 100 respondents, purchasers of green products at food retailers in Central Java, selected using purposive sampling. Primary data were collected via a questionnaire using a 1–5 Likert scale and subsequently analyzed using the Structural Equation Modeling-Partial Least Squares (SEM-PLS) method with SmartPLS software (version 4.1.1.8). The results indicate that green perceived quality, green perceived consumerism, and green perceived value significantly influence green purchase intention. Regarding the mediating role, green perceived value was found to mediate the effects of green perceived quality and green perceived consumerism on green purchase intention. Furthermore, the results demonstrate that green perceived value mediates the influence of green brand image on green purchase intention, confirming the role of this intervening variable in the relationship.",
+    "publishedDate": "2026-10-30",
+    "doi": "https://doi.org/10.51903/dinamika.v6i2.1447",
+    "sourceUrl": "https://journal.stiestekom.ac.id/index.php/dinamika/article/download/1447/946",
+    "isOpenAccess": true,
+    "venueName": "Dinamika",
+    "citedByCount": 0,
+    "concepts": [
+      {
+        "id": "C2781385186",
+        "name": "Consumerism",
+        "score": 0.621999979019165
+      },
+      {
+        "id": "C105776082",
+        "name": "Likert scale",
+        "score": 0.6093000173568726
+      },
+      {
+        "id": "C59345209",
+        "name": "Green marketing",
+        "score": 0.5976999998092651
+      },
+      {
+        "id": "C71104824",
+        "name": "Structural equation modeling",
+        "score": 0.5109999775886536
+      },
+      {
+        "id": "C144133560",
+        "name": "Business",
+        "score": 0.5073999762535095
+      },
+      {
+        "id": "C2992814287",
+        "name": "Green tea",
+        "score": 0.4383000135421753
+      }
+    ],
+    "authors": [
+      {
+        "id": "A5059028283",
+        "name": "Widodo Wibisono",
+        "institutionId": "I4387153296",
+        "institutionName": "Universitas Sains dan Teknologi Komputer"
+      },
+      {
+        "id": "A5092436083",
+        "name": "Gibson Manalu",
+        "institutionId": "I4387153296",
+        "institutionName": "Universitas Sains dan Teknologi Komputer"
+      },
+      {
+        "id": "A5092436084",
+        "name": "Tri Imaliya",
+        "institutionId": "I4387153296",
+        "institutionName": "Universitas Sains dan Teknologi Komputer"
+      },
+      {
+        "id": "A5159478680",
+        "name": "Widia Novita Salsabila",
+        "institutionId": "I4387153296",
+        "institutionName": "Universitas Sains dan Teknologi Komputer"
+      },
+      {
+        "id": "A5159513470",
+        "name": "Dipa Dwi Milati",
+        "institutionId": "I4387153296",
+        "institutionName": "Universitas Sains dan Teknologi Komputer"
+      }
+    ],
+    "institutions": [
+      {
+        "id": "I4387153296",
+        "name": "Universitas Sains dan Teknologi Komputer",
+        "countryCode": "ID"
+      }
+    ],
+    "openAlexUrl": "https://openalex.org/W7223559564"
+  },
+  {
+    "id": "W7223560619",
+    "title": "PENGARUH SARANA PRASARANA DAN LINGKUNGAN KERJA TERHADAP KINERJA GURU SMA NEGERI 1 BATUKLIANG UTARA DI KABUPATEN LOMBOK TENGAH",
+    "abstractText": "Teacher performance is a key determinant of educational quality and the successful implementation of learning processes. Among the factors that may influence teacher performance are the adequacy of educational facilities and infrastructure, as well as the quality of the working environment. This study aims to examine the influence of facilities and infrastructure, together with the work environment, on teacher performance at SMA Negeri 1 Batukliang Utara, Central Lombok Regency. A quantitative approach with a descriptive research design was employed. The study involved all 33 active teachers using a total sampling technique. Data were collected through a structured questionnaire based on a five-point Likert scale and analyzed using multiple linear regression with IBM SPSS Statistics version 26. The findings reveal that facilities and infrastructure do not have a significant partial effect on teacher performance (β = 0.017; p = 0.933), whereas the work environment has a positive and statistically significant effect (β = 0.770; p = 0.003). Simultaneously, both independent variables significantly influence teacher performance (F = 10.840; p < 0.001), explaining 41.9% of the variance in teacher performance, while the remaining 58.1% is attributable to other factors not included in the research model. These findings indicate that a supportive and conducive work environment plays a more substantial role than educational facilities in improving teacher performance. Therefore, school management should prioritize the creation of a positive work environment while continuing to improve educational facilities to support teachers' professional responsibilities.",
+    "publishedDate": "2026-10-30",
+    "doi": "https://doi.org/10.51903/dinamika.v6i2.1332",
+    "sourceUrl": "https://journal.stiestekom.ac.id/index.php/dinamika/article/download/1332/932",
+    "isOpenAccess": true,
+    "venueName": "Dinamika",
+    "citedByCount": 0,
+    "concepts": [
+      {
+        "id": "C105776082",
+        "name": "Likert scale",
+        "score": 0.7145000100135803
+      },
+      {
+        "id": "C15744967",
+        "name": "Psychology",
+        "score": 0.5651000142097473
+      },
+      {
+        "id": "C39896193",
+        "name": "Descriptive statistics",
+        "score": 0.5185999870300293
+      },
+      {
+        "id": "C70388272",
+        "name": "IBM",
+        "score": 0.4918999969959259
+      },
+      {
+        "id": "C133462117",
+        "name": "Data collection",
+        "score": 0.43309998512268066
+      },
+      {
+        "id": "C2779530757",
+        "name": "Quality (philosophy)",
+        "score": 0.42179998755455017
+      }
+    ],
+    "authors": [
+      {
+        "id": "A5159544069",
+        "name": "Lale Ratna Dewi Nilutama",
+        "institutionId": "I4210116728",
+        "institutionName": "Universitas Patria Artha"
+      },
+      {
+        "id": "A5011112742",
+        "name": "Pemilia Sulistyowati Ningsih",
+        "institutionId": "I4210116728",
+        "institutionName": "Universitas Patria Artha"
+      }
+    ],
+    "institutions": [
+      {
+        "id": "I4210116728",
+        "name": "Universitas Patria Artha",
+        "countryCode": "ID"
+      }
+    ],
+    "openAlexUrl": "https://openalex.org/W7223560619"
+  },
+  {
+    "id": "W7223560990",
+    "title": "STRATEGIC HRM DAN KINERJA ORGANISASI: MEDIASI ENGAGEMENT DAN KOMITMEN",
+    "abstractText": "This conceptual article develops an integrative framework explaining how Strategic Human Resource Management (SHRM) can improve organizational performance through employee engagement and organizational commitment. In response to the need for a theoretically grounded explanation of the HRM-performance 'black box', the article synthesizes recent literature on strategic fit, job resources, social exchange, employee engagement, organizational commitment, and organizational performance. The synthesis positions employee engagement as a motivational mechanism that converts HR practices into work energy, dedication, and discretionary effort, while organizational commitment is positioned as a relational mechanism that converts perceived organizational investment into attachment, loyalty, and sustained contribution. The proposed model includes direct pathways from SHRM to performance, engagement, and commitment; pathways from engagement to commitment and performance; and a serial mechanism of SHRM -> engagement -> commitment -> organizational performance. The article contributes by integrating motivational and relational mechanisms in one conceptual architecture and by translating the model into managerial implications for HR architecture, line-manager implementation, employee experience, and performance-pathway evaluation. The framework is intended for subsequent empirical testing using field data, preferably with longitudinal or multi-wave and multi-source designs.",
+    "publishedDate": "2026-10-30",
+    "doi": "https://doi.org/10.51903/dinamika.v6i2.1461",
+    "sourceUrl": "https://journal.stiestekom.ac.id/index.php/dinamika/article/download/1461/941",
+    "isOpenAccess": true,
+    "venueName": "Dinamika",
+    "citedByCount": 0,
+    "concepts": [
+      {
+        "id": "C83030740",
+        "name": "Organizational commitment",
+        "score": 0.6833000183105469
+      },
+      {
+        "id": "C89611455",
+        "name": "Mechanism (biology)",
+        "score": 0.5541999936103821
+      },
+      {
+        "id": "C99753626",
+        "name": "Employee engagement",
+        "score": 0.5486000180244446
+      },
+      {
+        "id": "C56739046",
+        "name": "Knowledge management",
+        "score": 0.5410000085830688
+      },
+      {
+        "id": "C202372285",
+        "name": "Human resource management",
+        "score": 0.5185999870300293
+      },
+      {
+        "id": "C144133560",
+        "name": "Business",
+        "score": 0.5156000256538391
+      }
+    ],
+    "authors": [
+      {
+        "id": "A5080156495",
+        "name": "Yessy Dekasari",
+        "institutionId": "I4210162392",
+        "institutionName": "Universitas Saburai"
+      },
+      {
+        "id": "A5092555616",
+        "name": "Reza Pahlepi",
+        "institutionId": "I4210162392",
+        "institutionName": "Universitas Saburai"
+      },
+      {
+        "id": "A5159565471",
+        "name": "Kinanti Nurul Faithya",
+        "institutionId": "I4210162392",
+        "institutionName": "Universitas Saburai"
+      },
+      {
+        "id": "A5093551522",
+        "name": "Rotua Astrina Lumban Gaol",
+        "institutionId": "I4405261655",
+        "institutionName": "Politeknik Bisnis Kaltara"
+      }
+    ],
+    "institutions": [
+      {
+        "id": "I4210162392",
+        "name": "Universitas Saburai",
+        "countryCode": "ID"
+      },
+      {
+        "id": "I4405261655",
+        "name": "Politeknik Bisnis Kaltara",
+        "countryCode": "ID"
+      }
+    ],
+    "openAlexUrl": "https://openalex.org/W7223560990"
+  },
+  {
+    "id": "W7223568599",
+    "title": "PENGARUH DISIPLIN KERJA DAN LINGKUNGAN KERJA TERHADAP KINERJA KARYAWAN PADA PERUSAHAAN GARMEN DI SEMARANG",
+    "abstractText": "This study empirically examines the contribution of work discipline and the workplace environment toward employee performance within the garment industry in Semarang. Employing a quantitative approach, primary data was gathered from 100 respondents via structured questionnaires. The data processing was conducted using IBM SPSS Statistics, encompassing assessments of data quality (validity and reliability) alongside classical assumption testing (normality, heteroscedasticity, and multicollinearity). Furthermore, inter-variable relationships were calculated through multiple linear regression, supplemented by t-tests, F-tests, and coefficient of determination analysis to measure the model's capacity to explain variations in workforce performance. The findings reveal that work discipline plays a vital role and significantly impacts individual performance. Similarly, the work environment variable consistently demonstrates a significant positive contribution. When evaluated simultaneously, the integration of discipline and working conditions exerts a tangible collective influence on overall worker effectiveness. These insights highlight the vital responsibility of management in sustaining employee discipline and fostering a supportive workplace atmosphere to continuously enhance organizational productivity and human well-being.",
+    "publishedDate": "2026-10-30",
+    "doi": "https://doi.org/10.51903/dinamika.v6i2.1452",
+    "sourceUrl": "https://journal.stiestekom.ac.id/index.php/dinamika/article/download/1452/938",
+    "isOpenAccess": true,
+    "venueName": "Dinamika",
+    "citedByCount": 0,
+    "concepts": [
+      {
+        "id": "C2778139618",
+        "name": "Workforce",
+        "score": 0.6650000214576721
+      },
+      {
+        "id": "C18762648",
+        "name": "Work (physics)",
+        "score": 0.5485000014305115
+      },
+      {
+        "id": "C70388272",
+        "name": "IBM",
+        "score": 0.5045999884605408
+      },
+      {
+        "id": "C204983608",
+        "name": "Productivity",
+        "score": 0.49140000343322754
+      },
+      {
+        "id": "C3017909875",
+        "name": "Working environment",
+        "score": 0.44350001215934753
+      },
+      {
+        "id": "C133462117",
+        "name": "Data collection",
+        "score": 0.42800000309944153
+      }
+    ],
+    "authors": [
+      {
+        "id": "A5159514732",
+        "name": "Hawwa Zalsabylla"
+      },
+      {
+        "id": "A5022578648",
+        "name": "Titin Hargyatni"
+      }
+    ],
+    "institutions": [],
+    "openAlexUrl": "https://openalex.org/W7223568599"
+  },
+  {
+    "id": "W7223572688",
+    "title": "SELF CONTROL MEMODERASI FOMO DAN DOOM SPENDING TERHADAP PERILAKU KEUANGAN",
+    "abstractText": "This study investigates the effects of fear of missing out (FoMO) and doom spending on financial management behavior, examining self-control as a moderating variable among digital natives in Semarang Regency. Utilizing a quantitative design with purposive sampling, data were gathered from 203 respondents aged 15–45 years using a 1–5 Likert scale and evaluated via Moderated Regression Analysis (MRA) in SmartPLS. The empirical findings reveal that FoMO exerts a significant positive effect on financial management behavior, suggesting that FoMO within this demographic manifests predominantly as a social rather than consumptive drive. In contrast, doom spending demonstrates no statistically significant impact on financial management behavior. Self-control exhibits a substantial positive influence, emerging as the most prominent determinant of sound financial habits. Moreover, self-control significantly moderates specifically attenuating the detrimental effect of doom spending on financial management behavior, yet it fails to moderate the impact of FoMO. With the structural model exhibiting robust predictive relevance, this study highlights the necessity of fostering self-control through financial literacy programs and emotional regulation initiatives to optimize financial behaviors among digital natives.",
+    "publishedDate": "2026-10-30",
+    "doi": "https://doi.org/10.51903/dinamika.v6i2.1425",
+    "sourceUrl": "https://journal.stiestekom.ac.id/index.php/dinamika/article/download/1425/948",
+    "isOpenAccess": true,
+    "venueName": "Dinamika",
+    "citedByCount": 0,
+    "concepts": [
+      {
+        "id": "C105776082",
+        "name": "Likert scale",
+        "score": 0.574999988079071
+      },
+      {
+        "id": "C15744967",
+        "name": "Psychology",
+        "score": 0.5748999714851379
+      },
+      {
+        "id": "C77805123",
+        "name": "Social psychology",
+        "score": 0.47859999537467957
+      },
+      {
+        "id": "C506796395",
+        "name": "Financial management",
+        "score": 0.45669999718666077
+      },
+      {
+        "id": "C120936955",
+        "name": "Empirical research",
+        "score": 0.4465999901294708
+      },
+      {
+        "id": "C2777941463",
+        "name": "Financial literacy",
+        "score": 0.41990000009536743
+      }
+    ],
+    "authors": [
+      {
+        "id": "A5159540068",
+        "name": "Muawanah Tiara Rani RANI",
+        "institutionId": "I4387153296",
+        "institutionName": "Universitas Sains dan Teknologi Komputer"
+      },
+      {
+        "id": "A5013872878",
+        "name": "Myra Andriana",
+        "institutionId": "I4387153296",
+        "institutionName": "Universitas Sains dan Teknologi Komputer"
+      }
+    ],
+    "institutions": [
+      {
+        "id": "I4387153296",
+        "name": "Universitas Sains dan Teknologi Komputer",
+        "countryCode": "ID"
+      }
+    ],
+    "openAlexUrl": "https://openalex.org/W7223572688"
+  },
+  {
+    "id": "W7223573564",
+    "title": "KEKUATAN KONTEN DAN ULASAN DALAM MEMPENGARUHI KEPUTUSAN PEMBELIAN PRODUK MYKONOS KOTA SEMARANG",
+    "abstractText": "The rapid growth of TikTok as a social media platform has influenced consumer behavior in seeking information and making purchase decisions. This study aims to analyze the effects of User Generated Content (UGC), Electronic Word of Mouth (E-WOM), reviews, and product quality on the purchase decisions of Mykonos perfume consumers in Semarang City. This research employed a quantitative approach using a survey method involving 115 respondents who met the research criteria. Data were analyzed using Partial Least Squares (PLS) with SmartPLS 4 software. The results indicate that E-WOM, product quality, and UGC have a positive and significant effect on purchase decisions, while reviews do not have a significant effect. E-WOM was found to be the most dominant factor influencing consumer purchase decisions. The R-Square value of 0.942 indicates that the research model has a very strong ability to explain purchase decisions. These findings suggest that purchase decisions for Mykonos perfume on TikTok are influenced more by user interactions, user-generated content, and product quality than by product reviews",
+    "publishedDate": "2026-10-30",
+    "doi": "https://doi.org/10.51903/dinamika.v6i2.1282",
+    "sourceUrl": "https://journal.stiestekom.ac.id/index.php/dinamika/article/download/1282/927",
+    "isOpenAccess": true,
+    "venueName": "Dinamika",
+    "citedByCount": 0,
+    "concepts": [
+      {
+        "id": "C112698675",
+        "name": "Advertising",
+        "score": 0.7421000003814697
+      },
+      {
+        "id": "C90673727",
+        "name": "Product (mathematics)",
+        "score": 0.7265999913215637
+      },
+      {
+        "id": "C2779530757",
+        "name": "Quality (philosophy)",
+        "score": 0.574400007724762
+      },
+      {
+        "id": "C144133560",
+        "name": "Business",
+        "score": 0.5569999814033508
+      },
+      {
+        "id": "C518677369",
+        "name": "Social media",
+        "score": 0.45080000162124634
+      },
+      {
+        "id": "C23213687",
+        "name": "Consumer behaviour",
+        "score": 0.4433000087738037
+      }
+    ],
+    "authors": [
+      {
+        "id": "A5159545333",
+        "name": "Ryan Angga Kusuma",
+        "institutionId": "I4210127958",
+        "institutionName": "Universitas Dian Nuswantoro"
+      },
+      {
+        "id": "A5025569276",
+        "name": "Handy Nur Cahya",
+        "institutionId": "I4210127958",
+        "institutionName": "Universitas Dian Nuswantoro"
+      },
+      {
+        "id": "A5101742958",
+        "name": "Agung Sedayu",
+        "institutionId": "I4210127958",
+        "institutionName": "Universitas Dian Nuswantoro"
+      },
+      {
+        "id": "A5006486917",
+        "name": "⁠Febrianur Ibnu Fitroh Sukono Putra",
+        "institutionId": "I4210127958",
+        "institutionName": "Universitas Dian Nuswantoro"
+      }
+    ],
+    "institutions": [
+      {
+        "id": "I4210127958",
+        "name": "Universitas Dian Nuswantoro",
+        "countryCode": "ID"
+      }
+    ],
+    "openAlexUrl": "https://openalex.org/W7223573564"
+  },
+  {
+    "id": "W7223573846",
+    "title": "ANALISIS STRATEGI MANAJEMEN OPERASIONAL PADA RUAS JALAN TOL SEMARANG – BATANG DALAM MENINGKATKAN KEPUASAN PENGGUNA",
+    "abstractText": "The Semarang–Batang segment of the Trans-Java Toll Road serves as a vital artery for social mobility and regional economic distribution in Central Java. However, rising traffic volumes often introduce operational bottlenecks that can compromise commuters' comfort and peace of mind. This study aims to evaluate how operational management strategies can be optimized to elevate service quality and foster genuine commuter satisfaction. Adopting a descriptive quantitative approach, this research gathered empirical survey data from 100 active toll road users. The collected data were systematically analyzed through multiple linear regression techniques using SPSS 26. The statistical outcomes demonstrate that all operational strategy dimensions exert a positive and significant influence on public satisfaction. Individually, traffic management emerged as the most dominant catalyst in alleviating congestion (t = 6.375), followed by infrastructure and facility maintenance (t = 5.222), and information system reliability ($t = 2.086$). Collectively, these three elements explain a substantial 98.6% of the variance in user satisfaction. Discussion: These insights underscore that commuter satisfaction transcends mere metrics; it reflects the fulfillment of fundamental human needs for safety, time-efficiency, and respect. To sustain this trust, operators must prioritize human-centric improvements, such as swiftly patching damaged pavements, optimizing rest area hygiene, and deploying responsive help buttons at toll booths to ensure a dignified and smooth travel experience.",
+    "publishedDate": "2026-10-30",
+    "doi": "https://doi.org/10.51903/dinamika.v6i2.1263",
+    "sourceUrl": "https://journal.stiestekom.ac.id/index.php/dinamika/article/download/1263/926",
+    "isOpenAccess": true,
+    "venueName": "Dinamika",
+    "citedByCount": 0,
+    "concepts": [
+      {
+        "id": "C2778025104",
+        "name": "Toll",
+        "score": 0.597100019454956
+      },
+      {
+        "id": "C144133560",
+        "name": "Business",
+        "score": 0.588699996471405
+      },
+      {
+        "id": "C2780378061",
+        "name": "Service (business)",
+        "score": 0.45339998602867126
+      },
+      {
+        "id": "C39896193",
+        "name": "Descriptive statistics",
+        "score": 0.4381999969482422
+      },
+      {
+        "id": "C22212356",
+        "name": "Transport engineering",
+        "score": 0.43290001153945923
+      },
+      {
+        "id": "C2779530757",
+        "name": "Quality (philosophy)",
+        "score": 0.4065000116825104
+      }
+    ],
+    "authors": [
+      {
+        "id": "A5159486146",
+        "name": "Bambang Eko Wibowo BEKOW",
+        "institutionId": "I4210116728",
+        "institutionName": "Universitas Patria Artha"
+      },
+      {
+        "id": "A5022578648",
+        "name": "Titin Hargyatni",
+        "institutionId": "I4210116728",
+        "institutionName": "Universitas Patria Artha"
+      }
+    ],
+    "institutions": [
+      {
+        "id": "I4210116728",
+        "name": "Universitas Patria Artha",
+        "countryCode": "ID"
+      }
+    ],
+    "openAlexUrl": "https://openalex.org/W7223573846"
+  },
+  {
+    "id": "W7224105152",
+    "title": "Penerapan Komunikasi Interpersonal Guru dan Murid untuk Mendorong Rasa Percaya Diri Anak Usia Dini di TK Mutia Aceh Tamiang",
+    "abstractText": "Komunikasi interpersonal guru dan murid merupakan aspek penting dalam mendukung perkembangan rasa percaya diri anak usia dini di lingkungan pendidikan. Penelitian ini bertujuan untuk mendeskripsikan pola komunikasi interpersonal guru dan murid dalam meningkatkan rasa percaya diri anak serta mengidentifikasi tantangan yang dihadapi guru selama proses pembelajaran di TK Mutia Aceh Tamiang. Penelitian ini menggunakan pendekatan kualitatif dengan jenis deskriptif. Informan berjumlah enam orang, terdiri atas dua guru, dua wali murid, dan dua anak didik yang dipilih menggunakan teknik purposive sampling. Data dikumpulkan melalui observasi, wawancara mendalam, dan dokumentasi, kemudian dianalisis melalui reduksi data, penyajian data, serta penarikan kesimpulan dan verifikasi. Hasil penelitian menunjukkan bahwa komunikasi interpersonal dilakukan melalui komunikasi verbal dan nonverbal, perhatian individual, pemberian motivasi, serta penguatan positif berupa pujian dan penghargaan. Pendekatan tersebut memberikan kesempatan kepada anak untuk bercerita, menjawab pertanyaan, berinteraksi, dan tampil di depan kelas secara bertahap. Tantangan yang dihadapi guru meliputi perbedaan karakter, kemampuan komunikasi, serta perubahan kondisi emosional dan konsentrasi anak. Penelitian ini menyimpulkan bahwa komunikasi yang hangat, suportif, dan sesuai dengan kebutuhan anak dapat mendukung perkembangan rasa percaya diri melalui interaksi pembelajaran yang berkelanjutan.",
+    "publishedDate": "2026-10-30",
+    "doi": "https://doi.org/10.63822/t26r5v70",
+    "sourceUrl": "https://indojurnal.com/index.php/jisoh/article/view/5307",
+    "isOpenAccess": true,
+    "venueName": "Jurnal Ilmu Sosial dan Humaniora",
+    "citedByCount": 0,
+    "concepts": [
+      {
+        "id": "C15744967",
+        "name": "Psychology",
+        "score": 0.8618999719619751
+      },
+      {
+        "id": "C164850336",
+        "name": "Interpersonal communication",
+        "score": 0.5343000292778015
+      },
+      {
+        "id": "C91034043",
+        "name": "Interpersonal relationship",
+        "score": 0.4465999901294708
+      },
+      {
+        "id": "C77805123",
+        "name": "Social psychology",
+        "score": 0.44269999861717224
+      },
+      {
+        "id": "C15708023",
+        "name": "Humanities",
+        "score": 0.3898000121116638
+      },
+      {
+        "id": "C138496976",
+        "name": "Developmental psychology",
+        "score": 0.34599998593330383
+      }
+    ],
+    "authors": [
+      {
+        "id": "A5160062051",
+        "name": "Tiara Saharrani",
+        "institutionId": "I3130850664",
+        "institutionName": "Malikussaleh University"
+      },
+      {
+        "id": "A5077562374",
+        "name": "Kamaruddin Kamaruddin",
+        "institutionId": "I3130850664",
+        "institutionName": "Malikussaleh University"
+      },
+      {
+        "id": "A5115918969",
+        "name": "Naidi Faisal",
+        "institutionId": "I3130850664",
+        "institutionName": "Malikussaleh University"
+      },
+      {
+        "id": "A5126528363",
+        "name": "Muchlis Muchlis",
+        "institutionId": "I3130850664",
+        "institutionName": "Malikussaleh University"
+      },
+      {
+        "id": "A5015731405",
+        "name": "Cindenia Puspasari",
+        "institutionId": "I3130850664",
+        "institutionName": "Malikussaleh University"
+      }
+    ],
+    "institutions": [
+      {
+        "id": "I3130850664",
+        "name": "Malikussaleh University",
+        "countryCode": "ID"
+      }
+    ],
+    "openAlexUrl": "https://openalex.org/W7224105152"
+  },
+  {
+    "id": "W7224114190",
+    "title": "Pendidikan Pengolahan Limbah Rumah Tangga menjadi Pupuk Cair bagi Siswa SDN 04 Kota Bengkulu",
+    "abstractText": "Limbah organik rumah tangga seperti sisa sayuran, kulit buah, dan air cucian beras masih sering dibuang tanpa dimanfaatkan sehingga berpotensi mencemari lingkungan, padahal dapat diolah menjadi pupuk organik cair (POC). Kegiatan pengabdian oleh mahasiswa KKN Kelompok 23 Universitas Muhammadiyah Bengkulu di Kelurahan Pondok Besi ini bertujuan memberikan edukasi pengolahan limbah rumah tangga menjadi pupuk cair bagi siswa SDN 04 Kota Bengkulu. Kegiatan dilaksanakan dalam satu hari melalui tiga tahap yang masing-masing berdurasi satu jam, yaitu penyuluhan dan sosialisasi, demonstrasi pembuatan pupuk cair, serta praktik langsung berkelompok yang dilanjutkan evaluasi, dengan metode ceramah interaktif, demonstrasi, dan praktik langsung (learning by doing). Bahan yang digunakan berupa sisa sayuran, kulit buah, dan air cucian beras yang difermentasi dengan larutan gula dan EM4. Berdasarkan pengamatan dan sesi evaluasi, siswa antusias, aktif bertanya, terlibat langsung dalam praktik, dan tampak memahami jenis limbah rumah tangga serta manfaat pupuk cair. Kegiatan ini diharapkan menumbuhkan kesadaran lingkungan sejak usia dini dan dapat dilanjutkan dengan evaluasi yang terukur serta pemantauan hasil fermentasi di sekolah.",
+    "publishedDate": "2026-10-30",
+    "doi": "https://doi.org/10.63822/g361zn76",
+    "sourceUrl": "https://indojurnal.com/index.php/aksikita/article/view/5305",
+    "isOpenAccess": true,
+    "venueName": "Aksi Kita: Jurnal Pengabdian kepada Masyarakat",
+    "citedByCount": 0,
+    "concepts": [
+      {
+        "id": "C121332964",
+        "name": "Physics",
+        "score": 0.6610000133514404
+      },
+      {
+        "id": "C127413603",
+        "name": "Engineering",
+        "score": 0.25450000166893005
+      },
+      {
+        "id": "C15708023",
+        "name": "Humanities",
+        "score": 0.21369999647140503
+      },
+      {
+        "id": "C548081761",
+        "name": "Waste management",
+        "score": 0.20890000462532043
+      },
+      {
+        "id": "C39432304",
+        "name": "Environmental science",
+        "score": 0.18549999594688416
+      },
+      {
+        "id": "C87717796",
+        "name": "Environmental engineering",
+        "score": 0.16949999332427979
+      }
+    ],
+    "authors": [
+      {
+        "id": "A5044264719",
+        "name": "Adrian Pranata",
+        "institutionId": "I4210087922",
+        "institutionName": "Universitas Muhammadiyah Bengkulu"
+      },
+      {
+        "id": "A5015956555",
+        "name": "Jeni Anggraini",
+        "institutionId": "I4210087922",
+        "institutionName": "Universitas Muhammadiyah Bengkulu"
+      },
+      {
+        "id": "A5063323354",
+        "name": "Anton Feriady",
+        "institutionId": "I4210087922",
+        "institutionName": "Universitas Muhammadiyah Bengkulu"
+      }
+    ],
+    "institutions": [
+      {
+        "id": "I4210087922",
+        "name": "Universitas Muhammadiyah Bengkulu",
+        "countryCode": "ID"
+      }
+    ],
+    "openAlexUrl": "https://openalex.org/W7224114190"
+  },
+  {
+    "id": "W7224140542",
+    "title": "The Telecommunications Sector in Yemen: A Quantitative Field Study Using Structural Modeling",
+    "abstractText": "هدفت هذه الدراسة إلى استكشاف أثر الثقافة التنظيمية في تطبيق مبادئ إدارة الجودة الشاملة في قطاع الاتصالات في اليمن، مع التركيز على أبعاد الثقافة التنظيمية في تطبيق مبادئ إدارة الجودة الشاملة. وقد شملت الدراسة عينة عشوائية طبقية مكونة من (351) موظفًا من خمس شركات رئيسية في قطاع الاتصالات، وهي المؤسسة العامة للاتصالات، شركة يمن موبايل، شركة تليمن للاتصالات الدولية، شركة يو للاتصالات، وشركة سبأفون. استخدمت الدراسة المنهج الوصفي التحليلي، وجُمعت البيانات من خلال استبانة مقيّمة على متغيرين: الثقافة التنظيمية، وإدارة الجودة الشاملة. واستخدمت الدراسة برامج الإحصائية (SPSS، ALAMOS) للتحليل وأظهرت النتائج أن مستوى مرتفع نسبيا للثقافة التنظيمية في شركات قطاع الاتصالات بلغ 74%، بينما كان مستوى متوسط نسبيا في تطبيق مبادئ الجودة الشاملة بنسبة 72%، وكان حجم الأثر بين الثقافة التنظيمية ومبادئ إدارة الجودة الشاملة فعال بمقدار (r = 0.95) ومعامل المسار (p = 0.72). وأكدت النتائج أن أبعاد الثقافة التنظيمية تلعب دورًا فاعلاً بمقدار (f = 1.7) في تعزيز تطبيق مبادئ إدارة الجودة الشاملة. وقد أوصت الدراسة بضرورة تعزيز الثقافة التنظيمية عبر برامج تدريبية مستمرة، بالإضافة إلى تطوير الثقافة التنظيمية الداعمة التي ترتكز على القيم والمعتقدات والسلوكيات الإيجابية، وذلك لتحقيق بيئة عمل محفزة على الابتكار والتحسين المستمر. كما دعت الدراسة إلى تعزيز التواصل الداخلي وتمكين فرق العمل وتطوير أنظمة تقييم الأداء المرتبطة بالجودة والثقافة القيادية. تساهم هذه الدراسة في إثراء المعرفة البحثية حول العلاقة بين الثقافة التنظيمية وإدارة الجودة الشاملة، وتفتح آفاقًا لدراسات مستقبلية تستكشف وسائل وطرق أخرى وعوامل مؤثرة ثقافية في تطبيق الجودة داخل بيئات العمل المختلفة.",
+    "publishedDate": "2026-10-30",
+    "doi": null,
+    "sourceUrl": "https://journals.ajsrp.com/index.php/index/article/view/10402",
+    "isOpenAccess": true,
+    "venueName": "مجلة العلوم الإقتصادية و الإدارية و القانونية",
+    "citedByCount": 0,
+    "concepts": [
+      {
+        "id": "C9652623",
+        "name": "Field (mathematics)",
+        "score": 0.5493999719619751
+      },
+      {
+        "id": "C76155785",
+        "name": "Telecommunications",
+        "score": 0.4805999994277954
+      },
+      {
+        "id": "C41008148",
+        "name": "Computer science",
+        "score": 0.45239999890327454
+      },
+      {
+        "id": "C127413603",
+        "name": "Engineering",
+        "score": 0.3562000095844269
+      },
+      {
+        "id": "C509933004",
+        "name": "Broadband",
+        "score": 0.2526000142097473
+      },
+      {
+        "id": "C2780009758",
+        "name": "Measure (data warehouse)",
+        "score": 0.23739999532699585
+      }
+    ],
+    "authors": [
+      {
+        "id": "A5160045850",
+        "name": "هاني محمد أحمد قارش"
+      },
+      {
+        "id": "A5044688776",
+        "name": "عبدالله علي أحمد القرشي"
+      },
+      {
+        "id": "A5160027425",
+        "name": "Hani Mohammed Ahmed Qarsh"
+      },
+      {
+        "id": "A5159999561",
+        "name": "Abdullah Ali Ahmed Al-Qurshi"
+      }
+    ],
+    "institutions": [],
+    "openAlexUrl": "https://openalex.org/W7224140542"
+  },
+  {
+    "id": "W7224145188",
+    "title": "The impact of IFRS’ application of IFRS on the reduction and impact of profit management practices on information content of the profits: a standard analytical study using the Panel data for industrial companies listed on Iraq Stock Exchange (2019-2023)",
+    "abstractText": "هدفت هذه الدراسة إلى تحليل أثر تطبيق معايير الإبلاغ المالي الدولية (IFRS) في الحد من ممارسات إدارة الأرباح وانعكاسه على المحتوى المعلوماتي للأرباح في الشركات الصناعية المدرجة في سوق العراق للأوراق المالية، مع اختبار الدور الوسيط لإدارة الأرباح في العلاقة بين تطبيق معايير الإبلاغ المالي الدولية والمحتوى المعلوماتي للأرباح. واعتمدت الدراسة المنهج التحليلي القياسي باستخدام بيانات البانل (Panel Data) لعينة مكونة من خمس شركات صناعية مدرجة في سوق العراق للأوراق المالية خلال الفترة (2019-2023)، وبواقع (25) مشاهدة. ولتحقيق أهداف الدراسة تم بناء نماذج انحدار قياسية لاختبار العلاقات المباشرة وغير المباشرة بين متغيرات الدراسة، مع تضمين عدد من المتغيرات الضابطة المتمثلة بحجم الشركة والرفع المالي ونمو المبيعات. أظهرت النتائج وجود أثر سلبي معنوي لتطبيق معايير الإبلاغ المالي الدولية في ممارسات إدارة الأرباح، إذ بلغ معامل الانحدار (β=-0.314, p=0.002)، مما يدل على أن تطبيق هذه المعايير يسهم في الحد من الممارسات الانتهازية للإدارة. كما أظهرت النتائج وجود تأثير سلبي معنوي لممارسات إدارة الأرباح في المحتوى المعلوماتي للأرباح، إذ بلغ معامل الانحدار (β=-0.391, p=0.001)، بما يشير إلى أن زيادة ممارسات إدارة الأرباح تؤدي إلى انخفاض جودة المعلومات المحاسبية. كذلك بينت النتائج وجود تأثير إيجابي معنوي لتطبيق معايير الإبلاغ المالي الدولية في المحتوى المعلوماتي للأرباح، إذ بلغ معامل الانحدار (β=0.389, p=0.001). كما أكدت نتائج تحليل الوساطة وجود دور وساطة جزئية لإدارة الأرباح في العلاقة بين تطبيق معايير الإبلاغ المالي الدولية والمحتوى المعلوماتي للأرباح.",
+    "publishedDate": "2026-10-30",
+    "doi": null,
+    "sourceUrl": "https://journals.ajsrp.com/index.php/index/article/view/10405",
+    "isOpenAccess": true,
+    "venueName": "مجلة العلوم الإقتصادية و الإدارية و القانونية",
+    "citedByCount": 0,
+    "concepts": [
+      {
+        "id": "C144133560",
+        "name": "Business",
+        "score": 0.6682000160217285
+      },
+      {
+        "id": "C6422946",
+        "name": "Panel data",
+        "score": 0.5414999723434448
+      },
+      {
+        "id": "C181622380",
+        "name": "Profit (economics)",
+        "score": 0.4860000014305115
+      },
+      {
+        "id": "C121017731",
+        "name": "Information technology",
+        "score": 0.4172999858856201
+      },
+      {
+        "id": "C121955636",
+        "name": "Accounting",
+        "score": 0.3889999985694885
+      },
+      {
+        "id": "C162118730",
+        "name": "Actuarial science",
+        "score": 0.34380000829696655
+      }
+    ],
+    "authors": [
+      {
+        "id": "A5114416134",
+        "name": "مي زهير يونس"
+      },
+      {
+        "id": "A5109653570",
+        "name": "May Zuhair Younis"
+      }
+    ],
+    "institutions": [],
+    "openAlexUrl": "https://openalex.org/W7224145188"
+  },
+  {
     "id": "W4393248197",
     "title": "A Family of Chatterjee's Correlation Coefficients and Their Properties",
     "abstractText": "Quantifying the strength of functional dependence between random scalars $X$ and $Y$ is an important statistical problem. While many existing correlation coefficients excel in identifying linear or monotone functional dependence, they fall short in capturing general non-monotone functional relationships. In response, we propose a family of correlation coefficients $ξ^{(h,F)}_n$, characterized by a continuous bivariate function $h$ and a cdf function $F$. By offering a range of selections for $h$ and $F$, $ξ^{(h,F)}_n$ encompasses a diverse class of novel correlation coefficients, while also incorporates the Chatterjee's correlation coefficient (Chatterjee, 2021) as a special case. We prove that $ξ^{(h,F)}_n$ converges almost surely to a deterministic limit $ξ^{(h,F)}$ as sample size $n$ approaches infinity. In addition, under appropriate conditions imposed on $h$ and $F$, the limit $ξ^{(h,F)}$ satisfies the three appealing properties: (P1). it belongs to the range of $[0,1]$; (P2). it equals 1 if and only if $Y$ is a measurable function of $X$; and (P3). it equals 0 if and only if $Y$ is independent of $X$. As amplified by our numerical experiments, our proposals provide practitioners with a variety of options to choose the most suitable correlation coefficient tailored to their specific practical needs.",
@@ -9490,1456 +10884,5 @@
     ],
     "institutions": [],
     "openAlexUrl": "https://openalex.org/W7224091849"
-  },
-  {
-    "id": "W7224091857",
-    "title": "Experimental Investigation of Thermal Performance Characteristics of a Refrigerated Truck Cargo Box with Different Insulation Densities and Wall Thicknesses",
-    "abstractText": null,
-    "publishedDate": "2026-10-29",
-    "doi": "https://doi.org/10.47116/apjcri.2026.10.26",
-    "sourceUrl": "https://doi.org/10.47116/apjcri.2026.10.26",
-    "isOpenAccess": false,
-    "venueName": "Asia-pacific Journal of Convergent Research Interchange",
-    "citedByCount": 0,
-    "concepts": [
-      {
-        "id": "C204530211",
-        "name": "Thermal",
-        "score": 0.5109999775886536
-      },
-      {
-        "id": "C52121051",
-        "name": "Truck",
-        "score": 0.46239998936653137
-      },
-      {
-        "id": "C192562407",
-        "name": "Materials science",
-        "score": 0.4489000141620636
-      },
-      {
-        "id": "C39432304",
-        "name": "Environmental science",
-        "score": 0.359499990940094
-      },
-      {
-        "id": "C159985019",
-        "name": "Composite material",
-        "score": 0.32850000262260437
-      },
-      {
-        "id": "C97346530",
-        "name": "Thermal conductivity",
-        "score": 0.3149000108242035
-      }
-    ],
-    "authors": [
-      {
-        "id": "A5019212636",
-        "name": "Cha Sik Park"
-      }
-    ],
-    "institutions": [],
-    "openAlexUrl": "https://openalex.org/W7224091857"
-  },
-  {
-    "id": "W7224091961",
-    "title": "Types and Characteristics of Challenging Student Guidance Situations Perceived by Preservice Elementary School Teachers",
-    "abstractText": null,
-    "publishedDate": "2026-10-29",
-    "doi": "https://doi.org/10.47116/apjcri.2026.10.29",
-    "sourceUrl": "https://doi.org/10.47116/apjcri.2026.10.29",
-    "isOpenAccess": false,
-    "venueName": "Asia-pacific Journal of Convergent Research Interchange",
-    "citedByCount": 0,
-    "concepts": [
-      {
-        "id": "C3020423824",
-        "name": "School teachers",
-        "score": 0.7026000022888184
-      },
-      {
-        "id": "C15744967",
-        "name": "Psychology",
-        "score": 0.6013000011444092
-      },
-      {
-        "id": "C145420912",
-        "name": "Mathematics education",
-        "score": 0.5619999766349792
-      },
-      {
-        "id": "C19417346",
-        "name": "Pedagogy",
-        "score": 0.35659998655319214
-      },
-      {
-        "id": "C509550671",
-        "name": "Medical education",
-        "score": 0.3546999990940094
-      },
-      {
-        "id": "C198531522",
-        "name": "Sample (material)",
-        "score": 0.3215000033378601
-      }
-    ],
-    "authors": [
-      {
-        "id": "A5054997244",
-        "name": "Hyun-dong Son"
-      }
-    ],
-    "institutions": [],
-    "openAlexUrl": "https://openalex.org/W7224091961"
-  },
-  {
-    "id": "W7224092062",
-    "title": "Cytogenetic analysis of couples with recurrent pregnancy loss in taiwan: A retrospective study of 451cases",
-    "abstractText": null,
-    "publishedDate": "2026-10-29",
-    "doi": "https://doi.org/10.1016/j.tjog.2026.08.005",
-    "sourceUrl": "https://doi.org/10.1016/j.tjog.2026.08.005",
-    "isOpenAccess": true,
-    "venueName": "Taiwanese Journal of Obstetrics and Gynecology",
-    "citedByCount": 0,
-    "concepts": [
-      {
-        "id": "C71924100",
-        "name": "Medicine",
-        "score": 0.7439000010490417
-      },
-      {
-        "id": "C167135981",
-        "name": "Retrospective cohort study",
-        "score": 0.6629999876022339
-      },
-      {
-        "id": "C131872663",
-        "name": "Obstetrics",
-        "score": 0.4934000074863434
-      },
-      {
-        "id": "C2779234561",
-        "name": "Pregnancy",
-        "score": 0.4205999970436096
-      },
-      {
-        "id": "C29456083",
-        "name": "Gynecology",
-        "score": 0.41339999437332153
-      },
-      {
-        "id": "C187212893",
-        "name": "Pediatrics",
-        "score": 0.32499998807907104
-      }
-    ],
-    "authors": [
-      {
-        "id": "A5152835438",
-        "name": "Fang-Tzu Wu"
-      },
-      {
-        "id": "A5111702757",
-        "name": "Fang-Ju Sun"
-      },
-      {
-        "id": "A5160018223",
-        "name": "Chih-Ping Chen"
-      }
-    ],
-    "institutions": [],
-    "openAlexUrl": "https://openalex.org/W7224092062"
-  },
-  {
-    "id": "W7224092097",
-    "title": "Análise de Padrões em Casos Jurídicos com Mineração de Processos e Machine Learning",
-    "abstractText": "A morosidade na tramitação de processos judiciais representa um desafio crítico para a eficiência do sistema de justiça. Este artigo apresenta uma metodologia que integra Mineração de Processos e Machine Learning para analisar o tempo de processamento de casos na Justiça Comum brasileira. A abordagem inicia com a aplicação do algoritmo K-means, utilizando a representação bag of activities, para agrupar processos com fluxos de trabalho similares. Posteriormente, esses aglomerados são subdivididos com base na duração dos traços, classificando-os em categorias de execução rápida, média e lenta. A etapa final emprega o algoritmo PrefixSpan para identificar padrões sequenciais de atividades recorrentes dentro de cada perfil temporal. Os resultados demonstram comportamentos processuais característicos e sequências de atividades predominantes para cada faixa de duração, fornecendo subsídios essenciais para a otimização da gestão judiciária e o aprimoramento dos fluxos de trabalho nos tribunais.",
-    "publishedDate": "2026-10-29",
-    "doi": "https://doi.org/10.25286/repa.v11i4.3990",
-    "sourceUrl": "https://doi.org/10.25286/repa.v11i4.3990",
-    "isOpenAccess": true,
-    "venueName": "Revista de Engenharia e Pesquisa Aplicada",
-    "citedByCount": 0,
-    "concepts": [
-      {
-        "id": "C41008148",
-        "name": "Computer science",
-        "score": 0.5368000268936157
-      },
-      {
-        "id": "C2779343474",
-        "name": "Context (archaeology)",
-        "score": 0.41100001335144043
-      },
-      {
-        "id": "C154945302",
-        "name": "Artificial intelligence",
-        "score": 0.3898000121116638
-      },
-      {
-        "id": "C133462117",
-        "name": "Data collection",
-        "score": 0.2888000011444092
-      },
-      {
-        "id": "C9652623",
-        "name": "Field (mathematics)",
-        "score": 0.2881999909877777
-      },
-      {
-        "id": "C15708023",
-        "name": "Humanities",
-        "score": 0.28600001335144043
-      }
-    ],
-    "authors": [
-      {
-        "id": "A5016561215",
-        "name": "Marcus Vinícius França",
-        "institutionId": "I71437568",
-        "institutionName": "Universidade de Pernambuco"
-      },
-      {
-        "id": "A5048567333",
-        "name": "Vinícius Ferreira Silva",
-        "institutionId": "I71437568",
-        "institutionName": "Universidade de Pernambuco"
-      },
-      {
-        "id": "A5056514169",
-        "name": "Luiz Verçosa",
-        "institutionId": "I71437568",
-        "institutionName": "Universidade de Pernambuco"
-      },
-      {
-        "id": "A5101807366",
-        "name": "Juliana Aparecida Braga Cruz",
-        "institutionId": "I71437568",
-        "institutionName": "Universidade de Pernambuco"
-      },
-      {
-        "id": "A5049490188",
-        "name": "Byron Leite Dantas Bezerra",
-        "institutionId": "I71437568",
-        "institutionName": "Universidade de Pernambuco"
-      }
-    ],
-    "institutions": [
-      {
-        "id": "I71437568",
-        "name": "Universidade de Pernambuco",
-        "countryCode": "BR"
-      }
-    ],
-    "openAlexUrl": "https://openalex.org/W7224092097"
-  },
-  {
-    "id": "W7224092128",
-    "title": "A new species of the genus Imachra Pascoe, 1874 (Coleoptera, Curculionidae) from the Philippines",
-    "abstractText": "A new species, Imachra philippinensis Legalov, sp. nov., from the Philippines (Luzon and Mindanao) is described and illustrated. The new species is similar to Imachra sabahna Morimoto et Miyakawa, 1996 and I. siamensis Morimoto et Miyakawa, 1996, but is clearly distinguished from them by its narrower body, white narrow scales forming spots on the elytra, and aggregation of white scales under the eyes, on the thorax, and at the base of the pronotum, as well as by its very long antennae. The new species is easily distinguished from I. meridionalis Legalov, 2025 from Mindanao by the body with spots of white scales, straight and longer rostrum, long antennae, and non-subparallel elytral sides. This is the second record of the genus Imachra Pascoe, 1874 from the Philippines and the first record from Luzon Island.",
-    "publishedDate": "2026-10-29",
-    "doi": "https://doi.org/10.12976/jib/2026.90.1.2",
-    "sourceUrl": "https://doi.org/10.12976/jib/2026.90.1.2",
-    "isOpenAccess": false,
-    "venueName": "Journal of Insect Biodiversity",
-    "citedByCount": 0,
-    "concepts": [
-      {
-        "id": "C157369684",
-        "name": "Genus",
-        "score": 0.6147000193595886
-      },
-      {
-        "id": "C205649164",
-        "name": "Geography",
-        "score": 0.474700003862381
-      },
-      {
-        "id": "C58642233",
-        "name": "Taxonomy (biology)",
-        "score": 0.4684000015258789
-      },
-      {
-        "id": "C86803240",
-        "name": "Biology",
-        "score": 0.4465000033378601
-      },
-      {
-        "id": "C2781255879",
-        "name": "Spots",
-        "score": 0.3903999924659729
-      },
-      {
-        "id": "C90856448",
-        "name": "Zoology",
-        "score": 0.36820000410079956
-      }
-    ],
-    "authors": [
-      {
-        "id": "A5051383260",
-        "name": "Andrei A. Legalov"
-      }
-    ],
-    "institutions": [],
-    "openAlexUrl": "https://openalex.org/W7224092128"
-  },
-  {
-    "id": "W7224092195",
-    "title": "GLP-1-receptor agonist therapies and periodontal disease: a retrospective pilot cohort study",
-    "abstractText": "Abstract Background Periodontal disease and type 2 diabetes share inflammatory pathways. GLP-1-RAs may modulate these pathways, but their effect on clinical periodontal outcomes has yet to be clearly investigated. Methods We conducted a retrospective cohort study of adults with type 2 diabetes receiving routine dental care. Cross-sectional ( n = 132) and longitudinal ( n = 70) analyses compared GLP-1-RA users with non-users. Multivariable linear, quasi-Poisson, and logistic regression adjusted for age, BMI, gender, smoking, periodontal surgery, and follow-up duration. Linear and quasi-Poisson models additionally adjusted for the corresponding baseline periodontal measure. Results GLP-1-RA usage was not associated with probing depth change (B = 0.002; 95% CI, –0.262 to 0.265; P = 0.988). Estimates for PD ≥ 5-mm site count (RR = 0.650; 0.365 to 1.136; P = 0.140) and odds of exploratory relative response (OR = 2.609; 0.861 to 8.286; P = 0.094) were directionally favorable but did not reach statistical significance. Conclusions GLP-1-RA usage was associated with directionally fewer pockets with PD ≥ 5 mm and higher odds of meeting the exploratory ≥ 50% relative-reduction criterion, though statistical significance was not achieved. The preliminary findings of this pilot study do not confirm a periodontal benefit but warrant evaluation in adequately powered prospective studies in order to better inform clinical guidelines.",
-    "publishedDate": "2026-10-29",
-    "doi": "https://doi.org/10.1186/s12903-026-10317-2",
-    "sourceUrl": "https://doi.org/10.1186/s12903-026-10317-2",
-    "isOpenAccess": true,
-    "venueName": "BMC Oral Health",
-    "citedByCount": 0,
-    "concepts": [
-      {
-        "id": "C71924100",
-        "name": "Medicine",
-        "score": 0.9567000269889832
-      },
-      {
-        "id": "C151956035",
-        "name": "Logistic regression",
-        "score": 0.6894999742507935
-      },
-      {
-        "id": "C167135981",
-        "name": "Retrospective cohort study",
-        "score": 0.6614000201225281
-      },
-      {
-        "id": "C156957248",
-        "name": "Odds ratio",
-        "score": 0.6134999990463257
-      },
-      {
-        "id": "C126322002",
-        "name": "Internal medicine",
-        "score": 0.5946000218391418
-      },
-      {
-        "id": "C201903717",
-        "name": "Cohort study",
-        "score": 0.5297999978065491
-      }
-    ],
-    "authors": [
-      {
-        "id": "A5129650521",
-        "name": "Brendon Anderson"
-      },
-      {
-        "id": "A5127954475",
-        "name": "Heidi Shen"
-      },
-      {
-        "id": "A5114484008",
-        "name": "Paul Henn"
-      },
-      {
-        "id": "A5160042559",
-        "name": "Chia-Yu Chen"
-      }
-    ],
-    "institutions": [],
-    "openAlexUrl": "https://openalex.org/W7224092195"
-  },
-  {
-    "id": "W7224092249",
-    "title": "Student Motivation, Engagement, and Academic Performance within the Context of Math and Science Project-based Learning",
-    "abstractText": "The collection of papers in this special issue examines the dynamics of math and science education from one large urban school district in United States. Papers range from early to late elementary classrooms with diverse student populations in K-7 schools. This editor’s essay provides a brief overview of each of the 7 articles and the authors’ contribution to the expanding STEM research on math and science education and academic performance within the context of project-based learning. Included is a mix of action research studies conducted at 7 different elementary schools by teacher-researcher-practitioners. The papers present diverse vantage points on the circumstances that influence student motivation, student learning, and student engagement within the context of project-based learning.",
-    "publishedDate": "2026-10-29",
-    "doi": "https://doi.org/10.46328/ijses.8998",
-    "sourceUrl": "https://doi.org/10.46328/ijses.8998",
-    "isOpenAccess": true,
-    "venueName": "International Journal of Studies in Education and Science",
-    "citedByCount": 0,
-    "concepts": [
-      {
-        "id": "C145420912",
-        "name": "Mathematics education",
-        "score": 0.7089999914169312
-      },
-      {
-        "id": "C2779343474",
-        "name": "Context (archaeology)",
-        "score": 0.701200008392334
-      },
-      {
-        "id": "C194519906",
-        "name": "Student engagement",
-        "score": 0.4973999857902527
-      },
-      {
-        "id": "C19417346",
-        "name": "Pedagogy",
-        "score": 0.4320000112056732
-      },
-      {
-        "id": "C2780791683",
-        "name": "Action (physics)",
-        "score": 0.41940000653266907
-      },
-      {
-        "id": "C53173841",
-        "name": "Action research",
-        "score": 0.41659998893737793
-      }
-    ],
-    "authors": [
-      {
-        "id": "A5110243395",
-        "name": "Anthony H. Normore",
-        "institutionId": "I290598920",
-        "institutionName": "California State University, Dominguez Hills"
-      }
-    ],
-    "institutions": [
-      {
-        "id": "I290598920",
-        "name": "California State University, Dominguez Hills",
-        "countryCode": "US"
-      }
-    ],
-    "openAlexUrl": "https://openalex.org/W7224092249"
-  },
-  {
-    "id": "W7224092285",
-    "title": "Implementation of a smartphone-based perinatal bereavement care training program for obstetric nurses and midwives: quasi-experimental study",
-    "abstractText": "Abstract Background Obstetric nurses and midwives play a key role in perinatal bereavement care but often face limited training and emotional support. This study aimed to evaluate the effectiveness of a smartphone-based perinatal bereavement care training program in improving perinatal bereavement care competence (PBCC) and alleviating secondary traumatic stress (STS) and emotional exhaustion (EE) symptoms among obstetric nurses and midwives. Methods This is a quasi-experimental study. 233 obstetric nurses and midwives from a tertiary hospital in Zhejiang, China, were enrolled (127 intervention; 106 control). The intervention group received a smartphone-based training program, while the control group participated in routine learning. Outcomes were assessed at baseline, immediately post-intervention (T2), and three months later (T3) using generalized estimating equations. Results Of the 233 participants, 206 (88.4%) and 198 (85.0%) women completed follow-up visits at T2 and T3, respectively. Significant intervention effects were observed for PBCC, self-awareness, STS, and EE at both T2 and T3 (all P < .05). Organizational support improved at T2 ( P < .001) but not at T3. Conclusions This smartphone-based training program is a promising approach for perinatal bereavement care education and training. Larger multicenter randomized controlled trials with extended follow-up are warranted to confirm and expand upon these results. Hospital policymakers, administrators, and nursing leaders should adopt this digital training to address staff training gaps and strengthen sustained support for better bereavement care quality. Trial registration This trial was registered early in the study period and before participant enrollment in the Chinese Clinical Trial Registry (ChiCTR2100049730) on August 8, 2021.",
-    "publishedDate": "2026-10-29",
-    "doi": "https://doi.org/10.1186/s12912-026-05524-9",
-    "sourceUrl": "https://doi.org/10.1186/s12912-026-05524-9",
-    "isOpenAccess": true,
-    "venueName": "BMC Nursing",
-    "citedByCount": 0,
-    "concepts": [
-      {
-        "id": "C71924100",
-        "name": "Medicine",
-        "score": 0.8770999908447266
-      },
-      {
-        "id": "C159110408",
-        "name": "Nursing",
-        "score": 0.569100022315979
-      },
-      {
-        "id": "C168563851",
-        "name": "Randomized controlled trial",
-        "score": 0.5171999931335449
-      },
-      {
-        "id": "C2780665704",
-        "name": "Intervention (counseling)",
-        "score": 0.49889999628067017
-      },
-      {
-        "id": "C100521375",
-        "name": "Competence (human resources)",
-        "score": 0.46160000562667847
-      },
-      {
-        "id": "C512399662",
-        "name": "Family medicine",
-        "score": 0.4302999973297119
-      }
-    ],
-    "authors": [
-      {
-        "id": "A5160024025",
-        "name": "Jialu Qian"
-      },
-      {
-        "id": "A5160007584",
-        "name": "Man Wang"
-      },
-      {
-        "id": "A5160004338",
-        "name": "Shiwen Sun"
-      }
-    ],
-    "institutions": [],
-    "openAlexUrl": "https://openalex.org/W7224092285"
-  },
-  {
-    "id": "W7224092426",
-    "title": "EFEKTIVITAS LABORATORIUM VIRTUAL PHET TERHADAP PEMAHAMAN KONSEP LISTRIK DINAMIS PESERTA DIDIK MTS ALKHAIRAAT BIROMARU",
-    "abstractText": "Understanding dynamic electricity is important because students often experience difficulties in understanding the relationships among electric current, voltage, and resistance in series and parallel circuits. This study aimed to analyze changes in students’ conceptual understanding before and after learning with the Physics Education Technology (PhET) virtual laboratory supported by student worksheets (LKPD), test the statistical significance of these changes, and determine the magnitude of improvement. The study employed a quantitative approach using a one-group pretest-posttest design without a comparison group. The participants were 20 eighth-grade students at MTs Alkhairaat Biromaru. Data were collected through conceptual understanding tests administered before and after instruction and an observation checklist assessing implementation. The data were analyzed using descriptive statistics, a paired-samples t-test, and N-Gain. The results showed that the mean score increased from 43.75 to 53.75, with a statistically significant difference (t(19) = −5.210; p < 0.001). Cohen’s dz was 1.17, indicating a large effect size, whereas the N-Gain of 0.18 was categorized as low. All instructional stages were implemented as planned. Thus, students’ scores increased following the intervention; however, the effectiveness of PhET supported by LKPD cannot be conclusively established without a comparison group. Future research should include a comparison group and a longer instructional period. ABSTRAK Pemahaman konsep listrik dinamis penting dikembangkan karena peserta didik sering mengalami kesulitan memahami hubungan antara arus, tegangan, dan hambatan dalam rangkaian seri maupun paralel. Penelitian ini bertujuan menganalisis perubahan pemahaman konsep peserta didik sebelum dan sesudah pembelajaran menggunakan laboratorium virtual Physics Education Technology (PhET) berbantuan Lembar Kerja Peserta Didik (LKPD), menguji signifikansi perubahannya, serta menentukan besarnya peningkatan. Penelitian menggunakan pendekatan kuantitatif dengan desain one-group pretest-posttest tanpa kelas pembanding. Subjek penelitian terdiri atas 20 peserta didik kelas VIII MTs Alkhairaat Biromaru. Data dikumpulkan melalui tes pemahaman konsep sebelum dan sesudah pembelajaran serta lembar observasi keterlaksanaan kegiatan. Data dianalisis menggunakan statistik deskriptif, uji-t berpasangan, dan N-Gain. Hasil penelitian menunjukkan bahwa rata-rata skor meningkat dari 43,75 menjadi 53,75, dengan perbedaan yang signifikan secara statistik (t19 = −5,210; p < 0,001). Ukuran efek Cohen’s dz sebesar 1,17 termasuk kategori besar, sedangkan N-Gain sebesar 0,18 termasuk kategori rendah. Seluruh tahapan pembelajaran terlaksana sesuai rencana. Dengan demikian, terdapat peningkatan skor setelah pembelajaran, tetapi efektivitas PhET berbantuan LKPD belum dapat dipastikan tanpa kelas pembanding. Penelitian selanjutnya disarankan melibatkan kelas pembanding dan durasi pembelajaran yang lebih panjang.",
-    "publishedDate": "2026-10-29",
-    "doi": "https://doi.org/10.51878/teacher.v6i4.16256",
-    "sourceUrl": "https://doi.org/10.51878/teacher.v6i4.16256",
-    "isOpenAccess": true,
-    "venueName": "TEACHER Jurnal Inovasi Karya Ilmiah Guru",
-    "citedByCount": 0,
-    "concepts": [
-      {
-        "id": "C33923547",
-        "name": "Mathematics",
-        "score": 0.4343000054359436
-      },
-      {
-        "id": "C145420912",
-        "name": "Mathematics education",
-        "score": 0.43369999527931213
-      },
-      {
-        "id": "C3018023364",
-        "name": "Significant difference",
-        "score": 0.36469998955726624
-      },
-      {
-        "id": "C121332964",
-        "name": "Physics",
-        "score": 0.36309999227523804
-      },
-      {
-        "id": "C2777267654",
-        "name": "Test (biology)",
-        "score": 0.3407000005245209
-      },
-      {
-        "id": "C2779356329",
-        "name": "Checklist",
-        "score": 0.322299987077713
-      }
-    ],
-    "authors": [
-      {
-        "id": "A5160039926",
-        "name": "Mohammad Djamil M. Nur"
-      },
-      {
-        "id": "A5119933468",
-        "name": "M. Jen Ismail"
-      },
-      {
-        "id": "A5045993492",
-        "name": "Rahmawati Nurdin"
-      },
-      {
-        "id": "A5071434855",
-        "name": "Nina Nina"
-      },
-      {
-        "id": "A5160001117",
-        "name": "Radit Sugi Dwiyana"
-      },
-      {
-        "id": "A5160064266",
-        "name": "Mustari H. Lumagio"
-      }
-    ],
-    "institutions": [],
-    "openAlexUrl": "https://openalex.org/W7224092426"
-  },
-  {
-    "id": "W7224092490",
-    "title": "Minimally invasive versus open liver resection for hepatocellular carcinoma in older adults: A systematic review and meta-analysis",
-    "abstractText": null,
-    "publishedDate": "2026-10-29",
-    "doi": "https://doi.org/10.14701/ahbps.26-167",
-    "sourceUrl": "https://doi.org/10.14701/ahbps.26-167",
-    "isOpenAccess": true,
-    "venueName": "Annals of Hepato-Biliary-Pancreatic Surgery",
-    "citedByCount": 0,
-    "concepts": [
-      {
-        "id": "C71924100",
-        "name": "Medicine",
-        "score": 0.85589998960495
-      },
-      {
-        "id": "C2778019345",
-        "name": "Hepatocellular carcinoma",
-        "score": 0.7282999753952026
-      },
-      {
-        "id": "C141071460",
-        "name": "Surgery",
-        "score": 0.5195000171661377
-      },
-      {
-        "id": "C159110652",
-        "name": "Resection",
-        "score": 0.5134999752044678
-      },
-      {
-        "id": "C126838900",
-        "name": "Radiology",
-        "score": 0.39809998869895935
-      },
-      {
-        "id": "C2777546739",
-        "name": "Carcinoma",
-        "score": 0.3310999870300293
-      }
-    ],
-    "authors": [
-      {
-        "id": "A5118616146",
-        "name": "Lamees M. Al Darwashi",
-        "institutionId": "I17389662",
-        "institutionName": "University of Nicosia"
-      },
-      {
-        "id": "A5160034259",
-        "name": "Nicoleta Michael",
-        "institutionId": "I17389662",
-        "institutionName": "University of Nicosia"
-      },
-      {
-        "id": "A5159989576",
-        "name": "Amanuel M. Kifle",
-        "institutionId": "I17389662",
-        "institutionName": "University of Nicosia"
-      },
-      {
-        "id": "A5114543851",
-        "name": "Sarah Elgazar",
-        "institutionId": "I17389662",
-        "institutionName": "University of Nicosia"
-      },
-      {
-        "id": "A5051545440",
-        "name": "Alberto Faccenda",
-        "institutionId": "I17389662",
-        "institutionName": "University of Nicosia"
-      },
-      {
-        "id": "A5073076776",
-        "name": "Ahmed Ghani",
-        "institutionId": "I100930933",
-        "institutionName": "University College Dublin"
-      },
-      {
-        "id": "A5100026706",
-        "name": "Marios Alogakos",
-        "institutionId": "I4388446366",
-        "institutionName": "Indiana University Indianapolis"
-      },
-      {
-        "id": "A5011692770",
-        "name": "Christian Aloysius Than",
-        "institutionId": "I165143802",
-        "institutionName": "The University of Queensland"
-      },
-      {
-        "id": "A5020519684",
-        "name": "Hayato Nakanishi",
-        "institutionId": "I1330342723",
-        "institutionName": "Mayo Clinic"
-      },
-      {
-        "id": "A5030936480",
-        "name": "Adil Al-Zadjali",
-        "institutionId": "I4210145880",
-        "institutionName": "Sultan Qaboos University Hospital"
-      },
-      {
-        "id": "A5018732570",
-        "name": "Abdallah Al Faraï",
-        "institutionId": "I4405257637",
-        "institutionName": "Sultan Qaboos Comprehensive Cancer Care & Research Center"
-      }
-    ],
-    "institutions": [
-      {
-        "id": "I17389662",
-        "name": "University of Nicosia",
-        "countryCode": "CY"
-      },
-      {
-        "id": "I100930933",
-        "name": "University College Dublin",
-        "countryCode": "IE"
-      },
-      {
-        "id": "I4388446366",
-        "name": "Indiana University Indianapolis",
-        "countryCode": "US"
-      },
-      {
-        "id": "I4394709130",
-        "name": "Indiana University School of Medicine",
-        "countryCode": "US"
-      },
-      {
-        "id": "I165143802",
-        "name": "The University of Queensland",
-        "countryCode": "AU"
-      },
-      {
-        "id": "I2802466933",
-        "name": "Cambridge University Hospitals NHS Foundation Trust",
-        "countryCode": "GB"
-      },
-      {
-        "id": "I4210156194",
-        "name": "Addenbrooke's Hospital",
-        "countryCode": "GB"
-      },
-      {
-        "id": "I1330342723",
-        "name": "Mayo Clinic",
-        "countryCode": "US"
-      },
-      {
-        "id": "I4210145880",
-        "name": "Sultan Qaboos University Hospital",
-        "countryCode": "OM"
-      },
-      {
-        "id": "I4405257637",
-        "name": "Sultan Qaboos Comprehensive Cancer Care & Research Center",
-        "countryCode": "OM"
-      }
-    ],
-    "openAlexUrl": "https://openalex.org/W7224092490"
-  },
-  {
-    "id": "W7224092553",
-    "title": "Development of a fully-coupled beam-to-thermal multiphysics framework for thermal stability optimization in a 230 MeV conduction-cooled superconducting cyclotron",
-    "abstractText": null,
-    "publishedDate": "2026-10-29",
-    "doi": "https://doi.org/10.1016/j.anucene.2026.112970",
-    "sourceUrl": "https://doi.org/10.1016/j.anucene.2026.112970",
-    "isOpenAccess": false,
-    "venueName": "Annals of Nuclear Energy",
-    "citedByCount": 0,
-    "concepts": [
-      {
-        "id": "C192562407",
-        "name": "Materials science",
-        "score": 0.6186000108718872
-      },
-      {
-        "id": "C54101563",
-        "name": "Superconductivity",
-        "score": 0.5113999843597412
-      },
-      {
-        "id": "C112972136",
-        "name": "Stability (learning theory)",
-        "score": 0.5098000168800354
-      },
-      {
-        "id": "C2776542497",
-        "name": "Development (topology)",
-        "score": 0.5044000148773193
-      },
-      {
-        "id": "C204530211",
-        "name": "Thermal",
-        "score": 0.4713999927043915
-      },
-      {
-        "id": "C59061564",
-        "name": "Thermal stability",
-        "score": 0.44209998846054077
-      }
-    ],
-    "authors": [
-      {
-        "id": "A5151916817",
-        "name": "Wang YongQuan"
-      },
-      {
-        "id": "A5160002397",
-        "name": "Meilou Liu"
-      },
-      {
-        "id": "A5030336195",
-        "name": "张金彪"
-      },
-      {
-        "id": "A5159995979",
-        "name": "Xingchen Zhou"
-      },
-      {
-        "id": "A5160014908",
-        "name": "Jing Qiu"
-      },
-      {
-        "id": "A5159994695",
-        "name": "Long Gu"
-      },
-      {
-        "id": "A5151898542",
-        "name": "Chen QiJian"
-      },
-      {
-        "id": "A5160057072",
-        "name": "Xin Huang"
-      },
-      {
-        "id": "A5159997414",
-        "name": "Huan Lin"
-      },
-      {
-        "id": "A5151920356",
-        "name": "Su XingKang"
-      },
-      {
-        "id": "A5160010553",
-        "name": "Guan Wang"
-      },
-      {
-        "id": "A5110846795",
-        "name": "Cong Lin"
-      }
-    ],
-    "institutions": [],
-    "openAlexUrl": "https://openalex.org/W7224092553"
-  },
-  {
-    "id": "W7224092654",
-    "title": "Implementation of Problem-Based Learning Assisted by Flashcards to Improve Students' Critical Thinking Skills on Landscape Material",
-    "abstractText": "This study examines the implementation of Problem-Based Learning (PBL) assisted by flashcard media to improve third-grade elementary students’ critical thinking skills in Landscape (Bentang Alam) material. Methods: This study used a quantitative approach with a quasi-experimental, nonequivalent control-group design. The sample consisted of 44 third-grade students from SD Negeri in Semarang, divided into an experimental class (22 students) taught using PBL assisted by flashcards and a control class (22 students) taught using conventional learning. Data were collected using pretest and posttest instruments with 120 multiple-choice items (30 per skill) and analyzed using normality and homogeneity tests, paired-sample t-tests, independent-sample t-tests, Normalized Gain (N-Gain) analysis, and analysis of Covariance (ANCOVA) with the pretest as the covariate. Because of third-grade students' cognitive capacity, the test was administered in four separate sessions on four different days, with each session lasting approximately 45 minutes. Effect size was reported using Partial Eta Squared to measure the magnitude of the intervention’s impact. Both groups showed increased critical thinking ability after treatment, but the experimental group's increase was significantly higher than the control group's. After controlling for pretest scores, the ANCOVA results showed a significant difference between groups (F = 16989.679; p < .001; η²p = .998), indicating a large effect size. The experimental group's average N-Gain score was 0.7336, categorized as high and fairly effective, while the control group's average was 0.3784, categorized as medium and less effective. The greatest improvement occurred in the analysis and evaluation indicators. Implementing PBL assisted by flashcards effectively improves students’ critical thinking skills on Landscape material, as flashcards function not merely as visual media but as contextual problem triggers integrated into each stage of the PBL syntax. Keywords: problem-based learning, flashcard, critical thinking, landscape, elementary school.",
-    "publishedDate": "2026-10-29",
-    "doi": "https://doi.org/10.23960/jpp.v16i4.pp2081-2099",
-    "sourceUrl": "https://doi.org/10.23960/jpp.v16i4.pp2081-2099",
-    "isOpenAccess": true,
-    "venueName": "Jurnal Pendidikan Progresif",
-    "citedByCount": 0,
-    "concepts": [
-      {
-        "id": "C119340705",
-        "name": "Analysis of covariance",
-        "score": 0.6718999743461609
-      },
-      {
-        "id": "C533356498",
-        "name": "Critical thinking",
-        "score": 0.5879999995231628
-      },
-      {
-        "id": "C2776157432",
-        "name": "Normality",
-        "score": 0.5410000085830688
-      },
-      {
-        "id": "C145420912",
-        "name": "Mathematics education",
-        "score": 0.5263000130653381
-      },
-      {
-        "id": "C15744967",
-        "name": "Psychology",
-        "score": 0.4722000062465668
-      },
-      {
-        "id": "C3018023364",
-        "name": "Significant difference",
-        "score": 0.4627000093460083
-      }
-    ],
-    "authors": [
-      {
-        "id": "A5160059580",
-        "name": "Rachel Fatma Kumalasari"
-      },
-      {
-        "id": "A5154532221",
-        "name": "Regita Putri Yuniar"
-      },
-      {
-        "id": "A5159997278",
-        "name": "Rizky Sakinah"
-      },
-      {
-        "id": "A5118610525",
-        "name": "Rika Naisa'ada"
-      },
-      {
-        "id": "A5133724726",
-        "name": "Rika Nurastanti"
-      },
-      {
-        "id": "A5117564826",
-        "name": "Rosita Kurnia Primadianti"
-      },
-      {
-        "id": "A5010427844",
-        "name": "Elok Fariha Sari"
-      },
-      {
-        "id": "A5133901651",
-        "name": "Rio Agustian Gilang FERNANDO"
-      },
-      {
-        "id": "A5159989322",
-        "name": "Siti Rohmami"
-      },
-      {
-        "id": "A5160058133",
-        "name": "Laras Grahita Siwi"
-      }
-    ],
-    "institutions": [],
-    "openAlexUrl": "https://openalex.org/W7224092654"
-  },
-  {
-    "id": "W7224092856",
-    "title": "Evaluation of bladder function in newly diagnosed thyrotoxicosis patients: a prospective controlled study",
-    "abstractText": "Abstract Background Thyroid hormone excess increases β-adrenergic activity and causes autonomic imbalance, particularly in the cardiovascular system. Because bladder storage and voiding depend on a balance between sympathetic and parasympathetic activity, thyrotoxicosis may also affect lower urinary tract function. However, evidence is limited to a few small studies with inconsistent findings, and it remains unclear whether lower urinary tract symptoms and objective bladder function change after the restoration of euthyroidism. This is clinically relevant, as urinary symptoms in thyrotoxicosis may be overlooked. This study aimed to evaluate lower urinary tract symptoms and bladder function in newly diagnosed thyrotoxicosis before and after treatment, compared with healthy controls. Methods In this prospective controlled cohort study, 40 patients aged 18–50 years with newly diagnosed thyrotoxicosis were evaluated at baseline and after achieving euthyroidism, and compared with 37 healthy controls matched for age, sex and body mass index. Lower urinary tract symptoms were assessed with the International Prostate Symptom Score (IPSS), and bladder function with uroflowmetry and ultrasonographic post-void residual (PVR) volume. Parametric and non-parametric tests, Spearman correlation and multivariable linear regression were used. Results At baseline, 28 patients (70%) had moderate symptoms; after treatment, 38 (95%) had mild symptoms. Mean IPSS decreased from 7.03 ± 3.32 to 1.95 ± 1.71 (mean change − 5.08, 95% CI − 6.10 to − 4.05; p < 0.001) and was higher than in controls both before and after treatment ( p < 0.001). The improvement remained significant after multivariable adjustment ( p < 0.001) and was similar in patients not receiving antithyroid drugs. Symptoms were almost exclusively storage symptoms, mainly frequency and nocturia. Uroflowmetric parameters and PVR did not change after treatment or differ from controls. A borderline inverse correlation was found between pre-treatment free thyroxine and maximum flow rate ( ρ = − 0.31, 95% CI − 0.57 to − 0.00; p = 0.050). Conclusions Lower urinary tract symptoms are common in thyrotoxicosis and improve significantly after treatment, independently of measured confounders, whereas uroflowmetric parameters and PVR do not change within a short follow-up. IPSS may be useful for symptom assessment in thyrotoxicosis. Larger studies with longer follow-up and urodynamic assessment are needed. Trial registration Not applicable.",
-    "publishedDate": "2026-10-29",
-    "doi": "https://doi.org/10.1186/s12894-026-02450-5",
-    "sourceUrl": "https://doi.org/10.1186/s12894-026-02450-5",
-    "isOpenAccess": true,
-    "venueName": "BMC Urology",
-    "citedByCount": 0,
-    "concepts": [
-      {
-        "id": "C71924100",
-        "name": "Medicine",
-        "score": 0.9599999785423279
-      },
-      {
-        "id": "C188816634",
-        "name": "Prospective cohort study",
-        "score": 0.6086000204086304
-      },
-      {
-        "id": "C77411442",
-        "name": "Urinary system",
-        "score": 0.590399980545044
-      },
-      {
-        "id": "C126894567",
-        "name": "Urology",
-        "score": 0.5698000192642212
-      },
-      {
-        "id": "C126322002",
-        "name": "Internal medicine",
-        "score": 0.4309000074863434
-      },
-      {
-        "id": "C2780221984",
-        "name": "Body mass index",
-        "score": 0.39500001072883606
-      }
-    ],
-    "authors": [
-      {
-        "id": "A5160061861",
-        "name": "Betül Şahin"
-      },
-      {
-        "id": "A5160047225",
-        "name": "Gülce Ecem Kılıç"
-      },
-      {
-        "id": "A5022544023",
-        "name": "Arif Bedirhan Bayraktar"
-      },
-      {
-        "id": "A5138268411",
-        "name": "Mustafa Kemal Yılmaz"
-      },
-      {
-        "id": "A5033990979",
-        "name": "Berat Cem Özgür"
-      },
-      {
-        "id": "A5063135868",
-        "name": "Şerife Mehlika Kuşkonmaz"
-      }
-    ],
-    "institutions": [],
-    "openAlexUrl": "https://openalex.org/W7224092856"
-  },
-  {
-    "id": "W7224092912",
-    "title": "Prenatal diagnosis of a de novo 16q24.1 microdeletion encompassing FOXF1 and FOXC2 in a fetus associated with bilateral pleural effusion and hydrops fetalis",
-    "abstractText": null,
-    "publishedDate": "2026-10-29",
-    "doi": "https://doi.org/10.1016/j.tjog.2026.08.016",
-    "sourceUrl": "https://doi.org/10.1016/j.tjog.2026.08.016",
-    "isOpenAccess": true,
-    "venueName": "Taiwanese Journal of Obstetrics and Gynecology",
-    "citedByCount": 0,
-    "concepts": [
-      {
-        "id": "C71924100",
-        "name": "Medicine",
-        "score": 0.9154000282287598
-      },
-      {
-        "id": "C131872663",
-        "name": "Obstetrics",
-        "score": 0.5699999928474426
-      },
-      {
-        "id": "C2779634585",
-        "name": "Pleural effusion",
-        "score": 0.41690000891685486
-      },
-      {
-        "id": "C29456083",
-        "name": "Gynecology",
-        "score": 0.37560001015663147
-      },
-      {
-        "id": "C2779234561",
-        "name": "Pregnancy",
-        "score": 0.37439998984336853
-      },
-      {
-        "id": "C529618451",
-        "name": "Ultrasonography",
-        "score": 0.2994000017642975
-      }
-    ],
-    "authors": [
-      {
-        "id": "A5160018223",
-        "name": "Chih-Ping Chen"
-      }
-    ],
-    "institutions": [],
-    "openAlexUrl": "https://openalex.org/W7224092912"
-  },
-  {
-    "id": "W7224093213",
-    "title": "API5 protein impacts tumor progression, metastasis, and immune evasion",
-    "abstractText": null,
-    "publishedDate": "2026-10-29",
-    "doi": "https://doi.org/10.1016/j.heliyon.2026.e45641",
-    "sourceUrl": "https://doi.org/10.1016/j.heliyon.2026.e45641",
-    "isOpenAccess": true,
-    "venueName": "Heliyon",
-    "citedByCount": 0,
-    "concepts": [
-      {
-        "id": "C8891405",
-        "name": "Immune system",
-        "score": 0.6621000170707703
-      },
-      {
-        "id": "C86803240",
-        "name": "Biology",
-        "score": 0.5001000165939331
-      },
-      {
-        "id": "C203014093",
-        "name": "Immunology",
-        "score": 0.4666000008583069
-      },
-      {
-        "id": "C70721500",
-        "name": "Computational biology",
-        "score": 0.3312000036239624
-      },
-      {
-        "id": "C147483822",
-        "name": "Antigen",
-        "score": 0.32350000739097595
-      },
-      {
-        "id": "C71924100",
-        "name": "Medicine",
-        "score": 0.3190000057220459
-      }
-    ],
-    "authors": [
-      {
-        "id": "A5000095824",
-        "name": "Fereydoun Rahmani"
-      },
-      {
-        "id": "A5044885273",
-        "name": "Ahmad Yari Khosroushahi"
-      },
-      {
-        "id": "A5145676413",
-        "name": "Mohammadreza Ardalan"
-      },
-      {
-        "id": "A5043558394",
-        "name": "Hamid Reza Heidari"
-      },
-      {
-        "id": "A5023460635",
-        "name": "Fatemeh Ramazani"
-      },
-      {
-        "id": "A5160060446",
-        "name": "Abbasali Hosseinpour Feizi"
-      }
-    ],
-    "institutions": [],
-    "openAlexUrl": "https://openalex.org/W7224093213"
-  },
-  {
-    "id": "W7224093249",
-    "title": "The Structural Relationship between Local Entrepreneurship Education and Local Entrepreneurial Intention: The Mediating Effects of Perceived Regional Identity, Perceived Local Brand Value, Perceived Entrepreneurial Opportunity, and Place Attachment",
-    "abstractText": null,
-    "publishedDate": "2026-10-29",
-    "doi": "https://doi.org/10.47116/apjcri.2026.10.14",
-    "sourceUrl": "https://doi.org/10.47116/apjcri.2026.10.14",
-    "isOpenAccess": false,
-    "venueName": "Asia-pacific Journal of Convergent Research Interchange",
-    "citedByCount": 0,
-    "concepts": [
-      {
-        "id": "C42942097",
-        "name": "Place attachment",
-        "score": 0.5446000099182129
-      },
-      {
-        "id": "C84309077",
-        "name": "Entrepreneurship",
-        "score": 0.4984999895095825
-      },
-      {
-        "id": "C77805123",
-        "name": "Social psychology",
-        "score": 0.4909000098705292
-      },
-      {
-        "id": "C15744967",
-        "name": "Psychology",
-        "score": 0.4661000072956085
-      },
-      {
-        "id": "C144133560",
-        "name": "Business",
-        "score": 0.37389999628067017
-      },
-      {
-        "id": "C144024400",
-        "name": "Sociology",
-        "score": 0.33570000529289246
-      }
-    ],
-    "authors": [
-      {
-        "id": "A5086199139",
-        "name": "Chae-Kwan Lim"
-      },
-      {
-        "id": "A5035358944",
-        "name": "Seong-Yeo Noh"
-      },
-      {
-        "id": "A5160040351",
-        "name": "Gyeong-Min Kim"
-      }
-    ],
-    "institutions": [],
-    "openAlexUrl": "https://openalex.org/W7224093249"
-  },
-  {
-    "id": "W7224093288",
-    "title": "Individual-and-community level factors associated with completion of continuum of care in maternal health services in Somaliland: a multilevel analysis of the 2020 Somaliland demographic and health survey",
-    "abstractText": null,
-    "publishedDate": "2026-10-29",
-    "doi": "https://doi.org/10.1186/s13690-026-02115-7",
-    "sourceUrl": "https://doi.org/10.1186/s13690-026-02115-7",
-    "isOpenAccess": true,
-    "venueName": "Archives of Public Health",
-    "citedByCount": 0,
-    "concepts": [
-      {
-        "id": "C53059260",
-        "name": "Multilevel model",
-        "score": 0.710099995136261
-      },
-      {
-        "id": "C138816342",
-        "name": "Public health",
-        "score": 0.6047999858856201
-      },
-      {
-        "id": "C71924100",
-        "name": "Medicine",
-        "score": 0.48330000042915344
-      },
-      {
-        "id": "C160735492",
-        "name": "Health care",
-        "score": 0.44040000438690186
-      },
-      {
-        "id": "C99454951",
-        "name": "Environmental health",
-        "score": 0.4357999861240387
-      },
-      {
-        "id": "C512399662",
-        "name": "Family medicine",
-        "score": 0.32519999146461487
-      }
-    ],
-    "authors": [
-      {
-        "id": "A5160047960",
-        "name": "Abdirahman Ahmed Jama"
-      },
-      {
-        "id": "A5160034711",
-        "name": "Ahmed Mohamoud Jama"
-      },
-      {
-        "id": "A5160041694",
-        "name": "Li-Nien Chien"
-      }
-    ],
-    "institutions": [],
-    "openAlexUrl": "https://openalex.org/W7224093288"
-  },
-  {
-    "id": "W7224093340",
-    "title": "Dynamic modelling and forecasting of interest rates: evidence from Scandinavian countries",
-    "abstractText": "Purpose Using unique data of three Scandinavian countries (Denmark, Norway and Sweden), the study examines the term structure of their interest rates and the performance of the Babbs and Nowman model in forecasting the rates covering their economic stability and financial crisis periods from 2000 to 2014. Design/methodology/approach The continuous-time multi-factor model developed by Babb’s and Nowman (1999) is employed for the research alongside the state-space form (TSIR) of the model. The linear Kalman filter algorithm is further implemented to produce the estimates for both the observable and unobservable variables. The dataset used in the study enables a critical assessment of the in-sample and out-of-sample performance across three versions of the multi-factor Babbs and Nowman model. Findings The research shows that the complexity of the three-factor model is necessary to better explain the yield curve dynamics in the case of Denmark and Norway, while for Sweden there is no clear benefit in adding a third factor. However, under the best predictive specification, the out-of-sample analysis produced different results for each country. The findings further exhibit that when considering the forecasting errors, the continuous-time models generate superior forecasts, a feature of great interest in pricing interest rate derivatives and hedging strategies. Research limitations/implications The study's empirical findings provide insights to investors, forecasters and central banks on the BN model attributes and its ability to explain the yield curve dynamics in times of economic stability and in financial crisis. Originality/value The research presents new insights on the BN multi-factor model applications on forecasting interest rates and draws on unique data of three Scandinavian countries (Denmark, Norway and Sweden). The study also provides a full spectrum of the model with application to the financial crisis period and for the post-crisis era.",
-    "publishedDate": "2026-10-29",
-    "doi": "https://doi.org/10.1108/jcms-09-2025-0141",
-    "sourceUrl": "https://doi.org/10.1108/jcms-09-2025-0141",
-    "isOpenAccess": true,
-    "venueName": "Journal of Capital Markets Studies",
-    "citedByCount": 0,
-    "concepts": [
-      {
-        "id": "C2780695315",
-        "name": "Unobservable",
-        "score": 0.849399983882904
-      },
-      {
-        "id": "C149782125",
-        "name": "Econometrics",
-        "score": 0.7339000105857849
-      },
-      {
-        "id": "C162324750",
-        "name": "Economics",
-        "score": 0.6237000226974487
-      },
-      {
-        "id": "C175025494",
-        "name": "Interest rate",
-        "score": 0.6211000084877014
-      },
-      {
-        "id": "C112972136",
-        "name": "Stability (learning theory)",
-        "score": 0.5440000295639038
-      },
-      {
-        "id": "C157286648",
-        "name": "Kalman filter",
-        "score": 0.5209000110626221
-      }
-    ],
-    "authors": [
-      {
-        "id": "A5024121038",
-        "name": "Diana E. Tunaru",
-        "institutionId": "I71052956",
-        "institutionName": "University of Reading"
-      },
-      {
-        "id": "A5003356155",
-        "name": "Abdelhafid Benamraoui",
-        "institutionId": "I94951947",
-        "institutionName": "University of Westminster"
-      }
-    ],
-    "institutions": [
-      {
-        "id": "I71052956",
-        "name": "University of Reading",
-        "countryCode": "GB"
-      },
-      {
-        "id": "I94951947",
-        "name": "University of Westminster",
-        "countryCode": "GB"
-      }
-    ],
-    "openAlexUrl": "https://openalex.org/W7224093340"
-  },
-  {
-    "id": "W7224093397",
-    "title": "Real-time artificial intelligence-assisted assessment in a home-based pelvic floor muscle training device for pelvic organ prolapse and stress urinary incontinence: A single-center prospective study",
-    "abstractText": null,
-    "publishedDate": "2026-10-29",
-    "doi": "https://doi.org/10.1016/j.tjog.2026.08.006",
-    "sourceUrl": "https://doi.org/10.1016/j.tjog.2026.08.006",
-    "isOpenAccess": true,
-    "venueName": "Taiwanese Journal of Obstetrics and Gynecology",
-    "citedByCount": 0,
-    "concepts": [
-      {
-        "id": "C71924100",
-        "name": "Medicine",
-        "score": 0.8888000249862671
-      },
-      {
-        "id": "C188816634",
-        "name": "Prospective cohort study",
-        "score": 0.6090999841690063
-      },
-      {
-        "id": "C77411442",
-        "name": "Urinary system",
-        "score": 0.4984999895095825
-      },
-      {
-        "id": "C141071460",
-        "name": "Surgery",
-        "score": 0.49549999833106995
-      },
-      {
-        "id": "C2781244320",
-        "name": "Pelvic floor",
-        "score": 0.46959999203681946
-      },
-      {
-        "id": "C2778531004",
-        "name": "Urinary incontinence",
-        "score": 0.35920000076293945
-      }
-    ],
-    "authors": [
-      {
-        "id": "A5026248593",
-        "name": "Huann‐Cheng Horng"
-      },
-      {
-        "id": "A5081914505",
-        "name": "Jui-Fa Chen"
-      },
-      {
-        "id": "A5160000256",
-        "name": "Chia-Pei Chang"
-      },
-      {
-        "id": "A5065353699",
-        "name": "Wei‐Ting Chao"
-      }
-    ],
-    "institutions": [],
-    "openAlexUrl": "https://openalex.org/W7224093397"
-  },
-  {
-    "id": "W7224093617",
-    "title": "Analisis Hubungan Pengangguran, Inflasi, dan Pertumbuhan Ekonomi di Deli Serdang",
-    "abstractText": "Penelitian ini menganalisis hubungan antara pengangguran, inflasi dan pertumbuhan ekonomi di Kabupaten Deli Serdang dengan menggunakan pendekatan kuantitatif berbasis data deret waktu untuk periode 2014–2023. Metode analisis yang digunakan meliputi VECM, uji kointegrasi Johansen, uji kausalitas Granger, IRF, dan VD. Hasil penelitian menunjukkan adanya hubungan jangka panjang yang stabil antara ketiga variabel tersebut, meskipun dalam jangka pendek hubungan tersebut cenderung berfluktuasi. Pengangguran berpengaruh negatif dan signifikan terhadap pertumbuhan ekonomi, sedangkan inflasi tidak berpengaruh signifikan terhadap pertumbuhan ekonomi. Oleh karena itu, diperlukan kebijakan yang berfokus pada penciptaan lapangan kerja untuk menekan pengangguran, disertai upaya menjaga stabilitas inflasi guna mendukung pertumbuhan ekonomi daerah.",
-    "publishedDate": "2026-10-29",
-    "doi": "https://doi.org/10.63448/vy1m4q58",
-    "sourceUrl": "https://doi.org/10.63448/vy1m4q58",
-    "isOpenAccess": false,
-    "venueName": "Jurnal Riset Ilmu EKONOMI (JRIE)",
-    "citedByCount": 0,
-    "concepts": [
-      {
-        "id": "C17744445",
-        "name": "Political science",
-        "score": 0.34369999170303345
-      },
-      {
-        "id": "C29456083",
-        "name": "Gynecology",
-        "score": 0.24140000343322754
-      },
-      {
-        "id": "C15708023",
-        "name": "Humanities",
-        "score": 0.22310000658035278
-      },
-      {
-        "id": "C97137747",
-        "name": "Forestry",
-        "score": 0.22089999914169312
-      },
-      {
-        "id": "C39432304",
-        "name": "Environmental science",
-        "score": 0.21320000290870667
-      },
-      {
-        "id": "C121332964",
-        "name": "Physics",
-        "score": 0.21289999783039093
-      }
-    ],
-    "authors": [
-      {
-        "id": "A5160040655",
-        "name": "Nizhy"
-      },
-      {
-        "id": "A5157274852",
-        "name": "Suci Rahma stefani"
-      },
-      {
-        "id": "A5157302894",
-        "name": "Tabitha Jenina Bangun"
-      },
-      {
-        "id": "A5099593002",
-        "name": "Chairunnisa Zakina Adibra"
-      }
-    ],
-    "institutions": [],
-    "openAlexUrl": "https://openalex.org/W7224093617"
-  },
-  {
-    "id": "W7224093820",
-    "title": "Real-Time PPE Violation Detection and Tracking in Low-Light Industrial Environments Using YOLOv9t, TensorRT, and ByteTrack",
-    "abstractText": null,
-    "publishedDate": "2026-10-29",
-    "doi": "https://doi.org/10.47738/jads.v7i4.1513",
-    "sourceUrl": "https://doi.org/10.47738/jads.v7i4.1513",
-    "isOpenAccess": true,
-    "venueName": "Journal of Applied Data Sciences",
-    "citedByCount": 0,
-    "concepts": [
-      {
-        "id": "C41008148",
-        "name": "Computer science",
-        "score": 0.5200999975204468
-      },
-      {
-        "id": "C2775936607",
-        "name": "Tracking (education)",
-        "score": 0.49129998683929443
-      },
-      {
-        "id": "C154945302",
-        "name": "Artificial intelligence",
-        "score": 0.39579999446868896
-      },
-      {
-        "id": "C31972630",
-        "name": "Computer vision",
-        "score": 0.37959998846054077
-      },
-      {
-        "id": "C127413603",
-        "name": "Engineering",
-        "score": 0.295199990272522
-      },
-      {
-        "id": "C79403827",
-        "name": "Real-time computing",
-        "score": 0.2515000104904175
-      }
-    ],
-    "authors": [
-      {
-        "id": "A5001719696",
-        "name": "Fathorazi Nur Fajri"
-      }
-    ],
-    "institutions": [],
-    "openAlexUrl": "https://openalex.org/W7224093820"
   }
 ]

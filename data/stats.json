@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-29T13:06:05.431Z",
+  "generatedAt": "2026-10-30T12:59:18.901Z",
   "totalDiscoveries": 160,
-  "totalResearchers": 678,
-  "totalInstitutions": 56,
+  "totalResearchers": 651,
+  "totalInstitutions": 55,
   "totalCitations": 1,
   "averageCitations": 0,
-  "openAccessRatio": 0.64375,
+  "openAccessRatio": 0.68125,
   "weeklySeries": [
     {
       "weekStart": "2026-10-26",
@@ -15,19 +15,19 @@
   "topConcepts": [
     {
       "label": "Medicine",
-      "count": 31
+      "count": 25
     },
     {
       "label": "Computer science",
-      "count": 10
+      "count": 9
     },
     {
       "label": "Psychology",
-      "count": 8
+      "count": 9
     },
     {
       "label": "Physics",
-      "count": 6
+      "count": 7
     },
     {
       "label": "Chemistry",
@@ -39,24 +39,32 @@
     },
     {
       "label": "Materials science",
-      "count": 5
+      "count": 4
     },
     {
-      "label": "Political science",
-      "count": 3
+      "label": "Structural equation modeling",
+      "count": 2
     },
     {
-      "label": "Mathematics education",
-      "count": 3
+      "label": "Advertising",
+      "count": 2
     },
     {
-      "label": "Mathematics",
+      "label": "Likert scale",
       "count": 2
     }
   ],
   "topInstitutions": [
     {
-      "label": "California State University, Dominguez Hills",
+      "label": "Universitas Patria Artha",
+      "count": 4
+    },
+    {
+      "label": "Universitas Sains dan Teknologi Komputer",
+      "count": 3
+    },
+    {
+      "label": "Universitas Dian Nuswantoro",
       "count": 2
     },
     {
@@ -86,28 +94,24 @@
     {
       "label": "City, University of London",
       "count": 1
-    },
-    {
-      "label": "University of California, Irvine",
-      "count": 1
-    },
-    {
-      "label": "KU Leuven",
-      "count": 1
     }
   ],
   "topCountries": [
+    {
+      "label": "ID",
+      "count": 17
+    },
     {
       "label": "KR",
       "count": 14
     },
     {
-      "label": "US",
-      "count": 8
+      "label": "GB",
+      "count": 6
     },
     {
-      "label": "GB",
-      "count": 8
+      "label": "US",
+      "count": 5
     },
     {
       "label": "IN",
@@ -123,75 +127,71 @@
     },
     {
       "label": "BR",
-      "count": 3
-    },
-    {
-      "label": "ID",
       "count": 2
     },
     {
-      "label": "AU",
-      "count": 2
+      "label": "BE",
+      "count": 1
     },
     {
-      "label": "OM",
-      "count": 2
+      "label": "DE",
+      "count": 1
     }
   ],
   "topResearchers": [
     {
-      "label": "Ulrich Rothbauer",
-      "count": 9408
-    },
-    {
-      "label": "Jenny Y. Yang",
-      "count": 6227
-    },
-    {
-      "label": "Xiaoqun Wu",
-      "count": 5942
-    },
-    {
-      "label": "Peter Dedecker",
-      "count": 5868
-    },
-    {
       "label": "Vasanti Jadva",
-      "count": 4594
+      "count": 4595
     },
     {
       "label": "Qizhai Li",
       "count": 4135
     },
     {
-      "label": "Shehab Ismail",
-      "count": 3252
+      "label": "Ngawai Moss",
+      "count": 603
     },
     {
-      "label": "Vasily A. Klucharev",
-      "count": 2436
+      "label": "Kate Brian",
+      "count": 542
     },
     {
-      "label": "Alison G. Tebo",
-      "count": 1689
+      "label": "Sarah Norcross",
+      "count": 298
     },
     {
-      "label": "Soanandrasana Rahelinirina",
-      "count": 1199
+      "label": "Roymon Panjaitan",
+      "count": 162
+    },
+    {
+      "label": "Deden Kurniawan",
+      "count": 96
+    },
+    {
+      "label": "Nafisah Nurulrahmatia",
+      "count": 67
+    },
+    {
+      "label": "Titin Hargyatni",
+      "count": 30
+    },
+    {
+      "label": "Munifah Munifah",
+      "count": 19
     }
   ],
   "institutionTypes": [
     {
       "label": "University / school",
-      "count": 50
-    },
-    {
-      "label": "Hospital / healthcare",
-      "count": 5
+      "count": 57
     },
     {
       "label": "Research facility",
       "count": 4
+    },
+    {
+      "label": "Hospital / healthcare",
+      "count": 2
     },
     {
       "label": "Nonprofit / institute",

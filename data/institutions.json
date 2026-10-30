@@ -1,19 +1,73 @@
 [
   {
-    "id": "I290598920",
-    "name": "California State University, Dominguez Hills",
+    "id": "I4210116728",
+    "name": "Universitas Patria Artha",
     "type": "education",
-    "countryCode": "US",
+    "countryCode": "ID",
     "homepage": null,
     "ror": null,
-    "openAlexUrl": "https://openalex.org/I290598920",
+    "openAlexUrl": "https://openalex.org/I4210116728",
     "researcherIds": [
-      "A5160055560",
-      "A5110243395"
+      "A5011112742",
+      "A5022578648",
+      "A5159544069",
+      "A5159486146"
     ],
     "discoveryIds": [
-      "W7224078954",
-      "W7224092249"
+      "W7223556442",
+      "W7223560619",
+      "W7223568599",
+      "W7223573846"
+    ]
+  },
+  {
+    "id": "I4387153296",
+    "name": "Universitas Sains dan Teknologi Komputer",
+    "type": "education",
+    "countryCode": "ID",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I4387153296",
+    "researcherIds": [
+      "A5053303239",
+      "A5049634498",
+      "A5067919996",
+      "A5019598394",
+      "A5059028283",
+      "A5092436083",
+      "A5092436084",
+      "A5159478680",
+      "A5159513470",
+      "A5159540068",
+      "A5013872878"
+    ],
+    "discoveryIds": [
+      "W7223548923",
+      "W7223559564",
+      "W7223572688"
+    ]
+  },
+  {
+    "id": "I4210127958",
+    "name": "Universitas Dian Nuswantoro",
+    "type": "education",
+    "countryCode": "ID",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I4210127958",
+    "researcherIds": [
+      "A5023963614",
+      "A5056337946",
+      "A5159495175",
+      "A5159563599",
+      "A5159545333",
+      "A5025569276",
+      "A5101742958",
+      "A5006486917"
+    ],
+    "discoveryIds": [
+      "W7223551782",
+      "W7223573564"
     ]
   },
   {
@@ -131,6 +185,108 @@
     ],
     "discoveryIds": [
       "W7224076970"
+    ]
+  },
+  {
+    "id": "I4210145783",
+    "name": "Universitas Budi Luhur",
+    "type": "education",
+    "countryCode": "ID",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I4210145783",
+    "researcherIds": [
+      "A5158123260",
+      "A5011993436"
+    ],
+    "discoveryIds": [
+      "W7223551263"
+    ]
+  },
+  {
+    "id": "I4210100020",
+    "name": "Universitas Sains Al-Qur'an",
+    "type": "education",
+    "countryCode": "ID",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I4210100020",
+    "researcherIds": [
+      "A5065988702",
+      "A5159480884",
+      "A5159545780",
+      "A5146669916"
+    ],
+    "discoveryIds": [
+      "W7223556763"
+    ]
+  },
+  {
+    "id": "I4210162392",
+    "name": "Universitas Saburai",
+    "type": "education",
+    "countryCode": "ID",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I4210162392",
+    "researcherIds": [
+      "A5080156495",
+      "A5092555616",
+      "A5159565471"
+    ],
+    "discoveryIds": [
+      "W7223560990"
+    ]
+  },
+  {
+    "id": "I4405261655",
+    "name": "Politeknik Bisnis Kaltara",
+    "type": "education",
+    "countryCode": "ID",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I4405261655",
+    "researcherIds": [
+      "A5093551522"
+    ],
+    "discoveryIds": [
+      "W7223560990"
+    ]
+  },
+  {
+    "id": "I3130850664",
+    "name": "Malikussaleh University",
+    "type": "education",
+    "countryCode": "ID",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I3130850664",
+    "researcherIds": [
+      "A5160062051",
+      "A5077562374",
+      "A5115918969",
+      "A5126528363",
+      "A5015731405"
+    ],
+    "discoveryIds": [
+      "W7224105152"
+    ]
+  },
+  {
+    "id": "I4210087922",
+    "name": "Universitas Muhammadiyah Bengkulu",
+    "type": "education",
+    "countryCode": "ID",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I4210087922",
+    "researcherIds": [
+      "A5044264719",
+      "A5015956555",
+      "A5063323354"
+    ],
+    "discoveryIds": [
+      "W7224114190"
     ]
   },
   {
@@ -425,6 +581,21 @@
     ],
     "discoveryIds": [
       "W7224078862"
+    ]
+  },
+  {
+    "id": "I290598920",
+    "name": "California State University, Dominguez Hills",
+    "type": "education",
+    "countryCode": "US",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I290598920",
+    "researcherIds": [
+      "A5160055560"
+    ],
+    "discoveryIds": [
+      "W7224078954"
     ]
   },
   {
@@ -756,164 +927,6 @@
     ],
     "discoveryIds": [
       "W7224091518"
-    ]
-  },
-  {
-    "id": "I71437568",
-    "name": "Universidade de Pernambuco",
-    "type": "education",
-    "countryCode": "BR",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I71437568",
-    "researcherIds": [
-      "A5016561215",
-      "A5048567333",
-      "A5056514169",
-      "A5101807366",
-      "A5049490188"
-    ],
-    "discoveryIds": [
-      "W7224092097"
-    ]
-  },
-  {
-    "id": "I17389662",
-    "name": "University of Nicosia",
-    "type": "education",
-    "countryCode": "CY",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I17389662",
-    "researcherIds": [
-      "A5118616146",
-      "A5160034259",
-      "A5159989576",
-      "A5114543851",
-      "A5051545440"
-    ],
-    "discoveryIds": [
-      "W7224092490"
-    ]
-  },
-  {
-    "id": "I100930933",
-    "name": "University College Dublin",
-    "type": "education",
-    "countryCode": "IE",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I100930933",
-    "researcherIds": [
-      "A5073076776"
-    ],
-    "discoveryIds": [
-      "W7224092490"
-    ]
-  },
-  {
-    "id": "I4388446366",
-    "name": "Indiana University Indianapolis",
-    "type": "education",
-    "countryCode": "US",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I4388446366",
-    "researcherIds": [
-      "A5100026706"
-    ],
-    "discoveryIds": [
-      "W7224092490"
-    ]
-  },
-  {
-    "id": "I165143802",
-    "name": "The University of Queensland",
-    "type": "education",
-    "countryCode": "AU",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I165143802",
-    "researcherIds": [
-      "A5011692770"
-    ],
-    "discoveryIds": [
-      "W7224092490"
-    ]
-  },
-  {
-    "id": "I1330342723",
-    "name": "Mayo Clinic",
-    "type": "healthcare",
-    "countryCode": "US",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I1330342723",
-    "researcherIds": [
-      "A5020519684"
-    ],
-    "discoveryIds": [
-      "W7224092490"
-    ]
-  },
-  {
-    "id": "I4210145880",
-    "name": "Sultan Qaboos University Hospital",
-    "type": "healthcare",
-    "countryCode": "OM",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I4210145880",
-    "researcherIds": [
-      "A5030936480"
-    ],
-    "discoveryIds": [
-      "W7224092490"
-    ]
-  },
-  {
-    "id": "I4405257637",
-    "name": "Sultan Qaboos Comprehensive Cancer Care & Research Center",
-    "type": "healthcare",
-    "countryCode": "OM",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I4405257637",
-    "researcherIds": [
-      "A5018732570"
-    ],
-    "discoveryIds": [
-      "W7224092490"
-    ]
-  },
-  {
-    "id": "I71052956",
-    "name": "University of Reading",
-    "type": "education",
-    "countryCode": "GB",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I71052956",
-    "researcherIds": [
-      "A5024121038"
-    ],
-    "discoveryIds": [
-      "W7224093340"
-    ]
-  },
-  {
-    "id": "I94951947",
-    "name": "University of Westminster",
-    "type": "education",
-    "countryCode": "GB",
-    "homepage": null,
-    "ror": null,
-    "openAlexUrl": "https://openalex.org/I94951947",
-    "researcherIds": [
-      "A5003356155"
-    ],
-    "discoveryIds": [
-      "W7224093340"
     ]
   }
 ]
