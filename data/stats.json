@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-30T12:59:18.901Z",
+  "generatedAt": "2026-10-31T12:36:42.774Z",
   "totalDiscoveries": 160,
-  "totalResearchers": 651,
-  "totalInstitutions": 55,
-  "totalCitations": 1,
+  "totalResearchers": 623,
+  "totalInstitutions": 64,
+  "totalCitations": 0,
   "averageCitations": 0,
-  "openAccessRatio": 0.68125,
+  "openAccessRatio": 0.78125,
   "weeklySeries": [
     {
       "weekStart": "2026-10-26",
@@ -15,110 +15,102 @@
   "topConcepts": [
     {
       "label": "Medicine",
-      "count": 25
+      "count": 27
     },
     {
-      "label": "Computer science",
-      "count": 9
-    },
-    {
-      "label": "Psychology",
-      "count": 9
-    },
-    {
-      "label": "Physics",
+      "label": "Process (computing)",
       "count": 7
     },
     {
-      "label": "Chemistry",
-      "count": 5
-    },
-    {
-      "label": "Biology",
-      "count": 5
+      "label": "Psychology",
+      "count": 6
     },
     {
       "label": "Materials science",
+      "count": 5
+    },
+    {
+      "label": "Physics",
+      "count": 5
+    },
+    {
+      "label": "Computer science",
       "count": 4
     },
     {
-      "label": "Structural equation modeling",
-      "count": 2
+      "label": "Biology",
+      "count": 4
     },
     {
-      "label": "Advertising",
-      "count": 2
+      "label": "Humanities",
+      "count": 3
     },
     {
-      "label": "Likert scale",
+      "label": "Chemistry",
+      "count": 3
+    },
+    {
+      "label": "Political science",
       "count": 2
     }
   ],
   "topInstitutions": [
     {
+      "label": "Sekolah Tinggi Ilmu Kesehatan Sukabumi",
+      "count": 4
+    },
+    {
+      "label": "Universitas Mercu Buana Yogyakarta",
+      "count": 4
+    },
+    {
       "label": "Universitas Patria Artha",
       "count": 4
+    },
+    {
+      "label": "Muhammadiyah University of Surakarta",
+      "count": 3
+    },
+    {
+      "label": "Tadulako University",
+      "count": 3
     },
     {
       "label": "Universitas Sains dan Teknologi Komputer",
       "count": 3
     },
     {
+      "label": "Poltekkes Kemenkes Jakarta I",
+      "count": 2
+    },
+    {
+      "label": "Gori State University",
+      "count": 2
+    },
+    {
+      "label": "Universitas Gadjah Mada",
+      "count": 2
+    },
+    {
       "label": "Universitas Dian Nuswantoro",
       "count": 2
-    },
-    {
-      "label": "Seoul National University",
-      "count": 2
-    },
-    {
-      "label": "Korea University",
-      "count": 2
-    },
-    {
-      "label": "Kwangju Women's University",
-      "count": 2
-    },
-    {
-      "label": "Epsom and St Helier University Hospitals NHS Trust",
-      "count": 1
-    },
-    {
-      "label": "University College London",
-      "count": 1
-    },
-    {
-      "label": "Progress Educational Trust",
-      "count": 1
-    },
-    {
-      "label": "City, University of London",
-      "count": 1
     }
   ],
   "topCountries": [
     {
       "label": "ID",
-      "count": 17
-    },
-    {
-      "label": "KR",
-      "count": 14
-    },
-    {
-      "label": "GB",
-      "count": 6
+      "count": 48
     },
     {
       "label": "US",
       "count": 5
     },
     {
-      "label": "IN",
+      "label": "JP",
       "count": 4
     },
     {
-      "label": "JP",
+      "label": "UA",
       "count": 4
     },
     {
@@ -126,75 +118,91 @@
       "count": 3
     },
     {
-      "label": "BR",
+      "label": "IN",
+      "count": 3
+    },
+    {
+      "label": "GE",
       "count": 2
     },
     {
-      "label": "BE",
-      "count": 1
+      "label": "KR",
+      "count": 2
     },
     {
-      "label": "DE",
-      "count": 1
+      "label": "GB",
+      "count": 2
+    },
+    {
+      "label": "MA",
+      "count": 2
     }
   ],
   "topResearchers": [
     {
-      "label": "Vasanti Jadva",
-      "count": 4595
+      "label": "Rahma Widyana",
+      "count": 171
     },
     {
-      "label": "Qizhai Li",
-      "count": 4135
+      "label": "Akhror Sabriddinovich Khusomiddinov",
+      "count": 136
     },
     {
-      "label": "Ngawai Moss",
-      "count": 603
+      "label": "Johan Budhiana",
+      "count": 120
     },
     {
-      "label": "Kate Brian",
-      "count": 542
-    },
-    {
-      "label": "Sarah Norcross",
-      "count": 298
-    },
-    {
-      "label": "Roymon Panjaitan",
-      "count": 162
-    },
-    {
-      "label": "Deden Kurniawan",
-      "count": 96
-    },
-    {
-      "label": "Nafisah Nurulrahmatia",
-      "count": 67
+      "label": "Kai Rüdele",
+      "count": 76
     },
     {
       "label": "Titin Hargyatni",
       "count": 30
     },
     {
-      "label": "Munifah Munifah",
-      "count": 19
+      "label": "Hidayanti Arifuddin",
+      "count": 22
+    },
+    {
+      "label": "Nur Dwi Yulianti",
+      "count": 2
+    },
+    {
+      "label": "Salome Omiadze",
+      "count": 2
+    },
+    {
+      "label": "Mita Herlina Sari",
+      "count": 1
+    },
+    {
+      "label": "Putri Yuniartis",
+      "count": 0
     }
   ],
   "institutionTypes": [
     {
       "label": "University / school",
-      "count": 57
-    },
-    {
-      "label": "Research facility",
-      "count": 4
+      "count": 71
     },
     {
       "label": "Hospital / healthcare",
+      "count": 5
+    },
+    {
+      "label": "Government",
+      "count": 3
+    },
+    {
+      "label": "Company",
       "count": 2
     },
     {
-      "label": "Nonprofit / institute",
+      "label": "Research facility",
+      "count": 1
+    },
+    {
+      "label": "Organization",
       "count": 1
     }
   ]
