@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-31T12:36:42.774Z",
+  "generatedAt": "2026-11-01T13:28:54.269Z",
   "totalDiscoveries": 160,
-  "totalResearchers": 623,
-  "totalInstitutions": 64,
+  "totalResearchers": 367,
+  "totalInstitutions": 60,
   "totalCitations": 0,
   "averageCitations": 0,
-  "openAccessRatio": 0.78125,
+  "openAccessRatio": 1,
   "weeklySeries": [
     {
       "weekStart": "2026-10-26",
@@ -15,30 +15,26 @@
   "topConcepts": [
     {
       "label": "Medicine",
-      "count": 27
-    },
-    {
-      "label": "Process (computing)",
-      "count": 7
+      "count": 25
     },
     {
       "label": "Psychology",
-      "count": 6
+      "count": 22
     },
     {
-      "label": "Materials science",
-      "count": 5
-    },
-    {
-      "label": "Physics",
-      "count": 5
-    },
-    {
-      "label": "Computer science",
+      "label": "Mathematics",
       "count": 4
     },
     {
-      "label": "Biology",
+      "label": "Clinical psychology",
+      "count": 4
+    },
+    {
+      "label": "Physics",
+      "count": 4
+    },
+    {
+      "label": "Chemistry",
       "count": 4
     },
     {
@@ -46,164 +42,136 @@
       "count": 3
     },
     {
-      "label": "Chemistry",
+      "label": "Business administration",
       "count": 3
     },
     {
-      "label": "Political science",
+      "label": "Business",
+      "count": 2
+    },
+    {
+      "label": "Bonferroni correction",
       "count": 2
     }
   ],
   "topInstitutions": [
     {
-      "label": "Sekolah Tinggi Ilmu Kesehatan Sukabumi",
-      "count": 4
+      "label": "Islamic Azad University, Tehran",
+      "count": 14
     },
     {
-      "label": "Universitas Mercu Buana Yogyakarta",
-      "count": 4
+      "label": "Politeknik Negeri Medan",
+      "count": 7
     },
     {
-      "label": "Universitas Patria Artha",
-      "count": 4
-    },
-    {
-      "label": "Muhammadiyah University of Surakarta",
+      "label": "Universitas Esa Unggul",
       "count": 3
     },
     {
-      "label": "Tadulako University",
+      "label": "Lambung Mangkurat University",
       "count": 3
     },
     {
-      "label": "Universitas Sains dan Teknologi Komputer",
+      "label": "University of Tabriz",
       "count": 3
     },
     {
-      "label": "Poltekkes Kemenkes Jakarta I",
+      "label": "Islamic Azad University, Yazd",
+      "count": 3
+    },
+    {
+      "label": "Islamic Azad University, UAE Branch",
+      "count": 3
+    },
+    {
+      "label": "Bakrie University",
       "count": 2
     },
     {
-      "label": "Gori State University",
+      "label": "University of Tehran",
       "count": 2
     },
     {
-      "label": "Universitas Gadjah Mada",
-      "count": 2
-    },
-    {
-      "label": "Universitas Dian Nuswantoro",
+      "label": "Islamic Azad University Tonekabon",
       "count": 2
     }
   ],
   "topCountries": [
     {
+      "label": "IR",
+      "count": 68
+    },
+    {
       "label": "ID",
-      "count": 48
+      "count": 20
     },
     {
-      "label": "US",
-      "count": 5
-    },
-    {
-      "label": "JP",
-      "count": 4
-    },
-    {
-      "label": "UA",
-      "count": 4
-    },
-    {
-      "label": "CN",
+      "label": "AE",
       "count": 3
     },
     {
       "label": "IN",
-      "count": 3
-    },
-    {
-      "label": "GE",
-      "count": 2
-    },
-    {
-      "label": "KR",
       "count": 2
     },
     {
       "label": "GB",
-      "count": 2
+      "count": 1
     },
     {
-      "label": "MA",
-      "count": 2
+      "label": "IQ",
+      "count": 1
+    },
+    {
+      "label": "EC",
+      "count": 1
     }
   ],
   "topResearchers": [
     {
-      "label": "Rahma Widyana",
-      "count": 171
+      "label": "Daniel M. Mulvihill",
+      "count": 6131
     },
     {
-      "label": "Akhror Sabriddinovich Khusomiddinov",
-      "count": 136
+      "label": "Charchit Kumar",
+      "count": 895
     },
     {
-      "label": "Johan Budhiana",
-      "count": 120
+      "label": "Łukasz Kaczmarczyk",
+      "count": 872
     },
     {
-      "label": "Kai Rüdele",
-      "count": 76
+      "label": "Nizirwan Anwar",
+      "count": 278
     },
     {
-      "label": "Titin Hargyatni",
-      "count": 30
+      "label": "Argo Wibowo",
+      "count": 217
     },
     {
-      "label": "Hidayanti Arifuddin",
-      "count": 22
+      "label": "Andrei G. Shvarts",
+      "count": 163
     },
     {
-      "label": "Nur Dwi Yulianti",
-      "count": 2
+      "label": "Jack Perris",
+      "count": 139
     },
     {
-      "label": "Salome Omiadze",
-      "count": 2
+      "label": "Muhammad Handry Imansyah",
+      "count": 98
     },
     {
-      "label": "Mita Herlina Sari",
-      "count": 1
+      "label": "Umi Proboyekti",
+      "count": 86
     },
     {
-      "label": "Putri Yuniartis",
-      "count": 0
+      "label": "Holila Hatta",
+      "count": 46
     }
   ],
   "institutionTypes": [
     {
       "label": "University / school",
-      "count": 71
-    },
-    {
-      "label": "Hospital / healthcare",
-      "count": 5
-    },
-    {
-      "label": "Government",
-      "count": 3
-    },
-    {
-      "label": "Company",
-      "count": 2
-    },
-    {
-      "label": "Research facility",
-      "count": 1
-    },
-    {
-      "label": "Organization",
-      "count": 1
+      "count": 96
     }
   ]
 }
