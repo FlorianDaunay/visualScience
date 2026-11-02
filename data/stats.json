@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-01T13:28:54.269Z",
+  "generatedAt": "2026-11-02T15:59:05.583Z",
   "totalDiscoveries": 160,
-  "totalResearchers": 367,
-  "totalInstitutions": 60,
+  "totalResearchers": 808,
+  "totalInstitutions": 58,
   "totalCitations": 0,
   "averageCitations": 0,
-  "openAccessRatio": 1,
+  "openAccessRatio": 0.83125,
   "weeklySeries": [
     {
-      "weekStart": "2026-10-26",
+      "weekStart": "2026-11-02",
       "count": 160
     }
   ],
@@ -18,20 +18,12 @@
       "count": 25
     },
     {
+      "label": "Mathematics education",
+      "count": 8
+    },
+    {
       "label": "Psychology",
-      "count": 22
-    },
-    {
-      "label": "Mathematics",
-      "count": 4
-    },
-    {
-      "label": "Clinical psychology",
-      "count": 4
-    },
-    {
-      "label": "Physics",
-      "count": 4
+      "count": 6
     },
     {
       "label": "Chemistry",
@@ -42,136 +34,172 @@
       "count": 3
     },
     {
-      "label": "Business administration",
+      "label": "Materials science",
       "count": 3
     },
     {
-      "label": "Business",
+      "label": "Biology",
+      "count": 3
+    },
+    {
+      "label": "Philosophy",
       "count": 2
     },
     {
-      "label": "Bonferroni correction",
+      "label": "Immune system",
+      "count": 2
+    },
+    {
+      "label": "Remote sensing",
       "count": 2
     }
   ],
   "topInstitutions": [
     {
-      "label": "Islamic Azad University, Tehran",
-      "count": 14
-    },
-    {
-      "label": "Politeknik Negeri Medan",
-      "count": 7
-    },
-    {
-      "label": "Universitas Esa Unggul",
-      "count": 3
-    },
-    {
-      "label": "Lambung Mangkurat University",
-      "count": 3
-    },
-    {
-      "label": "University of Tabriz",
-      "count": 3
-    },
-    {
-      "label": "Islamic Azad University, Yazd",
-      "count": 3
-    },
-    {
-      "label": "Islamic Azad University, UAE Branch",
-      "count": 3
-    },
-    {
-      "label": "Bakrie University",
+      "label": "Universitas Negeri Surabaya",
       "count": 2
     },
     {
-      "label": "University of Tehran",
+      "label": "Sebelas Maret University",
       "count": 2
     },
     {
-      "label": "Islamic Azad University Tonekabon",
+      "label": "University of Technology Malaysia",
       "count": 2
+    },
+    {
+      "label": "Seoul National University",
+      "count": 1
+    },
+    {
+      "label": "Universidad FUCS",
+      "count": 1
+    },
+    {
+      "label": "Universidad del Valle",
+      "count": 1
+    },
+    {
+      "label": "First Hospital of China Medical University",
+      "count": 1
+    },
+    {
+      "label": "First Affiliated Hospital of Zhengzhou University",
+      "count": 1
+    },
+    {
+      "label": "Beijing Proteome Research Center",
+      "count": 1
+    },
+    {
+      "label": "Second Affiliated Hospital of Zhejiang University",
+      "count": 1
     }
   ],
   "topCountries": [
     {
-      "label": "IR",
-      "count": 68
-    },
-    {
       "label": "ID",
-      "count": 20
+      "count": 13
     },
     {
-      "label": "AE",
-      "count": 3
+      "label": "CN",
+      "count": 12
+    },
+    {
+      "label": "US",
+      "count": 11
+    },
+    {
+      "label": "PH",
+      "count": 4
     },
     {
       "label": "IN",
+      "count": 3
+    },
+    {
+      "label": "MX",
+      "count": 3
+    },
+    {
+      "label": "MY",
       "count": 2
     },
     {
-      "label": "GB",
-      "count": 1
+      "label": "KR",
+      "count": 2
     },
     {
-      "label": "IQ",
-      "count": 1
+      "label": "CO",
+      "count": 2
     },
     {
-      "label": "EC",
-      "count": 1
+      "label": "TR",
+      "count": 2
     }
   ],
   "topResearchers": [
     {
-      "label": "Daniel M. Mulvihill",
-      "count": 6131
+      "label": "Bart van den Hurk",
+      "count": 30648
     },
     {
-      "label": "Charchit Kumar",
-      "count": 895
+      "label": "Sanne Muis",
+      "count": 6236
     },
     {
-      "label": "Łukasz Kaczmarczyk",
-      "count": 872
+      "label": "Anaïs Couasnon",
+      "count": 3456
     },
     {
-      "label": "Nizirwan Anwar",
-      "count": 278
+      "label": "Jing Xue",
+      "count": 2712
     },
     {
-      "label": "Argo Wibowo",
-      "count": 217
+      "label": "Dominik Paprotny",
+      "count": 2098
     },
     {
-      "label": "Andrei G. Shvarts",
-      "count": 163
+      "label": "Juan Cai",
+      "count": 1635
     },
     {
-      "label": "Jack Perris",
-      "count": 139
+      "label": "Kyoung-Jae Chung",
+      "count": 1176
     },
     {
-      "label": "Muhammad Handry Imansyah",
-      "count": 98
+      "label": "Jingyi Xu",
+      "count": 1124
     },
     {
-      "label": "Umi Proboyekti",
-      "count": 86
+      "label": "Budi Irawan",
+      "count": 388
     },
     {
-      "label": "Holila Hatta",
-      "count": 46
+      "label": "Raden Maya Febriyanti",
+      "count": 299
     }
   ],
   "institutionTypes": [
     {
       "label": "University / school",
-      "count": 96
+      "count": 50
+    },
+    {
+      "label": "Hospital / healthcare",
+      "count": 7
+    },
+    {
+      "label": "Research facility",
+      "count": 2
+    },
+    {
+      "label": "Organization",
+      "count": 1
+    },
+    {
+      "label": "Government",
+      "count": 1
     }
   ]
 }
