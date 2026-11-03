@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-02T15:59:05.583Z",
+  "generatedAt": "2026-11-03T14:19:57.882Z",
   "totalDiscoveries": 160,
-  "totalResearchers": 808,
-  "totalInstitutions": 58,
-  "totalCitations": 0,
+  "totalResearchers": 880,
+  "totalInstitutions": 112,
+  "totalCitations": 4,
   "averageCitations": 0,
-  "openAccessRatio": 0.83125,
+  "openAccessRatio": 0.79375,
   "weeklySeries": [
     {
       "weekStart": "2026-11-02",
@@ -15,190 +15,194 @@
   "topConcepts": [
     {
       "label": "Medicine",
-      "count": 25
+      "count": 36
     },
     {
-      "label": "Mathematics education",
-      "count": 8
+      "label": "Biology",
+      "count": 9
+    },
+    {
+      "label": "Process (computing)",
+      "count": 9
     },
     {
       "label": "Psychology",
-      "count": 6
+      "count": 7
+    },
+    {
+      "label": "Computer science",
+      "count": 5
     },
     {
       "label": "Chemistry",
+      "count": 5
+    },
+    {
+      "label": "Physics",
       "count": 4
     },
     {
       "label": "Humanities",
-      "count": 3
+      "count": 4
     },
     {
       "label": "Materials science",
       "count": 3
     },
     {
-      "label": "Biology",
+      "label": "Mathematics education",
       "count": 3
-    },
-    {
-      "label": "Philosophy",
-      "count": 2
-    },
-    {
-      "label": "Immune system",
-      "count": 2
-    },
-    {
-      "label": "Remote sensing",
-      "count": 2
     }
   ],
   "topInstitutions": [
     {
-      "label": "Universitas Negeri Surabaya",
+      "label": "King's College London",
       "count": 2
     },
     {
-      "label": "Sebelas Maret University",
+      "label": "China University of Petroleum, Beijing",
       "count": 2
     },
     {
-      "label": "University of Technology Malaysia",
+      "label": "Chinese Academy of Sciences",
       "count": 2
     },
     {
-      "label": "Seoul National University",
+      "label": "Mustansiriyah University",
+      "count": 2
+    },
+    {
+      "label": "National Institute of Genetics",
       "count": 1
     },
     {
-      "label": "Universidad FUCS",
+      "label": "Thymia Limited (United Kingdom)",
       "count": 1
     },
     {
-      "label": "Universidad del Valle",
+      "label": "State Key Laboratory of Synthetic Chemistry",
       "count": 1
     },
     {
-      "label": "First Hospital of China Medical University",
+      "label": "Birla Institute of Technology and Science - Hyderabad Campus",
       "count": 1
     },
     {
-      "label": "First Affiliated Hospital of Zhengzhou University",
+      "label": "Universidad Andrés Bello",
       "count": 1
     },
     {
-      "label": "Beijing Proteome Research Center",
-      "count": 1
-    },
-    {
-      "label": "Second Affiliated Hospital of Zhejiang University",
+      "label": "Saha Institute of Nuclear Physics",
       "count": 1
     }
   ],
   "topCountries": [
     {
-      "label": "ID",
-      "count": 13
-    },
-    {
       "label": "CN",
-      "count": 12
-    },
-    {
-      "label": "US",
-      "count": 11
-    },
-    {
-      "label": "PH",
-      "count": 4
+      "count": 24
     },
     {
       "label": "IN",
-      "count": 3
+      "count": 9
     },
     {
-      "label": "MX",
-      "count": 3
+      "label": "US",
+      "count": 9
     },
     {
-      "label": "MY",
-      "count": 2
+      "label": "GB",
+      "count": 7
     },
     {
-      "label": "KR",
-      "count": 2
+      "label": "ES",
+      "count": 6
     },
     {
-      "label": "CO",
-      "count": 2
+      "label": "IT",
+      "count": 6
     },
     {
-      "label": "TR",
-      "count": 2
+      "label": "IQ",
+      "count": 5
+    },
+    {
+      "label": "PK",
+      "count": 5
+    },
+    {
+      "label": "DE",
+      "count": 5
+    },
+    {
+      "label": "ID",
+      "count": 5
     }
   ],
   "topResearchers": [
     {
-      "label": "Bart van den Hurk",
-      "count": 30648
+      "label": "Johannes König",
+      "count": 9621
     },
     {
-      "label": "Sanne Muis",
-      "count": 6236
+      "label": "Nicholas Cummins",
+      "count": 7755
     },
     {
-      "label": "Anaïs Couasnon",
-      "count": 3456
+      "label": "Shu Kondo",
+      "count": 7352
     },
     {
-      "label": "Jing Xue",
-      "count": 2712
+      "label": "Bijay Kumar Agrawal",
+      "count": 4089
     },
     {
-      "label": "Dominik Paprotny",
-      "count": 2098
+      "label": "Darren W. Williams",
+      "count": 2171
     },
     {
-      "label": "Juan Cai",
-      "count": 1635
+      "label": "C. Mondal",
+      "count": 2171
     },
     {
-      "label": "Kyoung-Jae Chung",
-      "count": 1176
+      "label": "Ryan P. Cheng",
+      "count": 1642
     },
     {
-      "label": "Jingyi Xu",
-      "count": 1124
+      "label": "Sarmistha Banik",
+      "count": 1050
     },
     {
-      "label": "Budi Irawan",
-      "count": 388
+      "label": "Alexandra Livia Georgescu",
+      "count": 997
     },
     {
-      "label": "Raden Maya Febriyanti",
-      "count": 299
+      "label": "Amrita Mukherjee",
+      "count": 824
     }
   ],
   "institutionTypes": [
     {
       "label": "University / school",
-      "count": 50
+      "count": 77
     },
     {
       "label": "Hospital / healthcare",
-      "count": 7
+      "count": 21
     },
     {
       "label": "Research facility",
-      "count": 2
-    },
-    {
-      "label": "Organization",
-      "count": 1
+      "count": 9
     },
     {
       "label": "Government",
+      "count": 7
+    },
+    {
+      "label": "Company",
+      "count": 1
+    },
+    {
+      "label": "Organization",
       "count": 1
     }
   ]
