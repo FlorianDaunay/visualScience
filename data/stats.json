@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-03T14:19:57.882Z",
+  "generatedAt": "2026-11-04T14:36:36.606Z",
   "totalDiscoveries": 160,
-  "totalResearchers": 880,
-  "totalInstitutions": 112,
-  "totalCitations": 4,
-  "averageCitations": 0,
-  "openAccessRatio": 0.79375,
+  "totalResearchers": 774,
+  "totalInstitutions": 187,
+  "totalCitations": 8,
+  "averageCitations": 0.1,
+  "openAccessRatio": 0.69375,
   "weeklySeries": [
     {
       "weekStart": "2026-11-02",
@@ -15,195 +15,203 @@
   "topConcepts": [
     {
       "label": "Medicine",
-      "count": 36
+      "count": 13
     },
     {
       "label": "Biology",
-      "count": 9
-    },
-    {
-      "label": "Process (computing)",
-      "count": 9
-    },
-    {
-      "label": "Psychology",
-      "count": 7
-    },
-    {
-      "label": "Computer science",
-      "count": 5
+      "count": 11
     },
     {
       "label": "Chemistry",
-      "count": 5
+      "count": 9
+    },
+    {
+      "label": "Materials science",
+      "count": 6
+    },
+    {
+      "label": "Computer science",
+      "count": 4
     },
     {
       "label": "Physics",
       "count": 4
     },
     {
+      "label": "Psychology",
+      "count": 2
+    },
+    {
+      "label": "Taguchi methods",
+      "count": 2
+    },
+    {
       "label": "Humanities",
-      "count": 4
+      "count": 2
     },
     {
-      "label": "Materials science",
-      "count": 3
-    },
-    {
-      "label": "Mathematics education",
-      "count": 3
+      "label": "Traceability",
+      "count": 2
     }
   ],
   "topInstitutions": [
     {
-      "label": "King's College London",
+      "label": "King Abdullah University of Science and Technology",
       "count": 2
     },
     {
-      "label": "China University of Petroleum, Beijing",
+      "label": "Politeknik Negeri Sriwijaya",
       "count": 2
     },
     {
-      "label": "Chinese Academy of Sciences",
+      "label": "Centre National de la Recherche Scientifique",
       "count": 2
     },
     {
-      "label": "Mustansiriyah University",
+      "label": "British Antarctic Survey",
       "count": 2
     },
     {
-      "label": "National Institute of Genetics",
-      "count": 1
+      "label": "University of Alberta",
+      "count": 2
     },
     {
-      "label": "Thymia Limited (United Kingdom)",
-      "count": 1
+      "label": "University of Calgary",
+      "count": 2
     },
     {
-      "label": "State Key Laboratory of Synthetic Chemistry",
-      "count": 1
+      "label": "University of Würzburg",
+      "count": 2
     },
     {
-      "label": "Birla Institute of Technology and Science - Hyderabad Campus",
-      "count": 1
+      "label": "Lund University",
+      "count": 2
     },
     {
-      "label": "Universidad Andrés Bello",
-      "count": 1
+      "label": "Udayana University",
+      "count": 2
     },
     {
-      "label": "Saha Institute of Nuclear Physics",
-      "count": 1
+      "label": "University of California, Riverside",
+      "count": 2
     }
   ],
   "topCountries": [
     {
-      "label": "CN",
-      "count": 24
-    },
-    {
-      "label": "IN",
-      "count": 9
-    },
-    {
       "label": "US",
-      "count": 9
+      "count": 55
     },
     {
-      "label": "GB",
-      "count": 7
-    },
-    {
-      "label": "ES",
-      "count": 6
-    },
-    {
-      "label": "IT",
-      "count": 6
-    },
-    {
-      "label": "IQ",
-      "count": 5
-    },
-    {
-      "label": "PK",
-      "count": 5
+      "label": "CN",
+      "count": 25
     },
     {
       "label": "DE",
-      "count": 5
+      "count": 16
+    },
+    {
+      "label": "GB",
+      "count": 15
     },
     {
       "label": "ID",
+      "count": 13
+    },
+    {
+      "label": "KR",
+      "count": 8
+    },
+    {
+      "label": "AU",
+      "count": 7
+    },
+    {
+      "label": "SE",
       "count": 5
+    },
+    {
+      "label": "IT",
+      "count": 5
+    },
+    {
+      "label": "CA",
+      "count": 4
     }
   ],
   "topResearchers": [
     {
-      "label": "Johannes König",
-      "count": 9621
+      "label": "T. N. Palmer",
+      "count": 39804
     },
     {
-      "label": "Nicholas Cummins",
-      "count": 7755
+      "label": "George Bindeh Chuyong",
+      "count": 9600
     },
     {
-      "label": "Shu Kondo",
-      "count": 7352
+      "label": "Carlos A. Navas",
+      "count": 7642
     },
     {
-      "label": "Bijay Kumar Agrawal",
-      "count": 4089
+      "label": "Hugues Parrinello",
+      "count": 6770
     },
     {
-      "label": "Darren W. Williams",
-      "count": 2171
+      "label": "Carole M. Smadja",
+      "count": 6315
     },
     {
-      "label": "C. Mondal",
-      "count": 2171
+      "label": "Martin Worbes",
+      "count": 5692
     },
     {
-      "label": "Ryan P. Cheng",
-      "count": 1642
+      "label": "David M. Newbery",
+      "count": 5508
     },
     {
-      "label": "Sarmistha Banik",
-      "count": 1050
+      "label": "Raphaël Leblois",
+      "count": 5418
     },
     {
-      "label": "Alexandra Livia Georgescu",
-      "count": 997
+      "label": "Maxime Galan",
+      "count": 5411
     },
     {
-      "label": "Amrita Mukherjee",
-      "count": 824
+      "label": "Neville Pillay",
+      "count": 4351
     }
   ],
   "institutionTypes": [
     {
       "label": "University / school",
-      "count": 77
-    },
-    {
-      "label": "Hospital / healthcare",
-      "count": 21
-    },
-    {
-      "label": "Research facility",
-      "count": 9
+      "count": 154
     },
     {
       "label": "Government",
-      "count": 7
+      "count": 13
+    },
+    {
+      "label": "Research facility",
+      "count": 10
+    },
+    {
+      "label": "Hospital / healthcare",
+      "count": 6
+    },
+    {
+      "label": "Nonprofit / institute",
+      "count": 6
+    },
+    {
+      "label": "Archive",
+      "count": 4
     },
     {
       "label": "Company",
-      "count": 1
+      "count": 3
     },
     {
       "label": "Organization",
-      "count": 1
+      "count": 3
     }
   ]
 }
