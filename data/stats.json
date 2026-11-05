@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-04T14:36:36.606Z",
+  "generatedAt": "2026-11-05T14:41:47.245Z",
   "totalDiscoveries": 160,
-  "totalResearchers": 774,
-  "totalInstitutions": 187,
-  "totalCitations": 8,
-  "averageCitations": 0.1,
-  "openAccessRatio": 0.69375,
+  "totalResearchers": 954,
+  "totalInstitutions": 98,
+  "totalCitations": 3,
+  "averageCitations": 0,
+  "openAccessRatio": 0.68125,
   "weeklySeries": [
     {
       "weekStart": "2026-11-02",
@@ -15,203 +15,199 @@
   "topConcepts": [
     {
       "label": "Medicine",
-      "count": 13
+      "count": 40
     },
     {
-      "label": "Biology",
-      "count": 11
-    },
-    {
-      "label": "Chemistry",
+      "label": "Computer science",
       "count": 9
     },
     {
       "label": "Materials science",
-      "count": 6
+      "count": 9
     },
     {
-      "label": "Computer science",
+      "label": "Environmental science",
+      "count": 7
+    },
+    {
+      "label": "Biology",
+      "count": 4
+    },
+    {
+      "label": "Chemistry",
       "count": 4
     },
     {
       "label": "Physics",
-      "count": 4
+      "count": 2
     },
     {
       "label": "Psychology",
       "count": 2
     },
     {
-      "label": "Taguchi methods",
+      "label": "Demography",
       "count": 2
     },
     {
       "label": "Humanities",
       "count": 2
-    },
-    {
-      "label": "Traceability",
-      "count": 2
     }
   ],
   "topInstitutions": [
     {
-      "label": "King Abdullah University of Science and Technology",
+      "label": "California Institute of Technology",
       "count": 2
     },
     {
-      "label": "Politeknik Negeri Sriwijaya",
+      "label": "Universitas Teuku Umar",
       "count": 2
     },
     {
-      "label": "Centre National de la Recherche Scientifique",
-      "count": 2
+      "label": "Hanoi Medical University",
+      "count": 1
     },
     {
-      "label": "British Antarctic Survey",
-      "count": 2
+      "label": "Jiangxi Institute of Fashion Technology",
+      "count": 1
     },
     {
-      "label": "University of Alberta",
-      "count": 2
+      "label": "Uppsala University",
+      "count": 1
     },
     {
-      "label": "University of Calgary",
-      "count": 2
+      "label": "University of Lisbon",
+      "count": 1
     },
     {
-      "label": "University of Würzburg",
-      "count": 2
+      "label": "École Nationale Supérieure de Techniques Avancées",
+      "count": 1
     },
     {
-      "label": "Lund University",
-      "count": 2
+      "label": "Université de Tours",
+      "count": 1
     },
     {
-      "label": "Udayana University",
-      "count": 2
+      "label": "King's College London",
+      "count": 1
     },
     {
-      "label": "University of California, Riverside",
-      "count": 2
+      "label": "East China University of Technology",
+      "count": 1
     }
   ],
   "topCountries": [
     {
       "label": "US",
-      "count": 55
+      "count": 20
     },
     {
       "label": "CN",
-      "count": 25
-    },
-    {
-      "label": "DE",
-      "count": 16
-    },
-    {
-      "label": "GB",
       "count": 15
     },
     {
       "label": "ID",
-      "count": 13
-    },
-    {
-      "label": "KR",
-      "count": 8
-    },
-    {
-      "label": "AU",
-      "count": 7
-    },
-    {
-      "label": "SE",
-      "count": 5
-    },
-    {
-      "label": "IT",
-      "count": 5
+      "count": 11
     },
     {
       "label": "CA",
+      "count": 7
+    },
+    {
+      "label": "FR",
       "count": 4
+    },
+    {
+      "label": "DE",
+      "count": 4
+    },
+    {
+      "label": "IN",
+      "count": 4
+    },
+    {
+      "label": "UG",
+      "count": 4
+    },
+    {
+      "label": "VN",
+      "count": 3
+    },
+    {
+      "label": "KR",
+      "count": 3
     }
   ],
   "topResearchers": [
     {
-      "label": "T. N. Palmer",
-      "count": 39804
+      "label": "Marin Soljacic A",
+      "count": 65317
     },
     {
-      "label": "George Bindeh Chuyong",
-      "count": 9600
+      "label": "Garnet Kin‐Lic Chan",
+      "count": 23050
     },
     {
-      "label": "Carlos A. Navas",
-      "count": 7642
+      "label": "Gernot G. U. Rohde",
+      "count": 12993
     },
     {
-      "label": "Hugues Parrinello",
-      "count": 6770
+      "label": "Sandeep Sharma",
+      "count": 11530
     },
     {
-      "label": "Carole M. Smadja",
-      "count": 6315
+      "label": "Måns Magnusson",
+      "count": 11285
     },
     {
-      "label": "Martin Worbes",
-      "count": 5692
+      "label": "Jan Rupp",
+      "count": 9205
     },
     {
-      "label": "David M. Newbery",
-      "count": 5508
+      "label": "Alexandra Segerberg",
+      "count": 8834
     },
     {
-      "label": "Raphaël Leblois",
-      "count": 5418
+      "label": "Stephanie M. Reich",
+      "count": 5106
     },
     {
-      "label": "Maxime Galan",
-      "count": 5411
+      "label": "Yannick Salamin",
+      "count": 4114
     },
     {
-      "label": "Neville Pillay",
-      "count": 4351
+      "label": "Matteo Magnani",
+      "count": 2414
     }
   ],
   "institutionTypes": [
     {
       "label": "University / school",
-      "count": 154
-    },
-    {
-      "label": "Government",
-      "count": 13
-    },
-    {
-      "label": "Research facility",
-      "count": 10
+      "count": 77
     },
     {
       "label": "Hospital / healthcare",
-      "count": 6
+      "count": 9
     },
     {
-      "label": "Nonprofit / institute",
-      "count": 6
-    },
-    {
-      "label": "Archive",
+      "label": "Government",
       "count": 4
     },
     {
-      "label": "Company",
+      "label": "Nonprofit / institute",
       "count": 3
     },
     {
-      "label": "Organization",
+      "label": "Research facility",
       "count": 3
+    },
+    {
+      "label": "Company",
+      "count": 2
+    },
+    {
+      "label": "Organization",
+      "count": 2
     }
   ]
 }
