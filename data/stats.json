@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-05T14:41:47.245Z",
+  "generatedAt": "2026-11-06T14:19:27.532Z",
   "totalDiscoveries": 160,
-  "totalResearchers": 954,
-  "totalInstitutions": 98,
-  "totalCitations": 3,
+  "totalResearchers": 809,
+  "totalInstitutions": 108,
+  "totalCitations": 2,
   "averageCitations": 0,
-  "openAccessRatio": 0.68125,
+  "openAccessRatio": 0.6125,
   "weeklySeries": [
     {
       "weekStart": "2026-11-02",
@@ -15,199 +15,195 @@
   "topConcepts": [
     {
       "label": "Medicine",
-      "count": 40
-    },
-    {
-      "label": "Computer science",
-      "count": 9
+      "count": 27
     },
     {
       "label": "Materials science",
       "count": 9
     },
     {
-      "label": "Environmental science",
-      "count": 7
-    },
-    {
-      "label": "Biology",
-      "count": 4
-    },
-    {
       "label": "Chemistry",
-      "count": 4
-    },
-    {
-      "label": "Physics",
-      "count": 2
+      "count": 8
     },
     {
       "label": "Psychology",
+      "count": 6
+    },
+    {
+      "label": "Biology",
+      "count": 6
+    },
+    {
+      "label": "Environmental science",
+      "count": 4
+    },
+    {
+      "label": "Mental health",
+      "count": 3
+    },
+    {
+      "label": "Computer science",
+      "count": 3
+    },
+    {
+      "label": "Bijection",
       "count": 2
     },
     {
-      "label": "Demography",
-      "count": 2
-    },
-    {
-      "label": "Humanities",
+      "label": "Artificial intelligence",
       "count": 2
     }
   ],
   "topInstitutions": [
     {
-      "label": "California Institute of Technology",
+      "label": "Central Potato Research Institute",
       "count": 2
     },
     {
-      "label": "Universitas Teuku Umar",
+      "label": "Chinese Academy of Sciences",
       "count": 2
     },
     {
-      "label": "Hanoi Medical University",
+      "label": "University of Vienna",
       "count": 1
     },
     {
-      "label": "Jiangxi Institute of Fashion Technology",
+      "label": "Université d'Orléans",
       "count": 1
     },
     {
-      "label": "Uppsala University",
+      "label": "Laboratoire de Mathématiques de Reims",
       "count": 1
     },
     {
-      "label": "University of Lisbon",
+      "label": "Tianjin Agricultural University",
       "count": 1
     },
     {
-      "label": "École Nationale Supérieure de Techniques Avancées",
+      "label": "Nanyang Technological University",
       "count": 1
     },
     {
-      "label": "Université de Tours",
+      "label": "Clalit Health Services",
       "count": 1
     },
     {
-      "label": "King's College London",
+      "label": "Jashore University of Science and Technology",
       "count": 1
     },
     {
-      "label": "East China University of Technology",
+      "label": "University of Padua",
       "count": 1
     }
   ],
   "topCountries": [
     {
-      "label": "US",
-      "count": 20
+      "label": "CN",
+      "count": 28
     },
     {
-      "label": "CN",
-      "count": 15
+      "label": "US",
+      "count": 13
+    },
+    {
+      "label": "IN",
+      "count": 10
     },
     {
       "label": "ID",
-      "count": 11
+      "count": 10
     },
     {
-      "label": "CA",
-      "count": 7
+      "label": "JP",
+      "count": 9
+    },
+    {
+      "label": "GB",
+      "count": 5
     },
     {
       "label": "FR",
       "count": 4
     },
     {
-      "label": "DE",
+      "label": "PT",
       "count": 4
     },
     {
-      "label": "IN",
-      "count": 4
-    },
-    {
-      "label": "UG",
-      "count": 4
-    },
-    {
-      "label": "VN",
+      "label": "IR",
       "count": 3
     },
     {
-      "label": "KR",
+      "label": "AU",
       "count": 3
     }
   ],
   "topResearchers": [
     {
-      "label": "Marin Soljacic A",
-      "count": 65317
+      "label": "Jin Lin Huang",
+      "count": 9847
     },
     {
-      "label": "Garnet Kin‐Lic Chan",
-      "count": 23050
+      "label": "Ratna Dwi Wulandari",
+      "count": 9794
     },
     {
-      "label": "Gernot G. U. Rohde",
-      "count": 12993
+      "label": "Stefania Bruschi",
+      "count": 8741
     },
     {
-      "label": "Sandeep Sharma",
-      "count": 11530
+      "label": "Yijie Shen",
+      "count": 8295
     },
     {
-      "label": "Måns Magnusson",
-      "count": 11285
+      "label": "Andrea Ghiotti",
+      "count": 6503
     },
     {
-      "label": "Jan Rupp",
-      "count": 9205
+      "label": "Brajesh Singh",
+      "count": 3429
     },
     {
-      "label": "Alexandra Segerberg",
-      "count": 8834
+      "label": "Jian Liang",
+      "count": 3160
     },
     {
-      "label": "Stephanie M. Reich",
-      "count": 5106
+      "label": "Ofer Isakov",
+      "count": 3042
     },
     {
-      "label": "Yannick Salamin",
-      "count": 4114
+      "label": "Andreas Čap",
+      "count": 2135
     },
     {
-      "label": "Matteo Magnani",
-      "count": 2414
+      "label": "Rachele Bertolini",
+      "count": 2107
     }
   ],
   "institutionTypes": [
     {
       "label": "University / school",
-      "count": 77
-    },
-    {
-      "label": "Hospital / healthcare",
-      "count": 9
-    },
-    {
-      "label": "Government",
-      "count": 4
-    },
-    {
-      "label": "Nonprofit / institute",
-      "count": 3
+      "count": 85
     },
     {
       "label": "Research facility",
-      "count": 3
+      "count": 13
+    },
+    {
+      "label": "Hospital / healthcare",
+      "count": 7
+    },
+    {
+      "label": "Government",
+      "count": 2
     },
     {
       "label": "Company",
       "count": 2
     },
     {
-      "label": "Organization",
-      "count": 2
+      "label": "Nonprofit / institute",
+      "count": 1
     }
   ]
 }
