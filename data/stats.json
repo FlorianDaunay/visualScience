@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-07T13:06:10.452Z",
+  "generatedAt": "2026-11-08T13:28:17.952Z",
   "totalDiscoveries": 160,
-  "totalResearchers": 978,
-  "totalInstitutions": 56,
-  "totalCitations": 3,
-  "averageCitations": 0,
-  "openAccessRatio": 0.725,
+  "totalResearchers": 969,
+  "totalInstitutions": 84,
+  "totalCitations": 9,
+  "averageCitations": 0.1,
+  "openAccessRatio": 0.7625,
   "weeklySeries": [
     {
       "weekStart": "2026-11-02",
@@ -22,19 +22,23 @@
       "count": 7
     },
     {
+      "label": "Physics",
+      "count": 4
+    },
+    {
       "label": "Psychology",
-      "count": 5
-    },
-    {
-      "label": "Computer science",
-      "count": 5
-    },
-    {
-      "label": "Chemistry",
-      "count": 5
+      "count": 4
     },
     {
       "label": "Materials science",
+      "count": 4
+    },
+    {
+      "label": "Computer science",
+      "count": 4
+    },
+    {
+      "label": "Chemistry",
       "count": 4
     },
     {
@@ -42,15 +46,11 @@
       "count": 4
     },
     {
-      "label": "Physics",
+      "label": "Humanities",
       "count": 3
     },
     {
-      "label": "Prioritization",
-      "count": 2
-    },
-    {
-      "label": "Microplastics",
+      "label": "Perspective (graphical)",
       "count": 2
     }
   ],
@@ -64,142 +64,142 @@
       "count": 3
     },
     {
-      "label": "University of Alberta",
+      "label": "University of Alabama",
+      "count": 2
+    },
+    {
+      "label": "Inserm",
       "count": 1
     },
     {
-      "label": "Indian Institute of Technology Bombay",
+      "label": "Saarland University",
       "count": 1
     },
     {
-      "label": "University of Oxford",
+      "label": "Institut Gustave Roussy",
       "count": 1
     },
     {
-      "label": "Iowa State University",
+      "label": "International Centre for Genetic Engineering and Biotechnology",
       "count": 1
     },
     {
-      "label": "Hebrew University of Jerusalem",
+      "label": "Centre National de la Recherche Scientifique",
       "count": 1
     },
     {
-      "label": "University of New Mexico",
+      "label": "Génétique et biologie du développement",
       "count": 1
     },
     {
-      "label": "New York Medical College",
-      "count": 1
-    },
-    {
-      "label": "West Virginia University",
+      "label": "University of Calcutta",
       "count": 1
     }
   ],
   "topCountries": [
     {
       "label": "US",
-      "count": 11
+      "count": 20
     },
     {
       "label": "CN",
-      "count": 11
+      "count": 12
     },
     {
       "label": "ID",
-      "count": 10
+      "count": 11
+    },
+    {
+      "label": "ES",
+      "count": 9
     },
     {
       "label": "JP",
       "count": 6
     },
     {
-      "label": "ES",
+      "label": "FR",
       "count": 5
+    },
+    {
+      "label": "DE",
+      "count": 4
+    },
+    {
+      "label": "IT",
+      "count": 4
+    },
+    {
+      "label": "IN",
+      "count": 4
     },
     {
       "label": "BR",
       "count": 3
-    },
-    {
-      "label": "IT",
-      "count": 3
-    },
-    {
-      "label": "CA",
-      "count": 2
-    },
-    {
-      "label": "IN",
-      "count": 1
-    },
-    {
-      "label": "GB",
-      "count": 1
     }
   ],
   "topResearchers": [
     {
+      "label": "Florent Ginhoux",
+      "count": 99667
+    },
+    {
       "label": "Shinichi Nakagawa",
-      "count": 61108
+      "count": 63889
     },
     {
-      "label": "Masahiro Hashizume",
-      "count": 26321
+      "label": "Nicolas Manel",
+      "count": 20108
     },
     {
-      "label": "Diane C. Bassham",
-      "count": 25808
-    },
-    {
-      "label": "Alan M. Myers",
-      "count": 15637
+      "label": "Ana‐Maria Lennon‐Duménil",
+      "count": 11310
     },
     {
       "label": "Malgorzata Lagisz",
-      "count": 8487
+      "count": 9006
     },
     {
-      "label": "Tamar Avin‐Wittenberg",
-      "count": 4938
+      "label": "Coralie L. Guérin",
+      "count": 7085
     },
     {
-      "label": "Chris Fook Sheng Ng",
-      "count": 4303
+      "label": "Mathieu Maurin",
+      "count": 5628
     },
     {
-      "label": "Rizky Yudaruddin",
-      "count": 2122
+      "label": "Daniele Fachinetti",
+      "count": 5492
     },
     {
-      "label": "Chiara Calderini",
-      "count": 1854
+      "label": "Sandra Iden",
+      "count": 2404
     },
     {
-      "label": "Erick J. Lundgren",
-      "count": 1412
+      "label": "Federica Benvenuti",
+      "count": 2216
     }
   ],
   "institutionTypes": [
     {
       "label": "University / school",
-      "count": 50
+      "count": 67
     },
     {
       "label": "Hospital / healthcare",
-      "count": 5
+      "count": 8
     },
     {
       "label": "Research facility",
-      "count": 2
+      "count": 6
     },
     {
       "label": "Government",
-      "count": 1
+      "count": 5
     },
     {
       "label": "Nonprofit / institute",
-      "count": 1
+      "count": 2
     },
     {
       "label": "Company",
