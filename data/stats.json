@@ -1,205 +1,213 @@
 {
-  "generatedAt": "2026-11-08T13:28:17.952Z",
+  "generatedAt": "2026-11-09T16:25:48.607Z",
   "totalDiscoveries": 160,
-  "totalResearchers": 969,
-  "totalInstitutions": 84,
-  "totalCitations": 9,
+  "totalResearchers": 765,
+  "totalInstitutions": 56,
+  "totalCitations": 19,
   "averageCitations": 0.1,
-  "openAccessRatio": 0.7625,
+  "openAccessRatio": 0.7125,
   "weeklySeries": [
     {
-      "weekStart": "2026-11-02",
+      "weekStart": "2026-11-09",
       "count": 160
     }
   ],
   "topConcepts": [
     {
       "label": "Medicine",
-      "count": 18
-    },
-    {
-      "label": "Biology",
-      "count": 7
-    },
-    {
-      "label": "Physics",
-      "count": 4
-    },
-    {
-      "label": "Psychology",
-      "count": 4
+      "count": 33
     },
     {
       "label": "Materials science",
-      "count": 4
+      "count": 9
+    },
+    {
+      "label": "Psychology",
+      "count": 5
     },
     {
       "label": "Computer science",
       "count": 4
     },
     {
-      "label": "Chemistry",
-      "count": 4
+      "label": "Biology",
+      "count": 3
     },
     {
-      "label": "Business administration",
-      "count": 4
+      "label": "Chemistry",
+      "count": 3
     },
     {
       "label": "Humanities",
       "count": 3
     },
     {
-      "label": "Perspective (graphical)",
+      "label": "Physics",
+      "count": 2
+    },
+    {
+      "label": "Environmental health",
+      "count": 2
+    },
+    {
+      "label": "Mental health",
       "count": 2
     }
   ],
   "topInstitutions": [
     {
-      "label": "Mulawarman University",
-      "count": 3
-    },
-    {
-      "label": "The University of Tokyo",
-      "count": 3
-    },
-    {
-      "label": "University of Alabama",
-      "count": 2
-    },
-    {
-      "label": "Inserm",
+      "label": "University of Toronto",
       "count": 1
     },
     {
-      "label": "Saarland University",
+      "label": "Structural Genomics Consortium",
       "count": 1
     },
     {
-      "label": "Institut Gustave Roussy",
+      "label": "University of Windsor",
       "count": 1
     },
     {
-      "label": "International Centre for Genetic Engineering and Biotechnology",
+      "label": "University of Tasmania",
       "count": 1
     },
     {
-      "label": "Centre National de la Recherche Scientifique",
+      "label": "Natural History Museum",
       "count": 1
     },
     {
-      "label": "Génétique et biologie du développement",
+      "label": "Xinjiang University",
       "count": 1
     },
     {
-      "label": "University of Calcutta",
+      "label": "People's Hospital of Xinjiang Uygur Autonomous Region",
+      "count": 1
+    },
+    {
+      "label": "Quzhou City People's Hospital",
+      "count": 1
+    },
+    {
+      "label": "University of Shanghai for Science and Technology",
+      "count": 1
+    },
+    {
+      "label": "Westlake University",
       "count": 1
     }
   ],
   "topCountries": [
     {
-      "label": "US",
-      "count": 20
-    },
-    {
       "label": "CN",
-      "count": 12
+      "count": 18
     },
     {
-      "label": "ID",
-      "count": 11
+      "label": "US",
+      "count": 10
     },
     {
-      "label": "ES",
-      "count": 9
-    },
-    {
-      "label": "JP",
-      "count": 6
-    },
-    {
-      "label": "FR",
+      "label": "NL",
       "count": 5
     },
     {
+      "label": "CA",
+      "count": 3
+    },
+    {
+      "label": "AU",
+      "count": 3
+    },
+    {
+      "label": "GB",
+      "count": 3
+    },
+    {
+      "label": "TW",
+      "count": 3
+    },
+    {
       "label": "DE",
-      "count": 4
+      "count": 2
     },
     {
       "label": "IT",
-      "count": 4
+      "count": 2
     },
     {
-      "label": "IN",
-      "count": 4
-    },
-    {
-      "label": "BR",
-      "count": 3
+      "label": "ID",
+      "count": 2
     }
   ],
   "topResearchers": [
     {
-      "label": "Florent Ginhoux",
-      "count": 99667
+      "label": "Oliver Stegle",
+      "count": 86300
     },
     {
-      "label": "Shinichi Nakagawa",
-      "count": 63889
+      "label": "Julio Sáez-Rodríguez",
+      "count": 45842
     },
     {
-      "label": "Nicolas Manel",
-      "count": 20108
+      "label": "Bernardo Magnini",
+      "count": 7954
     },
     {
-      "label": "Ana‐Maria Lennon‐Duménil",
-      "count": 11310
+      "label": "Martine De Cock",
+      "count": 6516
     },
     {
-      "label": "Malgorzata Lagisz",
-      "count": 9006
+      "label": "Viviana Patti",
+      "count": 6422
     },
     {
-      "label": "Coralie L. Guérin",
-      "count": 7085
+      "label": "Nico Pfeifer",
+      "count": 6132
     },
     {
-      "label": "Mathieu Maurin",
-      "count": 5628
+      "label": "Héctor Zenil",
+      "count": 4157
     },
     {
-      "label": "Daniele Fachinetti",
-      "count": 5492
+      "label": "Hakime Öztürk",
+      "count": 2768
     },
     {
-      "label": "Sandra Iden",
-      "count": 2404
+      "label": "Luca Foschini",
+      "count": 1581
     },
     {
-      "label": "Federica Benvenuti",
-      "count": 2216
+      "label": "Korhan Kayışlı",
+      "count": 1224
     }
   ],
   "institutionTypes": [
     {
       "label": "University / school",
-      "count": 67
+      "count": 38
     },
     {
       "label": "Hospital / healthcare",
-      "count": 8
+      "count": 9
     },
     {
       "label": "Research facility",
-      "count": 6
+      "count": 3
     },
     {
       "label": "Government",
-      "count": 5
+      "count": 2
     },
     {
       "label": "Nonprofit / institute",
-      "count": 2
+      "count": 1
+    },
+    {
+      "label": "Archive",
+      "count": 1
+    },
+    {
+      "label": "Organization",
+      "count": 1
     },
     {
       "label": "Company",
