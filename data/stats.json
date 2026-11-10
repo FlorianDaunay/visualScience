@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-09T16:25:48.607Z",
+  "generatedAt": "2026-11-10T14:56:35.538Z",
   "totalDiscoveries": 160,
-  "totalResearchers": 765,
-  "totalInstitutions": 56,
-  "totalCitations": 19,
-  "averageCitations": 0.1,
-  "openAccessRatio": 0.7125,
+  "totalResearchers": 820,
+  "totalInstitutions": 179,
+  "totalCitations": 120,
+  "averageCitations": 0.8,
+  "openAccessRatio": 0.95,
   "weeklySeries": [
     {
       "weekStart": "2026-11-09",
@@ -15,26 +15,22 @@
   "topConcepts": [
     {
       "label": "Medicine",
-      "count": 33
-    },
-    {
-      "label": "Materials science",
-      "count": 9
-    },
-    {
-      "label": "Psychology",
-      "count": 5
-    },
-    {
-      "label": "Computer science",
-      "count": 4
+      "count": 15
     },
     {
       "label": "Biology",
-      "count": 3
+      "count": 6
     },
     {
-      "label": "Chemistry",
+      "label": "Physics",
+      "count": 5
+    },
+    {
+      "label": "Psychology",
+      "count": 4
+    },
+    {
+      "label": "Mathematics",
       "count": 3
     },
     {
@@ -42,175 +38,179 @@
       "count": 3
     },
     {
-      "label": "Physics",
+      "label": "Chemistry",
+      "count": 3
+    },
+    {
+      "label": "Histopathology",
       "count": 2
     },
     {
-      "label": "Environmental health",
+      "label": "Tinospora cordifolia",
       "count": 2
     },
     {
-      "label": "Mental health",
+      "label": "Artificial neural network",
       "count": 2
     }
   ],
   "topInstitutions": [
     {
-      "label": "University of Toronto",
-      "count": 1
+      "label": "Peking University",
+      "count": 3
     },
     {
-      "label": "Structural Genomics Consortium",
-      "count": 1
+      "label": "Qingdao Agricultural University",
+      "count": 2
     },
     {
-      "label": "University of Windsor",
-      "count": 1
+      "label": "Wageningen University & Research",
+      "count": 2
     },
     {
-      "label": "University of Tasmania",
-      "count": 1
+      "label": "National University of Singapore",
+      "count": 2
     },
     {
-      "label": "Natural History Museum",
-      "count": 1
+      "label": "Friedrich-Alexander-Universität Erlangen-Nürnberg",
+      "count": 2
     },
     {
-      "label": "Xinjiang University",
-      "count": 1
+      "label": "Tsinghua University",
+      "count": 2
     },
     {
-      "label": "People's Hospital of Xinjiang Uygur Autonomous Region",
-      "count": 1
+      "label": "Sun Yat-sen University",
+      "count": 2
     },
     {
-      "label": "Quzhou City People's Hospital",
-      "count": 1
+      "label": "The University of Tokyo",
+      "count": 2
     },
     {
-      "label": "University of Shanghai for Science and Technology",
-      "count": 1
+      "label": "Islamic Azad University of Birjand",
+      "count": 2
     },
     {
-      "label": "Westlake University",
-      "count": 1
+      "label": "Payame Noor University",
+      "count": 2
     }
   ],
   "topCountries": [
     {
       "label": "CN",
-      "count": 18
+      "count": 56
     },
     {
       "label": "US",
-      "count": 10
-    },
-    {
-      "label": "NL",
-      "count": 5
-    },
-    {
-      "label": "CA",
-      "count": 3
-    },
-    {
-      "label": "AU",
-      "count": 3
+      "count": 28
     },
     {
       "label": "GB",
-      "count": 3
+      "count": 14
     },
     {
-      "label": "TW",
-      "count": 3
+      "label": "JP",
+      "count": 11
+    },
+    {
+      "label": "IR",
+      "count": 10
+    },
+    {
+      "label": "CA",
+      "count": 10
     },
     {
       "label": "DE",
-      "count": 2
+      "count": 9
     },
     {
-      "label": "IT",
-      "count": 2
+      "label": "IN",
+      "count": 6
+    },
+    {
+      "label": "SG",
+      "count": 5
     },
     {
       "label": "ID",
-      "count": 2
+      "count": 5
     }
   ],
   "topResearchers": [
     {
-      "label": "Oliver Stegle",
-      "count": 86300
+      "label": "Xinfeng Liu",
+      "count": 27188
     },
     {
-      "label": "Julio Sáez-Rodríguez",
-      "count": 45842
+      "label": "Guoqing Zhang",
+      "count": 19948
     },
     {
-      "label": "Bernardo Magnini",
-      "count": 7954
+      "label": "Xinyue Li",
+      "count": 15379
     },
     {
-      "label": "Martine De Cock",
-      "count": 6516
+      "label": "Xijing He",
+      "count": 11603
     },
     {
-      "label": "Viviana Patti",
-      "count": 6422
+      "label": "Dong‐Dong Wu",
+      "count": 7281
     },
     {
-      "label": "Nico Pfeifer",
-      "count": 6132
+      "label": "Xiaoxu Zhang",
+      "count": 4449
     },
     {
-      "label": "Héctor Zenil",
-      "count": 4157
+      "label": "Jianqi Yang",
+      "count": 4306
     },
     {
-      "label": "Hakime Öztürk",
-      "count": 2768
+      "label": "Xuemei Lu",
+      "count": 3864
     },
     {
-      "label": "Luca Foschini",
-      "count": 1581
+      "label": "François Le Gall",
+      "count": 2962
     },
     {
-      "label": "Korhan Kayışlı",
-      "count": 1224
+      "label": "Mingshan Wang",
+      "count": 2694
     }
   ],
   "institutionTypes": [
     {
       "label": "University / school",
-      "count": 38
-    },
-    {
-      "label": "Hospital / healthcare",
-      "count": 9
+      "count": 157
     },
     {
       "label": "Research facility",
-      "count": 3
+      "count": 17
     },
     {
       "label": "Government",
+      "count": 8
+    },
+    {
+      "label": "Hospital / healthcare",
+      "count": 5
+    },
+    {
+      "label": "Organization",
       "count": 2
     },
     {
       "label": "Nonprofit / institute",
-      "count": 1
-    },
-    {
-      "label": "Archive",
-      "count": 1
-    },
-    {
-      "label": "Organization",
-      "count": 1
+      "count": 2
     },
     {
       "label": "Company",
+      "count": 2
+    },
+    {
+      "label": "Archive",
       "count": 1
     }
   ]
