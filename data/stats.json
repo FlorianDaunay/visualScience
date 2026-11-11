@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-10T14:56:35.538Z",
+  "generatedAt": "2026-11-11T14:26:46.059Z",
   "totalDiscoveries": 160,
-  "totalResearchers": 820,
-  "totalInstitutions": 179,
-  "totalCitations": 120,
-  "averageCitations": 0.8,
-  "openAccessRatio": 0.95,
+  "totalResearchers": 1054,
+  "totalInstitutions": 148,
+  "totalCitations": 12,
+  "averageCitations": 0.1,
+  "openAccessRatio": 0.6375,
   "weeklySeries": [
     {
       "weekStart": "2026-11-09",
@@ -15,18 +15,34 @@
   "topConcepts": [
     {
       "label": "Medicine",
-      "count": 15
+      "count": 23
     },
     {
       "label": "Biology",
-      "count": 6
+      "count": 7
     },
     {
-      "label": "Physics",
-      "count": 5
+      "label": "Chemistry",
+      "count": 7
     },
     {
       "label": "Psychology",
+      "count": 7
+    },
+    {
+      "label": "Materials science",
+      "count": 7
+    },
+    {
+      "label": "Computer science",
+      "count": 4
+    },
+    {
+      "label": "Catalysis",
+      "count": 4
+    },
+    {
+      "label": "Environmental science",
       "count": 4
     },
     {
@@ -34,168 +50,152 @@
       "count": 3
     },
     {
-      "label": "Humanities",
-      "count": 3
-    },
-    {
-      "label": "Chemistry",
-      "count": 3
-    },
-    {
-      "label": "Histopathology",
-      "count": 2
-    },
-    {
-      "label": "Tinospora cordifolia",
-      "count": 2
-    },
-    {
-      "label": "Artificial neural network",
+      "label": "Epilepsy",
       "count": 2
     }
   ],
   "topInstitutions": [
     {
-      "label": "Peking University",
-      "count": 3
-    },
-    {
-      "label": "Qingdao Agricultural University",
+      "label": "University of Maryland, College Park",
       "count": 2
     },
     {
-      "label": "Wageningen University & Research",
+      "label": "Harvard University",
       "count": 2
     },
     {
-      "label": "National University of Singapore",
+      "label": "Universidade do Porto",
       "count": 2
     },
     {
-      "label": "Friedrich-Alexander-Universität Erlangen-Nürnberg",
+      "label": "Centre National de la Recherche Scientifique",
       "count": 2
     },
     {
-      "label": "Tsinghua University",
+      "label": "Chinese Academy of Sciences",
       "count": 2
     },
     {
-      "label": "Sun Yat-sen University",
-      "count": 2
+      "label": "Met Office",
+      "count": 1
     },
     {
-      "label": "The University of Tokyo",
-      "count": 2
+      "label": "European Centre for Medium-Range Weather Forecasts",
+      "count": 1
     },
     {
-      "label": "Islamic Azad University of Birjand",
-      "count": 2
+      "label": "University of East Anglia",
+      "count": 1
     },
     {
-      "label": "Payame Noor University",
-      "count": 2
+      "label": "UK Centre for Ecology & Hydrology",
+      "count": 1
+    },
+    {
+      "label": "University of California, Merced",
+      "count": 1
     }
   ],
   "topCountries": [
     {
-      "label": "CN",
-      "count": 56
+      "label": "US",
+      "count": 33
     },
     {
-      "label": "US",
-      "count": 28
+      "label": "CN",
+      "count": 29
     },
     {
       "label": "GB",
-      "count": 14
-    },
-    {
-      "label": "JP",
       "count": 11
     },
     {
-      "label": "IR",
-      "count": 10
-    },
-    {
-      "label": "CA",
+      "label": "JP",
       "count": 10
     },
     {
       "label": "DE",
-      "count": 9
+      "count": 8
     },
     {
-      "label": "IN",
-      "count": 6
+      "label": "FR",
+      "count": 5
     },
     {
-      "label": "SG",
+      "label": "ES",
+      "count": 5
+    },
+    {
+      "label": "AU",
       "count": 5
     },
     {
       "label": "ID",
       "count": 5
+    },
+    {
+      "label": "BR",
+      "count": 4
     }
   ],
   "topResearchers": [
     {
-      "label": "Xinfeng Liu",
-      "count": 27188
+      "label": "John T. Abatzoglou",
+      "count": 44499
     },
     {
-      "label": "Guoqing Zhang",
-      "count": 19948
+      "label": "Emilio Chuvieco",
+      "count": 23627
     },
     {
-      "label": "Xinyue Li",
-      "count": 15379
+      "label": "Sally A. Archibald",
+      "count": 16510
     },
     {
-      "label": "Xijing He",
-      "count": 11603
+      "label": "Crystal A. Kolden",
+      "count": 14008
     },
     {
-      "label": "Dong‐Dong Wu",
-      "count": 7281
+      "label": "Paulo M. Fernandes",
+      "count": 13578
     },
     {
-      "label": "Xiaoxu Zhang",
-      "count": 4449
+      "label": "Stijn Hantson",
+      "count": 9962
     },
     {
-      "label": "Jianqi Yang",
-      "count": 4306
+      "label": "Tim S. Doherty",
+      "count": 9117
     },
     {
-      "label": "Xuemei Lu",
-      "count": 3864
+      "label": "Niels Andela",
+      "count": 8755
     },
     {
-      "label": "François Le Gall",
-      "count": 2962
+      "label": "Douglas Stephen Hamilton",
+      "count": 5559
     },
     {
-      "label": "Mingshan Wang",
-      "count": 2694
+      "label": "Douglas Ian Kelley",
+      "count": 5370
     }
   ],
   "institutionTypes": [
     {
       "label": "University / school",
-      "count": 157
-    },
-    {
-      "label": "Research facility",
-      "count": 17
-    },
-    {
-      "label": "Government",
-      "count": 8
+      "count": 108
     },
     {
       "label": "Hospital / healthcare",
-      "count": 5
+      "count": 16
+    },
+    {
+      "label": "Research facility",
+      "count": 13
+    },
+    {
+      "label": "Government",
+      "count": 12
     },
     {
       "label": "Organization",
@@ -203,14 +203,10 @@
     },
     {
       "label": "Nonprofit / institute",
-      "count": 2
+      "count": 1
     },
     {
       "label": "Company",
-      "count": 2
-    },
-    {
-      "label": "Archive",
       "count": 1
     }
   ]
