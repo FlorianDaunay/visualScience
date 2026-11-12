@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-11T14:26:46.059Z",
+  "generatedAt": "2026-11-12T15:19:14.819Z",
   "totalDiscoveries": 160,
-  "totalResearchers": 1054,
-  "totalInstitutions": 148,
-  "totalCitations": 12,
+  "totalResearchers": 848,
+  "totalInstitutions": 67,
+  "totalCitations": 15,
   "averageCitations": 0.1,
-  "openAccessRatio": 0.6375,
+  "openAccessRatio": 0.69375,
   "weeklySeries": [
     {
       "weekStart": "2026-11-09",
@@ -14,200 +14,192 @@
   ],
   "topConcepts": [
     {
-      "label": "Medicine",
-      "count": 23
+      "label": "Materials science",
+      "count": 15
     },
     {
-      "label": "Biology",
-      "count": 7
+      "label": "Medicine",
+      "count": 13
     },
     {
       "label": "Chemistry",
-      "count": 7
-    },
-    {
-      "label": "Psychology",
-      "count": 7
-    },
-    {
-      "label": "Materials science",
-      "count": 7
+      "count": 9
     },
     {
       "label": "Computer science",
-      "count": 4
+      "count": 7
     },
     {
-      "label": "Catalysis",
-      "count": 4
-    },
-    {
-      "label": "Environmental science",
-      "count": 4
+      "label": "Humanities",
+      "count": 5
     },
     {
       "label": "Mathematics",
+      "count": 4
+    },
+    {
+      "label": "Psychology",
+      "count": 4
+    },
+    {
+      "label": "Process (computing)",
+      "count": 4
+    },
+    {
+      "label": "Biology",
       "count": 3
     },
     {
-      "label": "Epilepsy",
-      "count": 2
+      "label": "Geology",
+      "count": 3
     }
   ],
   "topInstitutions": [
-    {
-      "label": "University of Maryland, College Park",
-      "count": 2
-    },
-    {
-      "label": "Harvard University",
-      "count": 2
-    },
-    {
-      "label": "Universidade do Porto",
-      "count": 2
-    },
-    {
-      "label": "Centre National de la Recherche Scientifique",
-      "count": 2
-    },
     {
       "label": "Chinese Academy of Sciences",
       "count": 2
     },
     {
-      "label": "Met Office",
+      "label": "Yonsei University",
+      "count": 2
+    },
+    {
+      "label": "University of New Mexico",
+      "count": 2
+    },
+    {
+      "label": "Nanjing University of Chinese Medicine",
+      "count": 2
+    },
+    {
+      "label": "International Centre for Genetic Engineering and Biotechnology",
       "count": 1
     },
     {
-      "label": "European Centre for Medium-Range Weather Forecasts",
+      "label": "Agartala Government Medical College",
       "count": 1
     },
     {
-      "label": "University of East Anglia",
+      "label": "Henry M. Jackson Foundation",
       "count": 1
     },
     {
-      "label": "UK Centre for Ecology & Hydrology",
+      "label": "Inova Fairfax Hospital",
       "count": 1
     },
     {
-      "label": "University of California, Merced",
+      "label": "Uniformed Services University of the Health Sciences",
+      "count": 1
+    },
+    {
+      "label": "University of Bern",
       "count": 1
     }
   ],
   "topCountries": [
     {
-      "label": "US",
-      "count": 33
-    },
-    {
       "label": "CN",
-      "count": 29
+      "count": 25
     },
     {
-      "label": "GB",
-      "count": 11
+      "label": "US",
+      "count": 17
     },
     {
-      "label": "JP",
-      "count": 10
-    },
-    {
-      "label": "DE",
-      "count": 8
-    },
-    {
-      "label": "FR",
-      "count": 5
+      "label": "KR",
+      "count": 6
     },
     {
       "label": "ES",
-      "count": 5
+      "count": 6
     },
     {
-      "label": "AU",
-      "count": 5
+      "label": "IN",
+      "count": 4
     },
     {
       "label": "ID",
-      "count": 5
+      "count": 3
     },
     {
-      "label": "BR",
-      "count": 4
+      "label": "CH",
+      "count": 2
+    },
+    {
+      "label": "AU",
+      "count": 2
+    },
+    {
+      "label": "CZ",
+      "count": 2
+    },
+    {
+      "label": "FR",
+      "count": 1
     }
   ],
   "topResearchers": [
     {
-      "label": "John T. Abatzoglou",
-      "count": 44499
+      "label": "Thomas P. Conrads",
+      "count": 24093
     },
     {
-      "label": "Emilio Chuvieco",
-      "count": 23627
+      "label": "Susanne Schweizer",
+      "count": 12589
     },
     {
-      "label": "Sally A. Archibald",
-      "count": 16510
+      "label": "George Larry Maxwell",
+      "count": 8343
     },
     {
-      "label": "Crystal A. Kolden",
-      "count": 14008
+      "label": "Paulette Y. Mhawech-Fauceglia",
+      "count": 7638
     },
     {
-      "label": "Paulo M. Fernandes",
-      "count": 13578
+      "label": "Kathleen M. Darcy",
+      "count": 7316
     },
     {
-      "label": "Stijn Hantson",
-      "count": 9962
+      "label": "Brian L. Hood",
+      "count": 6591
     },
     {
-      "label": "Tim S. Doherty",
-      "count": 9117
+      "label": "Bhabatosh Das",
+      "count": 5502
     },
     {
-      "label": "Niels Andela",
-      "count": 8755
+      "label": "Laia Fernández‐Barat",
+      "count": 3870
     },
     {
-      "label": "Douglas Stephen Hamilton",
-      "count": 5559
+      "label": "Nicholas W. Bateman",
+      "count": 3026
     },
     {
-      "label": "Douglas Ian Kelley",
-      "count": 5370
+      "label": "Ranjan Kumar Nanda",
+      "count": 1773
     }
   ],
   "institutionTypes": [
     {
       "label": "University / school",
-      "count": 108
-    },
-    {
-      "label": "Hospital / healthcare",
-      "count": 16
-    },
-    {
-      "label": "Research facility",
-      "count": 13
+      "count": 54
     },
     {
       "label": "Government",
-      "count": 12
+      "count": 6
     },
     {
-      "label": "Organization",
-      "count": 2
+      "label": "Hospital / healthcare",
+      "count": 5
+    },
+    {
+      "label": "Research facility",
+      "count": 4
     },
     {
       "label": "Nonprofit / institute",
-      "count": 1
-    },
-    {
-      "label": "Company",
-      "count": 1
+      "count": 2
     }
   ]
 }
