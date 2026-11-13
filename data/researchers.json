@@ -491,13 +491,251 @@
     ]
   },
   {
+    "id": "A5112990904",
+    "name": "Sarah Nuhu Kase",
+    "institutionId": "I8033065",
+    "institutionName": "University of Abuja",
+    "worksCount": 13,
+    "citedByCount": 3,
+    "hIndex": 1,
+    "orcid": null,
+    "openAlexUrl": "https://openalex.org/A5112990904",
+    "discoveryIds": [
+      "W7220137573"
+    ]
+  },
+  {
+    "id": "A5077045667",
+    "name": "Christy Chinyere Fredrick",
+    "institutionId": "I4210158569",
+    "institutionName": "Veritas University",
+    "worksCount": 17,
+    "citedByCount": 13,
+    "hIndex": 2,
+    "orcid": null,
+    "openAlexUrl": "https://openalex.org/A5077045667",
+    "discoveryIds": [
+      "W7220137573"
+    ]
+  },
+  {
+    "id": "A5004578979",
+    "name": "Dennis Amaechi",
+    "institutionId": "I4210104168",
+    "institutionName": "Medway NHS Foundation Trust",
+    "worksCount": 59,
+    "citedByCount": 105,
+    "hIndex": 5,
+    "orcid": "https://orcid.org/0000-0002-1460-8098",
+    "openAlexUrl": "https://openalex.org/A5004578979",
+    "discoveryIds": [
+      "W7220137573"
+    ]
+  },
+  {
+    "id": "A5147878974",
+    "name": "Esther Luka Abdulkarim",
+    "institutionId": "I307268238",
+    "institutionName": "Kaduna State University",
+    "worksCount": 2,
+    "citedByCount": 0,
+    "hIndex": 0,
+    "orcid": null,
+    "openAlexUrl": "https://openalex.org/A5147878974",
+    "discoveryIds": [
+      "W7220137573"
+    ]
+  },
+  {
+    "id": "A5115016037",
+    "name": "Garba Ninani",
+    "institutionId": "I307268238",
+    "institutionName": "Kaduna State University",
+    "worksCount": 12,
+    "citedByCount": 1,
+    "hIndex": 1,
+    "orcid": null,
+    "openAlexUrl": "https://openalex.org/A5115016037",
+    "discoveryIds": [
+      "W7220137573"
+    ]
+  },
+  {
+    "id": "A5120372411",
+    "name": "Danladi Jonah",
+    "institutionId": "I307268238",
+    "institutionName": "Kaduna State University",
+    "worksCount": 1,
+    "citedByCount": 0,
+    "hIndex": null,
+    "orcid": null,
+    "openAlexUrl": "https://openalex.org/A5120372411",
+    "discoveryIds": [
+      "W7220137573"
+    ]
+  },
+  {
+    "id": "A5047025660",
+    "name": "Haruna Danlami Sambo",
+    "institutionId": "I4387154851",
+    "institutionName": "National Biotechnology Development Agency",
+    "worksCount": 1,
+    "citedByCount": 0,
+    "hIndex": null,
+    "orcid": null,
+    "openAlexUrl": "https://openalex.org/A5047025660",
+    "discoveryIds": [
+      "W7220137573"
+    ]
+  },
+  {
+    "id": "A5147901204",
+    "name": "Magdaline Joseph Kwaji",
+    "institutionId": "I307268238",
+    "institutionName": "Kaduna State University",
+    "worksCount": 1,
+    "citedByCount": 0,
+    "hIndex": null,
+    "orcid": null,
+    "openAlexUrl": "https://openalex.org/A5147901204",
+    "discoveryIds": [
+      "W7220137573"
+    ]
+  },
+  {
+    "id": "A5157267722",
+    "name": "Jamila Ibrahim Suleiman",
+    "institutionId": null,
+    "institutionName": null,
+    "worksCount": 1,
+    "citedByCount": 0,
+    "hIndex": null,
+    "orcid": null,
+    "openAlexUrl": "https://openalex.org/A5157267722",
+    "discoveryIds": [
+      "W7220137573"
+    ]
+  },
+  {
+    "id": "A5099092357",
+    "name": "Theophilus Idahosa Ojemudia",
+    "institutionId": "I307268238",
+    "institutionName": "Kaduna State University",
+    "worksCount": 1,
+    "citedByCount": 0,
+    "hIndex": null,
+    "orcid": null,
+    "openAlexUrl": "https://openalex.org/A5099092357",
+    "discoveryIds": [
+      "W7220137573"
+    ]
+  },
+  {
+    "id": "A5137192541",
+    "name": "Mercy Kure",
+    "institutionId": "I307268238",
+    "institutionName": "Kaduna State University",
+    "worksCount": 1,
+    "citedByCount": 0,
+    "hIndex": null,
+    "orcid": null,
+    "openAlexUrl": "https://openalex.org/A5137192541",
+    "discoveryIds": [
+      "W7220137573"
+    ]
+  },
+  {
+    "id": "A5161431174",
+    "name": "Avinah Ira Kuswanti",
+    "institutionId": "I4405261658",
+    "institutionName": "Politeknik Negeri Malang",
+    "worksCount": 1,
+    "citedByCount": 0,
+    "hIndex": null,
+    "orcid": null,
+    "openAlexUrl": "https://openalex.org/A5161431174",
+    "discoveryIds": [
+      "W7225772769"
+    ]
+  },
+  {
+    "id": "A5109621101",
+    "name": "Tiara Estu Amanda",
+    "institutionId": "I4405261658",
+    "institutionName": "Politeknik Negeri Malang",
+    "worksCount": 1,
+    "citedByCount": 0,
+    "hIndex": null,
+    "orcid": null,
+    "openAlexUrl": "https://openalex.org/A5109621101",
+    "discoveryIds": [
+      "W7225772769"
+    ]
+  },
+  {
+    "id": "A5161420756",
+    "name": "Eli Kartika Sari",
+    "institutionId": "I4210105487",
+    "institutionName": "Universitas Indo Global Mandiri",
+    "worksCount": 1,
+    "citedByCount": 0,
+    "hIndex": null,
+    "orcid": null,
+    "openAlexUrl": "https://openalex.org/A5161420756",
+    "discoveryIds": [
+      "W7225782228"
+    ]
+  },
+  {
+    "id": "A5161490412",
+    "name": "Azzahra Syahla Yozaputri Lingga",
+    "institutionId": "I4210105487",
+    "institutionName": "Universitas Indo Global Mandiri",
+    "worksCount": 1,
+    "citedByCount": 0,
+    "hIndex": null,
+    "orcid": null,
+    "openAlexUrl": "https://openalex.org/A5161490412",
+    "discoveryIds": [
+      "W7225782228"
+    ]
+  },
+  {
+    "id": "A5161434497",
+    "name": "M. Krisna Brilian Khadafi",
+    "institutionId": "I4210105487",
+    "institutionName": "Universitas Indo Global Mandiri",
+    "worksCount": 1,
+    "citedByCount": 0,
+    "hIndex": null,
+    "orcid": null,
+    "openAlexUrl": "https://openalex.org/A5161434497",
+    "discoveryIds": [
+      "W7225782228"
+    ]
+  },
+  {
+    "id": "A5046524950",
+    "name": "Nazori Suhandi",
+    "institutionId": "I4210105487",
+    "institutionName": "Universitas Indo Global Mandiri",
+    "worksCount": 1,
+    "citedByCount": 0,
+    "hIndex": null,
+    "orcid": "https://orcid.org/0009-0001-2524-4904",
+    "openAlexUrl": "https://openalex.org/A5046524950",
+    "discoveryIds": [
+      "W7225782228"
+    ]
+  },
+  {
     "id": "A5059878269",
     "name": "Sarah Daniels",
     "institutionId": "I31746571",
     "institutionName": "UNSW Sydney",
-    "worksCount": 16,
-    "citedByCount": 53,
-    "hIndex": 2,
+    "worksCount": 1,
+    "citedByCount": 0,
+    "hIndex": null,
     "orcid": "https://orcid.org/0009-0003-8384-1867",
     "openAlexUrl": "https://openalex.org/A5059878269",
     "discoveryIds": [
@@ -509,9 +747,9 @@
     "name": "Susanne Schweizer",
     "institutionId": "I31746571",
     "institutionName": "UNSW Sydney",
-    "worksCount": 213,
-    "citedByCount": 12589,
-    "hIndex": 33,
+    "worksCount": 1,
+    "citedByCount": 0,
+    "hIndex": null,
     "orcid": "https://orcid.org/0000-0001-6153-8291",
     "openAlexUrl": "https://openalex.org/A5042822236",
     "discoveryIds": [
@@ -523,9 +761,9 @@
     "name": "Tianle Liang",
     "institutionId": null,
     "institutionName": null,
-    "worksCount": 5,
-    "citedByCount": 1,
-    "hIndex": 1,
+    "worksCount": 1,
+    "citedByCount": 0,
+    "hIndex": null,
     "orcid": "https://orcid.org/0009-0004-7482-2346",
     "openAlexUrl": "https://openalex.org/A5108334070",
     "discoveryIds": [
@@ -537,9 +775,9 @@
     "name": "Kieran Rosenfeld",
     "institutionId": null,
     "institutionName": null,
-    "worksCount": 3,
-    "citedByCount": 317,
-    "hIndex": 1,
+    "worksCount": 1,
+    "citedByCount": 0,
+    "hIndex": null,
     "orcid": null,
     "openAlexUrl": "https://openalex.org/A5042903710",
     "discoveryIds": [
@@ -551,9 +789,9 @@
     "name": "Laia Fernández‐Barat",
     "institutionId": "I4210115097",
     "institutionName": "Hospital Clínic de Barcelona",
-    "worksCount": 255,
-    "citedByCount": 3870,
-    "hIndex": 34,
+    "worksCount": 1,
+    "citedByCount": 0,
+    "hIndex": null,
     "orcid": "https://orcid.org/0000-0001-7528-9636",
     "openAlexUrl": "https://openalex.org/A5073753580",
     "discoveryIds": [
@@ -11408,468 +11646,6 @@
     "openAlexUrl": "https://openalex.org/A5005578508",
     "discoveryIds": [
       "W7225795241"
-    ]
-  },
-  {
-    "id": "A5070359686",
-    "name": "Kangkai Hu",
-    "institutionId": null,
-    "institutionName": null,
-    "worksCount": 1,
-    "citedByCount": 0,
-    "hIndex": null,
-    "orcid": "https://orcid.org/0000-0002-3920-8146",
-    "openAlexUrl": "https://openalex.org/A5070359686",
-    "discoveryIds": [
-      "W7225795443"
-    ]
-  },
-  {
-    "id": "A5138245818",
-    "name": "Wen-Gang Li",
-    "institutionId": null,
-    "institutionName": null,
-    "worksCount": 1,
-    "citedByCount": 0,
-    "hIndex": null,
-    "orcid": null,
-    "openAlexUrl": "https://openalex.org/A5138245818",
-    "discoveryIds": [
-      "W7225795443"
-    ]
-  },
-  {
-    "id": "A5161474263",
-    "name": "Shi-Cheng Wang",
-    "institutionId": null,
-    "institutionName": null,
-    "worksCount": 1,
-    "citedByCount": 0,
-    "hIndex": null,
-    "orcid": null,
-    "openAlexUrl": "https://openalex.org/A5161474263",
-    "discoveryIds": [
-      "W7225795443"
-    ]
-  },
-  {
-    "id": "A5112889438",
-    "name": "Si-Da Cheng",
-    "institutionId": null,
-    "institutionName": null,
-    "worksCount": 1,
-    "citedByCount": 0,
-    "hIndex": null,
-    "orcid": null,
-    "openAlexUrl": "https://openalex.org/A5112889438",
-    "discoveryIds": [
-      "W7225795443"
-    ]
-  },
-  {
-    "id": "A5100774170",
-    "name": "Bohan Chen",
-    "institutionId": null,
-    "institutionName": null,
-    "worksCount": 1,
-    "citedByCount": 0,
-    "hIndex": null,
-    "orcid": "https://orcid.org/0000-0003-3574-2154",
-    "openAlexUrl": "https://openalex.org/A5100774170",
-    "discoveryIds": [
-      "W7225795443"
-    ]
-  },
-  {
-    "id": "A5161463501",
-    "name": "Jian-Zhen Hu",
-    "institutionId": null,
-    "institutionName": null,
-    "worksCount": 1,
-    "citedByCount": 0,
-    "hIndex": null,
-    "orcid": null,
-    "openAlexUrl": "https://openalex.org/A5161463501",
-    "discoveryIds": [
-      "W7225795443"
-    ]
-  },
-  {
-    "id": "A5137930265",
-    "name": "Lei Yu",
-    "institutionId": null,
-    "institutionName": null,
-    "worksCount": 1,
-    "citedByCount": 0,
-    "hIndex": null,
-    "orcid": null,
-    "openAlexUrl": "https://openalex.org/A5137930265",
-    "discoveryIds": [
-      "W7225795443"
-    ]
-  },
-  {
-    "id": "A5160643835",
-    "name": "Man-Ting Zhao",
-    "institutionId": null,
-    "institutionName": null,
-    "worksCount": 1,
-    "citedByCount": 0,
-    "hIndex": null,
-    "orcid": null,
-    "openAlexUrl": "https://openalex.org/A5160643835",
-    "discoveryIds": [
-      "W7225795443"
-    ]
-  },
-  {
-    "id": "A5161487051",
-    "name": "Yun Zhao",
-    "institutionId": null,
-    "institutionName": null,
-    "worksCount": 1,
-    "citedByCount": 0,
-    "hIndex": null,
-    "orcid": null,
-    "openAlexUrl": "https://openalex.org/A5161487051",
-    "discoveryIds": [
-      "W7225795443"
-    ]
-  },
-  {
-    "id": "A5013773579",
-    "name": "Jiangtao Chen",
-    "institutionId": null,
-    "institutionName": null,
-    "worksCount": 1,
-    "citedByCount": 0,
-    "hIndex": null,
-    "orcid": "https://orcid.org/0000-0001-7853-7914",
-    "openAlexUrl": "https://openalex.org/A5013773579",
-    "discoveryIds": [
-      "W7225795443"
-    ]
-  },
-  {
-    "id": "A5103244775",
-    "name": "Yunyan Han",
-    "institutionId": null,
-    "institutionName": null,
-    "worksCount": 1,
-    "citedByCount": 0,
-    "hIndex": null,
-    "orcid": "https://orcid.org/0000-0003-3368-2776",
-    "openAlexUrl": "https://openalex.org/A5103244775",
-    "discoveryIds": [
-      "W7225795443"
-    ]
-  },
-  {
-    "id": "A5100653592",
-    "name": "Wensheng Li",
-    "institutionId": null,
-    "institutionName": null,
-    "worksCount": 1,
-    "citedByCount": 0,
-    "hIndex": null,
-    "orcid": "https://orcid.org/0000-0003-2756-0350",
-    "openAlexUrl": "https://openalex.org/A5100653592",
-    "discoveryIds": [
-      "W7225795443"
-    ]
-  },
-  {
-    "id": "A5083712331",
-    "name": "Alessandro Candreva",
-    "institutionId": null,
-    "institutionName": null,
-    "worksCount": 1,
-    "citedByCount": 0,
-    "hIndex": null,
-    "orcid": "https://orcid.org/0000-0002-6676-7541",
-    "openAlexUrl": "https://openalex.org/A5083712331",
-    "discoveryIds": [
-      "W7225795838"
-    ]
-  },
-  {
-    "id": "A5069223437",
-    "name": "Masahiro Hada",
-    "institutionId": null,
-    "institutionName": null,
-    "worksCount": 1,
-    "citedByCount": 0,
-    "hIndex": null,
-    "orcid": "https://orcid.org/0000-0003-1499-9188",
-    "openAlexUrl": "https://openalex.org/A5069223437",
-    "discoveryIds": [
-      "W7225795838"
-    ]
-  },
-  {
-    "id": "A5119245728",
-    "name": "Saidamir Djafarov",
-    "institutionId": null,
-    "institutionName": null,
-    "worksCount": 1,
-    "citedByCount": 0,
-    "hIndex": null,
-    "orcid": "https://orcid.org/0009-0006-5552-265X",
-    "openAlexUrl": "https://openalex.org/A5119245728",
-    "discoveryIds": [
-      "W7225795838"
-    ]
-  },
-  {
-    "id": "A5075033637",
-    "name": "Gianluca Calogero Campo",
-    "institutionId": null,
-    "institutionName": null,
-    "worksCount": 1,
-    "citedByCount": 0,
-    "hIndex": null,
-    "orcid": "https://orcid.org/0000-0002-5150-188X",
-    "openAlexUrl": "https://openalex.org/A5075033637",
-    "discoveryIds": [
-      "W7225795838"
-    ]
-  },
-  {
-    "id": "A5161437985",
-    "name": "Divaka Perera",
-    "institutionId": null,
-    "institutionName": null,
-    "worksCount": 1,
-    "citedByCount": 0,
-    "hIndex": null,
-    "orcid": null,
-    "openAlexUrl": "https://openalex.org/A5161437985",
-    "discoveryIds": [
-      "W7225795838"
-    ]
-  },
-  {
-    "id": "A5023500010",
-    "name": "Allen Jeremias",
-    "institutionId": null,
-    "institutionName": null,
-    "worksCount": 1,
-    "citedByCount": 0,
-    "hIndex": null,
-    "orcid": "https://orcid.org/0000-0003-2328-4686",
-    "openAlexUrl": "https://openalex.org/A5023500010",
-    "discoveryIds": [
-      "W7225795838"
-    ]
-  },
-  {
-    "id": "A5071900514",
-    "name": "Takuya Mizukami",
-    "institutionId": null,
-    "institutionName": null,
-    "worksCount": 1,
-    "citedByCount": 0,
-    "hIndex": null,
-    "orcid": "https://orcid.org/0000-0003-1086-8746",
-    "openAlexUrl": "https://openalex.org/A5071900514",
-    "discoveryIds": [
-      "W7225795838"
-    ]
-  },
-  {
-    "id": "A5052190441",
-    "name": "Bernard De Bruyne",
-    "institutionId": null,
-    "institutionName": null,
-    "worksCount": 1,
-    "citedByCount": 0,
-    "hIndex": null,
-    "orcid": "https://orcid.org/0000-0001-6567-168X",
-    "openAlexUrl": "https://openalex.org/A5052190441",
-    "discoveryIds": [
-      "W7225795838"
-    ]
-  },
-  {
-    "id": "A5003056173",
-    "name": "Carlos Adolfo Collet",
-    "institutionId": null,
-    "institutionName": null,
-    "worksCount": 1,
-    "citedByCount": 0,
-    "hIndex": null,
-    "orcid": "https://orcid.org/0000-0003-0227-0082",
-    "openAlexUrl": "https://openalex.org/A5003056173",
-    "discoveryIds": [
-      "W7225795838"
-    ]
-  },
-  {
-    "id": "A5161494318",
-    "name": "Songlin Bai",
-    "institutionId": null,
-    "institutionName": null,
-    "worksCount": 1,
-    "citedByCount": 0,
-    "hIndex": null,
-    "orcid": "https://orcid.org/0009-0006-5591-4362",
-    "openAlexUrl": "https://openalex.org/A5161494318",
-    "discoveryIds": [
-      "W7225796106"
-    ]
-  },
-  {
-    "id": "A5130052120",
-    "name": "Shilong Liu",
-    "institutionId": null,
-    "institutionName": null,
-    "worksCount": 1,
-    "citedByCount": 0,
-    "hIndex": null,
-    "orcid": null,
-    "openAlexUrl": "https://openalex.org/A5130052120",
-    "discoveryIds": [
-      "W7225796106"
-    ]
-  },
-  {
-    "id": "A5038093318",
-    "name": "Yingxin Hui",
-    "institutionId": null,
-    "institutionName": null,
-    "worksCount": 1,
-    "citedByCount": 0,
-    "hIndex": null,
-    "orcid": null,
-    "openAlexUrl": "https://openalex.org/A5038093318",
-    "discoveryIds": [
-      "W7225796106"
-    ]
-  },
-  {
-    "id": "A5100755583",
-    "name": "Shengjun Liu",
-    "institutionId": null,
-    "institutionName": null,
-    "worksCount": 1,
-    "citedByCount": 0,
-    "hIndex": null,
-    "orcid": "https://orcid.org/0000-0002-3222-5656",
-    "openAlexUrl": "https://openalex.org/A5100755583",
-    "discoveryIds": [
-      "W7225796106"
-    ]
-  },
-  {
-    "id": "A5152240819",
-    "name": "Sheng Yan",
-    "institutionId": null,
-    "institutionName": null,
-    "worksCount": 1,
-    "citedByCount": 0,
-    "hIndex": null,
-    "orcid": null,
-    "openAlexUrl": "https://openalex.org/A5152240819",
-    "discoveryIds": [
-      "W7225796106"
-    ]
-  },
-  {
-    "id": "A5101547002",
-    "name": "Min Yang",
-    "institutionId": null,
-    "institutionName": null,
-    "worksCount": 1,
-    "citedByCount": 0,
-    "hIndex": null,
-    "orcid": "https://orcid.org/0000-0001-9866-8313",
-    "openAlexUrl": "https://openalex.org/A5101547002",
-    "discoveryIds": [
-      "W7225796106"
-    ]
-  },
-  {
-    "id": "A5161422814",
-    "name": "Xiaofei Yao",
-    "institutionId": null,
-    "institutionName": null,
-    "worksCount": 1,
-    "citedByCount": 0,
-    "hIndex": null,
-    "orcid": null,
-    "openAlexUrl": "https://openalex.org/A5161422814",
-    "discoveryIds": [
-      "W7225796106"
-    ]
-  },
-  {
-    "id": "A5161440516",
-    "name": "Jianzhuang Xiao",
-    "institutionId": null,
-    "institutionName": null,
-    "worksCount": 1,
-    "citedByCount": 0,
-    "hIndex": null,
-    "orcid": null,
-    "openAlexUrl": "https://openalex.org/A5161440516",
-    "discoveryIds": [
-      "W7225796106"
-    ]
-  },
-  {
-    "id": "A5161463286",
-    "name": "Yamei Zhang",
-    "institutionId": null,
-    "institutionName": null,
-    "worksCount": 1,
-    "citedByCount": 0,
-    "hIndex": null,
-    "orcid": null,
-    "openAlexUrl": "https://openalex.org/A5161463286",
-    "discoveryIds": [
-      "W7225796106"
-    ]
-  },
-  {
-    "id": "A5161458383",
-    "name": "Xiyuan Fu",
-    "institutionId": null,
-    "institutionName": null,
-    "worksCount": 1,
-    "citedByCount": 0,
-    "hIndex": null,
-    "orcid": null,
-    "openAlexUrl": "https://openalex.org/A5161458383",
-    "discoveryIds": [
-      "W7225796106"
-    ]
-  },
-  {
-    "id": "A5161491754",
-    "name": "Qing Wu",
-    "institutionId": null,
-    "institutionName": null,
-    "worksCount": 1,
-    "citedByCount": 0,
-    "hIndex": null,
-    "orcid": null,
-    "openAlexUrl": "https://openalex.org/A5161491754",
-    "discoveryIds": [
-      "W7225796106"
-    ]
-  },
-  {
-    "id": "A5161459261",
-    "name": "Yishuang Liang",
-    "institutionId": null,
-    "institutionName": null,
-    "worksCount": 1,
-    "citedByCount": 0,
-    "hIndex": null,
-    "orcid": null,
-    "openAlexUrl": "https://openalex.org/A5161459261",
-    "discoveryIds": [
-      "W7225796106"
     ]
   }
 ]

@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-12T15:19:14.819Z",
+  "generatedAt": "2026-11-13T14:38:04.643Z",
   "totalDiscoveries": 160,
-  "totalResearchers": 848,
-  "totalInstitutions": 67,
+  "totalResearchers": 832,
+  "totalInstitutions": 74,
   "totalCitations": 15,
   "averageCitations": 0.1,
-  "openAccessRatio": 0.69375,
+  "openAccessRatio": 0.70625,
   "weeklySeries": [
     {
       "weekStart": "2026-11-09",
@@ -14,12 +14,12 @@
   ],
   "topConcepts": [
     {
-      "label": "Materials science",
-      "count": 15
+      "label": "Medicine",
+      "count": 14
     },
     {
-      "label": "Medicine",
-      "count": 13
+      "label": "Materials science",
+      "count": 14
     },
     {
       "label": "Chemistry",
@@ -114,12 +114,16 @@
       "count": 6
     },
     {
+      "label": "ID",
+      "count": 5
+    },
+    {
       "label": "IN",
       "count": 4
     },
     {
-      "label": "ID",
-      "count": 3
+      "label": "NG",
+      "count": 4
     },
     {
       "label": "CH",
@@ -132,20 +136,12 @@
     {
       "label": "CZ",
       "count": 2
-    },
-    {
-      "label": "FR",
-      "count": 1
     }
   ],
   "topResearchers": [
     {
       "label": "Thomas P. Conrads",
       "count": 24093
-    },
-    {
-      "label": "Susanne Schweizer",
-      "count": 12589
     },
     {
       "label": "George Larry Maxwell",
@@ -168,30 +164,34 @@
       "count": 5502
     },
     {
-      "label": "Laia Fernández‐Barat",
-      "count": 3870
-    },
-    {
       "label": "Nicholas W. Bateman",
       "count": 3026
     },
     {
       "label": "Ranjan Kumar Nanda",
       "count": 1773
+    },
+    {
+      "label": "Ignacio Jiménez‐Morales",
+      "count": 1619
+    },
+    {
+      "label": "Sourav Taru Saha",
+      "count": 1204
     }
   ],
   "institutionTypes": [
     {
       "label": "University / school",
-      "count": 54
+      "count": 59
     },
     {
       "label": "Government",
-      "count": 6
+      "count": 7
     },
     {
       "label": "Hospital / healthcare",
-      "count": 5
+      "count": 6
     },
     {
       "label": "Research facility",

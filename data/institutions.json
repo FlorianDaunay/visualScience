@@ -196,6 +196,120 @@
     ]
   },
   {
+    "id": "I8033065",
+    "name": "University of Abuja",
+    "type": "education",
+    "countryCode": "NG",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I8033065",
+    "researcherIds": [
+      "A5112990904"
+    ],
+    "discoveryIds": [
+      "W7220137573"
+    ]
+  },
+  {
+    "id": "I4210158569",
+    "name": "Veritas University",
+    "type": "education",
+    "countryCode": "NG",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I4210158569",
+    "researcherIds": [
+      "A5077045667"
+    ],
+    "discoveryIds": [
+      "W7220137573"
+    ]
+  },
+  {
+    "id": "I4210104168",
+    "name": "Medway NHS Foundation Trust",
+    "type": "healthcare",
+    "countryCode": "GB",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I4210104168",
+    "researcherIds": [
+      "A5004578979"
+    ],
+    "discoveryIds": [
+      "W7220137573"
+    ]
+  },
+  {
+    "id": "I307268238",
+    "name": "Kaduna State University",
+    "type": "education",
+    "countryCode": "NG",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I307268238",
+    "researcherIds": [
+      "A5147878974",
+      "A5115016037",
+      "A5120372411",
+      "A5147901204",
+      "A5099092357",
+      "A5137192541"
+    ],
+    "discoveryIds": [
+      "W7220137573"
+    ]
+  },
+  {
+    "id": "I4387154851",
+    "name": "National Biotechnology Development Agency",
+    "type": "government",
+    "countryCode": "NG",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I4387154851",
+    "researcherIds": [
+      "A5047025660"
+    ],
+    "discoveryIds": [
+      "W7220137573"
+    ]
+  },
+  {
+    "id": "I4405261658",
+    "name": "Politeknik Negeri Malang",
+    "type": "education",
+    "countryCode": "ID",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I4405261658",
+    "researcherIds": [
+      "A5161431174",
+      "A5109621101"
+    ],
+    "discoveryIds": [
+      "W7225772769"
+    ]
+  },
+  {
+    "id": "I4210105487",
+    "name": "Universitas Indo Global Mandiri",
+    "type": "education",
+    "countryCode": "ID",
+    "homepage": null,
+    "ror": null,
+    "openAlexUrl": "https://openalex.org/I4210105487",
+    "researcherIds": [
+      "A5161420756",
+      "A5161490412",
+      "A5161434497",
+      "A5046524950"
+    ],
+    "discoveryIds": [
+      "W7225782228"
+    ]
+  },
+  {
     "id": "I31746571",
     "name": "UNSW Sydney",
     "type": "education",
