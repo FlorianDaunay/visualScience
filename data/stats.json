@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-13T14:38:04.643Z",
+  "generatedAt": "2026-11-14T13:35:12.175Z",
   "totalDiscoveries": 160,
-  "totalResearchers": 832,
-  "totalInstitutions": 74,
-  "totalCitations": 15,
-  "averageCitations": 0.1,
-  "openAccessRatio": 0.70625,
+  "totalResearchers": 814,
+  "totalInstitutions": 249,
+  "totalCitations": 229,
+  "averageCitations": 1.4,
+  "openAccessRatio": 1,
   "weeklySeries": [
     {
       "weekStart": "2026-11-09",
@@ -14,192 +14,204 @@
   ],
   "topConcepts": [
     {
-      "label": "Medicine",
-      "count": 14
-    },
-    {
-      "label": "Materials science",
-      "count": 14
-    },
-    {
-      "label": "Chemistry",
+      "label": "Physics",
       "count": 9
     },
     {
-      "label": "Computer science",
-      "count": 7
-    },
-    {
-      "label": "Humanities",
-      "count": 5
-    },
-    {
-      "label": "Mathematics",
-      "count": 4
-    },
-    {
-      "label": "Psychology",
-      "count": 4
-    },
-    {
-      "label": "Process (computing)",
-      "count": 4
+      "label": "Medicine",
+      "count": 6
     },
     {
       "label": "Biology",
+      "count": 6
+    },
+    {
+      "label": "Mathematics",
+      "count": 6
+    },
+    {
+      "label": "Computer science",
+      "count": 4
+    },
+    {
+      "label": "Business",
       "count": 3
     },
     {
-      "label": "Geology",
+      "label": "Condensed matter physics",
       "count": 3
+    },
+    {
+      "label": "Econometrics",
+      "count": 3
+    },
+    {
+      "label": "Materials science",
+      "count": 2
+    },
+    {
+      "label": "Computational biology",
+      "count": 2
     }
   ],
   "topInstitutions": [
     {
-      "label": "Chinese Academy of Sciences",
+      "label": "Centre National de la Recherche Scientifique",
+      "count": 4
+    },
+    {
+      "label": "Korea Advanced Institute of Science and Technology",
+      "count": 3
+    },
+    {
+      "label": "University of Cologne",
+      "count": 3
+    },
+    {
+      "label": "Queen Mary University of London",
+      "count": 3
+    },
+    {
+      "label": "Columbia University",
       "count": 2
     },
     {
-      "label": "Yonsei University",
+      "label": "Northwestern University",
       "count": 2
     },
     {
-      "label": "University of New Mexico",
+      "label": "University of California, Riverside",
       "count": 2
     },
     {
-      "label": "Nanjing University of Chinese Medicine",
+      "label": "Kyoto University",
       "count": 2
     },
     {
-      "label": "International Centre for Genetic Engineering and Biotechnology",
-      "count": 1
+      "label": "Vrije Universiteit Amsterdam",
+      "count": 2
     },
     {
-      "label": "Agartala Government Medical College",
-      "count": 1
-    },
-    {
-      "label": "Henry M. Jackson Foundation",
-      "count": 1
-    },
-    {
-      "label": "Inova Fairfax Hospital",
-      "count": 1
-    },
-    {
-      "label": "Uniformed Services University of the Health Sciences",
-      "count": 1
-    },
-    {
-      "label": "University of Bern",
-      "count": 1
+      "label": "Peking University",
+      "count": 2
     }
   ],
   "topCountries": [
+    {
+      "label": "US",
+      "count": 54
+    },
+    {
+      "label": "DE",
+      "count": 29
+    },
     {
       "label": "CN",
       "count": 25
     },
     {
-      "label": "US",
-      "count": 17
+      "label": "GB",
+      "count": 21
     },
     {
-      "label": "KR",
-      "count": 6
+      "label": "JP",
+      "count": 13
+    },
+    {
+      "label": "FR",
+      "count": 11
     },
     {
       "label": "ES",
-      "count": 6
+      "count": 10
     },
     {
-      "label": "ID",
-      "count": 5
+      "label": "NL",
+      "count": 8
     },
     {
       "label": "IN",
-      "count": 4
+      "count": 8
     },
     {
-      "label": "NG",
-      "count": 4
-    },
-    {
-      "label": "CH",
-      "count": 2
-    },
-    {
-      "label": "AU",
-      "count": 2
-    },
-    {
-      "label": "CZ",
-      "count": 2
+      "label": "BR",
+      "count": 7
     }
   ],
   "topResearchers": [
     {
-      "label": "Thomas P. Conrads",
-      "count": 24093
+      "label": "Daniel H. Geschwind",
+      "count": 159374
     },
     {
-      "label": "George Larry Maxwell",
-      "count": 8343
+      "label": "Matthew M. Pieri",
+      "count": 41506
     },
     {
-      "label": "Paulette Y. Mhawech-Fauceglia",
-      "count": 7638
+      "label": "Dylan Nelson",
+      "count": 37284
     },
     {
-      "label": "Kathleen M. Darcy",
-      "count": 7316
+      "label": "Neville E. Sanjana",
+      "count": 26385
     },
     {
-      "label": "Brian L. Hood",
-      "count": 6591
+      "label": "Ping Koy Lam",
+      "count": 24410
     },
     {
-      "label": "Bhabatosh Das",
-      "count": 5502
+      "label": "Carlos Cepeda",
+      "count": 19303
     },
     {
-      "label": "Nicholas W. Bateman",
-      "count": 3026
+      "label": "Rongmon Bordoloi",
+      "count": 10797
     },
     {
-      "label": "Ranjan Kumar Nanda",
-      "count": 1773
+      "label": "K. T. Law",
+      "count": 10774
     },
     {
-      "label": "Ignacio Jiménez‐Morales",
-      "count": 1619
+      "label": "Céline Péroux",
+      "count": 9476
     },
     {
-      "label": "Sourav Taru Saha",
-      "count": 1204
+      "label": "Christopher W. Churchill",
+      "count": 7565
     }
   ],
   "institutionTypes": [
     {
       "label": "University / school",
-      "count": 59
-    },
-    {
-      "label": "Government",
-      "count": 7
-    },
-    {
-      "label": "Hospital / healthcare",
-      "count": 6
+      "count": 193
     },
     {
       "label": "Research facility",
-      "count": 4
+      "count": 29
+    },
+    {
+      "label": "Hospital / healthcare",
+      "count": 24
+    },
+    {
+      "label": "Government",
+      "count": 14
     },
     {
       "label": "Nonprofit / institute",
-      "count": 2
+      "count": 5
+    },
+    {
+      "label": "Company",
+      "count": 4
+    },
+    {
+      "label": "Organization",
+      "count": 3
+    },
+    {
+      "label": "Archive",
+      "count": 1
     }
   ]
 }
