@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-14T13:35:12.175Z",
+  "generatedAt": "2026-11-15T13:58:14.755Z",
   "totalDiscoveries": 160,
-  "totalResearchers": 814,
-  "totalInstitutions": 249,
-  "totalCitations": 229,
-  "averageCitations": 1.4,
-  "openAccessRatio": 1,
+  "totalResearchers": 865,
+  "totalInstitutions": 213,
+  "totalCitations": 60,
+  "averageCitations": 0.4,
+  "openAccessRatio": 0.925,
   "weeklySeries": [
     {
       "weekStart": "2026-11-09",
@@ -14,16 +14,12 @@
   ],
   "topConcepts": [
     {
-      "label": "Physics",
-      "count": 9
-    },
-    {
       "label": "Medicine",
-      "count": 6
+      "count": 22
     },
     {
-      "label": "Biology",
-      "count": 6
+      "label": "Humanities",
+      "count": 7
     },
     {
       "label": "Mathematics",
@@ -31,171 +27,175 @@
     },
     {
       "label": "Computer science",
-      "count": 4
-    },
-    {
-      "label": "Business",
-      "count": 3
-    },
-    {
-      "label": "Condensed matter physics",
-      "count": 3
-    },
-    {
-      "label": "Econometrics",
-      "count": 3
+      "count": 6
     },
     {
       "label": "Materials science",
+      "count": 6
+    },
+    {
+      "label": "Physics",
+      "count": 5
+    },
+    {
+      "label": "Cell biology",
+      "count": 4
+    },
+    {
+      "label": "Psychology",
+      "count": 3
+    },
+    {
+      "label": "Business",
       "count": 2
     },
     {
-      "label": "Computational biology",
+      "label": "Chemistry",
       "count": 2
     }
   ],
   "topInstitutions": [
     {
       "label": "Centre National de la Recherche Scientifique",
-      "count": 4
-    },
-    {
-      "label": "Korea Advanced Institute of Science and Technology",
       "count": 3
     },
     {
-      "label": "University of Cologne",
-      "count": 3
+      "label": "Texas A&M University",
+      "count": 2
     },
     {
-      "label": "Queen Mary University of London",
-      "count": 3
+      "label": "Tsinghua University",
+      "count": 2
     },
     {
       "label": "Columbia University",
       "count": 2
     },
     {
-      "label": "Northwestern University",
+      "label": "Yale University",
       "count": 2
     },
     {
-      "label": "University of California, Riverside",
+      "label": "Zhejiang University",
       "count": 2
     },
     {
-      "label": "Kyoto University",
+      "label": "Chinese Academy of Sciences",
       "count": 2
     },
     {
-      "label": "Vrije Universiteit Amsterdam",
+      "label": "Washington University in St. Louis",
       "count": 2
     },
     {
-      "label": "Peking University",
+      "label": "Argonne National Laboratory",
+      "count": 2
+    },
+    {
+      "label": "University of Oulu",
       "count": 2
     }
   ],
   "topCountries": [
     {
       "label": "US",
-      "count": 54
-    },
-    {
-      "label": "DE",
-      "count": 29
+      "count": 45
     },
     {
       "label": "CN",
-      "count": 25
+      "count": 37
     },
     {
       "label": "GB",
+      "count": 23
+    },
+    {
+      "label": "ID",
       "count": 21
     },
     {
-      "label": "JP",
-      "count": 13
-    },
-    {
-      "label": "FR",
-      "count": 11
-    },
-    {
-      "label": "ES",
-      "count": 10
-    },
-    {
-      "label": "NL",
-      "count": 8
+      "label": "DE",
+      "count": 12
     },
     {
       "label": "IN",
+      "count": 9
+    },
+    {
+      "label": "FR",
+      "count": 8
+    },
+    {
+      "label": "AU",
       "count": 8
     },
     {
       "label": "BR",
       "count": 7
+    },
+    {
+      "label": "CZ",
+      "count": 6
     }
   ],
   "topResearchers": [
     {
-      "label": "Daniel H. Geschwind",
-      "count": 159374
+      "label": "Alexias Safi",
+      "count": 29094
     },
     {
-      "label": "Matthew M. Pieri",
-      "count": 41506
+      "label": "P. J. Hirschfeld",
+      "count": 17459
     },
     {
-      "label": "Dylan Nelson",
-      "count": 37284
+      "label": "Johnpierre Paglione",
+      "count": 13788
     },
     {
-      "label": "Neville E. Sanjana",
-      "count": 26385
+      "label": "Yun S. Song",
+      "count": 13606
     },
     {
-      "label": "Ping Koy Lam",
-      "count": 24410
+      "label": "Lucy J. Colwell",
+      "count": 12501
     },
     {
-      "label": "Carlos Cepeda",
-      "count": 19303
+      "label": "Haipeng Gong",
+      "count": 9807
     },
     {
-      "label": "Rongmon Bordoloi",
-      "count": 10797
+      "label": "Feinan Wu",
+      "count": 8829
     },
     {
-      "label": "K. T. Law",
-      "count": 10774
+      "label": "Jessica Mariani",
+      "count": 8063
     },
     {
-      "label": "Céline Péroux",
-      "count": 9476
+      "label": "Shanta Ranjan Saha",
+      "count": 5435
     },
     {
-      "label": "Christopher W. Churchill",
-      "count": 7565
+      "label": "Anahita Amiri",
+      "count": 4940
     }
   ],
   "institutionTypes": [
     {
       "label": "University / school",
-      "count": 193
-    },
-    {
-      "label": "Research facility",
-      "count": 29
+      "count": 167
     },
     {
       "label": "Hospital / healthcare",
-      "count": 24
+      "count": 22
     },
     {
       "label": "Government",
-      "count": 14
+      "count": 18
+    },
+    {
+      "label": "Research facility",
+      "count": 15
     },
     {
       "label": "Nonprofit / institute",
@@ -203,11 +203,11 @@
     },
     {
       "label": "Company",
-      "count": 4
+      "count": 2
     },
     {
       "label": "Organization",
-      "count": 3
+      "count": 1
     },
     {
       "label": "Archive",
