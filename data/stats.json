@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-16T15:51:33.215Z",
+  "generatedAt": "2026-11-17T16:04:12.411Z",
   "totalDiscoveries": 160,
-  "totalResearchers": 806,
+  "totalResearchers": 849,
   "totalInstitutions": 87,
-  "totalCitations": 1,
-  "averageCitations": 0,
-  "openAccessRatio": 0.65,
+  "totalCitations": 9,
+  "averageCitations": 0.1,
+  "openAccessRatio": 0.80625,
   "weeklySeries": [
     {
       "weekStart": "2026-11-16",
@@ -15,191 +15,195 @@
   "topConcepts": [
     {
       "label": "Medicine",
-      "count": 44
-    },
-    {
-      "label": "Computer science",
-      "count": 9
-    },
-    {
-      "label": "Biology",
-      "count": 8
-    },
-    {
-      "label": "Physics",
-      "count": 5
-    },
-    {
-      "label": "Psychology",
-      "count": 5
-    },
-    {
-      "label": "Humanities",
-      "count": 4
+      "count": 25
     },
     {
       "label": "Materials science",
+      "count": 8
+    },
+    {
+      "label": "Computer science",
+      "count": 6
+    },
+    {
+      "label": "Biology",
       "count": 4
     },
     {
-      "label": "Chemistry",
-      "count": 3
+      "label": "Environmental science",
+      "count": 4
     },
     {
-      "label": "Political science",
+      "label": "Agronomy",
       "count": 2
     },
     {
-      "label": "Cell biology",
+      "label": "Adsorption",
+      "count": 2
+    },
+    {
+      "label": "Humanities",
+      "count": 2
+    },
+    {
+      "label": "Psychology",
+      "count": 2
+    },
+    {
+      "label": "Interpretation (philosophy)",
       "count": 2
     }
   ],
   "topInstitutions": [
     {
-      "label": "Asia International University",
-      "count": 4
-    },
-    {
-      "label": "University of Nebraska Medical Center",
+      "label": "University of Pennsylvania",
       "count": 2
     },
     {
-      "label": "Aksaray University",
+      "label": "Sichuan University",
       "count": 1
     },
     {
-      "label": "Dokuz Eylül University",
+      "label": "Imperial College London",
       "count": 1
     },
     {
-      "label": "Kırıkkale University",
+      "label": "Newcastle University",
       "count": 1
     },
     {
-      "label": "University of California, San Francisco",
+      "label": "Keio University",
       "count": 1
     },
     {
-      "label": "Stanford University",
+      "label": "Singapore University of Technology and Design",
       "count": 1
     },
     {
-      "label": "Henry Ford Health",
+      "label": "Australian National University",
       "count": 1
     },
     {
-      "label": "Donald & Barbara Zucker School of Medicine at Hofstra/Northwell",
+      "label": "Jiaying University",
       "count": 1
     },
     {
-      "label": "MedStar Washington Hospital Center",
+      "label": "University of Chicago",
+      "count": 1
+    },
+    {
+      "label": "Henan University",
       "count": 1
     }
   ],
   "topCountries": [
     {
       "label": "US",
-      "count": 29
+      "count": 22
     },
     {
       "label": "CN",
       "count": 15
     },
     {
-      "label": "UZ",
-      "count": 7
-    },
-    {
       "label": "ID",
-      "count": 7
-    },
-    {
-      "label": "TR",
-      "count": 5
-    },
-    {
-      "label": "CA",
-      "count": 5
-    },
-    {
-      "label": "AU",
-      "count": 3
-    },
-    {
-      "label": "IN",
-      "count": 3
+      "count": 8
     },
     {
       "label": "JP",
+      "count": 5
+    },
+    {
+      "label": "GB",
+      "count": 4
+    },
+    {
+      "label": "AU",
+      "count": 4
+    },
+    {
+      "label": "DE",
+      "count": 4
+    },
+    {
+      "label": "SG",
       "count": 3
     },
     {
-      "label": "ZA",
-      "count": 2
+      "label": "ES",
+      "count": 3
+    },
+    {
+      "label": "KR",
+      "count": 3
     }
   ],
   "topResearchers": [
     {
-      "label": "François Martin Carrier",
-      "count": 5847
+      "label": "Nilay Shah",
+      "count": 49493
     },
     {
-      "label": "Alberto Goffi",
-      "count": 5303
+      "label": "Ian S. Metcalfe",
+      "count": 12549
     },
     {
-      "label": "Christopher F. Barnett",
-      "count": 4219
+      "label": "Alejandro H. Strachan",
+      "count": 11798
     },
     {
-      "label": "Melanie D. Ashland",
-      "count": 2508
+      "label": "Yu Li",
+      "count": 7638
     },
     {
-      "label": "Connor O’Brien",
-      "count": 2070
+      "label": "Bingjie Li",
+      "count": 4919
     },
     {
-      "label": "Vanessa Moll",
-      "count": 1516
+      "label": "Benzhuo Lu",
+      "count": 3594
     },
     {
-      "label": "Shaun Thompson",
-      "count": 1486
+      "label": "Hongming He",
+      "count": 2087
     },
     {
-      "label": "Sameer Khanijo",
-      "count": 858
+      "label": "Yongliang Yan",
+      "count": 1800
     },
     {
-      "label": "Rushi V. Parikh",
-      "count": 810
+      "label": "James P. Larentzos",
+      "count": 1428
     },
     {
-      "label": "Dekel Stavi",
-      "count": 803
+      "label": "Zhengyu Li",
+      "count": 1096
     }
   ],
   "institutionTypes": [
     {
       "label": "University / school",
-      "count": 60
+      "count": 68
     },
     {
       "label": "Hospital / healthcare",
-      "count": 23
+      "count": 12
     },
     {
-      "label": "Nonprofit / institute",
+      "label": "Company",
       "count": 3
     },
     {
       "label": "Government",
-      "count": 3
+      "count": 2
     },
     {
       "label": "Research facility",
       "count": 2
+    },
+    {
+      "label": "Nonprofit / institute",
+      "count": 1
     }
   ]
 }
