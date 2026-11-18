@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-17T16:04:12.411Z",
+  "generatedAt": "2026-11-18T15:42:38.667Z",
   "totalDiscoveries": 160,
-  "totalResearchers": 849,
-  "totalInstitutions": 87,
-  "totalCitations": 9,
+  "totalResearchers": 989,
+  "totalInstitutions": 114,
+  "totalCitations": 11,
   "averageCitations": 0.1,
-  "openAccessRatio": 0.80625,
+  "openAccessRatio": 0.7375,
   "weeklySeries": [
     {
       "weekStart": "2026-11-16",
@@ -15,187 +15,183 @@
   "topConcepts": [
     {
       "label": "Medicine",
-      "count": 25
-    },
-    {
-      "label": "Materials science",
-      "count": 8
-    },
-    {
-      "label": "Computer science",
-      "count": 6
+      "count": 23
     },
     {
       "label": "Biology",
-      "count": 4
+      "count": 17
     },
     {
-      "label": "Environmental science",
-      "count": 4
-    },
-    {
-      "label": "Agronomy",
-      "count": 2
-    },
-    {
-      "label": "Adsorption",
-      "count": 2
-    },
-    {
-      "label": "Humanities",
-      "count": 2
+      "label": "Materials science",
+      "count": 9
     },
     {
       "label": "Psychology",
+      "count": 4
+    },
+    {
+      "label": "Computer science",
+      "count": 3
+    },
+    {
+      "label": "Humanities",
+      "count": 3
+    },
+    {
+      "label": "Mathematics",
       "count": 2
     },
     {
-      "label": "Interpretation (philosophy)",
+      "label": "Geology",
       "count": 2
+    },
+    {
+      "label": "Morphism",
+      "count": 1
+    },
+    {
+      "label": "Randomized controlled trial",
+      "count": 1
     }
   ],
   "topInstitutions": [
     {
-      "label": "University of Pennsylvania",
+      "label": "University of Michigan",
       "count": 2
     },
     {
-      "label": "Sichuan University",
+      "label": "University of Washington",
+      "count": 2
+    },
+    {
+      "label": "Zhejiang University",
+      "count": 2
+    },
+    {
+      "label": "The University of Sydney",
+      "count": 2
+    },
+    {
+      "label": "The University of Texas Health Science Center at Houston",
       "count": 1
     },
     {
-      "label": "Imperial College London",
+      "label": "Colorado State University",
       "count": 1
     },
     {
-      "label": "Newcastle University",
+      "label": "Hunan Agricultural University",
       "count": 1
     },
     {
-      "label": "Keio University",
+      "label": "University of Georgia",
       "count": 1
     },
     {
-      "label": "Singapore University of Technology and Design",
+      "label": "Albert Einstein College of Medicine",
       "count": 1
     },
     {
-      "label": "Australian National University",
-      "count": 1
-    },
-    {
-      "label": "Jiaying University",
-      "count": 1
-    },
-    {
-      "label": "University of Chicago",
-      "count": 1
-    },
-    {
-      "label": "Henan University",
+      "label": "University of Houston",
       "count": 1
     }
   ],
   "topCountries": [
     {
-      "label": "US",
-      "count": 22
+      "label": "CN",
+      "count": 35
     },
     {
-      "label": "CN",
-      "count": 15
+      "label": "US",
+      "count": 31
     },
     {
       "label": "ID",
-      "count": 8
+      "count": 11
     },
     {
-      "label": "JP",
-      "count": 5
+      "label": "FR",
+      "count": 4
     },
     {
-      "label": "GB",
+      "label": "RU",
       "count": 4
     },
     {
       "label": "AU",
-      "count": 4
+      "count": 3
+    },
+    {
+      "label": "CA",
+      "count": 3
     },
     {
       "label": "DE",
-      "count": 4
-    },
-    {
-      "label": "SG",
       "count": 3
     },
     {
-      "label": "ES",
+      "label": "MX",
       "count": 3
     },
     {
-      "label": "KR",
-      "count": 3
+      "label": "JP",
+      "count": 2
     }
   ],
   "topResearchers": [
     {
-      "label": "Nilay Shah",
-      "count": 49493
+      "label": "Thomas J. Murphy",
+      "count": 13236
     },
     {
-      "label": "Ian S. Metcalfe",
-      "count": 12549
+      "label": "Geoffrey P. Morris",
+      "count": 5392
     },
     {
-      "label": "Alejandro H. Strachan",
-      "count": 11798
+      "label": "Chao Hsing Yeh",
+      "count": 1761
     },
     {
-      "label": "Yu Li",
-      "count": 7638
+      "label": "Wanqi Chen",
+      "count": 1564
     },
     {
-      "label": "Bingjie Li",
-      "count": 4919
+      "label": "Jennifer Kawi",
+      "count": 864
     },
     {
-      "label": "Benzhuo Lu",
-      "count": 3594
+      "label": "Sundas Ijaz",
+      "count": 628
     },
     {
-      "label": "Hongming He",
-      "count": 2087
+      "label": "Yitong Fan",
+      "count": 605
     },
     {
-      "label": "Yongliang Yan",
-      "count": 1800
+      "label": "Weipeng Li",
+      "count": 559
     },
     {
-      "label": "James P. Larentzos",
-      "count": 1428
+      "label": "Pingxian Wu",
+      "count": 532
     },
     {
-      "label": "Zhengyu Li",
-      "count": 1096
+      "label": "Yu-Min Cho",
+      "count": 479
     }
   ],
   "institutionTypes": [
     {
       "label": "University / school",
-      "count": 68
+      "count": 90
     },
     {
       "label": "Hospital / healthcare",
-      "count": 12
-    },
-    {
-      "label": "Company",
-      "count": 3
+      "count": 17
     },
     {
       "label": "Government",
-      "count": 2
+      "count": 6
     },
     {
       "label": "Research facility",
@@ -203,6 +199,14 @@
     },
     {
       "label": "Nonprofit / institute",
+      "count": 1
+    },
+    {
+      "label": "Organization",
+      "count": 1
+    },
+    {
+      "label": "Archive",
       "count": 1
     }
   ]
