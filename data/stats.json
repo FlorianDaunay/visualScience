@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-18T15:42:38.667Z",
+  "generatedAt": "2026-11-19T15:47:45.760Z",
   "totalDiscoveries": 160,
-  "totalResearchers": 989,
-  "totalInstitutions": 114,
-  "totalCitations": 11,
-  "averageCitations": 0.1,
-  "openAccessRatio": 0.7375,
+  "totalResearchers": 860,
+  "totalInstitutions": 95,
+  "totalCitations": 3,
+  "averageCitations": 0,
+  "openAccessRatio": 0.6625,
   "weeklySeries": [
     {
       "weekStart": "2026-11-16",
@@ -15,48 +15,48 @@
   "topConcepts": [
     {
       "label": "Medicine",
-      "count": 23
-    },
-    {
-      "label": "Biology",
-      "count": 17
+      "count": 33
     },
     {
       "label": "Materials science",
-      "count": 9
-    },
-    {
-      "label": "Psychology",
-      "count": 4
+      "count": 8
     },
     {
       "label": "Computer science",
-      "count": 3
+      "count": 6
     },
     {
       "label": "Humanities",
+      "count": 6
+    },
+    {
+      "label": "Psychology",
+      "count": 5
+    },
+    {
+      "label": "Chemistry",
+      "count": 4
+    },
+    {
+      "label": "Biology",
+      "count": 4
+    },
+    {
+      "label": "Physics",
+      "count": 4
+    },
+    {
+      "label": "Environmental science",
       "count": 3
     },
     {
-      "label": "Mathematics",
+      "label": "Optics",
       "count": 2
-    },
-    {
-      "label": "Geology",
-      "count": 2
-    },
-    {
-      "label": "Morphism",
-      "count": 1
-    },
-    {
-      "label": "Randomized controlled trial",
-      "count": 1
     }
   ],
   "topInstitutions": [
     {
-      "label": "University of Michigan",
+      "label": "National University of Singapore",
       "count": 2
     },
     {
@@ -64,150 +64,146 @@
       "count": 2
     },
     {
-      "label": "Zhejiang University",
+      "label": "University of Oxford",
       "count": 2
     },
     {
-      "label": "The University of Sydney",
+      "label": "Beijing Normal University",
       "count": 2
     },
     {
-      "label": "The University of Texas Health Science Center at Houston",
-      "count": 1
+      "label": "Chinese Academy of Sciences",
+      "count": 2
     },
     {
-      "label": "Colorado State University",
-      "count": 1
+      "label": "Riau University",
+      "count": 2
     },
     {
-      "label": "Hunan Agricultural University",
-      "count": 1
+      "label": "Malikussaleh University",
+      "count": 2
     },
     {
-      "label": "University of Georgia",
-      "count": 1
+      "label": "Dhaka Medical College and Hospital",
+      "count": 2
     },
     {
-      "label": "Albert Einstein College of Medicine",
-      "count": 1
+      "label": "Shaheed Suhrawardy Medical College",
+      "count": 2
     },
     {
-      "label": "University of Houston",
-      "count": 1
+      "label": "Lilongwe University of Agriculture and Natural Resources",
+      "count": 2
     }
   ],
   "topCountries": [
     {
       "label": "CN",
-      "count": 35
+      "count": 26
     },
     {
       "label": "US",
-      "count": 31
-    },
-    {
-      "label": "ID",
       "count": 11
     },
     {
-      "label": "FR",
+      "label": "ID",
+      "count": 10
+    },
+    {
+      "label": "GB",
+      "count": 8
+    },
+    {
+      "label": "BD",
+      "count": 8
+    },
+    {
+      "label": "KR",
+      "count": 5
+    },
+    {
+      "label": "IN",
       "count": 4
     },
     {
-      "label": "RU",
-      "count": 4
-    },
-    {
-      "label": "AU",
+      "label": "SG",
       "count": 3
     },
     {
-      "label": "CA",
+      "label": "MW",
       "count": 3
     },
     {
-      "label": "DE",
+      "label": "CZ",
       "count": 3
-    },
-    {
-      "label": "MX",
-      "count": 3
-    },
-    {
-      "label": "JP",
-      "count": 2
     }
   ],
   "topResearchers": [
     {
-      "label": "Thomas J. Murphy",
-      "count": 13236
+      "label": "Samir Bhatt",
+      "count": 107635
     },
     {
-      "label": "Geoffrey P. Morris",
-      "count": 5392
+      "label": "David L. Smith",
+      "count": 102861
     },
     {
-      "label": "Chao Hsing Yeh",
-      "count": 1761
+      "label": "Seth R Flaxman",
+      "count": 94753
     },
     {
-      "label": "Wanqi Chen",
-      "count": 1564
+      "label": "Katherine E. Battle",
+      "count": 35780
     },
     {
-      "label": "Jennifer Kawi",
-      "count": 864
+      "label": "Terry A. Burke",
+      "count": 31497
     },
     {
-      "label": "Sundas Ijaz",
-      "count": 628
+      "label": "Bharath Ramsundar",
+      "count": 22192
     },
     {
-      "label": "Yitong Fan",
-      "count": 605
+      "label": "Jon Slate",
+      "count": 21937
     },
     {
-      "label": "Weipeng Li",
-      "count": 559
+      "label": "Swapnil Mishra",
+      "count": 19447
     },
     {
-      "label": "Pingxian Wu",
-      "count": 532
+      "label": "Jan Komdeur",
+      "count": 18784
     },
     {
-      "label": "Yu-Min Cho",
-      "count": 479
+      "label": "Rachel M. Tucker",
+      "count": 9019
     }
   ],
   "institutionTypes": [
     {
       "label": "University / school",
-      "count": 90
+      "count": 81
     },
     {
       "label": "Hospital / healthcare",
-      "count": 17
-    },
-    {
-      "label": "Government",
-      "count": 6
+      "count": 10
     },
     {
       "label": "Research facility",
-      "count": 2
+      "count": 5
+    },
+    {
+      "label": "Government",
+      "count": 4
     },
     {
       "label": "Nonprofit / institute",
-      "count": 1
+      "count": 4
     },
     {
       "label": "Organization",
-      "count": 1
-    },
-    {
-      "label": "Archive",
-      "count": 1
+      "count": 2
     }
   ]
 }
