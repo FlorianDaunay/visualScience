@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-19T15:47:45.760Z",
+  "generatedAt": "2026-11-20T15:29:55.574Z",
   "totalDiscoveries": 160,
-  "totalResearchers": 860,
-  "totalInstitutions": 95,
-  "totalCitations": 3,
-  "averageCitations": 0,
-  "openAccessRatio": 0.6625,
+  "totalResearchers": 484,
+  "totalInstitutions": 114,
+  "totalCitations": 110,
+  "averageCitations": 0.7,
+  "openAccessRatio": 0.49375,
   "weeklySeries": [
     {
       "weekStart": "2026-11-16",
@@ -14,196 +14,200 @@
   ],
   "topConcepts": [
     {
+      "label": "Process (computing)",
+      "count": 73
+    },
+    {
       "label": "Medicine",
-      "count": 33
-    },
-    {
-      "label": "Materials science",
-      "count": 8
-    },
-    {
-      "label": "Computer science",
-      "count": 6
-    },
-    {
-      "label": "Humanities",
-      "count": 6
+      "count": 17
     },
     {
       "label": "Psychology",
       "count": 5
     },
     {
-      "label": "Chemistry",
+      "label": "Computer science",
       "count": 4
     },
     {
-      "label": "Biology",
+      "label": "Humanities",
       "count": 4
+    },
+    {
+      "label": "Materials science",
+      "count": 2
     },
     {
       "label": "Physics",
-      "count": 4
-    },
-    {
-      "label": "Environmental science",
-      "count": 3
-    },
-    {
-      "label": "Optics",
       "count": 2
+    },
+    {
+      "label": "Weighting",
+      "count": 2
+    },
+    {
+      "label": "Descent (aeronautics)",
+      "count": 1
+    },
+    {
+      "label": "Physical therapy",
+      "count": 1
     }
   ],
   "topInstitutions": [
     {
-      "label": "National University of Singapore",
+      "label": "Universidad Regional Autónoma de Los Andes",
+      "count": 4
+    },
+    {
+      "label": "S. M. Kirov Military Medical Academy",
+      "count": 3
+    },
+    {
+      "label": "Santa Fe Institute",
       "count": 2
     },
     {
-      "label": "University of Washington",
+      "label": "London Mathematical Laboratory",
       "count": 2
     },
     {
-      "label": "University of Oxford",
+      "label": "Centre National de la Recherche Scientifique",
       "count": 2
     },
     {
-      "label": "Beijing Normal University",
+      "label": "Heilongjiang University",
       "count": 2
     },
     {
-      "label": "Chinese Academy of Sciences",
+      "label": "University of Shanghai for Science and Technology",
       "count": 2
     },
     {
-      "label": "Riau University",
+      "label": "Zhejiang Wanli University",
       "count": 2
     },
     {
-      "label": "Malikussaleh University",
-      "count": 2
+      "label": "University of Pennsylvania",
+      "count": 1
     },
     {
-      "label": "Dhaka Medical College and Hospital",
-      "count": 2
-    },
-    {
-      "label": "Shaheed Suhrawardy Medical College",
-      "count": 2
-    },
-    {
-      "label": "Lilongwe University of Agriculture and Natural Resources",
-      "count": 2
+      "label": "King's College London",
+      "count": 1
     }
   ],
   "topCountries": [
     {
       "label": "CN",
-      "count": 26
-    },
-    {
-      "label": "US",
-      "count": 11
-    },
-    {
-      "label": "ID",
-      "count": 10
+      "count": 54
     },
     {
       "label": "GB",
+      "count": 11
+    },
+    {
+      "label": "US",
       "count": 8
     },
     {
-      "label": "BD",
+      "label": "ID",
       "count": 8
     },
     {
-      "label": "KR",
+      "label": "RU",
       "count": 5
+    },
+    {
+      "label": "FR",
+      "count": 5
+    },
+    {
+      "label": "EC",
+      "count": 4
     },
     {
       "label": "IN",
       "count": 4
     },
     {
-      "label": "SG",
+      "label": "JP",
       "count": 3
     },
     {
-      "label": "MW",
-      "count": 3
-    },
-    {
-      "label": "CZ",
-      "count": 3
+      "label": "CA",
+      "count": 2
     }
   ],
   "topResearchers": [
     {
-      "label": "Samir Bhatt",
-      "count": 107635
+      "label": "George Davey Smith",
+      "count": 462116
     },
     {
-      "label": "David L. Smith",
-      "count": 102861
+      "label": "Valeria Nicolosi",
+      "count": 58445
     },
     {
-      "label": "Seth R Flaxman",
-      "count": 94753
+      "label": "Laura D Howe",
+      "count": 15625
     },
     {
-      "label": "Katherine E. Battle",
-      "count": 35780
+      "label": "Alexandra Havdahl",
+      "count": 9491
     },
     {
-      "label": "Terry A. Burke",
-      "count": 31497
+      "label": "Oscar H. Gandy",
+      "count": 5833
     },
     {
-      "label": "Bharath Ramsundar",
-      "count": 22192
+      "label": "Allen E. Knutson",
+      "count": 5292
     },
     {
-      "label": "Jon Slate",
-      "count": 21937
+      "label": "Michael Schmidt",
+      "count": 4876
     },
     {
-      "label": "Swapnil Mishra",
-      "count": 19447
+      "label": "Paul Zinn-Justin",
+      "count": 3288
     },
     {
-      "label": "Jan Komdeur",
-      "count": 18784
+      "label": "Amanda Hughes",
+      "count": 2478
     },
     {
-      "label": "Rachel M. Tucker",
-      "count": 9019
+      "label": "Haoran Luo",
+      "count": 2430
     }
   ],
   "institutionTypes": [
     {
       "label": "University / school",
-      "count": 81
-    },
-    {
-      "label": "Hospital / healthcare",
-      "count": 10
-    },
-    {
-      "label": "Research facility",
-      "count": 5
+      "count": 98
     },
     {
       "label": "Government",
-      "count": 4
+      "count": 9
+    },
+    {
+      "label": "Research facility",
+      "count": 7
+    },
+    {
+      "label": "Hospital / healthcare",
+      "count": 5
     },
     {
       "label": "Nonprofit / institute",
-      "count": 4
+      "count": 3
     },
     {
       "label": "Organization",
       "count": 2
+    },
+    {
+      "label": "Company",
+      "count": 1
     }
   ]
 }
