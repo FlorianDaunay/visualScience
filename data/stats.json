@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-20T15:29:55.574Z",
+  "generatedAt": "2026-11-21T14:41:46.462Z",
   "totalDiscoveries": 160,
-  "totalResearchers": 484,
-  "totalInstitutions": 114,
-  "totalCitations": 110,
-  "averageCitations": 0.7,
-  "openAccessRatio": 0.49375,
+  "totalResearchers": 566,
+  "totalInstitutions": 122,
+  "totalCitations": 96,
+  "averageCitations": 0.6,
+  "openAccessRatio": 0.9375,
   "weeklySeries": [
     {
       "weekStart": "2026-11-16",
@@ -14,199 +14,199 @@
   ],
   "topConcepts": [
     {
-      "label": "Process (computing)",
-      "count": 73
-    },
-    {
       "label": "Medicine",
-      "count": 17
-    },
-    {
-      "label": "Psychology",
-      "count": 5
-    },
-    {
-      "label": "Computer science",
-      "count": 4
+      "count": 29
     },
     {
       "label": "Humanities",
+      "count": 16
+    },
+    {
+      "label": "Biology",
+      "count": 9
+    },
+    {
+      "label": "Computer science",
+      "count": 7
+    },
+    {
+      "label": "Psychology",
+      "count": 7
+    },
+    {
+      "label": "Chemistry",
       "count": 4
+    },
+    {
+      "label": "Geography",
+      "count": 3
+    },
+    {
+      "label": "Convergence (economics)",
+      "count": 2
     },
     {
       "label": "Materials science",
       "count": 2
     },
     {
-      "label": "Physics",
+      "label": "Helicobacter pylori",
       "count": 2
-    },
-    {
-      "label": "Weighting",
-      "count": 2
-    },
-    {
-      "label": "Descent (aeronautics)",
-      "count": 1
-    },
-    {
-      "label": "Physical therapy",
-      "count": 1
     }
   ],
   "topInstitutions": [
     {
       "label": "Universidad Regional Autónoma de Los Andes",
-      "count": 4
+      "count": 21
     },
     {
-      "label": "S. M. Kirov Military Medical Academy",
-      "count": 3
+      "label": "Altai State University",
+      "count": 6
     },
     {
-      "label": "Santa Fe Institute",
+      "label": "Central Siberian Botanical Garden",
+      "count": 5
+    },
+    {
+      "label": "Osias Educational Foundation",
+      "count": 5
+    },
+    {
+      "label": "National Research Tomsk State University",
       "count": 2
     },
     {
-      "label": "London Mathematical Laboratory",
+      "label": "Lomonosov Moscow State University",
       "count": 2
     },
     {
-      "label": "Centre National de la Recherche Scientifique",
-      "count": 2
-    },
-    {
-      "label": "Heilongjiang University",
-      "count": 2
-    },
-    {
-      "label": "University of Shanghai for Science and Technology",
-      "count": 2
-    },
-    {
-      "label": "Zhejiang Wanli University",
-      "count": 2
-    },
-    {
-      "label": "University of Pennsylvania",
+      "label": "SODA: Méthodes computationnelles et mathématiques pour comprendre la société et la santé à partir de données",
       "count": 1
     },
     {
-      "label": "King's College London",
+      "label": "Centre Inria de Saclay",
+      "count": 1
+    },
+    {
+      "label": "University of Helsinki",
+      "count": 1
+    },
+    {
+      "label": "Institute of Industrial Ecology",
       "count": 1
     }
   ],
   "topCountries": [
     {
       "label": "CN",
-      "count": 54
-    },
-    {
-      "label": "GB",
-      "count": 11
-    },
-    {
-      "label": "US",
-      "count": 8
-    },
-    {
-      "label": "ID",
-      "count": 8
+      "count": 35
     },
     {
       "label": "RU",
-      "count": 5
-    },
-    {
-      "label": "FR",
-      "count": 5
+      "count": 27
     },
     {
       "label": "EC",
+      "count": 22
+    },
+    {
+      "label": "JP",
+      "count": 12
+    },
+    {
+      "label": "US",
+      "count": 10
+    },
+    {
+      "label": "PH",
+      "count": 6
+    },
+    {
+      "label": "GB",
+      "count": 4
+    },
+    {
+      "label": "ID",
       "count": 4
     },
     {
       "label": "IN",
-      "count": 4
-    },
-    {
-      "label": "JP",
       "count": 3
     },
     {
-      "label": "CA",
-      "count": 2
+      "label": "ES",
+      "count": 3
     }
   ],
   "topResearchers": [
     {
-      "label": "George Davey Smith",
-      "count": 462116
+      "label": "Gael P. Varoquaux",
+      "count": 122185
     },
     {
-      "label": "Valeria Nicolosi",
-      "count": 58445
+      "label": "Yves Scherrer",
+      "count": 2523
     },
     {
-      "label": "Laura D Howe",
-      "count": 15625
+      "label": "Shankar Bhamidi",
+      "count": 2114
     },
     {
-      "label": "Alexandra Havdahl",
-      "count": 9491
+      "label": "Ahad Harati",
+      "count": 1568
     },
     {
-      "label": "Oscar H. Gandy",
-      "count": 5833
+      "label": "Claus Hertling",
+      "count": 1398
     },
     {
-      "label": "Allen E. Knutson",
-      "count": 5292
+      "label": "Ilia Yarmoshenko",
+      "count": 1379
     },
     {
-      "label": "Michael Schmidt",
-      "count": 4876
+      "label": "Georgy P. Malinovsky",
+      "count": 729
     },
     {
-      "label": "Paul Zinn-Justin",
-      "count": 3288
+      "label": "David Thorstad",
+      "count": 607
     },
     {
-      "label": "Amanda Hughes",
-      "count": 2478
+      "label": "Timothee Mickus",
+      "count": 571
     },
     {
-      "label": "Haoran Luo",
-      "count": 2430
+      "label": "Sayan Banerjee",
+      "count": 511
     }
   ],
   "institutionTypes": [
     {
       "label": "University / school",
-      "count": 98
-    },
-    {
-      "label": "Government",
-      "count": 9
-    },
-    {
-      "label": "Research facility",
-      "count": 7
+      "count": 110
     },
     {
       "label": "Hospital / healthcare",
-      "count": 5
+      "count": 25
     },
     {
-      "label": "Nonprofit / institute",
-      "count": 3
+      "label": "Research facility",
+      "count": 15
     },
     {
       "label": "Organization",
-      "count": 2
+      "count": 3
     },
     {
       "label": "Company",
+      "count": 2
+    },
+    {
+      "label": "Government",
+      "count": 1
+    },
+    {
+      "label": "Nonprofit / institute",
       "count": 1
     }
   ]
