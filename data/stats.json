@@ -1,82 +1,74 @@
 {
-  "generatedAt": "2026-11-22T14:37:54.041Z",
+  "generatedAt": "2026-11-23T18:14:39.670Z",
   "totalDiscoveries": 160,
-  "totalResearchers": 843,
-  "totalInstitutions": 249,
-  "totalCitations": 207,
-  "averageCitations": 1.3,
-  "openAccessRatio": 1,
+  "totalResearchers": 950,
+  "totalInstitutions": 237,
+  "totalCitations": 28,
+  "averageCitations": 0.2,
+  "openAccessRatio": 0.64375,
   "weeklySeries": [
     {
-      "weekStart": "2026-11-16",
+      "weekStart": "2026-11-23",
       "count": 160
     }
   ],
   "topConcepts": [
     {
       "label": "Medicine",
-      "count": 23
-    },
-    {
-      "label": "Humanities",
-      "count": 10
-    },
-    {
-      "label": "Biology",
-      "count": 8
-    },
-    {
-      "label": "Computer science",
-      "count": 7
-    },
-    {
-      "label": "Psychology",
-      "count": 6
-    },
-    {
-      "label": "Mathematics",
-      "count": 3
-    },
-    {
-      "label": "Chemistry",
-      "count": 3
+      "count": 14
     },
     {
       "label": "Physics",
+      "count": 9
+    },
+    {
+      "label": "Psychology",
+      "count": 8
+    },
+    {
+      "label": "Mathematics",
+      "count": 4
+    },
+    {
+      "label": "Materials science",
+      "count": 4
+    },
+    {
+      "label": "Depression (economics)",
+      "count": 3
+    },
+    {
+      "label": "Immune system",
       "count": 2
     },
     {
-      "label": "Convergence (economics)",
+      "label": "Computer science",
       "count": 2
     },
     {
-      "label": "Mental health",
+      "label": "Excellence",
+      "count": 2
+    },
+    {
+      "label": "Religiosity",
       "count": 2
     }
   ],
   "topInstitutions": [
     {
-      "label": "National University of Singapore",
+      "label": "University of Tasmania",
       "count": 3
     },
     {
-      "label": "University of Oxford",
-      "count": 3
-    },
-    {
-      "label": "University of Science and Technology of China",
+      "label": "Peking University",
       "count": 2
     },
     {
-      "label": "Chinese University of Hong Kong",
+      "label": "Zhejiang Normal University",
       "count": 2
     },
     {
-      "label": "University of Bonn",
-      "count": 2
-    },
-    {
-      "label": "Pohang University of Science and Technology",
+      "label": "Queensland University of Technology",
       "count": 2
     },
     {
@@ -84,130 +76,138 @@
       "count": 2
     },
     {
-      "label": "Peking University",
+      "label": "Universidad Autónoma Metropolitana",
       "count": 2
     },
     {
-      "label": "The University of Osaka",
+      "label": "University of Tennessee at Knoxville",
       "count": 2
     },
     {
-      "label": "Harvard University",
+      "label": "Guangxi University",
+      "count": 2
+    },
+    {
+      "label": "Griffith University",
+      "count": 2
+    },
+    {
+      "label": "RMIT University",
       "count": 2
     }
   ],
   "topCountries": [
     {
       "label": "CN",
-      "count": 57
+      "count": 44
     },
     {
       "label": "US",
-      "count": 29
-    },
-    {
-      "label": "GB",
-      "count": 20
-    },
-    {
-      "label": "JP",
-      "count": 19
-    },
-    {
-      "label": "FR",
-      "count": 17
-    },
-    {
-      "label": "IN",
-      "count": 14
-    },
-    {
-      "label": "DE",
-      "count": 12
-    },
-    {
-      "label": "IT",
-      "count": 10
+      "count": 41
     },
     {
       "label": "AU",
+      "count": 17
+    },
+    {
+      "label": "GB",
+      "count": 14
+    },
+    {
+      "label": "IT",
       "count": 9
     },
     {
-      "label": "KR",
+      "label": "IN",
+      "count": 9
+    },
+    {
+      "label": "ID",
+      "count": 9
+    },
+    {
+      "label": "FR",
       "count": 8
+    },
+    {
+      "label": "MX",
+      "count": 7
+    },
+    {
+      "label": "PK",
+      "count": 7
     }
   ],
   "topResearchers": [
     {
-      "label": "Gael P. Varoquaux",
-      "count": 122185
+      "label": "Christopher J. Conselice",
+      "count": 94259
     },
     {
-      "label": "Chang Zhou",
-      "count": 24198
+      "label": "Hubert Degaudenzi",
+      "count": 29098
     },
     {
-      "label": "Julien Pettré",
-      "count": 7065
+      "label": "A. Biviano",
+      "count": 27881
     },
     {
-      "label": "Yuan Fang",
-      "count": 6564
+      "label": "Juri Poutanen",
+      "count": 26755
     },
     {
-      "label": "Brian E. Washburn",
-      "count": 2886
+      "label": "C. Carbone",
+      "count": 22237
     },
     {
-      "label": "Sylvie Le Hégarat‐Mascle",
-      "count": 2782
+      "label": "C. Giocoli",
+      "count": 21813
     },
     {
-      "label": "Warut Suksompong",
-      "count": 2763
+      "label": "L. Conversi",
+      "count": 19296
     },
     {
-      "label": "Anthony J. Lee",
-      "count": 2463
+      "label": "Javier Graciá-Carpio",
+      "count": 18895
     },
     {
-      "label": "Ioannis Karamouzas",
-      "count": 2301
+      "label": "S. Cavuoti",
+      "count": 17089
     },
     {
-      "label": "Shankar Bhamidi",
-      "count": 2114
+      "label": "G. Congedo",
+      "count": 13073
     }
   ],
   "institutionTypes": [
     {
       "label": "University / school",
-      "count": 191
+      "count": 199
     },
     {
       "label": "Hospital / healthcare",
-      "count": 35
+      "count": 25
     },
     {
       "label": "Research facility",
-      "count": 19
+      "count": 11
     },
     {
       "label": "Government",
-      "count": 10
-    },
-    {
-      "label": "Nonprofit / institute",
-      "count": 8
-    },
-    {
-      "label": "Company",
       "count": 6
     },
     {
+      "label": "Nonprofit / institute",
+      "count": 3
+    },
+    {
+      "label": "Company",
+      "count": 3
+    },
+    {
       "label": "Organization",
-      "count": 2
+      "count": 1
     }
   ]
 }
