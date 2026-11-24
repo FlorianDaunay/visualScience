@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-23T18:14:39.670Z",
+  "generatedAt": "2026-11-24T17:49:50.846Z",
   "totalDiscoveries": 160,
-  "totalResearchers": 950,
-  "totalInstitutions": 237,
+  "totalResearchers": 1021,
+  "totalInstitutions": 204,
   "totalCitations": 28,
   "averageCitations": 0.2,
-  "openAccessRatio": 0.64375,
+  "openAccessRatio": 0.5625,
   "weeklySeries": [
     {
       "weekStart": "2026-11-23",
@@ -19,14 +19,14 @@
     },
     {
       "label": "Physics",
-      "count": 9
+      "count": 13
     },
     {
-      "label": "Psychology",
-      "count": 8
+      "label": "Biology",
+      "count": 6
     },
     {
-      "label": "Mathematics",
+      "label": "Computer science",
       "count": 4
     },
     {
@@ -34,66 +34,66 @@
       "count": 4
     },
     {
-      "label": "Depression (economics)",
+      "label": "Stadium",
       "count": 3
     },
     {
-      "label": "Immune system",
+      "label": "Humanities",
+      "count": 3
+    },
+    {
+      "label": "Sustainability",
       "count": 2
     },
     {
-      "label": "Computer science",
+      "label": "Process (computing)",
       "count": 2
     },
     {
-      "label": "Excellence",
-      "count": 2
-    },
-    {
-      "label": "Religiosity",
+      "label": "Psychology",
       "count": 2
     }
   ],
   "topInstitutions": [
     {
-      "label": "University of Tasmania",
+      "label": "BuroHappold (United Kingdom)",
       "count": 3
     },
     {
-      "label": "Peking University",
+      "label": "The University of Queensland",
       "count": 2
     },
     {
-      "label": "Zhejiang Normal University",
+      "label": "Fisheries and Oceans Canada",
       "count": 2
     },
     {
-      "label": "Queensland University of Technology",
+      "label": "Laing O'Rourke (United Kingdom)",
       "count": 2
     },
     {
-      "label": "Centre National de la Recherche Scientifique",
+      "label": "Centro Escolar University",
       "count": 2
     },
     {
-      "label": "Universidad Autónoma Metropolitana",
+      "label": "University of Skills Training and Entrepreneurial Development",
       "count": 2
     },
     {
-      "label": "University of Tennessee at Knoxville",
+      "label": "Texas State University",
       "count": 2
     },
     {
-      "label": "Guangxi University",
+      "label": "University of Toronto",
       "count": 2
     },
     {
-      "label": "Griffith University",
+      "label": "Hefei University of Technology",
       "count": 2
     },
     {
-      "label": "RMIT University",
-      "count": 2
+      "label": "Sekolah Tinggi Agama Islam Darussalam Kunir",
+      "count": 1
     }
   ],
   "topCountries": [
@@ -103,111 +103,111 @@
     },
     {
       "label": "US",
-      "count": 41
+      "count": 43
     },
     {
-      "label": "AU",
-      "count": 17
-    },
-    {
-      "label": "GB",
-      "count": 14
-    },
-    {
-      "label": "IT",
-      "count": 9
+      "label": "CA",
+      "count": 18
     },
     {
       "label": "IN",
+      "count": 11
+    },
+    {
+      "label": "GB",
       "count": 9
     },
     {
       "label": "ID",
-      "count": 9
+      "count": 8
     },
     {
       "label": "FR",
       "count": 8
     },
     {
-      "label": "MX",
-      "count": 7
+      "label": "AU",
+      "count": 6
     },
     {
-      "label": "PK",
-      "count": 7
+      "label": "PH",
+      "count": 5
+    },
+    {
+      "label": "GH",
+      "count": 5
     }
   ],
   "topResearchers": [
     {
-      "label": "Christopher J. Conselice",
-      "count": 94259
+      "label": "A. Merloni",
+      "count": 47000
     },
     {
-      "label": "Hubert Degaudenzi",
-      "count": 29098
+      "label": "T. Wevers",
+      "count": 43215
     },
     {
-      "label": "A. Biviano",
-      "count": 27881
+      "label": "Hagen Tilgner",
+      "count": 38441
     },
     {
-      "label": "Juri Poutanen",
-      "count": 26755
+      "label": "Alex William Hewitt",
+      "count": 36219
     },
     {
-      "label": "C. Carbone",
-      "count": 22237
+      "label": "Erin Kara",
+      "count": 16974
     },
     {
-      "label": "C. Giocoli",
-      "count": 21813
+      "label": "GIOVANNI MINIUTTI",
+      "count": 14423
     },
     {
-      "label": "L. Conversi",
-      "count": 19296
+      "label": "Paulina Lira",
+      "count": 12040
     },
     {
-      "label": "Javier Graciá-Carpio",
-      "count": 18895
+      "label": "R. Cartier",
+      "count": 9994
     },
     {
-      "label": "S. Cavuoti",
-      "count": 17089
+      "label": "Peng‐Yuan Wang",
+      "count": 8925
     },
     {
-      "label": "G. Congedo",
-      "count": 13073
+      "label": "Jorge Cuadra",
+      "count": 7170
     }
   ],
   "institutionTypes": [
     {
       "label": "University / school",
-      "count": 199
-    },
-    {
-      "label": "Hospital / healthcare",
-      "count": 25
-    },
-    {
-      "label": "Research facility",
-      "count": 11
+      "count": 169
     },
     {
       "label": "Government",
-      "count": 6
+      "count": 15
     },
     {
-      "label": "Nonprofit / institute",
-      "count": 3
+      "label": "Hospital / healthcare",
+      "count": 13
     },
     {
       "label": "Company",
+      "count": 9
+    },
+    {
+      "label": "Archive",
       "count": 3
     },
     {
-      "label": "Organization",
-      "count": 1
+      "label": "Research facility",
+      "count": 3
+    },
+    {
+      "label": "Nonprofit / institute",
+      "count": 2
     }
   ]
 }
