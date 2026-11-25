@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-24T17:49:50.846Z",
+  "generatedAt": "2026-11-25T17:16:46.893Z",
   "totalDiscoveries": 160,
-  "totalResearchers": 1021,
-  "totalInstitutions": 204,
-  "totalCitations": 28,
-  "averageCitations": 0.2,
-  "openAccessRatio": 0.5625,
+  "totalResearchers": 669,
+  "totalInstitutions": 161,
+  "totalCitations": 18,
+  "averageCitations": 0.1,
+  "openAccessRatio": 0.825,
   "weeklySeries": [
     {
       "weekStart": "2026-11-23",
@@ -15,198 +15,194 @@
   "topConcepts": [
     {
       "label": "Medicine",
-      "count": 14
+      "count": 11
     },
     {
       "label": "Physics",
-      "count": 13
-    },
-    {
-      "label": "Biology",
-      "count": 6
+      "count": 11
     },
     {
       "label": "Computer science",
-      "count": 4
-    },
-    {
-      "label": "Materials science",
-      "count": 4
-    },
-    {
-      "label": "Stadium",
-      "count": 3
-    },
-    {
-      "label": "Humanities",
-      "count": 3
-    },
-    {
-      "label": "Sustainability",
-      "count": 2
-    },
-    {
-      "label": "Process (computing)",
-      "count": 2
+      "count": 7
     },
     {
       "label": "Psychology",
+      "count": 6
+    },
+    {
+      "label": "Biology",
+      "count": 5
+    },
+    {
+      "label": "Process (computing)",
+      "count": 5
+    },
+    {
+      "label": "Business",
+      "count": 4
+    },
+    {
+      "label": "Humanities",
+      "count": 4
+    },
+    {
+      "label": "Business administration",
+      "count": 3
+    },
+    {
+      "label": "Condensed matter physics",
       "count": 2
     }
   ],
   "topInstitutions": [
     {
-      "label": "BuroHappold (United Kingdom)",
+      "label": "Universitas Esa Unggul",
+      "count": 7
+    },
+    {
+      "label": "Sriwijaya University",
+      "count": 7
+    },
+    {
+      "label": "Imam Hossein University",
+      "count": 5
+    },
+    {
+      "label": "Universitas Pamulang",
+      "count": 4
+    },
+    {
+      "label": "Universitas Trisakti",
       "count": 3
     },
     {
-      "label": "The University of Queensland",
+      "label": "Islamic Azad University",
       "count": 2
     },
     {
-      "label": "Fisheries and Oceans Canada",
+      "label": "University of Tabriz",
       "count": 2
     },
     {
-      "label": "Laing O'Rourke (United Kingdom)",
+      "label": "Universidad de Panamá",
       "count": 2
     },
     {
-      "label": "Centro Escolar University",
+      "label": "Vrije Universiteit Amsterdam",
       "count": 2
     },
     {
-      "label": "University of Skills Training and Entrepreneurial Development",
+      "label": "Academy of Sciences Republic of Uzbekistan",
       "count": 2
-    },
-    {
-      "label": "Texas State University",
-      "count": 2
-    },
-    {
-      "label": "University of Toronto",
-      "count": 2
-    },
-    {
-      "label": "Hefei University of Technology",
-      "count": 2
-    },
-    {
-      "label": "Sekolah Tinggi Agama Islam Darussalam Kunir",
-      "count": 1
     }
   ],
   "topCountries": [
     {
-      "label": "CN",
-      "count": 44
+      "label": "ID",
+      "count": 50
     },
     {
       "label": "US",
-      "count": 43
+      "count": 29
     },
     {
-      "label": "CA",
-      "count": 18
+      "label": "CN",
+      "count": 20
     },
     {
-      "label": "IN",
-      "count": 11
+      "label": "IR",
+      "count": 16
     },
     {
-      "label": "GB",
-      "count": 9
-    },
-    {
-      "label": "ID",
+      "label": "UZ",
       "count": 8
     },
     {
-      "label": "FR",
-      "count": 8
-    },
-    {
-      "label": "AU",
+      "label": "NL",
       "count": 6
     },
     {
-      "label": "PH",
-      "count": 5
+      "label": "GB",
+      "count": 6
     },
     {
-      "label": "GH",
-      "count": 5
+      "label": "BR",
+      "count": 6
+    },
+    {
+      "label": "TR",
+      "count": 4
+    },
+    {
+      "label": "RU",
+      "count": 4
     }
   ],
   "topResearchers": [
     {
-      "label": "A. Merloni",
-      "count": 47000
+      "label": "S. Ettori",
+      "count": 24748
     },
     {
-      "label": "T. Wevers",
-      "count": 43215
+      "label": "Xianhui Chen",
+      "count": 17417
     },
     {
-      "label": "Hagen Tilgner",
-      "count": 38441
+      "label": "Tao Wu",
+      "count": 12216
     },
     {
-      "label": "Alex William Hewitt",
-      "count": 36219
+      "label": "Jianjun Ying",
+      "count": 7315
     },
     {
-      "label": "Erin Kara",
-      "count": 16974
+      "label": "Zhenyu Wang",
+      "count": 7142
     },
     {
-      "label": "GIOVANNI MINIUTTI",
-      "count": 14423
+      "label": "Jiyin Zhao",
+      "count": 5607
     },
     {
-      "label": "Paulina Lira",
-      "count": 12040
+      "label": "Hongyu Li",
+      "count": 4690
     },
     {
-      "label": "R. Cartier",
-      "count": 9994
+      "label": "Ziji Xiang",
+      "count": 4298
     },
     {
-      "label": "Peng‐Yuan Wang",
-      "count": 8925
+      "label": "Changiz Valmohammadi",
+      "count": 3130
     },
     {
-      "label": "Jorge Cuadra",
-      "count": 7170
+      "label": "Fanghang Yu",
+      "count": 2392
     }
   ],
   "institutionTypes": [
     {
       "label": "University / school",
-      "count": 169
-    },
-    {
-      "label": "Government",
-      "count": 15
+      "count": 166
     },
     {
       "label": "Hospital / healthcare",
-      "count": 13
-    },
-    {
-      "label": "Company",
-      "count": 9
-    },
-    {
-      "label": "Archive",
-      "count": 3
+      "count": 12
     },
     {
       "label": "Research facility",
+      "count": 10
+    },
+    {
+      "label": "Government",
       "count": 3
     },
     {
       "label": "Nonprofit / institute",
+      "count": 2
+    },
+    {
+      "label": "Company",
       "count": 2
     }
   ]
