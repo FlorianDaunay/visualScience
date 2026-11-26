@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-25T17:16:46.893Z",
+  "generatedAt": "2026-11-26T16:57:08.803Z",
   "totalDiscoveries": 160,
-  "totalResearchers": 669,
-  "totalInstitutions": 161,
-  "totalCitations": 18,
-  "averageCitations": 0.1,
-  "openAccessRatio": 0.825,
+  "totalResearchers": 649,
+  "totalInstitutions": 158,
+  "totalCitations": 36,
+  "averageCitations": 0.2,
+  "openAccessRatio": 0.625,
   "weeklySeries": [
     {
       "weekStart": "2026-11-23",
@@ -15,195 +15,199 @@
   "topConcepts": [
     {
       "label": "Medicine",
-      "count": 11
+      "count": 29
     },
     {
-      "label": "Physics",
-      "count": 11
-    },
-    {
-      "label": "Computer science",
-      "count": 7
-    },
-    {
-      "label": "Psychology",
+      "label": "Mathematics",
       "count": 6
     },
     {
-      "label": "Biology",
+      "label": "Physics",
       "count": 5
     },
     {
-      "label": "Process (computing)",
-      "count": 5
-    },
-    {
-      "label": "Business",
+      "label": "Computer science",
       "count": 4
     },
     {
-      "label": "Humanities",
-      "count": 4
-    },
-    {
-      "label": "Business administration",
+      "label": "Stem cell",
       "count": 3
     },
     {
-      "label": "Condensed matter physics",
+      "label": "Psychological intervention",
+      "count": 2
+    },
+    {
+      "label": "Citation",
+      "count": 2
+    },
+    {
+      "label": "Materials science",
+      "count": 2
+    },
+    {
+      "label": "Psychology",
+      "count": 2
+    },
+    {
+      "label": "Audit",
       "count": 2
     }
   ],
   "topInstitutions": [
     {
-      "label": "Universitas Esa Unggul",
-      "count": 7
-    },
-    {
-      "label": "Sriwijaya University",
-      "count": 7
-    },
-    {
-      "label": "Imam Hossein University",
+      "label": "Financial University",
       "count": 5
     },
     {
-      "label": "Universitas Pamulang",
-      "count": 4
-    },
-    {
-      "label": "Universitas Trisakti",
+      "label": "Lomonosov Moscow State University",
       "count": 3
     },
     {
-      "label": "Islamic Azad University",
+      "label": "University of Michigan",
       "count": 2
     },
     {
-      "label": "University of Tabriz",
+      "label": "Khazar University",
       "count": 2
     },
     {
-      "label": "Universidad de Panamá",
+      "label": "Sichuan University",
       "count": 2
     },
     {
-      "label": "Vrije Universiteit Amsterdam",
+      "label": "Stellenbosch University",
       "count": 2
     },
     {
-      "label": "Academy of Sciences Republic of Uzbekistan",
+      "label": "State University of Makassar",
+      "count": 2
+    },
+    {
+      "label": "Kazan State Agrarian University",
+      "count": 2
+    },
+    {
+      "label": "Institute of Economics",
+      "count": 2
+    },
+    {
+      "label": "Plekhanov Russian University of Economics",
       "count": 2
     }
   ],
   "topCountries": [
     {
-      "label": "ID",
-      "count": 50
-    },
-    {
-      "label": "US",
-      "count": 29
+      "label": "RU",
+      "count": 38
     },
     {
       "label": "CN",
-      "count": 20
+      "count": 29
     },
     {
-      "label": "IR",
-      "count": 16
+      "label": "US",
+      "count": 23
     },
     {
-      "label": "UZ",
-      "count": 8
+      "label": "IN",
+      "count": 17
     },
     {
-      "label": "NL",
-      "count": 6
+      "label": "ID",
+      "count": 10
+    },
+    {
+      "label": "ZA",
+      "count": 9
     },
     {
       "label": "GB",
-      "count": 6
+      "count": 9
     },
     {
-      "label": "BR",
-      "count": 6
-    },
-    {
-      "label": "TR",
+      "label": "SA",
       "count": 4
     },
     {
-      "label": "RU",
-      "count": 4
+      "label": "JO",
+      "count": 3
+    },
+    {
+      "label": "AZ",
+      "count": 2
     }
   ],
   "topResearchers": [
     {
-      "label": "S. Ettori",
-      "count": 24748
+      "label": "A. Goobar",
+      "count": 56661
     },
     {
-      "label": "Xianhui Chen",
-      "count": 17417
+      "label": "Lluís Galbany",
+      "count": 45706
     },
     {
-      "label": "Tao Wu",
-      "count": 12216
+      "label": "Dylan Nelson",
+      "count": 39789
     },
     {
-      "label": "Jianjun Ying",
-      "count": 7315
+      "label": "K. Maguire",
+      "count": 37569
     },
     {
-      "label": "Zhenyu Wang",
-      "count": 7142
+      "label": "Daniel A. Perley",
+      "count": 31698
     },
     {
-      "label": "Jiyin Zhao",
-      "count": 5607
+      "label": "Eric C. Bellm",
+      "count": 24448
     },
     {
-      "label": "Hongyu Li",
-      "count": 4690
+      "label": "Frank J. Masci",
+      "count": 24127
     },
     {
-      "label": "Ziji Xiang",
-      "count": 4298
+      "label": "C. Inserra",
+      "count": 18965
     },
     {
-      "label": "Changiz Valmohammadi",
-      "count": 3130
+      "label": "G. Dimitriadis",
+      "count": 13662
     },
     {
-      "label": "Fanghang Yu",
-      "count": 2392
+      "label": "Jakob Nordin",
+      "count": 12023
     }
   ],
   "institutionTypes": [
     {
       "label": "University / school",
-      "count": 166
-    },
-    {
-      "label": "Hospital / healthcare",
-      "count": 12
-    },
-    {
-      "label": "Research facility",
-      "count": 10
+      "count": 147
     },
     {
       "label": "Government",
-      "count": 3
+      "count": 10
+    },
+    {
+      "label": "Hospital / healthcare",
+      "count": 10
+    },
+    {
+      "label": "Research facility",
+      "count": 2
     },
     {
       "label": "Nonprofit / institute",
-      "count": 2
+      "count": 1
     },
     {
       "label": "Company",
-      "count": 2
+      "count": 1
+    },
+    {
+      "label": "Archive",
+      "count": 1
     }
   ]
 }
