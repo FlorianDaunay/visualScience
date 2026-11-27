@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-26T16:57:08.803Z",
+  "generatedAt": "2026-11-27T16:42:44.110Z",
   "totalDiscoveries": 160,
-  "totalResearchers": 649,
-  "totalInstitutions": 158,
-  "totalCitations": 36,
+  "totalResearchers": 828,
+  "totalInstitutions": 87,
+  "totalCitations": 38,
   "averageCitations": 0.2,
-  "openAccessRatio": 0.625,
+  "openAccessRatio": 0.8875,
   "weeklySeries": [
     {
       "weekStart": "2026-11-23",
@@ -15,186 +15,186 @@
   "topConcepts": [
     {
       "label": "Medicine",
-      "count": 29
+      "count": 68
     },
     {
-      "label": "Mathematics",
-      "count": 6
+      "label": "Fishery",
+      "count": 8
     },
     {
       "label": "Physics",
-      "count": 5
-    },
-    {
-      "label": "Computer science",
-      "count": 4
-    },
-    {
-      "label": "Stem cell",
-      "count": 3
-    },
-    {
-      "label": "Psychological intervention",
-      "count": 2
-    },
-    {
-      "label": "Citation",
-      "count": 2
+      "count": 7
     },
     {
       "label": "Materials science",
+      "count": 6
+    },
+    {
+      "label": "Astrophysics",
       "count": 2
     },
     {
-      "label": "Psychology",
+      "label": "Subarctic climate",
       "count": 2
     },
     {
-      "label": "Audit",
+      "label": "The arts",
       "count": 2
+    },
+    {
+      "label": "Tropics",
+      "count": 1
+    },
+    {
+      "label": "Estimation",
+      "count": 1
+    },
+    {
+      "label": "Submodular set function",
+      "count": 1
     }
   ],
   "topInstitutions": [
     {
-      "label": "Financial University",
-      "count": 5
-    },
-    {
-      "label": "Lomonosov Moscow State University",
-      "count": 3
-    },
-    {
-      "label": "University of Michigan",
+      "label": "University of Brawijaya",
       "count": 2
     },
     {
-      "label": "Khazar University",
+      "label": "Zhejiang University",
       "count": 2
     },
     {
-      "label": "Sichuan University",
+      "label": "Mansoura University",
       "count": 2
     },
     {
-      "label": "Stellenbosch University",
+      "label": "First Hospital of Jilin University",
       "count": 2
     },
     {
-      "label": "State University of Makassar",
+      "label": "Chulalongkorn University",
       "count": 2
     },
     {
-      "label": "Kazan State Agrarian University",
+      "label": "Capital Medical University",
       "count": 2
     },
     {
-      "label": "Institute of Economics",
+      "label": "Fujian Medical University",
       "count": 2
     },
     {
-      "label": "Plekhanov Russian University of Economics",
-      "count": 2
+      "label": "Universitat Autònoma de Barcelona",
+      "count": 1
+    },
+    {
+      "label": "Barcelona Institute of Economics",
+      "count": 1
+    },
+    {
+      "label": "Central South University",
+      "count": 1
     }
   ],
   "topCountries": [
     {
-      "label": "RU",
-      "count": 38
-    },
-    {
       "label": "CN",
-      "count": 29
+      "count": 34
     },
     {
       "label": "US",
-      "count": 23
-    },
-    {
-      "label": "IN",
-      "count": 17
-    },
-    {
-      "label": "ID",
-      "count": 10
-    },
-    {
-      "label": "ZA",
       "count": 9
+    },
+    {
+      "label": "TH",
+      "count": 7
     },
     {
       "label": "GB",
-      "count": 9
+      "count": 7
     },
     {
-      "label": "SA",
+      "label": "IN",
+      "count": 7
+    },
+    {
+      "label": "EG",
       "count": 4
     },
     {
-      "label": "JO",
+      "label": "NG",
+      "count": 4
+    },
+    {
+      "label": "ID",
       "count": 3
     },
     {
-      "label": "AZ",
-      "count": 2
+      "label": "TR",
+      "count": 3
+    },
+    {
+      "label": "ZA",
+      "count": 3
     }
   ],
   "topResearchers": [
     {
-      "label": "A. Goobar",
-      "count": 56661
+      "label": "Nial R. Tanvir",
+      "count": 66139
+    },
+    {
+      "label": "Stephen J. Smartt",
+      "count": 62492
+    },
+    {
+      "label": "Paul Thomas O'Brien",
+      "count": 58678
+    },
+    {
+      "label": "A. Rest",
+      "count": 49097
     },
     {
       "label": "Lluís Galbany",
-      "count": 45706
+      "count": 45741
     },
     {
-      "label": "Dylan Nelson",
-      "count": 39789
+      "label": "A. J. Levan",
+      "count": 41151
     },
     {
-      "label": "K. Maguire",
-      "count": 37569
+      "label": "Valerio D'Elia",
+      "count": 28614
     },
     {
-      "label": "Daniel A. Perley",
-      "count": 31698
+      "label": "Steve Schulze",
+      "count": 28191
     },
     {
-      "label": "Eric C. Bellm",
-      "count": 24448
+      "label": "Dieter H. Hartmann",
+      "count": 28108
     },
     {
-      "label": "Frank J. Masci",
-      "count": 24127
-    },
-    {
-      "label": "C. Inserra",
-      "count": 18965
-    },
-    {
-      "label": "G. Dimitriadis",
-      "count": 13662
-    },
-    {
-      "label": "Jakob Nordin",
-      "count": 12023
+      "label": "Daniele Bjørn Malesani",
+      "count": 22318
     }
   ],
   "institutionTypes": [
     {
       "label": "University / school",
-      "count": 147
-    },
-    {
-      "label": "Government",
-      "count": 10
+      "count": 64
     },
     {
       "label": "Hospital / healthcare",
-      "count": 10
+      "count": 24
     },
     {
       "label": "Research facility",
+      "count": 2
+    },
+    {
+      "label": "Archive",
       "count": 2
     },
     {
@@ -202,11 +202,7 @@
       "count": 1
     },
     {
-      "label": "Company",
-      "count": 1
-    },
-    {
-      "label": "Archive",
+      "label": "Organization",
       "count": 1
     }
   ]
