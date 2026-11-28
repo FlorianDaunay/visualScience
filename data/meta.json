@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-27T16:42:44.110Z",
+  "generatedAt": "2026-11-28T15:34:59.664Z",
   "source": "OpenAlex (api.openalex.org)",
   "windowDays": 30,
   "counts": {
     "discoveries": 160,
-    "researchers": 828,
-    "institutions": 87
+    "researchers": 830,
+    "institutions": 122
   }
 }

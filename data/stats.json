@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-27T16:42:44.110Z",
+  "generatedAt": "2026-11-28T15:34:59.664Z",
   "totalDiscoveries": 160,
-  "totalResearchers": 828,
-  "totalInstitutions": 87,
-  "totalCitations": 38,
-  "averageCitations": 0.2,
-  "openAccessRatio": 0.8875,
+  "totalResearchers": 830,
+  "totalInstitutions": 122,
+  "totalCitations": 10,
+  "averageCitations": 0.1,
+  "openAccessRatio": 0.775,
   "weeklySeries": [
     {
       "weekStart": "2026-11-23",
@@ -15,194 +15,194 @@
   "topConcepts": [
     {
       "label": "Medicine",
-      "count": 68
+      "count": 44
     },
     {
-      "label": "Fishery",
-      "count": 8
+      "label": "Computer science",
+      "count": 12
     },
     {
-      "label": "Physics",
-      "count": 7
-    },
-    {
-      "label": "Materials science",
+      "label": "Chemistry",
       "count": 6
     },
     {
-      "label": "Astrophysics",
+      "label": "Mathematics",
+      "count": 5
+    },
+    {
+      "label": "Psychology",
+      "count": 5
+    },
+    {
+      "label": "Biology",
+      "count": 4
+    },
+    {
+      "label": "Humanities",
+      "count": 3
+    },
+    {
+      "label": "Materials science",
+      "count": 3
+    },
+    {
+      "label": "Business",
+      "count": 3
+    },
+    {
+      "label": "Context (archaeology)",
       "count": 2
-    },
-    {
-      "label": "Subarctic climate",
-      "count": 2
-    },
-    {
-      "label": "The arts",
-      "count": 2
-    },
-    {
-      "label": "Tropics",
-      "count": 1
-    },
-    {
-      "label": "Estimation",
-      "count": 1
-    },
-    {
-      "label": "Submodular set function",
-      "count": 1
     }
   ],
   "topInstitutions": [
     {
-      "label": "University of Brawijaya",
+      "label": "Universitas Islam Negeri Sulthan Thaha Saifuddin Jambi",
+      "count": 6
+    },
+    {
+      "label": "Universitas PGRI Argopuro Jember",
+      "count": 5
+    },
+    {
+      "label": "Sapienza University of Rome",
       "count": 2
     },
     {
-      "label": "Zhejiang University",
+      "label": "Universitat de València",
       "count": 2
     },
     {
-      "label": "Mansoura University",
+      "label": "Sultan Ageng Tirtayasa University",
       "count": 2
     },
     {
-      "label": "First Hospital of Jilin University",
+      "label": "Universitas Bina Darma",
       "count": 2
     },
     {
-      "label": "Chulalongkorn University",
+      "label": "Shandong University of Traditional Chinese Medicine",
       "count": 2
     },
     {
-      "label": "Capital Medical University",
-      "count": 2
-    },
-    {
-      "label": "Fujian Medical University",
-      "count": 2
-    },
-    {
-      "label": "Universitat Autònoma de Barcelona",
+      "label": "Aarhus University",
       "count": 1
     },
     {
-      "label": "Barcelona Institute of Economics",
+      "label": "Charles University",
       "count": 1
     },
     {
-      "label": "Central South University",
+      "label": "Universidad Autónoma de Madrid",
       "count": 1
     }
   ],
   "topCountries": [
     {
       "label": "CN",
-      "count": 34
+      "count": 35
     },
     {
-      "label": "US",
-      "count": 9
-    },
-    {
-      "label": "TH",
-      "count": 7
-    },
-    {
-      "label": "GB",
-      "count": 7
+      "label": "ID",
+      "count": 29
     },
     {
       "label": "IN",
-      "count": 7
+      "count": 9
+    },
+    {
+      "label": "ES",
+      "count": 8
+    },
+    {
+      "label": "US",
+      "count": 6
+    },
+    {
+      "label": "IT",
+      "count": 4
+    },
+    {
+      "label": "CZ",
+      "count": 4
     },
     {
       "label": "EG",
       "count": 4
     },
     {
-      "label": "NG",
-      "count": 4
-    },
-    {
-      "label": "ID",
-      "count": 3
-    },
-    {
-      "label": "TR",
-      "count": 3
-    },
-    {
       "label": "ZA",
+      "count": 3
+    },
+    {
+      "label": "KR",
       "count": 3
     }
   ],
   "topResearchers": [
     {
-      "label": "Nial R. Tanvir",
-      "count": 66139
+      "label": "Mihaela Zavolan",
+      "count": 39557
     },
     {
-      "label": "Stephen J. Smartt",
-      "count": 62492
+      "label": "Jiří Damborský",
+      "count": 21235
     },
     {
-      "label": "Paul Thomas O'Brien",
-      "count": 58678
+      "label": "Alexander Schmidt",
+      "count": 18031
     },
     {
-      "label": "A. Rest",
-      "count": 49097
+      "label": "Salvatore Piscuoglio",
+      "count": 13946
     },
     {
-      "label": "Lluís Galbany",
-      "count": 45741
+      "label": "Zbyněk Prokop",
+      "count": 7388
     },
     {
-      "label": "A. J. Levan",
-      "count": 41151
+      "label": "Lukáš Kubala",
+      "count": 6086
     },
     {
-      "label": "Valerio D'Elia",
-      "count": 28614
+      "label": "David Bednář",
+      "count": 5924
     },
     {
-      "label": "Steve Schulze",
-      "count": 28191
+      "label": "Rasheed Adegbola Adeleke",
+      "count": 4926
     },
     {
-      "label": "Dieter H. Hartmann",
-      "count": 28108
+      "label": "Asier González",
+      "count": 2974
     },
     {
-      "label": "Daniele Bjørn Malesani",
-      "count": 22318
+      "label": "Ashira Roopnarain",
+      "count": 2490
     }
   ],
   "institutionTypes": [
     {
       "label": "University / school",
-      "count": 64
+      "count": 108
     },
     {
       "label": "Hospital / healthcare",
-      "count": 24
+      "count": 20
     },
     {
       "label": "Research facility",
-      "count": 2
+      "count": 5
     },
     {
-      "label": "Archive",
-      "count": 2
-    },
-    {
-      "label": "Nonprofit / institute",
+      "label": "Government",
       "count": 1
     },
     {
       "label": "Organization",
+      "count": 1
+    },
+    {
+      "label": "Archive",
       "count": 1
     }
   ]
